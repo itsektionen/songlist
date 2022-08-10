@@ -74,7 +74,7 @@
 			"melody": "Punschen kommer, Vals ur Glada änkan",
 			"composer": "Franz Lehár",
 			"tags": ["gasque", "swe"],
-			"content": "Köttet kommer, köttet kommer,\nmört och rött.\n\nGnäggar inte, springer inte,\ndet är dörr. [sic]\n\nSkål för alla oxar, skål för varje säl!\nSkål för alla hästar som vi slått ihjäl."
+			"content": "Köttet kommer, köttet kommer,\nmört och rött.\n\nGnäggar inte, springer inte,\ndet är dött.\n\nSkål för alla oxar, skål för varje säl!\nSkål för alla hästar som vi slått ihjäl."
 		},
 		{
 			"id": 9,
@@ -1184,5 +1184,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2022-08-03"
+	"updatedAt": "2022-08-10"
 }
