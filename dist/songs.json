@@ -1182,6 +1182,13 @@
 			"title": "En liten blå förgätmigej",
 			"tags": ["gasque", "swe"],
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
+		},
+		{
+			"id": 152,
+			"title": "Sveriges arraktionalhymn",
+			"melody": "Du gamla, du fria",
+			"tags": ["punsch", "swe"],
+			"content": "Du ädla, du friska, du livselixir,\nmed dig vill jag mina läppar blöta.\nDen svenskaste drycken, på jorden den förblir.\n\n//: Den gyllene, den underbara söta. ://\n\nSom iskall till kaffet du ställs på vårt bord\noch även som varm till torsdagslunchen.\nJag halsar dig, lenaste dryck upp på jord.\n\n//: Ja, jag vill leva, jag vill dö iáv punschen. ://"
 		}
 	],
 	"updatedAt": "2022-08-10"
