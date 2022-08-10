@@ -11,7 +11,7 @@ describe('All IDs are valid', () => {
 	});
 
 	test('No files have leading zeroes in their names', () => {
-		const files = getAllSongPaths().map((path) => {
+		getAllSongPaths().forEach((path) => {
 			const idString = parseFile(path).name.split('_')[0];
 
 			expect(Number(idString).toString(), `${path} has leading zeroes`).toBe(idString);
