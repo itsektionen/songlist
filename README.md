@@ -10,12 +10,14 @@ You can also find information on how to contribute to this repository, either by
   - [Quick guide](#quick-guide)
 - [Contributing (songs)](#contributing-songs)
   - [Format](#format)
+  - [Creating](#creating)
+  - [Modifying](#modifying)
   - [Validating](#validating)
   - [Building](#building)
 - [Contributing (codebase)](#contributing-codebase)
 - [Scripts](#scripts)
-  - [Project scripts](#project-scripts)
   - [Song scripts](#song-scripts)
+  - [Project scripts](#project-scripts)
 - [Getting help](#getting-help)
 
 ## Contributing (general)
@@ -58,7 +60,7 @@ After someone has reviewed your changes they will be merged into the repository 
 
 ## Contributing (songs)
 
-This section describes how to add to, or edit the songlist. All songs are stored in markdown (`.md`) files following a specific format so they can be read by the builder. Song's filenames should begin with an unique ID (0-4095) and optionally (but recomended) something to identify the song separated by `_`. Generally the identifier will be based on the title of the song, e.g. 'Moder Kista' is `0_Moder_Kista.md`.
+This section describes how to add to, or edit the songlist. All songs are stored in markdown (`.md`) files following a specific format so they can be read by the builder. Song's filenames should begin with an unique ID (0-4095) and optionally (but recomended) something to identify the song separated by `_`. Generally the identifier will be based on the title of the song, e.g. "Moder Kista" is `0_Moder_Kista.md`. Read more here for the process of how to [add a new song](#creating) and [modifying an existing song](#modifying).
 
 ### Format
 
@@ -72,7 +74,7 @@ The front matter is contained by one line with `---` each before and after the s
 - `composer`, the composer of the melody
 - `tags`, list of categories the songs fall in to and other identifiers (valid tags can be found in [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(required)**
 - `deleted`, marks the song as deleted or not (should only be `true` if the song is removed and not be specified otherwise)
-- `sorting`, number defining where to sort the song when generating xml format files (primarily exists for 'En liten blå förgätmigej')
+- `sorting`, number defining where to sort the song when generating xml format files (primarily exists for "En liten blå förgätmigej")
 
 Any field without a value should be omitted.
 
@@ -110,6 +112,18 @@ Content and front matter are separated with one empty line and all files should 
 
 There's a lot to consider, but generally just using existing songs as an example should be enough to figure it out. There are also [scripts](#scripts) that can help with formatting.
 
+### Creating
+
+You can create and add new songs to the song list in two ways. Either manually or using the built-in commands.
+
+Use the command [`yarn script create`](#yarn-script-create-title) to add a new song. The command will create the file with the next valid id and the given title. After the file has been created, you can add the lyrics and other song information.
+
+When adding new songs manually make sure to use the id that is directly after the last existing song id and that you format the file correctly.
+
+### Modifying
+
+If you want to modify a song, find the correct song file in the "songs" folder and modify its content. Make sure that the file still follows the formatting guidelines.
+
 ### Validating
 
 To ensure that all songs are valid there are scripts to check their names, content and format. Although you're not required to use them it is highly recomended as they will be run before any changes can be included in the repository. You can test the songs by running [`yarn test:songs`](#yarn-testsongs) and test the formatting by running [`yarn lint`](#yarn-lint) (if the formatting fails you can solve it by running [`yarn format`](#yarn-format) in most cases).
@@ -138,29 +152,7 @@ Make sure to make any relevant updates to the documentation.
 
 This project has several scripts to aid you when contributing, to make sure rules for the project are followed and to make sure nothing breaks.
 
-The scripts are divided into two sections: 'project scripts' and 'song scripts'.
-
-### Project scripts
-
-#### `yarn test`
-
-Runs all test suites, will be run automatically by GitHub to ensure that all code is in working condition.
-
-#### `yarn test:songs`
-
-Runs test suites to validate songs, is
-
-#### `yarn test:build`
-
-Runs tests to validate that the build is valid and up to date.
-
-#### `yarn lint`
-
-Checks that all files (code and songs) follows style rules.
-
-#### `yarn format`
-
-Formats all files (code and songs) to follow style rules.
+The scripts are divided into two sections: "song scripts" and "project scripts".
 
 ### Song scripts
 
@@ -197,6 +189,28 @@ If an ID is specified only the song with that ID will be updated, e.g. `yarn scr
 Will remove the song with the provided ID, this action will delete all content and all fields, leaving only the deleted field to mark it as removed.
 
 Optionally `--soft` can be added which alters the song only by adding `deleted: true` to the front matter.
+
+### Project scripts
+
+#### `yarn test`
+
+Runs all test suites, will be run automatically by GitHub to ensure that all code is in working condition.
+
+#### `yarn test:songs`
+
+Runs test suites to validate songs, is
+
+#### `yarn test:build`
+
+Runs tests to validate that the build is valid and up to date.
+
+#### `yarn lint`
+
+Checks that all files (code and songs) follows style rules.
+
+#### `yarn format`
+
+Formats all files (code and songs) to follow style rules.
 
 ## Getting help
 
