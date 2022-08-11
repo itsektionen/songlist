@@ -19,6 +19,7 @@ You can also find information on how to contribute to this repository, either by
   - [Song scripts](#song-scripts)
   - [Project scripts](#project-scripts)
 - [Getting help](#getting-help)
+- [Background](#backgroound)
 
 ## Contributing (general)
 
@@ -215,3 +216,7 @@ Formats all files (code and songs) to follow style rules.
 ## Getting help
 
 This might all sound like alot so if there's ever anything you're wondering about you can always ask for help! We want anyone to be able to contribute, even if you've never contributed to an open-source repository before or never used git. So if there's anything you don't understand or need clarification on feel free to create an issue on this repository marking it as a question. And of course there's always the good old fashioned asking someone you know for help.
+
+## Background
+
+The songs in this IN-chapter song list are originally from Strängteoretiquerna's revised songbook (2009-2015) with additions, deletions and revisions made in the [in-sangbok repository](https://github.com/wsv-accidis/in-sangbok) between the years 2016 to 2022.
