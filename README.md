@@ -123,7 +123,7 @@ When adding new songs manually make sure to use the id that is directly after th
 
 ### Modifying
 
-If you want to modify a song, find the correct song file in the "songs" folder and modify its content. Make sure that the file still follows the formatting guidelines.
+If you want to modify a song, find the correct song file in the [`/songs`](/songs) folder and modify its content. Make sure that the file still follows the formatting guidelines.
 
 ### Validating
 
