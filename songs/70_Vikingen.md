@@ -23,4 +23,5 @@ som lik, sig lik!
 
 Å' sen när vi vaknar vi sjunger en bit,
 så korkar vi upp Skånes Akvavit.
-Skål för alla vikingar som kom hit!
+Skål för alla, skål för alla, skål för alla
+vikingar som kom hit!
