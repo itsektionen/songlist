@@ -724,6 +724,15 @@
 			"content": "Festen kan börja,\ningen får sörja,\nhär finns det både brännvin och mat.\nHelan skall tömmas,\nsorgerna glömmas,\ningen får vara tråkig kamrat.\n\nKlappa mitt hjärta,\nfröjdas min själ,\nnubben serveras genast, nåväl.\nNu tar vi supen,\nöppna upp strupen,\ngästernas välkomstskål!"
 		},
 		{
+			"id": 153,
+			"title": "Regalskeppet Vasa",
+			"author": "Den Konliga INviten (Ø)",
+			"melody": "Ser du stjärnan i det blå",
+			"composer": "Leigh Harline",
+			"tags": ["snaps", "swe"],
+			"content": "Ser du skeppet i vår hamn?\nNer i Mälar'n det försvann!\nHur sjönk Vasa? Ve och fasa!\nBotten upp.\n\nFull besättning fanns ombord.\nHälften hoppa' överbord.\nSkeppet sjunka, alla drunkna!\nBotten upp!"
+		},
+		{
 			"id": 92,
 			"title": "Punschen kommer",
 			"melody": "Vals ur Glada änkan",
@@ -1191,5 +1200,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2022-08-15"
+	"updatedAt": "2022-08-17"
 }
