@@ -19,13 +19,13 @@ You can also find information on how to contribute to this repository, either by
   - [Song scripts](#song-scripts)
   - [Project scripts](#project-scripts)
 - [Getting help](#getting-help)
-- [Background](#backgroound)
+- [Background](#background)
 
 ## Contributing (general)
 
 Do you wish to contribute? Great! Here you'll find all you need to know on how to do it in the right way.
 
-First of all all the code in this project is written in [TypeScript](http://typescriptlang.org/), so to be able to use it you'll need [Node.js](https://nodejs.dev/) installed and (optionally but recomended) [Yarn (classic)](https://classic.yarnpkg.com/) installed. If you do not wish to use Yarn you can use NPM instead, but be aware that all documentation is written with Yarn in mind.
+First of all, all the code in this project is written in [TypeScript](http://typescriptlang.org/), so to be able to use it you'll need [Node.js](https://nodejs.dev/) installed and (optional but recommended) [Yarn (classic)](https://classic.yarnpkg.com/) installed. If you do not wish to use Yarn you can use NPM instead, but be aware that all documentation is written with Yarn in mind.
 
 This is needed so that builds for new songs, testing and linting can be performed.
 
@@ -33,7 +33,7 @@ This is needed so that builds for new songs, testing and linting can be performe
 
 #### **1. Fork and clone**
 
-To get started first create a fork of the repo and clone it. Help with all this can be found on GitHub and google.
+To get started first create a fork of the repo and clone it. Help with all this can be found on GitHub and Google.
 
 #### **2. Install dependencies**
 
@@ -53,7 +53,7 @@ Before you commit your changes make sure that nothing is broken by running [`yar
 
 #### **5. Commit, push and pull-request**
 
-Now you can commit your changes, make sure to provide a relevant commit message that explains what changes you've made. Then push that commit to your fork, when pushed GitHub actions should run some tests to make sure everything is as it should be and if GitHub is okay you can make a pull request to this repository. Help with all this can be found on GitHub and google.
+Now you can commit your changes, make sure to provide a relevant commit message that explains what changes you've made. Then push that commit to your fork, when pushed GitHub actions should run some tests to make sure everything is as it should be and if GitHub is okay you can make a pull request to this repository. Help with all this can be found on GitHub and Google.
 
 #### **6. Review and merge**
 
@@ -61,11 +61,11 @@ After someone has reviewed your changes they will be merged into the repository 
 
 ## Contributing (songs)
 
-This section describes how to add to, or edit the songlist. All songs are stored in markdown (`.md`) files following a specific format so they can be read by the builder. Song's filenames should begin with an unique ID (0-4095) and optionally (but recomended) something to identify the song separated by `_`. Generally the identifier will be based on the title of the song, e.g. "Moder Kista" is `0_Moder_Kista.md`. Read more here for the process of how to [add a new song](#creating) and [modifying an existing song](#modifying).
+This section describes how to add to, or edit the songlist. All songs are stored in markdown (`.md`) files following a specific format so they can be read by the builder. Song's filenames should begin with a unique ID (0-4095) and optionally (but recommended) something to identify the song separated by `_`. Generally, the identifier will be based on the title of the song, e.g. "Moder Kista" is `0_Moder_Kista.md`. Read more here for the process of how to [add a new song](#creating) and [modifying an existing song](#modifying).
 
 ### Format
 
-All files are named contain two sections, YAML front matter first and content second. The YAML front matter contains the songs metadata, and the content contains the lyrics.
+All files are named and contain two sections, YAML front matter first and content second. The YAML front matter contains the song's metadata, and the content contains the lyrics.
 
 The front matter is contained by one line with `---` each before and after the section. Possible fields in the front matter are:
 
@@ -101,12 +101,12 @@ All parts are separated by one empty line.
 
 ```md
 Paragraph
-Line 2 of pragraph
+Line 2 of the same paragraph
 
 # Header
 
 > Comment
-> Line 2 of comment
+> Line 2 of the same comment
 ```
 
 Content and front matter are separated with one empty line and all files should have one empty line at the end.
@@ -117,9 +117,9 @@ There's a lot to consider, but generally just using existing songs as an example
 
 You can create and add new songs to the song list in two ways. Either manually or using the built-in commands.
 
-Use the command [`yarn script create`](#yarn-script-create-title) to add a new song. The command will create the file with the next valid id and the given title. After the file has been created, you can add the lyrics and other song information.
+Use the command [`yarn script create`](#yarn-script-create-title) to add a new song. The command will create the file with the next valid ID and the given title. After the file has been created, you can add the lyrics and other song information.
 
-When adding new songs manually make sure to use the id that is directly after the last existing song id and that you format the file correctly.
+When adding new songs manually make sure to use the ID that is directly after the last existing song ID and that you format the file correctly.
 
 ### Modifying
 
@@ -127,7 +127,7 @@ If you want to modify a song, find the correct song file in the [`/songs`](/song
 
 ### Validating
 
-To ensure that all songs are valid there are scripts to check their names, content and format. Although you're not required to use them it is highly recomended as they will be run before any changes can be included in the repository. You can test the songs by running [`yarn test:songs`](#yarn-testsongs) and test the formatting by running [`yarn lint`](#yarn-lint) (if the formatting fails you can solve it by running [`yarn format`](#yarn-format) in most cases).
+To ensure that all songs are valid there are scripts to check their names, content and format. Although you're not required to use them it is highly recommended as they will be run before any changes can be included in the repository. You can test the songs by running [`yarn test:songs`](#yarn-testsongs) and test the formatting by running [`yarn lint`](#yarn-lint) (if the formatting fails you can solve it by running [`yarn format`](#yarn-format) in most cases).
 
 ### Building
 
@@ -139,7 +139,7 @@ If you want to contribute to the codebase there are only a few things to conside
 
 #### **Tests**
 
-If your code updates the way builds work in any make sure to also update the tests to minimize the risk of errors.
+If your code updates the way builds work in any way, make sure to also update the tests to minimize the risk of errors.
 
 #### **Language**
 
@@ -159,13 +159,13 @@ The scripts are divided into two sections: "song scripts" and "project scripts".
 
 #### `yarn script build` (alt. `yarn build`)
 
-Builds files. Can optionally provide a date in the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601/) format to mark as date of most recent update.
+Builds files. Can optionally provide a date in the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601/) format to mark as the date of the most recent update. If a date is not provided it will default to today's date.
 
 `yarn build [date?]`
 
 #### `yarn script create [title]`
 
-Creates a new song with the next possible id and the given title. Front matter becomes populated with empty fields to make is as easy as possible to add them in. Optionally values to fields can be provided when running the script, e.g. `yarn script create "Moder Kista" --author="David Larsson, IT00" --tags=gasque` will have the following front matter:
+Creates a new song with the next possible ID and the given title. Front matter becomes populated with empty fields to make it as easy as possible to add them in. Optionally values to fields can be provided when running the script, e.g. `yarn script create "Moder Kista" --author="David Larsson, IT00" --tags=gasque` will have the following front matter:
 
 ```yaml
 ---
@@ -179,15 +179,15 @@ tags: [gasque]
 
 Multiple tags can be set during creation by separating them with `=`, e.g. `--tags=gasque=swe` will result in `tags: [gasque, swe]`.
 
-#### `yarn script updateFileNames [id?]`
+#### `yarn script updateFileNames [ID?]`
 
-Will update all filenames to be `[id]_[normalized_title]`, e.g. "Système International" has ID 9 and will become `9_Systeme_International.md`.
+Will update all filenames to be `[ID]_[normalized_title]`, e.g. "Système International" has ID 9 and will become `9_Systeme_International.md`.
 
-If an ID is specified only the song with that ID will be updated, e.g. `yarn script updateFileNames 0` will only the filename of update Moder Kista.
+If an ID is specified only the song with that ID will be updated, e.g. `yarn script updateFileNames 0` will only the filename of update "Moder Kista".
 
-#### `yarn script remove [id]`
+#### `yarn script remove [ID]`
 
-Will remove the song with the provided ID, this action will delete all content and all fields, leaving only the deleted field to mark it as removed.
+Will remove the song with the provided ID, this action will delete all content and all fields, leaving only the `deleted` field to mark it as removed.
 
 Optionally `--soft` can be added which alters the song only by adding `deleted: true` to the front matter.
 
@@ -199,7 +199,7 @@ Runs all test suites, will be run automatically by GitHub to ensure that all cod
 
 #### `yarn test:songs`
 
-Runs test suites to validate songs, is
+Runs test suites to validate songs.
 
 #### `yarn test:build`
 
@@ -207,7 +207,7 @@ Runs tests to validate that the build is valid and up to date.
 
 #### `yarn lint`
 
-Checks that all files (code and songs) follows style rules.
+Checks that all files (code and songs) follow style rules.
 
 #### `yarn format`
 
@@ -215,7 +215,7 @@ Formats all files (code and songs) to follow style rules.
 
 ## Getting help
 
-This might all sound like alot so if there's ever anything you're wondering about you can always ask for help! We want anyone to be able to contribute, even if you've never contributed to an open-source repository before or never used git. So if there's anything you don't understand or need clarification on feel free to create an issue on this repository marking it as a question. And of course there's always the good old fashioned asking someone you know for help.
+This might all sound like a lot so if there's ever anything you're wondering about you can always ask for help! We want anyone to be able to contribute, even if you've never contributed to an open-source repository before or never used Git. So if there's anything you don't understand or need clarification on feel free to create an issue on this repository marking it as a question. And of course, there's always the good old fashioned asking someone you know for help.
 
 ## Background
 
