@@ -1,5 +1,7 @@
 # Songlist for the IN-Chapter
 
+[Klicka här för att läsa på svenska](#sånglista-för-in-sektionen)
+
 This is the IN-Chapters songlist. The songs are stored as Markdown files in the [`/songs`](/songs) folder and generated into songlists in various formats.
 
 You can also find information on how to contribute to this repository, either by adding/editing songs, or by contributing to the codebase.
@@ -220,3 +222,227 @@ This might all sound like a lot so if there's ever anything you're wondering abo
 ## Background
 
 The songs in this IN-chapter song list are originally from Strängteoretiquerna's revised songbook (2009-2015) with additions, deletions and revisions made in the [in-sangbok repository](https://github.com/wsv-accidis/in-sangbok) between the years 2016 to 2022.
+
+# Sånglista för IN-Sektionen
+
+Detta är IN-Sektionens sånglista. Sångerna är sparade som Markdown filer i [`/songs`](/songs) mappen och genererade till sånglistor i olika format.
+
+Du kan också hitta information hur du bidrar till detta repository, antingen genom att lägga till/ändra sånger eller genom att bidra till koden.
+
+## Innehållsförteckning <!-- omit in toc -->
+
+- [Bidra (allmänt)](#bidra-allmänt)
+  - [Snabbguide](#snabbguide)
+- [Bidra (sånger)](#bidra-sånger)
+  - [Format](#format)
+  - [Skapa](#skapa)
+  - [Ändra](#ändra)
+  - [Validera](#validera)
+  - [Kompilera](#kompilera)
+- [Bidra (koden)](#bidra-koden)
+- [Script](#script)
+  - [Sångscript](#sångskript)
+  - [Projektscript](#projektscript)
+- [Få hjälp](#få-hjälp)
+- [Bakgrund](#bakgrund)
+
+## Bidra (allmänt)
+
+Vill du hjälpa till att bidra? Grymt! Här hittar du allt du behöver veta och hur du ska göra det på rätt sätt.
+
+Först och främst, all kod i detta projektet är skrivet i [TypeScript](http://typescriptlang.org/), så för att kunna använda det behöver du [Node.js](https://nodejs.dev/) installerat och (valfritt men rekommenderat) [Yarn (classic)](https://classic.yarnpkg.com/) installerat. Om du inte vill använda Yarn kan du använda NPM istället, men all dokumentation är skriven med Yarn i åtanke.
+
+Detta behövs för att kunna kompilera nya sånger, testa och linting.
+
+### Snabbguide
+
+#### **1. Fork:a och Clone:a**
+
+För att komma igång, skapa först en fork av repot och klona det. Hjälp med detta kan du hitta på GitHub och Google.
+
+#### **2. Installera dependencies**
+
+Gå till mappen för din klon i din terminal och kör:
+
+```sh
+yarn install
+```
+
+#### **3. Gör ändringar**
+
+Du kan nu börja göra ändringar! Se till att du följer de korrekta riktlinjerna för ditt bidrag som du hittar i denna README.
+
+#### **4. Se till att inget är trasigt**
+
+Innan du genomför dina ändringar, se till att inget till är trasigt genom att köra [`yarn test`](#yarn-test-1) och att stylingreglerna följs genom att köra [`yarn lint`](#yarn-lint-1) (om lintern är missnöjd kan det oftast fixas genom att köra [`yarn format`](#yarn-format-1)).
+
+#### **5. Commit, push och pull-request**
+
+Nu kan du genomföra dina ändringar, se till att skriva ett relevant commit-meddelande som förklarar vilka ändringar du har gjort. Sen kan du pusha till din fork, när de pushas kommer GitHub-actions att köra några tester för att se till att allt är som det ska vara och om GitHub är okej kan du göra en pull request till detta repository.
+
+#### **6. Granska och merge:a**
+
+Efter att någon har granskat dina ändringar kommer de att merge:as in i detta repository och det är allt! Du har bidragit till IN-sektionens sånglista!
+
+## Bidra (sånger)
+
+Denna delen förklarar hur du lägger till eller ändrar sånglistan. Alla sånger lagras i markdown (`.md`) filer enligt ett specifikt format så att de kan läsas av kompilatorn. Sångens filnamn ska börja med ett unikt ID (0-4095) och eventuellt (men rekommenderat) något som kan identifiera sången, separerat av `_`. Generellt är identifieringen baserad på sångens titel, t.ex. "Moder Kista" är `0_Moder_Kista.md`. Läs mer här hur du [lägger till en ny sång](#skapa) och [ändrar en befintlig sång](#ändra).
+
+### Format
+
+Alla filer är namngivna och innehåller två sektioner, YAML-front först och sedan sånginnehållet. YAML-front innehåller sångernas metadata och sånginnehållet innehåller texterna.
+
+Fronten har en rad med `---` före och efter sektionen. Möjliga fält i fronten är:
+
+- `title`, namnet eller titeln på sången **(obligatorisk)**
+- `author`, personen eller personerna som skrev sångtexten
+- `melody`, melodin som sången sjungs i
+- `composer`, kompositör till melodin
+- `tags`, lista med kategorier som sångerna tillhör och andra identifierare (giltiga taggar hittas i [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(obligatorisk)**
+- `deleted`, markerar sången som borttagen eller inte (ska bara vara "sann" om sången tas bort och inte anges på annat sätt)
+- `sorting`, nummer som definierar var sången ska sorteras vid generering av filer i xml-format (finns primärt för "En liten blå förgätmigej")
+
+Alla fält utan värde bör utelämnas.
+
+#### **Exempel:**
+
+```yml
+---
+title: Moder Kista
+author: David Larsson, IT00
+melody: Längtan till landet
+composer: Otto Lindblad
+tags: [gasque, swe]
+---
+```
+
+Innehållet är i markdown-format men med en begränsad uppsättning funktioner. Typer av innehåll som för närvarande stöds är stycken, kommentarer och rubriker.
+
+Kommentarer definieras av rader som börjar med `> `, för kommentarer med flera rader måste alla rader börja med `> `. Rubriker definieras av rader som börjar med `# `. Stycken är vilken annan rad som helst.
+
+Alla delar separeras av en tom rad.
+
+#### **Exempel:**
+
+```md
+Paragraf
+Rad 2 i samma paragraf
+
+# Rubrik
+
+> Kommentar
+> Rad 2 i samma kommentar
+```
+
+Innehållet och fronten separeras med en tom rad och alla filer ska ha en tom rad i slutet.
+
+Det finns mycket att tänka på, men generellt sett så räcker det att bara använda befintliga sånger som exempel för att lista ut det. Det finns även [script](#script) som kan hjälpa till med formatering.
+
+### Skapa
+
+Du kan skapa och lägga till nya sånger i sånglistan på två sätt. Antingen manuellt eller med de inbyggda kommandona.
+
+Använd kommandot [`yarn script create`](#yarn-script-create-titel) för att lägga till en ny låsångt. Kommandot skapar filen med nästa giltiga ID och den givna titeln. När filen har skapats kan du lägga till texten och annan sånginformation.
+
+När du lägger till nya sånger manuellt, se till att använda ID:t som ligger direkt efter det senaste befintliga sång-ID:t och att du formaterar filen korrekt.
+
+### Ändra
+
+Om du vill modifiera en sång, hitta rätt sångfil i mappen [`/songs`](/songs) och ändra dess innehåll. Se till att filen fortfarande följer formateringsriktlinjerna.
+
+### Validera
+
+För att säkerställa att alla sånger är korrekta så finns det skript för att kontrollera deras namn, innehåll och format. Även om du inte är skyldig att använda dem är det starkt rekommenderat eftersom de kommer att köras innan några ändringar kan inkluderas i detta repository. Du kan testa sångerna genom att köra [`yarn test:songs`](#yarn-testsongs-1) och testa formateringen genom att köra [`yarn lint`](#yarn-lint-1) (om formateringen misslyckas kan du oftast lösa det genom att köra [`yarn format`](#yarn-format-1)).
+
+### Kompilera
+
+Sångerna måste kompileras innan de kan accepteras i detta repository. För att kompilera, kör [`yarn build`](#yarn-script-build-alt-yarn-build-1). Om du vill vara säker på att kompileringen lyckades kan du köra [`yarn test:build`](#yarn-test-1).
+
+## Bidra (koden)
+
+Om du vill bidra till koden finns det bara några få saker att tänka på som inte täcks av de allmänna [riktlinjerna](#bidra-allmänt).
+
+#### **Tests**
+
+Om din kod uppdaterar hur kompileringen fungerar, se till att även uppdatera testen för att minimera risken för fel.
+
+#### **Språk**
+
+All kod ska skrivas i TypeScript för en enhetlig kod.
+
+#### **Dokumentation**
+
+Se till att göra relevanta uppdateringar av dokumentationen.
+
+## Script
+
+Det här projektet har flera skript för att hjälpa dig när du bidrar, för att se till att reglerna för projektet följs och för att se till att ingenting går sönder.
+This project has several scripts to aid you when contributing, to make sure rules for the project are followed and to make sure nothing breaks.
+
+The scripts are divided into two sections: "song scripts" and "project scripts".
+
+### Sångskript
+
+#### `yarn script build` (alt. `yarn build`)
+
+Kompilerar filer. Man kan valfritt ange ett datum i formatet [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601/) för att markera som datum för senaste uppdatering. Om ingen datum anges så används dagens datum.
+
+`yarn build [date?]`
+
+#### `yarn script create [titel]`
+
+Skapar en ny sång med nästa möjliga ID och den givna titeln. Fronten fylls med tomma fält för att göra är så enkelt som möjligt att fylla i dem. Valfritt kan värden till fält tillhandahållas när man kör skriptet, t.ex. `yarn script create "Moder Kista" --author="David Larsson, IT00" --tags=gasque` kommer att ha följande front:
+
+```yaml
+---
+title: Moder Kista
+author: David Larsson, IT00
+melody:
+composer:
+tags: [gasque]
+---
+```
+
+Flera taggar kan läggas till under skapandet genom att separera dem med `=`, t.ex. `--tags=gasque=swe` kommer att resultera i `taggar: [gasque, swe]`.
+
+#### `yarn script updateFileNames [ID?]`
+
+Kommer att uppdatera alla filnamn till "[ID]\_[normaliserad_titel]", t.ex. "Système International" har ID 9 och kommer att bli `9_Systeme_International.md`.
+
+Om ett ID anges kommer endast sången med det ID:t att uppdateras, t.ex. `yarn script updateFileNames 0` kommer endast att uppdatera filnamnet på "Moder Kista".
+
+#### `yarn script remove [ID]`
+
+Tar bort sången med det angivna ID:t, den här åtgärden tar bort allt innehåll och alla fält, och lämnar bara `deleted` fältet för att markera sången som borttaget.
+
+Man kan också lägga till `--soft`, som endast ändrar sången genom att lägga till `deleted: true` till fronten.
+
+### Projektscript
+
+#### `yarn test`
+
+Kör alla tester, kommer att köras automatiskt av GitHub för att säkerställa att all kod är i fungerande skick.
+
+#### `yarn test:songs`
+
+Kör testsviter för att validera sånger.
+
+#### `yarn test:build`
+
+Kör tester för att verifiera att kompileringen är giltig och uppdaterad.
+
+#### `yarn lint`
+
+Kontrollerar att alla filer (kod och sånger) följer stilregler.
+
+#### `yarn format`
+
+Formaterar alla filer (kod och sånger) så att de följer stilreglerna.
+
+## Få hjälp
+
+Allt detta kan låta mycket, så om det är något du undrar över kan du alltid be om hjälp! Vi vill att alla ska kunna vara med och bidra, även om du aldrig har bidragit till ett repository med öppen källkod tidigare eller aldrig använd Git. Så om det är något du inte förstår eller som behöver förtydligas få du gärna skapa en "Issue" i detta repository och markera det som en fråga. Och naturligtvis kan du också be någon du känner om hjälp.
+
+## Bakgrund
+
+Sångerna i denna sånglista för IN-sektionen är från början från Strängteoretiquernas reviderade sångbok (2009-2015) med tillägg, strykningar och ändringar gjorda i [in-sangbok repository](https://github.com/wsv-accidis/in-sangbok) mellan 2016 och 2022.
