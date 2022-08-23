@@ -9,7 +9,7 @@ thrilling as only a snaps can be.
 I don't know where I ought to be
 before I get me snapses three.
 
-Over the mountain over the see
+Over the mountain over the sea
 millions of drinks are waiting for me
 please go to hell with juice and tea.
 Snaps is the only drink for me.

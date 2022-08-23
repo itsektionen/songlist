@@ -1,6 +1,7 @@
 ---
 title: Golden Drops
 melody: Midnatt råder
+composer: Vilhelm Sefve-Svensson
 tags: [punsch, eng]
 ---
 

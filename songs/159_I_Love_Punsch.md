@@ -2,6 +2,7 @@
 title: I Love Punsch
 author: Samuel Larsson (2020)
 melody: Java Jive
+composer: Ben Oakland and Milton Drake
 tags: [punsch, eng]
 ---
 

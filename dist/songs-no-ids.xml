@@ -1352,8 +1352,8 @@
 	>
 		<p>
 			Farewell and adieu to you danish ladies
-			Farewall and adieu to you lovely danes
-			For we’re under orders to sail of to England
+			Farewell and adieu to you lovely Danes
+			For we’re under orders to sail off to England
 			We hope in a short time to see you again
 		</p>
 		<p>
@@ -2909,7 +2909,7 @@
 			before I get me snapses three.
 		</p>
 		<p>
-			Over the mountain over the see
+			Over the mountain over the sea
 			millions of drinks are waiting for me
 			please go to hell with juice and tea.
 			Snaps is the only drink for me.
@@ -3502,6 +3502,7 @@
 	</song>
 	<song
 		name="Golden Drops"
+		composer="Vilhelm Sefve-Svensson"
 		melody="Midnatt råder"
 		category="Punsch"
 	>
@@ -3517,6 +3518,7 @@
 	<song
 		name="I Love Punsch"
 		author="Samuel Larsson (2020)"
+		composer="Ben Oakland and Milton Drake"
 		melody="Java Jive"
 		category="Punsch"
 	>

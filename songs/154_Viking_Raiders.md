@@ -6,8 +6,8 @@ tags: [gasque, eng]
 ---
 
 Farewell and adieu to you danish ladies
-Farewall and adieu to you lovely danes
-For we’re under orders to sail of to England
+Farewell and adieu to you lovely Danes
+For we’re under orders to sail off to England
 We hope in a short time to see you again
 
 We’ll rant and we’ll roar like true viking raiders
