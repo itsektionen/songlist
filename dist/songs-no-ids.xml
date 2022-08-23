@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2022-08-21">
+<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2022-08-23">
 	<song
 		name="Moder Kista"
 		author="David Larsson, IT00"
@@ -1343,6 +1343,46 @@
 			en film som vunnit Oscar åt en Berry.
 		</p>
 		<p>//: Halle Berry, Halle Berry ://</p>
+	</song>
+	<song
+		name="Viking Raiders"
+		author="Samuel Larsson (2020)"
+		melody="Spanish Ladies"
+		category="Gasque"
+	>
+		<p>
+			Farewell and adieu to you danish ladies
+			Farewall and adieu to you lovely danes
+			For we’re under orders to sail of to England
+			We hope in a short time to see you again
+		</p>
+		<p>
+			We’ll rant and we’ll roar like true viking raiders
+			We’ll plunder the shores along the north sea
+			Until we strike soundings in the channel o’ England
+			From Valland to London ‘tis forty-five leagues
+		</p>
+		<p>
+			We hove our ship to, with the wind from sou’west, crew.
+			We hove our ship to, deep soundings to take.
+			‘Twas twenty-one fathoms, with a murky mud bottom
+			And bore right away, crew, and up river did make.
+		</p>
+		<p>We’ll rant and we’ll roar...</p>
+		<p>
+			We pull out our ships, gettin’ hold of our weapons.
+			We pull out our ships, preparing to raid.
+			Our sights set on London, to get all of ’er gold.
+			When we find the old city, we leave her in flames.
+		</p>
+		<p>We’ll rant and we’ll roar...</p>
+		<p>
+			Now let every man drink off his full bumper
+			And let every man drink off his full glass
+			We’ll drink and be jolly and drown melancholy
+			Here’s to the health of each true-hearted lass
+		</p>
+		<p>We’ll rant and we’ll roar...</p>
 	</song>
 	<song
 		name="En pilsnerdrickare"
@@ -2858,6 +2898,66 @@
 		</p>
 	</song>
 	<song
+		name="I take the Snaps"
+		melody="I see the moon"
+		category="Brännvin"
+	>
+		<p>
+			I take the snaps, the snaps thrills me,
+			thrilling as only a snaps can be.
+			I don't know where I ought to be
+			before I get me snapses three.
+		</p>
+		<p>
+			Over the mountain over the see
+			millions of drinks are waiting for me
+			please go to hell with juice and tea.
+			Snaps is the only drink for me.
+		</p>
+	</song>
+	<song
+		name="In a Cavern"
+		melody="My darling Clementine"
+		category="Brännvin"
+	>
+		<p>
+			In a cavern, in a canyon
+			excavating for a mine
+			Dwelt a miner, fortyniner
+			and his bottle Aquavit
+			Oh my darling o my darling
+			oh my darling aquavit
+			You are lost and gone forever,
+			dreadful sorry aquavit
+		</p>
+		<p>
+			When he’s digging, when he’s digging,
+			he sees something on a rock
+			It's a bottle, with some contents
+			could it be his aquavit?
+			Oh my darling oh my darling
+			it's my darling aquavit
+			Thou are back and here for ever
+			I will drink you aquavit.
+		</p>
+	</song>
+	<song
+		name="What if I had a Little Liquor"
+		melody="Hej tomtegubbar"
+		category="Brännvin"
+	>
+		<p>
+			//: What if I had a little string there
+			within my deep throat, with liqueur! ://
+		</p>
+		<p>
+			I drag the liqueur down the string
+			and up we go then with everything
+			What if I had a little string there
+			within my deep throat, with liqueur!
+		</p>
+	</song>
+	<song
 		name="Punschen kommer"
 		composer="Franz Lehár"
 		melody="Vals ur Glada änkan"
@@ -3399,6 +3499,39 @@
 			Jag halsar dig, lenaste dryck upp på jord.
 		</p>
 		<p>//: Ja, jag vill leva, jag vill dö iáv punschen. ://</p>
+	</song>
+	<song
+		name="Golden Drops"
+		melody="Midnatt råder"
+		category="Punsch"
+	>
+		<p>
+			Golden drops are nice, I have reflected
+			Have reflected
+			But their strength is not to be neglected
+			Be neglected
+			Both your head and heart will be affected
+			Punsch, punsch, punsch!
+		</p>
+	</song>
+	<song
+		name="I Love Punsch"
+		author="Samuel Larsson (2020)"
+		melody="Java Jive"
+		category="Punsch"
+	>
+		<p>
+			I love punsch in bites of three
+			I love the punsch bottle and it loves me
+			Arrack and tea, makes the punsch just for me
+			A shot, a shot, a shot, a shot, a shot
+		</p>
+		<p>
+			I love punsch filling my cup
+			I love the golden drops, I lick ‘em up
+			Now flip the cup and punsch lovers drink up
+			A shot, a shot, a shot, a shot, a shot
+		</p>
 	</song>
 	<song
 		name="Barrett's Privateers"

@@ -254,6 +254,14 @@
 			"content": "Jag minns knappt hur jag tog mig hem.\nKlockan var minst kvart i fem,\nnär jag stod utanför min egen våning.\nJag lyfte upp min nyckelring\noch haja nästan ingenting,\nnär dörren öppnas står min hall å lutar.\n\n//: Hallen lutar, hallen lutar ://\n\nJag minns knappt julen nittiotre.\nMin bror var där å syster me',\nå snyggingen i rött satt alld'les breve'.\nVi drack vår glögg och pratade,\nmin dejt blev trött och schappade.\nSå jag fick ännu mer tid för den röde.\n\n//: Han i luva, han i luva ://\n\nGasquen var sen länge stängd.\nJag supit bort varenda peng\noch vill nu bara hem till min säng.\nJag vandra hem genom en natt,\nkall och trött jag såg en katt,\nden satt där utanför på min gata.\n\n//: Katten lutar, katten lutar ://\n\nFredagar har mer att ge,\nän räkor, snask och en TV.\nEn kan ju hyra film och DVD.\nÅ vill en ha något riktigt bra,\nså kan en faktiskt bara ta\nen film som vunnit Oscar åt en Berry.\n\n//: Halle Berry, Halle Berry ://"
 		},
 		{
+			"id": 154,
+			"title": "Viking Raiders",
+			"author": "Samuel Larsson (2020)",
+			"melody": "Spanish Ladies",
+			"tags": ["gasque", "eng"],
+			"content": "Farewell and adieu to you danish ladies\nFarewall and adieu to you lovely danes\nFor we’re under orders to sail of to England\nWe hope in a short time to see you again\n\nWe’ll rant and we’ll roar like true viking raiders\nWe’ll plunder the shores along the north sea\nUntil we strike soundings in the channel o’ England\nFrom Valland to London ‘tis forty-five leagues\n\nWe hove our ship to, with the wind from sou’west, crew.\nWe hove our ship to, deep soundings to take.\n‘Twas twenty-one fathoms, with a murky mud bottom\nAnd bore right away, crew, and up river did make.\n\nWe’ll rant and we’ll roar...\n\nWe pull out our ships, gettin’ hold of our weapons.\nWe pull out our ships, preparing to raid.\nOur sights set on London, to get all of ’er gold.\nWhen we find the old city, we leave her in flames.\n\nWe’ll rant and we’ll roar...\n\nNow let every man drink off his full bumper\nAnd let every man drink off his full glass\nWe’ll drink and be jolly and drown melancholy\nHere’s to the health of each true-hearted lass\n\nWe’ll rant and we’ll roar..."
+		},
+		{
 			"id": 31,
 			"title": "En pilsnerdrickare",
 			"melody": "En sockerbagare",
@@ -733,6 +741,27 @@
 			"content": "Ser du skeppet i vår hamn?\nNer i Mälar'n det försvann!\nHur sjönk Vasa? Ve och fasa!\nBotten upp.\n\nFull besättning fanns ombord.\nHälften hoppa' överbord.\nSkeppet sjunka, alla drunkna!\nBotten upp!"
 		},
 		{
+			"id": 155,
+			"title": "I take the Snaps",
+			"melody": "I see the moon",
+			"tags": ["snaps", "eng"],
+			"content": "I take the snaps, the snaps thrills me,\nthrilling as only a snaps can be.\nI don't know where I ought to be\nbefore I get me snapses three.\n\nOver the mountain over the see\nmillions of drinks are waiting for me\nplease go to hell with juice and tea.\nSnaps is the only drink for me."
+		},
+		{
+			"id": 156,
+			"title": "In a Cavern",
+			"melody": "My darling Clementine",
+			"tags": ["snaps", "eng"],
+			"content": "In a cavern, in a canyon\nexcavating for a mine\nDwelt a miner, fortyniner\nand his bottle Aquavit\nOh my darling o my darling\noh my darling aquavit\nYou are lost and gone forever,\ndreadful sorry aquavit\n\nWhen he’s digging, when he’s digging,\nhe sees something on a rock\nIt's a bottle, with some contents\ncould it be his aquavit?\nOh my darling oh my darling\nit's my darling aquavit\nThou are back and here for ever\nI will drink you aquavit."
+		},
+		{
+			"id": 158,
+			"title": "What if I had a Little Liquor",
+			"melody": "Hej tomtegubbar",
+			"tags": ["snaps", "eng"],
+			"content": "//: What if I had a little string there\nwithin my deep throat, with liqueur! ://\n\nI drag the liqueur down the string\nand up we go then with everything\nWhat if I had a little string there\nwithin my deep throat, with liqueur!"
+		},
+		{
 			"id": 92,
 			"title": "Punschen kommer",
 			"melody": "Vals ur Glada änkan",
@@ -909,6 +938,21 @@
 			"melody": "Du gamla, du fria",
 			"tags": ["punsch", "swe"],
 			"content": "Du ädla, du friska, du livselixir,\nmed dig vill jag mina läppar blöta.\nDen svenskaste drycken, på jorden den förblir.\n\n//: Den gyllene, den underbara söta. ://\n\nSom iskall till kaffet du ställs på vårt bord\noch även som varm till torsdagslunchen.\nJag halsar dig, lenaste dryck upp på jord.\n\n//: Ja, jag vill leva, jag vill dö iáv punschen. ://"
+		},
+		{
+			"id": 157,
+			"title": "Golden Drops",
+			"melody": "Midnatt råder",
+			"tags": ["punsch", "eng"],
+			"content": "Golden drops are nice, I have reflected\nHave reflected\nBut their strength is not to be neglected\nBe neglected\nBoth your head and heart will be affected\nPunsch, punsch, punsch!"
+		},
+		{
+			"id": 159,
+			"title": "I Love Punsch",
+			"author": "Samuel Larsson (2020)",
+			"melody": "Java Jive",
+			"tags": ["punsch", "eng"],
+			"content": "I love punsch in bites of three\nI love the punsch bottle and it loves me\nArrack and tea, makes the punsch just for me\nA shot, a shot, a shot, a shot, a shot\n\nI love punsch filling my cup\nI love the golden drops, I lick ‘em up\nNow flip the cup and punsch lovers drink up\nA shot, a shot, a shot, a shot, a shot"
 		},
 		{
 			"id": 114,
@@ -1200,5 +1244,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2022-08-21"
+	"updatedAt": "2022-08-23"
 }
