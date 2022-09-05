@@ -4,3 +4,6 @@ package-lock.json
 
 # Misc
 .DS_Store
+
+# Log files
+*.log
