@@ -13,7 +13,7 @@ varmrätt och dessert!
 
 Jag gillar punsch för vet du va'
 rent kaffe gör ju ingen gla'.
-Så punsch för fulla muggar jag vill ha!
+Så punsch för fulla muggar vill jag ha!
 
 Med konjak du lockar,
 den bästa Renault.

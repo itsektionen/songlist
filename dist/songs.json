@@ -775,7 +775,7 @@
 			"melody": "Var nöjd med allt som livet ger",
 			"composer": "Terry Gilkyson",
 			"tags": ["punsch", "swe"],
-			"content": "Jag gillar alla tiders punsch,\nen punsch till frukost,\npunsch till lunch,\nen punsch till förrätt,\nvarmrätt och dessert!\n\nJag gillar punsch för vet du va'\nrent kaffe gör ju ingen gla'.\nSå punsch för fulla muggar jag vill ha!\n\nMed konjak du lockar,\nden bästa Renault.\nFörlåt om jag chockar\noch tar punsch ändå.\nOch bjuder du på fin likör\nfår du ursäkta om det stör.\nJag väljer hellre Grönstedts Blå,\nen Cederlunds eller Flaggpunsch å -\nkanske har du ren Platin?\n\nJag gillar punsch,\nger du mig punsch så är jag din.\nFör evigt din!"
+			"content": "Jag gillar alla tiders punsch,\nen punsch till frukost,\npunsch till lunch,\nen punsch till förrätt,\nvarmrätt och dessert!\n\nJag gillar punsch för vet du va'\nrent kaffe gör ju ingen gla'.\nSå punsch för fulla muggar vill jag ha!\n\nMed konjak du lockar,\nden bästa Renault.\nFörlåt om jag chockar\noch tar punsch ändå.\nOch bjuder du på fin likör\nfår du ursäkta om det stör.\nJag väljer hellre Grönstedts Blå,\nen Cederlunds eller Flaggpunsch å -\nkanske har du ren Platin?\n\nJag gillar punsch,\nger du mig punsch så är jag din.\nFör evigt din!"
 		},
 		{
 			"id": 94,
@@ -1246,5 +1246,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2022-08-23"
+	"updatedAt": "2022-09-05"
 }
