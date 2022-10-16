@@ -1,6 +1,7 @@
 ---
 title: Byssan full
-melody: Byssan full
+melody: Byssan lull
+composer: Evert Taube
 tags: [snaps, swe]
 ---
 

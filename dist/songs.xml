@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2022-09-05">
+<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2022-10-16">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -2617,7 +2617,8 @@
 	<song
 		name="Byssan full"
 		id="76"
-		melody="Byssan full"
+		composer="Evert Taube"
+		melody="Byssan lull"
 		category="Brännvin"
 	>
 		<p>
