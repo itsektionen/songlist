@@ -609,7 +609,7 @@
 			"melody": "Byssan lull",
 			"composer": "Evert Taube",
 			"tags": ["snaps", "swe"],
-			"content": "Byssan lull,\nutav brännvin blir man full,\noch slipsen man doppar i smöret.\nOch näsan den blir röd,\noch ögonen får glöd,\nmen tusan så bra blir humöret!"
+			"content": "//: Byssan lull, utav brännvin blir man full,\noch slipsen man doppar i smöret. ://\nOch näsan den blir röd,\noch ögonen får glöd,\nmen tusan så bra blir humöret!"
 		},
 		{
 			"id": 77,
@@ -1247,5 +1247,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2022-10-16"
+	"updatedAt": "2022-10-17"
 }

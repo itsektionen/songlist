@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2022-10-16">
+<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2022-10-17">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -2622,9 +2622,8 @@
 		category="Brännvin"
 	>
 		<p>
-			Byssan lull,
-			utav brännvin blir man full,
-			och slipsen man doppar i smöret.
+			//: Byssan lull, utav brännvin blir man full,
+			och slipsen man doppar i smöret. ://
 			Och näsan den blir röd,
 			och ögonen får glöd,
 			men tusan så bra blir humöret!
