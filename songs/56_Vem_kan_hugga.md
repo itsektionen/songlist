@@ -1,7 +1,7 @@
 ---
 title: Vem kan hugga
 melody: Vem kan segla förutan vind?
-tags: [wine, swe]
+tags: [snaps, swe]
 ---
 
 Vem kan hugga sig själv i knät,

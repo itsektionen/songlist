@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2022-10-17">
+<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2023-08-06">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -2067,7 +2067,7 @@
 		name="Vem kan hugga"
 		id="56"
 		melody="Vem kan segla förutan vind?"
-		category="Wihn"
+		category="Brännvin"
 	>
 		<p>
 			Vem kan hugga sig själv i knät,

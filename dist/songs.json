@@ -462,7 +462,7 @@
 			"id": 56,
 			"title": "Vem kan hugga",
 			"melody": "Vem kan segla förutan vind?",
-			"tags": ["wine", "swe"],
+			"tags": ["snaps", "swe"],
 			"content": "Vem kan hugga sig själv i knät,\nvem kan slå sig på tummen,\nvem kan skära i vännen sin,\nutan att dra på munnen?\n\nJag kan hugga mig själv i knät,\njag kan slå mig på tummen.\nMen ej skära i vännen min\nutan att dra på munnen.\n\nVem kan ragla förutan vin,\nvem är nykter om våren,\nvem kan skilja på kron och gin\nutan att smaka på 'ren?\n\nJag kan ragla förutan vin,\noch visst var jag nykter om våren.\nMen ej skilja på kron och gin,\nefter den elfte tåren."
 		},
 		{
@@ -1247,5 +1247,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2022-10-17"
+	"updatedAt": "2023-08-06"
 }
