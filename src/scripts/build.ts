@@ -9,11 +9,12 @@ import {
 import { join } from 'path';
 import { isoDateRegex } from '../util/regex';
 import createSongs from '../util/createSongs';
+import dayjs from 'dayjs';
 
 export default function build(customUpdatedAt: string | undefined): void {
 	const updatedAt = customUpdatedAt?.match(isoDateRegex)
 		? customUpdatedAt
-		: new Date().toISOString().split('T').at(0);
+		: dayjs().format('YYYY-MM-DD');
 
 	const buildSongs = createSongs(updatedAt);
 

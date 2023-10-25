@@ -1,0 +1,50 @@
+name: Build
+on:
+  workflow_run:
+    workflows: Tests
+    branches: master
+    types: completed
+
+jobs:
+  check-changes:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    outputs:
+      songs_have_changed: ${{steps.songs-changed.outputs.out}}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+          cache: 'yarn'
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+      - name: Check if songs have changed
+        id: songs-changed
+        run: yarn --silent github songChanges >> "$GITHUB_OUTPUT"
+
+  build:
+    needs: check-changes
+    if: ${{ needs.check-changes.outputs.songs_have_changed == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+          cache: 'yarn'
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+      - name: Build
+        run: yarn build
+      - name: Get commit message
+        id: commitMessage
+        run: yarn --silent github buildMessage >> "$GITHUB_OUTPUT"
+      - name: Commit build
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'dist'
+          committer_name: Songbird Bot
+          message: ${{ steps.commitMessage.outputs.out }}

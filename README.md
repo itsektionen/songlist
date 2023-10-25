@@ -15,7 +15,6 @@ You can also find information on how to contribute to this repository, either by
   - [Creating](#creating)
   - [Modifying](#modifying)
   - [Validating](#validating)
-  - [Building](#building)
 - [Contributing (codebase)](#contributing-codebase)
 - [Scripts](#scripts)
   - [Song scripts](#song-scripts)
@@ -131,10 +130,6 @@ If you want to modify a song, find the correct song file in the [`/songs`](/song
 
 To ensure that all songs are valid there are scripts to check their names, content and format. Although you're not required to use them it is highly recommended as they will be run before any changes can be included in the repository. You can test the songs by running [`yarn test:songs`](#yarn-testsongs) and test the formatting by running [`yarn lint`](#yarn-lint) (if the formatting fails you can solve it by running [`yarn format`](#yarn-format) in most cases).
 
-### Building
-
-The songs have to be built before they can be accepted into the repository. To make a new build run [`yarn build`](#yarn-script-build-alt-yarn-build). If you want to make sure that the build has been successful you can run [`yarn test:build`](#yarn-testbuild).
-
 ## Contributing (codebase)
 
 If you want to contribute to the codebase there are only a few things to consider that aren't covered by the general [guidelines](#contributing-general).
@@ -160,6 +155,8 @@ The scripts are divided into two sections: "song scripts" and "project scripts".
 ### Song scripts
 
 #### `yarn script build` (alt. `yarn build`)
+
+**Builds are performed automagically when changes to songs are commited, there should never be a need to use this except for testing**
 
 Builds files. Can optionally provide a date in the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601/) format to mark as the date of the most recent update. If a date is not provided it will default to today's date.
 
@@ -197,15 +194,7 @@ Optionally `--soft` can be added which alters the song only by adding `deleted: 
 
 #### `yarn test`
 
-Runs all test suites, will be run automatically by GitHub to ensure that all code is in working condition.
-
-#### `yarn test:songs`
-
-Runs test suites to validate songs.
-
-#### `yarn test:build`
-
-Runs tests to validate that the build is valid and up to date.
+Runs all tests, will be run automatically by GitHub to ensure that all code is in working condition.
 
 #### `yarn lint`
 
@@ -238,7 +227,6 @@ Du kan också hitta information hur du bidrar till detta repository, antingen ge
   - [Skapa](#skapa)
   - [Ändra](#ändra)
   - [Validera](#validera)
-  - [Kompilera](#kompilera)
 - [Bidra (koden)](#bidra-koden)
 - [Script](#script)
   - [Sångscript](#sångskript)
@@ -354,10 +342,6 @@ Om du vill modifiera en sång, hitta rätt sångfil i mappen [`/songs`](/songs) 
 
 För att säkerställa att alla sånger är korrekta så finns det skript för att kontrollera deras namn, innehåll och format. Även om du inte är skyldig att använda dem är det starkt rekommenderat eftersom de kommer att köras innan några ändringar kan inkluderas i detta repository. Du kan testa sångerna genom att köra [`yarn test:songs`](#yarn-testsongs-1) och testa formateringen genom att köra [`yarn lint`](#yarn-lint-1) (om formateringen misslyckas kan du oftast lösa det genom att köra [`yarn format`](#yarn-format-1)).
 
-### Kompilera
-
-Sångerna måste kompileras innan de kan accepteras i detta repository. För att kompilera, kör [`yarn build`](#yarn-script-build-alt-yarn-build-1). Om du vill vara säker på att kompileringen lyckades kan du köra [`yarn test:build`](#yarn-test-1).
-
 ## Bidra (koden)
 
 Om du vill bidra till koden finns det bara några få saker att tänka på som inte täcks av de allmänna [riktlinjerna](#bidra-allmänt).
@@ -384,6 +368,8 @@ The scripts are divided into two sections: "song scripts" and "project scripts".
 ### Sångskript
 
 #### `yarn script build` (alt. `yarn build`)
+
+**Sångerna kompileras automagiskt när förändingar till sångerna commit:as, det borde aldrig finnas behov att använda detta utom föt testning**
 
 Kompilerar filer. Man kan valfritt ange ett datum i formatet [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601/) för att markera som datum för senaste uppdatering. Om ingen datum anges så används dagens datum.
 
@@ -422,14 +408,6 @@ Man kan också lägga till `--soft`, som endast ändrar sången genom att lägga
 #### `yarn test`
 
 Kör alla tester, kommer att köras automatiskt av GitHub för att säkerställa att all kod är i fungerande skick.
-
-#### `yarn test:songs`
-
-Kör testsviter för att validera sånger.
-
-#### `yarn test:build`
-
-Kör tester för att verifiera att kompileringen är giltig och uppdaterad.
 
 #### `yarn lint`
 

@@ -2,8 +2,9 @@ import { buildXmlString } from './xml';
 import { getAllSongs, sortSongs } from './songs';
 import { Song } from '../definitions/song';
 import { format } from 'prettier';
+import dayjs from 'dayjs';
 
-export default function createSongs(updatedAt: string = new Date().toISOString().split('T').at(0)) {
+export default function createSongs(updatedAt: string = dayjs().format('YYYY-MM-DD')) {
 	const songs = getAllSongs().filter((song) => !song.deleted);
 	return {
 		json: createJsonSongs(songs, updatedAt),
