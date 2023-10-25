@@ -7,12 +7,12 @@
 		"build": "ts-node src/scripts build",
 		"script": "ts-node src/scripts",
 		"test": "jest test",
-		"test:songs": "jest test/songFiles.test.ts test/validIds.test.ts",
-		"test:build": "jest test/build.test.ts",
 		"lint": "prettier --check dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
-		"format": "prettier --write dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json"
+		"format": "prettier --write dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
+		"github": "ts-node src/github"
 	},
 	"dependencies": {
+		"dayjs": "^1.11.10",
 		"gray-matter": "^4.0.3",
 		"prettier": "^2.7.1"
 	},
