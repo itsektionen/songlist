@@ -1,6 +1,6 @@
 import { rmSync } from 'fs';
-import pushIds from '../pushIds';
-import { getFilePathFromId, getSong, updateSong } from '../songs';
+import pushIds from '../util/pushIds';
+import { getFilePathFromId, getSong, updateSong } from '../util/songs';
 
 export default function remove(idString: string, strength?: string): void {
 	const id = Number(idString);

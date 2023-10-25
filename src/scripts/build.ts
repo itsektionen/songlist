@@ -1,7 +1,7 @@
 import { readdirSync, rmSync, writeFileSync } from 'fs';
 import { format } from 'prettier';
 import { Song } from '../definitions/song';
-import { buildXmlString } from '../xml';
+import { buildXmlString } from '../util/xml';
 import {
 	JSON_SONGS_PATH,
 	DIST_FILES,
@@ -9,7 +9,7 @@ import {
 	XML_NO_IDS_SONGS_PATH,
 	XML_SONGS_PATH,
 } from '../definitions/paths';
-import { getAllSongs, sortSongs } from '../songs';
+import { getAllSongs, sortSongs } from '../util/songs';
 import { join } from 'path';
 
 export default function build(customUpdatedAt: string | undefined): void {

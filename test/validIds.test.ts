@@ -1,6 +1,6 @@
 import { parse as parseFile } from 'path';
-import { getIdFromFileName } from '../src/generateFileName';
-import { getAllSongPaths, getAllSongs } from '../src/songs';
+import { getIdFromFileName } from '../src/util/generateFileName';
+import { getAllSongPaths, getAllSongs } from '../src/util/songs';
 
 describe('All IDs are valid', () => {
 	test('All files have IDs', () => {

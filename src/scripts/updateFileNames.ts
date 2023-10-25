@@ -1,8 +1,8 @@
 import { renameSync } from 'fs';
 import { join } from 'path';
-import { generateSongNameFromCurrentName } from '../generateFileName';
+import { generateSongNameFromCurrentName } from '../util/generateFileName';
 import { SONGS_FOLDER_PATH } from '../definitions/paths';
-import { getAllSongPaths, getFilePathFromId } from '../songs';
+import { getAllSongPaths, getFilePathFromId } from '../util/songs';
 
 function updateOneFileName(id: number): void {
 	const songPath = getFilePathFromId(id);

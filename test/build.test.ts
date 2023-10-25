@@ -7,8 +7,8 @@ import {
 	XML_NO_IDS_SONGS_PATH,
 	XML_SONGS_PATH,
 } from '../src/definitions/paths';
-import { getAllSongs, sortSongs } from '../src/songs';
-import { buildXmlString } from '../src/xml';
+import { getAllSongs, sortSongs } from '../src/util/songs';
+import { buildXmlString } from '../src/util/xml';
 
 describe('Builds are up to date', () => {
 	test('JSON', () => {
