@@ -1,10 +1,10 @@
 import { readdirSync, readFileSync, writeFileSync } from 'fs';
 import * as matter from 'gray-matter';
 import { join } from 'path';
-import { Song, XmlifyableSong } from './definitions/song';
+import { Song, XmlifyableSong } from '../definitions/song';
 import { getIdFromFileName } from './generateFileName';
-import { SONGS_FOLDER_PATH } from './definitions/paths';
-import { CATEGORY_ORDER, LEGACY_ORDER } from './definitions/tags';
+import { SONGS_FOLDER_PATH } from '../definitions/paths';
+import { CATEGORY_ORDER, LEGACY_ORDER } from '../definitions/tags';
 
 export function getFilePathFromId(id: number): string | undefined {
 	const files = readdirSync(SONGS_FOLDER_PATH);

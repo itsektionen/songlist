@@ -1,5 +1,5 @@
-import { Song, XmlifyableSong } from './definitions/song';
-import { LegacyCategory, LEGACY_MAP, LEGACY_ORDER, UNKNOWN } from './definitions/tags';
+import { Song, XmlifyableSong } from '../definitions/song';
+import { LegacyCategory, LEGACY_MAP, LEGACY_ORDER, UNKNOWN } from '../definitions/tags';
 import { sortXmlifyableSongs } from './songs';
 
 export const SONGS_DESCRIPTION =

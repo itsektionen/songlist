@@ -1,6 +1,6 @@
 import { renameSync } from 'fs';
 import { join, parse as parseFile } from 'path';
-import { SONGS_FOLDER_PATH } from './definitions/paths';
+import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import { getAllSongPaths } from './songs';
 
 export default function pushIds(id: number, direction: number = 1): void {
