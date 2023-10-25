@@ -11,10 +11,11 @@ import {
 } from '../definitions/paths';
 import { getAllSongs, sortSongs } from '../util/songs';
 import { join } from 'path';
+import { isoDateRegex } from '../util/regex';
 
 export default function build(customUpdatedAt: string | undefined): void {
 	const songs = getAllSongs().filter((song) => !song.deleted);
-	const updatedAt = customUpdatedAt?.match(/^\d{4}-(0\d|1[012])-([012]\d|3[01])$/)
+	const updatedAt = customUpdatedAt?.match(isoDateRegex)
 		? customUpdatedAt
 		: new Date().toISOString().split('T').at(0);
 
