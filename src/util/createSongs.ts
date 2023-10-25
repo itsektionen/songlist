@@ -1,0 +1,21 @@
+import { buildXmlString } from './xml';
+import { getAllSongs, sortSongs } from './songs';
+import { Song } from '../definitions/song';
+import { format } from 'prettier';
+
+export default function createSongs(updatedAt: string = new Date().toISOString().split('T').at(0)) {
+	const songs = getAllSongs().filter((song) => !song.deleted);
+	return {
+		json: createJsonSongs(songs, updatedAt),
+		xml: buildXmlString(songs, updatedAt, true),
+		xmlNoIds: buildXmlString(songs, updatedAt, false),
+	};
+}
+
+export function createJsonSongs(songs: Song[], updatedAt: string) {
+	const sortedSongs = sortSongs(songs).map(({ sorting, ...songs }) => songs);
+	return format(JSON.stringify({ songs: sortedSongs, updatedAt }), {
+		parser: 'json',
+		useTabs: true,
+	});
+}
