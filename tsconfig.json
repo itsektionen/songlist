@@ -11,5 +11,6 @@
 	},
 	"include": [
 		"src/**/*.ts"
-	]
+	],
+	"files": ["node_modules/jest-expect-message/types/index.d.ts"]
 }
