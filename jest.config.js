@@ -1,7 +1,7 @@
-/** @type {import('ts-jest/dist/types').InitialOptionsTsJest} */
+/** @type {import('ts-jest').JestConfigWithTsJest} */
 module.exports = {
 	preset: 'ts-jest',
 	testEnvironment: 'node',
 	verbose: true,
-	setupFilesAfterEnv: ['jest-27-expect-message'],
+	setupFilesAfterEnv: ['jest-expect-message'],
 };
