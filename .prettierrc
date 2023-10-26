@@ -2,5 +2,13 @@
 	"arrowParens": "always",
 	"printWidth": 100,
 	"singleQuote": true,
-	"useTabs": true
+	"useTabs": true,
+	"overrides": [
+		{
+			"files": ".github/workflows/*.yml",
+			"options": {
+				"useTabs": false
+			}
+		}
+	]
 }
