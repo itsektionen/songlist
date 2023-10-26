@@ -1,5 +1,5 @@
 import { readdirSync, readFileSync, writeFileSync } from 'fs';
-import * as matter from 'gray-matter';
+import matter from 'gray-matter';
 import { join } from 'path';
 import { Song, XmlifyableSong } from '../definitions/song';
 import { getIdFromFileName } from './generateFileName';
