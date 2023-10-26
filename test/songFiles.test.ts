@@ -1,5 +1,5 @@
 import { readFileSync } from 'fs';
-import * as matter from 'gray-matter';
+import matter from 'gray-matter';
 import { validMetaKeys } from '../src/definitions/song';
 import { TAGS } from '../src/definitions/tags';
 import { getAllSongPaths, getAllSongs } from '../src/util/songs';
