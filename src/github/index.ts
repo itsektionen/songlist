@@ -1,4 +1,4 @@
-import buildMessage from './buildMessage';
+import buildCommitTitle from './buildCommitTitle';
 import songChanges from './songChanges';
 
 async function main(): Promise<0 | 1> {
@@ -6,8 +6,8 @@ async function main(): Promise<0 | 1> {
 
 	try {
 		switch (command) {
-			case 'buildMessage': {
-				console.log(`out=${buildMessage()}`);
+			case 'commitTitle': {
+				console.log(`out=${buildCommitTitle()}`);
 				return 0;
 			}
 			case 'songChanges': {
