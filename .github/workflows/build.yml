@@ -40,11 +40,14 @@ jobs:
       - name: Build
         run: yarn build
       - name: Get commit message
-        id: commitMessage
-        run: yarn --silent github buildMessage >> "$GITHUB_OUTPUT"
+        id: commit-title
+        run: yarn --silent github buildCommitTitle >> "$GITHUB_OUTPUT"
       - name: Commit build
         uses: EndBug/add-and-commit@v9
         with:
           add: 'dist'
           committer_name: Songbird Bot
-          message: ${{ steps.commitMessage.outputs.out }}
+          message: >
+            ${{ steps.commit-title.outputs.out }}
+
+            Build was created as a result of commit ${{ github.event.workflow_run.head_commit.id }}
