@@ -1,5 +1,6 @@
-Title: Droppar i mitt glas
-Melodi: Vattenvisan 
+title: Droppar i mitt glas
+by: David Haendler 2023
+melody: Vattenvisan 
 composer: Lennart Hellsing and Lille Bror Söderlundh
 tags: [nubbe, swedish]
  
