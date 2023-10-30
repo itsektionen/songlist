@@ -2,7 +2,7 @@
 title: Flugans stolta gång på rullgardinen
 melody: Längtan till landet (Vintern rasat)
 composer: Otto Lindblad
-tags: [snaps, swedish]
+tags: [snaps, swe]
 ---
 
 Flugans stolta gång på rullgardinen, 
