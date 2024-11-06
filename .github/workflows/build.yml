@@ -41,7 +41,7 @@ jobs:
         run: yarn build
       - name: Get commit message
         id: commit-title
-        run: yarn --silent github buildCommitTitle >> "$GITHUB_OUTPUT"
+        run: yarn --silent github commitTitle >> "$GITHUB_OUTPUT"
       - name: Commit build
         uses: EndBug/add-and-commit@v9
         with:
