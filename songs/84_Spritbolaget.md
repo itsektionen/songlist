@@ -10,8 +10,8 @@ Till spritbolaget ränner jag
 och bankar på dess port.
 Jag vill ha nåt som bränner bra
 Och gör mig skitfull fort.
-Expediten fråga' och sa:
-Hur gammal kan min herre va?
+Expediten sade "Go'dag,
+Hur gammal kan min herre va?"
 Har du nåt leg, ditt fula drägg?
 Kom hit igen när du fått skägg!
 
