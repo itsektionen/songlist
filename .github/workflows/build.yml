@@ -32,6 +32,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
@@ -45,11 +47,12 @@ jobs:
         id: commit-title
         run: yarn --silent github commitTitle >> "$GITHUB_OUTPUT"
       - name: Commit build
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: 'dist'
-          committer_name: Songbird Bot
-          message: >
-            ${{ steps.commit-title.outputs.out }}
-
-            Build was created as a result of commit ${{ github.event.workflow_run.head_commit.id }}
+        run: |
+          git config --global user.name 'Songbird bot'
+          git config --global user.email 'insektionen-webmaster@users.noreply.github.com'
+          git add dist
+          git commit -m "\
+          ${{ steps.commit-title.outputs.out }}\
+          \n\n\
+          Build was created as a result of commit ${{ github.event.workflow_run.head_commit.id }}\n[skip actions]"
+          git push
