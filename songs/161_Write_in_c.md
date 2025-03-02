@@ -1,6 +1,6 @@
 ---
 title: Write in C
-author: Kriston J. Rehberg
+author: Jay Piecora, SUNY Binghamton
 melody: Let It Be
 composer: John Lennon, Paul McCartney
 tags: [esoteric, nerdy, eng]

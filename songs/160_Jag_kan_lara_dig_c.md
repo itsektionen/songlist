@@ -1,6 +1,6 @@
 ---
 title: Jag kan lära dig C
-author: DISK (KM?)
+author: Arian och Sixten (DISK KM), DISK KM:s julfest 2011
 melody: A Whole New World
 composer: Alan Menken
 tags: [esoteric, nerdy, swe]
