@@ -2,6 +2,7 @@
 title: Jag kan lära dig C
 author: DISK (KM?)
 melody: A Whole New World
+composer: Alan Menken
 tags: [esoteric, nerdy, swe]
 ---
 

@@ -2,7 +2,8 @@
 title: Write in C
 author: Konglig Datasektion
 melody: Let It Be
-tags: [esoteric, nerdy, swe]
+composer: John Lennon, Paul McCartney
+tags: [esoteric, nerdy, eng]
 ---
 
 When I find my code in tons of trouble,
