@@ -1,6 +1,6 @@
 ---
 title: Write in C
-author: Konglig Datasektion
+author: Kriston J. Rehberg
 melody: Let It Be
 composer: John Lennon, Paul McCartney
 tags: [esoteric, nerdy, eng]
