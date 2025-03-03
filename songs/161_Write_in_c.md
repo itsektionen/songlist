@@ -3,7 +3,7 @@ title: Write in C
 author: Jay Piecora, SUNY Binghamton
 melody: Let It Be
 composer: John Lennon, Paul McCartney
-tags: [esoteric, nerdy, eng]
+tags: [nerdy, eng]
 ---
 
 When I find my code in tons of trouble,

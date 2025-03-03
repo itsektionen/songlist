@@ -3,7 +3,7 @@ title: Jag kan lära dig C
 author: Arian och Sixten (DISK KM), DISK KM:s julfest 2011
 melody: A Whole New World
 composer: Alan Menken
-tags: [esoteric, nerdy, swe]
+tags: [nerdy, swe]
 ---
 
 Låt mig visa dig kod
