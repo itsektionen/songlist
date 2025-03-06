@@ -4,10 +4,11 @@ on:
     workflows: Tests
     branches: master
     types: completed
+  workflow_dispatch:
 
 jobs:
   check-changes:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     outputs:
       songs_have_changed: ${{steps.songs-changed.outputs.out}}
@@ -31,9 +32,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.SONGBIRD_APP_ID }}
+          private-key: ${{ secrets.SONGBIRD_PRIVATE_KEY }}
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ steps.app-token.outputs.token }}
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
@@ -48,8 +54,8 @@ jobs:
         run: yarn --silent github commitTitle >> "$GITHUB_OUTPUT"
       - name: Commit build
         run: |
-          git config --global user.name 'Songbird bot'
-          git config --global user.email 'insektionen-webmaster@users.noreply.github.com'
+          git config --global user.name 'Songbird Bot'
+          git config --global user.email 'itsektionen-webmaster@users.noreply.github.com'
           git add dist
           git commit -m "\
           ${{ steps.commit-title.outputs.out }}\
