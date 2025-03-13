@@ -4,10 +4,11 @@ on:
     workflows: Tests
     branches: master
     types: completed
+  workflow_dispatch:
 
 jobs:
   check-changes:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     outputs:
       songs_have_changed: ${{steps.songs-changed.outputs.out}}
