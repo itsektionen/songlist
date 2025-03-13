@@ -377,7 +377,7 @@
 			"title": "Bordeaux, Bordeaux",
 			"melody": "I sommarens soliga dagar",
 			"tags": ["wine", "swe"],
-			"content": "Jag minns än idag hur min fader,\nkom hem ifrån staden så glader,\noch rada' upp flaskor i rader,\noch sade nöjd som så:\n\"Bordeaux, Bordeaux!\"\n\nHan drack ett glas, kom i extas,\noch sedan blev det stort kalas.\nOch vi små glin, ja vi drack vin,\nsom första klassens fyllesvin.\nOch vi dansade runt där på golvet,\noch skrek så vi blev blå:\n\"Bordeaux, Bordeaux!\""
+			"content": "Jag minns än idag hur min fader,\nkom hem ifrån staden så glader,\noch rada' upp flaskor i rader,\noch sade nöjd som så:\n\"Bordeaux, Bordeaux!\"\n\nHan drack ett glas, kom i extas,\noch sedan blev det stort kalas.\nOch vi små glin, ja vi drack vin,\nsom första klassens fyllesvin.\nOch vi dansade runt där på bordet,\noch skrek så vi blev blå:\n\"Bordeaux, Bordeaux!\""
 		},
 		{
 			"id": 46,
@@ -673,7 +673,7 @@
 			"melody": "Du käre lille snickerboa",
 			"composer": "Georg Riedel",
 			"tags": ["snaps", "swe"],
-			"content": "Till spritbolaget ränner jag\noch bankar på dess port.\nJag vill ha nåt som bränner bra\nOch gör mig skitfull fort.\nExpediten fråga' och sa:\nHur gammal kan min herre va?\nHar du nåt leg, ditt fula drägg?\nKom hit igen när du fått skägg!\n\nNej, detta var ju inte bra,\nJag ska bli full ikväll.\nDå plötsligt en idé jag fick -\ndom har ju sprit på Shell!\nMånga flaskor stod där på rad,\nSå nu kan jag bli full och glad.\nDen röda drycken åkte ner,\nnu kan jag inte se nåt mer."
+			"content": "Till spritbolaget ränner jag\noch bankar på dess port.\nJag vill ha nåt som bränner bra\nOch gör mig skitfull fort.\nExpediten sade \"Go'dag,\nHur gammal kan min herre va?\"\nHar du nåt leg, ditt fula drägg?\nKom hit igen när du fått skägg!\n\nNej, detta var ju inte bra,\nJag ska bli full ikväll.\nDå plötsligt en idé jag fick -\ndom har ju sprit på Shell!\nMånga flaskor stod där på rad,\nSå nu kan jag bli full och glad.\nDen röda drycken åkte ner,\nnu kan jag inte se nåt mer."
 		},
 		{
 			"id": 85,
@@ -1060,6 +1060,24 @@
 			"content": "Ostkaka! Det var gott.\nPå mitt bord, klockan tolv.\nEn stor stark, diskotek.\nMarcus!\n\nFast den starke får slut på thaimat, igår!\n\nVar är din galna ding?\nSka va Simbas familj!\nVad är värst? På vårt torn.\nHan vill ha ett glas saft.\nHan förstår på ett nafs\noch du måst' in på dass!\nSkala din Aladdin!\nPå en naken dag.\n\nHA HA HA HA!\nHA HA HA HA!"
 		},
 		{
+			"id": 160,
+			"title": "Jag kan lära dig C",
+			"author": "Arian och Sixten (DISK KM), DISK KM:s julfest 2011",
+			"melody": "A Whole New World",
+			"composer": "Alan Menken",
+			"tags": ["nerdy", "swe"],
+			"content": "Låt mig visa dig kod\nVacker, effektiv, härlig\nSäg om du ska va ärlig,\nhar du drömt om den ibland?\n\nJag kan lära dig C\nEgen minneshantering\nPekare och funktioner\nom du kodar här med mig\n\nHello World!\nHär får vi göra som vi vill\nKoden regerar här!\nC och lär!\nKompilatorn är vår vän\nEn helt ny värld\nUtan nån jävla MDI\nInget designertjat, så underbart\nAtt koda i en helt ny värld, med dig"
+		},
+		{
+			"id": 161,
+			"title": "Write in C",
+			"author": "Jay Piecora, SUNY Binghamton",
+			"melody": "Let It Be",
+			"composer": "John Lennon, Paul McCartney",
+			"tags": ["nerdy", "eng"],
+			"content": "When I find my code in tons of trouble,\nfriends and colleagues come to me,\nspeaking words of wisdom: “Write in C.”\n\nAs the deadline fast approaches,\nand bugs are all that I can see,\nsomewhere, someone whispers: “Write in C.”\n\nWrite in C, write in C,\nwrite in C, oh, write in C.\nLOGO's dead and buried, write in C.\n\nI used to write a lot of FORTRAN;<\nfor science it worked flawlessly.\nTry using it for graphics! Write in C.\n\nIf you've just spent nearly 30 hours\ndebugging some assembly,\nsoon you will be glad to write in C.\n\nWrite in C, write in C,\nwrite in C, yeah, write in C.\nOnly wimps use BASIC, write in C.\n\nWrite in C, write in C,\nwrite in C, oh, write in C.\nPascal won't quite cut it, write in C.\n\nWrite in C, write in C,\nwrite in C, yeah, write in C.\nDon't even mention COBOL. Write in C."
+		},
+		{
 			"id": 128,
 			"title": "Pop opp i topp",
 			"author": "Thore Skogman, 1965",
@@ -1247,5 +1265,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2023-08-06"
+	"updatedAt": "2025-03-13"
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2023-08-06">
+<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-03-13">
 	<song
 		name="Moder Kista"
 		author="David Larsson, IT00"
@@ -1754,7 +1754,7 @@
 			och sedan blev det stort kalas.
 			Och vi små glin, ja vi drack vin,
 			som första klassens fyllesvin.
-			Och vi dansade runt där på golvet,
+			Och vi dansade runt där på bordet,
 			och skrek så vi blev blå:
 			"Bordeaux, Bordeaux!"
 		</p>
@@ -2716,8 +2716,8 @@
 			och bankar på dess port.
 			Jag vill ha nåt som bränner bra
 			Och gör mig skitfull fort.
-			Expediten fråga' och sa:
-			Hur gammal kan min herre va?
+			Expediten sade "Go'dag,
+			Hur gammal kan min herre va?"
 			Har du nåt leg, ditt fula drägg?
 			Kom hit igen när du fått skägg!
 		</p>
@@ -4281,6 +4281,85 @@
 		<p>
 			HA HA HA HA!
 			HA HA HA HA!
+		</p>
+	</song>
+	<song
+		name="Jag kan lära dig C"
+		author="Arian och Sixten (DISK KM), DISK KM:s julfest 2011"
+		composer="Alan Menken"
+		melody="A Whole New World"
+		category="Nördigt"
+	>
+		<p>
+			Låt mig visa dig kod
+			Vacker, effektiv, härlig
+			Säg om du ska va ärlig,
+			har du drömt om den ibland?
+		</p>
+		<p>
+			Jag kan lära dig C
+			Egen minneshantering
+			Pekare och funktioner
+			om du kodar här med mig
+		</p>
+		<p>
+			Hello World!
+			Här får vi göra som vi vill
+			Koden regerar här!
+			C och lär!
+			Kompilatorn är vår vän
+			En helt ny värld
+			Utan nån jävla MDI
+			Inget designertjat, så underbart
+			Att koda i en helt ny värld, med dig
+		</p>
+	</song>
+	<song
+		name="Write in C"
+		author="Jay Piecora, SUNY Binghamton"
+		composer="John Lennon, Paul McCartney"
+		melody="Let It Be"
+		category="Nördigt"
+	>
+		<p>
+			When I find my code in tons of trouble,
+			friends and colleagues come to me,
+			speaking words of wisdom: “Write in C.”
+		</p>
+		<p>
+			As the deadline fast approaches,
+			and bugs are all that I can see,
+			somewhere, someone whispers: “Write in C.”
+		</p>
+		<p>
+			Write in C, write in C,
+			write in C, oh, write in C.
+			LOGO's dead and buried, write in C.
+		</p>
+		<p>
+			I used to write a lot of FORTRAN;<
+			for science it worked flawlessly.
+			Try using it for graphics! Write in C.
+		</p>
+		<p>
+			If you've just spent nearly 30 hours
+			debugging some assembly,
+			soon you will be glad to write in C.
+		</p>
+		<p>
+			Write in C, write in C,
+			write in C, yeah, write in C.
+			Only wimps use BASIC, write in C.
+		</p>
+		<p>
+			Write in C, write in C,
+			write in C, oh, write in C.
+			Pascal won't quite cut it, write in C.
+		</p>
+		<p>
+			Write in C, write in C,
+			write in C, yeah, write in C.
+			Don't even mention COBOL. Write in C.
 		</p>
 	</song>
 	<song
