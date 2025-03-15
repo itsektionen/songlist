@@ -61,7 +61,7 @@ fastän dom inget alls ju förstå.
 
 Hela Handels borde rivas,
 detta anser hela vårat lag.
-Då skull' Osqurulda trivas,
+Då skull' Osquarina trivas,
 uppå denna Handels ljuva domedag.
 
 //: Och vilket drag! På denna dag!
