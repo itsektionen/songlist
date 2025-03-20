@@ -1,16 +1,17 @@
 import { Song, XmlifyableSong } from '../definitions/song';
-import { LegacyCategory, LEGACY_MAP, LEGACY_ORDER, UNKNOWN } from '../definitions/tags';
+import { LegacyCategory, LEGACY_MAP, UNKNOWN } from '../definitions/tags';
 import { sortXmlifyableSongs } from './songs';
+import { formatAuthor } from './formatAuthor';
 
 export const SONGS_DESCRIPTION =
-	'IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)';
+	'IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)';
 
 function songToXmlAttributes(song: XmlifyableSong, withId: boolean): string {
 	let attributes = `\n\t\tname="${song.title}"`;
 
 	if (withId) attributes += `\n\t\tid="${song.id}"`;
 
-	if (song.author) attributes += `\n\t\tauthor="${song.author}"`;
+	if (song.author) attributes += `\n\t\tauthor="${formatAuthor(song.author)}"`;
 	if (song.composer) attributes += `\n\t\tcomposer="${song.composer}"`;
 	if (song.melody) attributes += `\n\t\tmelody="${song.melody}"`;
 	attributes += `\n\t\tcategory="${song.category}"`;

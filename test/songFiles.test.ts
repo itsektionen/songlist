@@ -31,9 +31,21 @@ describe('All songs have valid data', () => {
 
 		songs.forEach((song) => {
 			expect(typeof song.title).toBe('string');
-			expect(typeof song.author).toMatch(/(string|undefined)/);
-			expect(typeof song.composer).toMatch(/(string|undefined)/);
-			expect(typeof song.melody).toMatch(/(string|undefined)/);
+
+			expect(Array.isArray(song.author) || song.author === undefined).toBeTruthy();
+			if (song.author) {
+				song.author.forEach((author) => {
+					expect(typeof author).toBe('object');
+					if ('name' in author) expect(typeof author.name).toBe('string');
+					if ('event' in author) expect(typeof author.event).toBe('string');
+					if ('location' in author) expect(typeof author.location).toBe('string');
+					if ('year' in author) expect(typeof author.year).toBe('number');
+					if ('comment' in author) expect(typeof author.comment).toBe('string');
+				});
+			}
+
+			if (song.composer) expect(typeof song.composer).toBe('string');
+			if (song.melody) expect(typeof song.melody).toBe('string');
 			if (typeof song.deleted === 'boolean') expect(song.deleted).toBeTruthy();
 			else expect(song.deleted).toBeUndefined();
 
