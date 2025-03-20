@@ -1,4 +1,4 @@
-import { Author } from '../definitions/song';
+import { Author } from '../definitions/author';
 
 export function formatAuthor(groups: Author[]): string {
 	return groups.map(formatSingleAuthor).join('; ');

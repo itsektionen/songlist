@@ -7,7 +7,7 @@ import generateFileName from '../util/generateFileName';
 import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
 import { getAllSongPaths } from '../util/songs';
-import { Author } from '../definitions/song';
+import { Author } from '../definitions/author';
 
 export default function create(title: string, ...args: string[]): void {
 	if (!title) return console.error('A title for the new song must be provided!');

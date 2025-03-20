@@ -3,6 +3,7 @@ import matter from 'gray-matter';
 import { validMetaKeys } from '../src/definitions/song';
 import { TAGS } from '../src/definitions/tags';
 import { getAllSongPaths, getAllSongs } from '../src/util/songs';
+import { VALID_AUTHOR_KEYS } from '../src/definitions/author';
 
 describe('All files in songs folder are songs', () => {
 	test('All files are markdown', () => {
@@ -36,6 +37,14 @@ describe('All songs have valid data', () => {
 			if (song.author) {
 				song.author.forEach((author) => {
 					expect(typeof author).toBe('object');
+
+					Object.keys(author).forEach((key) => {
+						expect(
+							VALID_AUTHOR_KEYS,
+							`Song with ID=${song.id} and title '${song.title}' contains the invalid author field '${key}'`
+						).toContain(key);
+					});
+
 					if ('name' in author) expect(typeof author.name).toBe('string');
 					if ('event' in author) expect(typeof author.event).toBe('string');
 					if ('location' in author) expect(typeof author.location).toBe('string');
