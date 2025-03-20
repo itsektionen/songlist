@@ -1,6 +1,11 @@
 ---
 title: Fredmans sång nr. 21
-author: Carl Michael Bellman
+author: [
+	{
+		name: Carl Michael Bellman,
+		year: 1787
+	}
+]
 composer: Carl Michael Bellman
 tags: [gasque, swe]
 ---

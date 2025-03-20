@@ -1,6 +1,11 @@
 ---
 title: Kungssången
-author: C.V.A.Strandberg och Otto Lindblad, 1844
+author: [
+	{
+		name: C.V.A.Strandberg och Otto Lindblad,
+		year: 1844
+	}
+]
 tags: [solemn, swe]
 ---
 

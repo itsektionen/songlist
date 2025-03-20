@@ -1,6 +1,11 @@
 ---
 title: Om Emacs
-author: Ingemar Ragnemalm
+author: [
+	{
+		name: Ingemar Ragnemalm,
+		location: LiU
+	}
+]
 melody: Kovan kommer, kovan går
 tags: [nerdy, swe]
 ---

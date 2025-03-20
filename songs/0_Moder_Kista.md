@@ -1,6 +1,12 @@
 ---
 title: Moder Kista
-author: David Larsson, IT00
+author: [
+	{
+		name: 'David Larsson, IT-00',
+		location: KTH,
+		year: 2000
+	}
+]
 melody: Längtan till landet
 composer: Otto Lindblad
 tags: [gasque, swe]

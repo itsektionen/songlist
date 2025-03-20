@@ -1,6 +1,11 @@
 ---
 title: Anti-snapsvisa
-author: Lundakarnevalen, 1986
+author: [
+	{
+		event: Lundakarnevalen,
+		year: 1986
+	}
+]
 melody: Sjösala vals
 composer: Evert Taube
 tags: [gasque, swe]

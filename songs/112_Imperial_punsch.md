@@ -1,6 +1,12 @@
 ---
 title: Imperial punsch
-author: DKM, 2000
+author: [
+	{
+		name: DKM,
+		location: KTH,
+		year: 2000
+	}
+]
 melody: Imperial march, Star Wars
 composer: John Williams
 tags: [punsch, swe]

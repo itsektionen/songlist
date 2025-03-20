@@ -1,6 +1,11 @@
 ---
 title: Häv, häv detta glas
-author: Erik Rålenius
+author: [
+	{
+		name: 'Erik Rålenius, IT',
+		location: KTH
+	}
+]
 melody: Bä, bä vita lamm
 composer: Alice Tegnér
 tags: [snaps, swe]

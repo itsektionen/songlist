@@ -1,6 +1,12 @@
 ---
 title: Vit vecka
-author: Sångarstriden Lund, 1992
+author: [
+	{
+		event: Sångarstriden,
+		location: Lund, 
+		year: 1992
+	}
+]
 melody: White Christmas
 composer: Irving Berlin
 tags: [gasque, swe]

@@ -1,6 +1,11 @@
 ---
 title: Sång till Stor-MUX
-author: Erik Lundberg och Wilhelm Svenselius
+author: [
+	{
+		name: 'Erik Lundberg och Wilhelm Svenselius, IT-03',
+		location: KTH
+	}
+]
 melody: Balladen om Theobald Thor
 tags: [esoteric, swe]
 ---

@@ -1,6 +1,12 @@
 ---
 title: När kaffet är serverat
-author: Sångarstriden Lund, 1987
+author: [
+	{
+		event: Sångarstriden,
+		location: Lund, 
+		year: 1987
+	}
+]
 melody: Mössens julafton
 composer: Christian Hartmann
 tags: [punsch, swe]

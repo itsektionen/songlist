@@ -1,6 +1,11 @@
 ---
 title: Du gamla, du fria
-author: Richard Dybeck, 1844
+author: [
+	{
+		name: Richard Dybeck,
+		year: 1844
+	}
+]
 tags: [solemn, swe]
 ---
 

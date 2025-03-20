@@ -1,6 +1,12 @@
 ---
 title: Cidervisan
-author: Strängteoretiquerna, 2015
+author: [
+	{
+		name: 'Strängteoretiquerna, IT',
+		location: KTH,
+		year: 2015
+	}
+]
 melody: Rövarnas visa
 composer: Thorbjørn Egner
 tags: [gasque, swe]

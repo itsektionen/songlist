@@ -1,6 +1,12 @@
 ---
 title: Man kan dricka vatten
-author: Datas nØllespex, 1995
+author: [
+	{
+		event: Datas nØllespex,
+		location: KTH,
+		year: 1995
+	}
+]
 melody: Vi äro musikanter
 tags: [snaps, swe]
 ---

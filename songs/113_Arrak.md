@@ -1,6 +1,10 @@
 ---
 title: Arrak
-author: André Mabande
+author: [
+	{
+		name: André Mabande
+	}
+]
 melody: Only you
 tags: [punsch, swe]
 ---

@@ -1,5 +1,10 @@
 ---
 title: P.U.S.S.:s punschvisa
+author: [
+	{
+		name: P.U.S.S.
+	}
+]
 melody: Öppna din dörr
 composer: Tommy Nilsson
 tags: [punsch, swe]

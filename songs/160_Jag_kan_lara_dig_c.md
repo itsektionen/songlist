@@ -1,6 +1,13 @@
 ---
 title: Jag kan lära dig C
-author: Arian och Sixten (DISK KM), DISK KM:s julfest 2011
+author: [
+	{
+		name: Arian och Sixten,
+		event: DISK KM:s julfest,
+		location: Stockholms universitet,
+		year: 2011
+	}
+]
 melody: A Whole New World
 composer: Alan Menken
 tags: [nerdy, swe]

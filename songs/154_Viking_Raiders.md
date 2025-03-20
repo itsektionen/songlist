@@ -1,6 +1,12 @@
 ---
 title: Viking Raiders
-author: Samuel Larsson (2020)
+author: [
+	{
+		name: 'Samuel Larsson, IT',
+		location: KTH,
+		year: 2020
+	}
+]
 melody: Spanish Ladies
 tags: [gasque, eng]
 ---

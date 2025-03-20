@@ -1,6 +1,11 @@
 ---
 title: Système International
-author: Anders Skog, F-75
+author: [
+	{
+		name: 'Anders Skog, F-75',
+		location: KTH
+	}
+]
 melody: Studentsången
 composer: Prins Gustaf av Sverige och Norge
 tags: [gasque, swe]

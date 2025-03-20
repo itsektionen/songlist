@@ -1,6 +1,11 @@
 ---
 title: Ode till halvan
-author: Torgny, 1936
+author: [
+	{
+		name: Torgny,
+		year: 1936
+	}
+]
 melody: Längtan till landet
 composer: Otto Lindblad
 tags: [snaps, swe]

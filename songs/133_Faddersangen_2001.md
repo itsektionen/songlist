@@ -1,6 +1,12 @@
 ---
 title: Faddersången 2001
-author: Kjell Ahlström
+author: [
+	{
+		name: Kjell Ahlström,
+		location: KTH,
+		year: 2001
+	}
+]
 melody: SJ, SJ, gamle vän
 composer: Elizabeth Cotten
 tags: [esoteric, swe]
@@ -26,5 +32,4 @@ tydlig gräns är dess station.
 Bron den utgör gränsens strand
 till farligt ghettoland.
 
-> Den sista versen delades ut på separata lappar i bussen och skall därför betraktas
-> som inofficiell.
+> Den sista versen delades ut på separata lappar i bussen och skall därför betraktas som inofficiell.

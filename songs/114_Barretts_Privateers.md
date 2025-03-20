@@ -1,6 +1,10 @@
 ---
 title: Barrett's Privateers
-author: Stan Rogers
+author: [
+	{
+		name: Stan Rogers
+	}
+]
 tags: [foreign, eng]
 ---
 
