@@ -81,7 +81,7 @@ export function sortXmlifyableSongs(songs: XmlifyableSong[]): XmlifyableSong[] {
 		.sort(
 			(a, b) =>
 				LEGACY_ORDER.findIndex((category) => a.category === category) -
-				LEGACY_ORDER.findIndex((category) => b.category === category)
+				LEGACY_ORDER.findIndex((category) => b.category === category),
 		)
 		.sort((a, b) => (b.sorting || 0) - (a.sorting || 0));
 }
@@ -91,7 +91,7 @@ export function sortSongs(songs: Song[]): Song[] {
 		.sort(
 			(a, b) =>
 				CATEGORY_ORDER.findIndex((category) => a.tags[0] === category) -
-				CATEGORY_ORDER.findIndex((category) => b.tags[0] === category)
+				CATEGORY_ORDER.findIndex((category) => b.tags[0] === category),
 		)
 		.sort((a, b) => (b.sorting || 0) - (a.sorting || 0));
 }

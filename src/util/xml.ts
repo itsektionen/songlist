@@ -35,7 +35,7 @@ function songContentToXml(content: Song['content']): string {
 				paragraph
 					.split('\n')
 					.map((s) => s.substring(2))
-					.join('\n')
+					.join('\n'),
 			)}</comment>\n`;
 		} else {
 			xml += `\t\t<p>${xmlifyParagraph(paragraph)}</p>\n`;

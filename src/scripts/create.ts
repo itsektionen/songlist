@@ -8,7 +8,7 @@ import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
 import { getAllSongPaths } from '../util/songs';
 
-export default function create(title: string, ...args: string[]): void {
+export default async function create(title: string, ...args: string[]): Promise<void> {
 	if (!title) return console.error('A title for the new song must be provided!');
 	const { id, ...parsedArgs } = parseArgs(args);
 
@@ -18,14 +18,14 @@ export default function create(title: string, ...args: string[]): void {
 
 	if (id !== undefined) pushIds(id);
 
-	writeFileSync(join(SONGS_FOLDER_PATH, newTitle), newContent);
+	writeFileSync(join(SONGS_FOLDER_PATH, newTitle), await newContent);
 }
 
 function nextId(): number {
 	return getAllSongPaths().length;
 }
 
-function generateDefaultSongFileContent(
+async function generateDefaultSongFileContent(
 	title: string,
 	{
 		author,
@@ -33,8 +33,8 @@ function generateDefaultSongFileContent(
 		composer,
 		tags = [],
 		content,
-	}: Omit<Song, 'id' | 'title' | 'deleted' | 'content'> & { content?: string }
-): string {
+	}: Omit<Song, 'id' | 'title' | 'deleted' | 'content'> & { content?: string },
+): Promise<string> {
 	let contentBuilder = `---\ntitle: ${title}\n`;
 	contentBuilder += `author: ${author || ''}\n`;
 	contentBuilder += `melody: ${melody || ''}\n`;
@@ -43,11 +43,11 @@ function generateDefaultSongFileContent(
 	contentBuilder += '---\n';
 	if (content) contentBuilder += content;
 
-	return format(contentBuilder, { parser: 'markdown' });
+	return await format(contentBuilder, { parser: 'markdown' });
 }
 
 function parseArgs(
-	args: string[]
+	args: string[],
 ): Partial<Omit<Song, 'title' | 'deleted' | 'tags'>> & { tags: Tag[] } {
 	const [idString] = getArgValues(args, 'id');
 	const [author] = getArgValues(args, 'author');
