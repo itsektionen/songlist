@@ -1,13 +1,10 @@
 ---
 title: O, gamla klang- och jubeltid!
-author: [
-	{
-		name: August Lindh,
-		event: Juvenalorden,
-		location: Uppsala,
-		year: 1921
-	}
-]
+author:
+  - name: August Lindh
+    event: Juvenalorden
+    location: Uppsala
+    year: 1921
 melody: O alte Burschenherrlichkeit
 composer: Eugen Höfling (1825)
 tags: [solemn, swe]

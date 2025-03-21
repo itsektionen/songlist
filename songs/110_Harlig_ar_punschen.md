@@ -1,12 +1,10 @@
 ---
 title: Härlig är punschen
-author: [
-	{
-		event: Juristspexet Ansgar,
-		year: 2003
-	}
-]
+author:
+  - event: Juristspexet Ansgar
+    year: 2003
 melody: Nu grönskar det
+composer: Johann Sebastian Bach
 tags: [punsch, swe]
 ---
 

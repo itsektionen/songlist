@@ -7,7 +7,7 @@ import generateFileName from '../util/generateFileName';
 import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
 import { getAllSongPaths } from '../util/songs';
-import { Author } from '../definitions/author';
+import { Author, VALID_AUTHOR_KEYS } from '../definitions/author';
 
 export default function create(title: string, ...args: string[]): void {
 	if (!title) return console.error('A title for the new song must be provided!');
@@ -37,7 +37,14 @@ function generateDefaultSongFileContent(
 	}: Omit<Song, 'id' | 'title' | 'deleted' | 'content'> & { content?: string }
 ): string {
 	let contentBuilder = `---\ntitle: ${title}\n`;
-	contentBuilder += `author: ${JSON.stringify(author) || ''}\n`;
+
+	if (author) {
+		contentBuilder += `author:\n`;
+		author.forEach((a) => {
+			contentBuilder += `  - ${formatAuthor(a)}`;
+		});
+	}
+
 	contentBuilder += `melody: ${melody || ''}\n`;
 	contentBuilder += `composer: ${composer || ''}\n`;
 	contentBuilder += `tags: [${tags.join(', ')}]\n`;
@@ -88,4 +95,22 @@ function parseArgs(
 function getArgValues(args: string[], key: string): string[] {
 	const [_key, ...values] = args.find((arg) => arg.startsWith(`--${key}=`))?.split('=') || [];
 	return values;
+}
+
+function formatAuthor(author: Author): string {
+	let result = '';
+	let first = true;
+
+	for (const key of VALID_AUTHOR_KEYS) {
+		const value = author[key] ? author[key] : '';
+
+		if (first) {
+			result += `${key}: ${value}\n`;
+			first = false;
+		} else {
+			result += `    ${key}: ${value}\n`;
+		}
+	}
+
+	return result;
 }

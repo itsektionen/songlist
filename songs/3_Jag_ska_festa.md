@@ -1,13 +1,10 @@
 ---
 title: Jag ska festa
-author: [
-	{
-		name: "Stefan 'Stege' Gennert, D-86, och Anders 'Pellefjant' Bjerkén, D-87", 
-		event: Sångarstriden,
-		location: Lund,
-		year: 1987
-	}
-]
+author:
+  - name: Stefan "Stege" Gennert, D-86, och Anders "Pellefjant" Bjerkén, D-87
+    event: Sångarstriden
+    location: Lund
+    year: 1987
 melody: Bamsesången
 composer: Sten Carlberg
 tags: [gasque, swe]

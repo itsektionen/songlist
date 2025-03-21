@@ -1,12 +1,9 @@
 ---
 title: Rackaren
-author: [
-	{
-		event: Kårspexet Munken,
-		location: KTH,
-		year: 1983
-	}
-]
+author:
+  - event: Kårspexet Munken
+    location: KTH
+    year: 1983
 melody: Hamburger Ebb und Fluth
 composer: Georg Philipp Telemann
 tags: [snaps, swe]

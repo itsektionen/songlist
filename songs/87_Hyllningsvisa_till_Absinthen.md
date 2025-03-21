@@ -1,12 +1,9 @@
 ---
 title: Hyllningsvisa till Absinthen
-author: [
-	{
-		name: Sing-Sing Singers,
-		location: KTH,
-		year: 2000
-	}
-]
+author:
+  - name: Sing-Sing Singers
+    location: KTH
+    year: 2000
 melody: O come all ye faithful
 tags: [snaps, swe]
 ---

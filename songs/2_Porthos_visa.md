@@ -1,14 +1,11 @@
 ---
 title: Porthos visa
-author: [
-	{
-		name: 'Tord Andrén, B',
-		event: Bergsspexet,
-		location: KTH,
-		year: 1960,
-		comment: Ursprungligen Athos visa
-	}
-]
+author:
+  - name: Tord Andrén, B
+    event: Bergsspexet
+    location: KTH
+    year: 1960
+    comment: Ursprungligen Athos visa
 melody: You can't get a man with a gun
 composer: Irving Berlin
 tags: [gasque, swe]

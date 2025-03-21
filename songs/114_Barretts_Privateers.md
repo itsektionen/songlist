@@ -1,10 +1,8 @@
 ---
 title: Barrett's Privateers
-author: [
-	{
-		name: Stan Rogers
-	}
-]
+author:
+  - name: Stan Rogers
+    year: 1976
 tags: [foreign, eng]
 ---
 

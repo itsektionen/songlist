@@ -1,11 +1,8 @@
 ---
 title: invITensången
-author: [
-	{
-		name: Daniel Byström,
-		location: KTH
-	}
-]
+author:
+  - name: Daniel Byström
+    location: KTH
 melody: Kungssången
 composer: Otto Lindblad
 tags: [solemn, swe]

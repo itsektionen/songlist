@@ -1,11 +1,8 @@
 ---
 title: Vart tog den schlema lilla nØllan vägen?
-author: [
-	{
-		name: Kjell Ahlström,
-		location: KTH
-	}
-]
+author:
+  - name: Kjell Ahlström
+    location: KTH
 melody: Vart tog den söta lilla flickan vägen
 tags: [esoteric, swe]
 ---

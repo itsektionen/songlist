@@ -1,12 +1,9 @@
 ---
 title: Faddersången 2001
-author: [
-	{
-		name: Kjell Ahlström,
-		location: KTH,
-		year: 2001
-	}
-]
+author:
+  - name: Kjell Ahlström
+    location: KTH
+    year: 2001
 melody: SJ, SJ, gamle vän
 composer: Elizabeth Cotten
 tags: [esoteric, swe]

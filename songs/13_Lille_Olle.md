@@ -1,11 +1,8 @@
 ---
 title: Lille Olle
-author: [
-	{
-		name: 'Calle Isaksson, D',
-		location: LiTH
-	}
-]
+author:
+  - name: Calle Isaksson, D
+    location: LiTH
 melody: Katjuscha
 composer: Matvey Blanter
 tags: [gasque, swe]

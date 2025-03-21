@@ -1,12 +1,9 @@
 ---
 title: Ganska nykter
-author: [
-	{
-		name: 'Strängteoretiquerna, IT',
-		location: KTH,
-		year: 2015
-	}
-]
+author:
+  - name: Strängteoretiquerna, IT
+    location: KTH
+    year: 2015
 melody: Vi äro musikanter
 tags: [snaps, swe]
 ---

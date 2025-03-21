@@ -1,11 +1,8 @@
 ---
 title: Bacchivisan
-author: [
-	{
-		name: Kjell Ahlström,
-		location: KTH
-	}
-]
+author:
+  - name: Kjell Ahlström
+    location: KTH
 melody: Agadoo (ungefär)
 tags: [esoteric, swe]
 ---

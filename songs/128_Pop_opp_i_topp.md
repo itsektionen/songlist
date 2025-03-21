@@ -1,11 +1,8 @@
 ---
 title: Pop opp i topp
-author: [
-	{
-		name: Thore Skogman,
-		year: 1965
-	}
-]
+author:
+  - name: Thore Skogman
+    year: 1965
 tags: [esoteric, swe]
 ---
 

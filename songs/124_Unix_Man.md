@@ -1,10 +1,7 @@
 ---
 title: Unix Man
-author: [
-	{
-		name: Bran Morrison
-	}
-]
+author:
+  - name: Brad Morrison
 melody: Nowhere Man
 composer: John Lennon and Paul McCartney
 tags: [nerdy, eng]

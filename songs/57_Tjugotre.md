@@ -1,11 +1,8 @@
 ---
 title: Tjugotre
-author: [
-	{
-		name: 'Carl Nisser, E-80',
-		location: KTH
-	}
-]
+author:
+  - name: Carl Nisser, E-80
+    location: KTH
 melody: Amanda Lundbom
 tags: [snaps, swe]
 ---

@@ -1,11 +1,8 @@
 ---
 title: Treo-comp
-author: [
-	{
-		event: Lundakarnevalen,
-		year: 1986
-	}
-]
+author:
+  - event: Lundakarnevalen
+    year: 1986
 melody: Längtan till landet
 composer: Otto Lindblad
 tags: [gasque, swe]

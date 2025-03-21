@@ -1,11 +1,8 @@
 ---
 title: My heart will go on
-author: [
-	{
-		name: Celine Dion,
-		year: 1997
-	}
-]
+author:
+  - name: Celine Dion
+    year: 1997
 composer: James Horner
 tags: [foreign, eng]
 ---

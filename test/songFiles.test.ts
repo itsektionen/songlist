@@ -45,11 +45,15 @@ describe('All songs have valid data', () => {
 						).toContain(key);
 					});
 
-					if ('name' in author) expect(typeof author.name).toBe('string');
-					if ('event' in author) expect(typeof author.event).toBe('string');
-					if ('location' in author) expect(typeof author.location).toBe('string');
-					if ('year' in author) expect(typeof author.year).toBe('number');
-					if ('comment' in author) expect(typeof author.comment).toBe('string');
+					VALID_AUTHOR_KEYS.forEach((key) => {
+						if (key in author && author[key]) {
+							if (key === 'year') {
+								expect(typeof author[key]).toBe('number');
+							} else {
+								expect(typeof author[key]).toBe('string');
+							}
+						}
+					});
 				});
 			}
 

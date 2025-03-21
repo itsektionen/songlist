@@ -1,12 +1,9 @@
 ---
 title: I Love Punsch
-author: [
-	{
-		name: 'Samuel Larsson, IT',
-		location: KTH,
-		year: 2020
-	}
-]
+author:
+  - name: Samuel Larsson, IT-17
+    location: KTH
+    year: 2020
 melody: Java Jive
 composer: Ben Oakland and Milton Drake
 tags: [punsch, eng]

@@ -1,11 +1,8 @@
 ---
 title: Vår flygpilot
-author: [
-	{
-		name: 'Dain Nilsson, IT-04',
-		location: KTH
-	}
-]
+author:
+  - name: Dain Nilsson, IT-04
+    location: KTH
 melody: Oh Tannenbaum
 tags: [esoteric, swe]
 ---

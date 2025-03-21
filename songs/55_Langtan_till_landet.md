@@ -1,12 +1,9 @@
 ---
 title: Längtan till landet
-author: [
-	{
-		name: Herman Sätherberg och Otto Lindblad,
-		year: 1838
-	}
-]
-composer: Herman Sätherberg och Otto Lindblad
+author:
+  - name: Herman Sätherberg
+    year: 1838
+composer: Otto Lindblad
 tags: [wine, swe]
 ---
 

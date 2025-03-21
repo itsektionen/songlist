@@ -1,11 +1,8 @@
 ---
 title: Härjarevisan
-author: [
-	{
-		event: Lundaspexet Djingis Khan,
-		year: 1954
-	}
-]
+author:
+  - event: Lundaspexet Djingis Khan
+    year: 1954
 melody: Gärdebylåten
 tags: [gasque, swe]
 ---

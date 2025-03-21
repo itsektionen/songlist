@@ -1,13 +1,10 @@
 ---
 title: Write in C
-author: [
-	{
-		name: Jay Piecora,
-		location: SUNY Binghamton
-	}
-]
+author:
+  - name: Jay Piecora
+    location: SUNY Binghamton
 melody: Let It Be
-composer: John Lennon, Paul McCartney
+composer: John Lennon och Paul McCartney
 tags: [nerdy, eng]
 ---
 

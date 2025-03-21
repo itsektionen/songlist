@@ -1,11 +1,8 @@
 ---
 title: Man ska gå ME
-author: [
-	{
-		name: Viktor Åberg,
-		location: KTH
-	}
-]
+author:
+  - name: Viktor Åberg
+    location: KTH
 melody: Man ska ha husvagn
 composer: Claes Eriksson
 tags: [esoteric, swe]

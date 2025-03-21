@@ -1,11 +1,8 @@
 ---
 title: Regalskeppet Vasa
-author: [
-	{
-		name: Den Kongliga invITen,
-		location: KTH
-	}
-]
+author:
+  - name: Den Kongliga invITen
+    location: KTH
 melody: Ser du stjärnan i det blå
 composer: Leigh Harline
 tags: [snaps, swe]

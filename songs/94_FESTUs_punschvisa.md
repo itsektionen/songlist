@@ -1,11 +1,8 @@
 ---
 title: FestU:s punschvisa
-author: [
-	{
-		name: FestU,
-		location: Chalmers
-	}
-]
+author:
+  - name: FestU
+    location: Chalmers
 melody: Tomtarnas julnatt
 composer: Vilhelm Sefve-Svensson
 tags: [punsch, swe]

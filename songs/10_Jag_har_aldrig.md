@@ -1,25 +1,20 @@
 ---
 title: Jag har aldrig...
-author: [
-	{
-		name: 'Team Kangaroo, F',
-		event: Gerhards-gasque,
-		location: KTH,
-		year: 1977,
-		comment: Handelsvisan
-	}, {
-		name: DKM,
-		location: KTH,
-		year: 2000,
-		comment: Fysikvisan
-	}, {
-		name: Mattis Castegren,
-		event: Fysiksektionens Ettans fest,
-		location: KTH,
-		year: 2001,
-		comment: Datavisan
-	}
-]
+author:
+  - name: Team Kangaroo, F
+    event: Gerhards-gasque
+    location: KTH
+    year: 1977
+    comment: Handelsvisan
+  - name: DKM
+    location: KTH
+    year: 2000
+    comment: Fysikvisan
+  - name: Mattis Castegren
+    event: Fysiksektionens Ettans fest
+    location: KTH
+    year: 2001
+    comment: Datavisan
 melody: O, hur saligt att få vandra
 composer: Robert Lowry
 tags: [gasque, swe]

@@ -1,10 +1,7 @@
 ---
 title: En gång däran
-author: [
-	{
-		name: Evert Taube
-	}
-]
+author:
+  - name: Evert Taube
 composer: Evert Taube
 tags: [snaps, swe]
 ---

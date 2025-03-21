@@ -1,11 +1,8 @@
 ---
 title: PRAOs visa
-author: [
-	{
-		name: 'Niklas Söderlund och Wilhelm Svenselius, IT-03',
-		location: KTH
-	}
-]
+author:
+  - name: Niklas Söderlund och Wilhelm Svenselius, IT-03
+    location: KTH
 melody: När månen vandrar
 tags: [esoteric, swe]
 ---

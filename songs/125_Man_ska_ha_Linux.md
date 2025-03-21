@@ -1,11 +1,8 @@
 ---
 title: Man ska ha Linux
-author: [
-	{
-		name: 'Erik Rålenius, IT',
-		location: KTH
-	}
-]
+author:
+  - name: Erik Rålenius, IT
+    location: KTH
 melody: Man ska ha husvagn
 composer: Claes Eriksson
 tags: [nerdy, swe]

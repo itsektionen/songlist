@@ -1,12 +1,9 @@
 ---
 title: Vi tar en enkel liten sång
-author: [
-	{
-		name: 'Strängteoretiquerna, IT',
-		location: KTH,
-		year: 2015
-	}
-]
+author:
+  - name: Strängteoretiquerna, IT
+    location: KTH
+    year: 2015
 melody: Med en enkel tulipan
 composer: Jules Sylvain och Sven Paddock
 tags: [gasque, swe]

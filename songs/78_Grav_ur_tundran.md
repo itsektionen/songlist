@@ -1,12 +1,9 @@
 ---
 title: Gräv ur tundran
-author: [
-	{
-		event: Ekonomspexet Lenin,
-		location: Stockholms universitet,
-		year: 1989
-	}
-]
+author:
+  - event: Ekonomspexet Lenin
+    location: Stockholms universitet
+    year: 1989
 melody: Katjuscha
 composer: Matvey Blanter
 tags: [snaps, swe]

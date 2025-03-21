@@ -1,11 +1,8 @@
 ---
 title: Danse macabre
-author: [
-	{
-		name: Carl-Erik Carlstedt,
-		location: Chalmers
-	}
-]
+author:
+  - name: Carl-Erik Carlstedt
+    location: Chalmers
 melody: Vårvindar friska
 tags: [gasque, swe]
 ---

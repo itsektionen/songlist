@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-03-20">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-03-22">
 	<song
 		name="Moder Kista"
 		id="0"
-		author="David Larsson, IT-00 (KTH, 2000)"
+		author="David Larsson, IT-00 (IT-nØllningen, KTH, 2000)"
 		composer="Otto Lindblad"
 		melody="Längtan till landet"
 		category="Gasque"
@@ -115,7 +115,7 @@
 	<song
 		name="Jag ska festa"
 		id="3"
-		author="Stefan 'Stege' Gennert, D-86, och Anders 'Pellefjant' Bjerkén, D-87 (Sångarstriden, Lund, 1987)"
+		author="Stefan "Stege" Gennert, D-86, och Anders "Pellefjant" Bjerkén, D-87 (Sångarstriden, Lund, 1987)"
 		composer="Sten Carlberg"
 		melody="Bamsesången"
 		category="Gasque"
@@ -587,7 +587,7 @@
 	<song
 		name="Jag var full en gång..."
 		id="11"
-		composer="Hugo Lindh, Gösta 'Snoddas' Nordgren"
+		composer="Hugo Lindh, Gösta "Snoddas" Nordgren"
 		melody="Flottarkärlek"
 		category="Gasque"
 	>
@@ -838,7 +838,7 @@
 	<song
 		name="När jag är fuller"
 		id="15"
-		author="Tore 'Pekka' Norén, B (Sångartäflan, KTH, 1942)"
+		author="Tore "Pekka" Norén, B (Sångartäflan,, KTH,, 1942)"
 		melody="När månen vandrar"
 		category="Gasque"
 	>
@@ -1378,7 +1378,7 @@
 	<song
 		name="Viking Raiders"
 		id="154"
-		author="Samuel Larsson, IT (KTH, 2020)"
+		author="Samuel Larsson, IT-17 (KTH, 2020)"
 		melody="Spanish Ladies"
 		category="Gasque"
 	>
@@ -2038,8 +2038,8 @@
 	<song
 		name="Längtan till landet"
 		id="55"
-		author="Herman Sätherberg och Otto Lindblad (1838)"
-		composer="Herman Sätherberg och Otto Lindblad"
+		author="Herman Sätherberg (1838)"
+		composer="Otto Lindblad"
 		category="Wihn"
 	>
 		<p>
@@ -3491,6 +3491,7 @@
 		name="Härlig är punschen"
 		id="110"
 		author="(Juristspexet Ansgar, 2003)"
+		composer="Johann Sebastian Bach"
 		melody="Nu grönskar det"
 		category="Punsch"
 	>
@@ -3519,7 +3520,7 @@
 		name="Nu blotas det"
 		id="111"
 		author="(Juristspexet Ansgar, 2003)"
-		composer="Johann Sebastian Bac"
+		composer="Johann Sebastian Bach"
 		melody="Nu grönskar det"
 		category="Punsch"
 	>
@@ -3549,7 +3550,7 @@
 		id="112"
 		author="DKM (KTH, 2000)"
 		composer="John Williams"
-		melody="Imperial march, Star Wars"
+		melody="Imperial march (Star Wars)"
 		category="Punsch"
 	>
 		<p>
@@ -3643,7 +3644,7 @@
 	<song
 		name="I Love Punsch"
 		id="159"
-		author="Samuel Larsson, IT (KTH, 2020)"
+		author="Samuel Larsson, IT-17 (KTH, 2020)"
 		composer="Ben Oakland and Milton Drake"
 		melody="Java Jive"
 		category="Punsch"
@@ -3664,7 +3665,7 @@
 	<song
 		name="Barrett's Privateers"
 		id="114"
-		author="Stan Rogers"
+		author="Stan Rogers (1976)"
 		category="Utländskt"
 	>
 		<p>
@@ -4263,7 +4264,7 @@
 	<song
 		name="Unix Man"
 		id="124"
-		author="Bran Morrison"
+		author="Brad Morrison"
 		composer="John Lennon and Paul McCartney"
 		melody="Nowhere Man"
 		category="Nördigt"
@@ -4460,7 +4461,7 @@
 		name="Write in C"
 		id="161"
 		author="Jay Piecora (SUNY Binghamton)"
-		composer="John Lennon, Paul McCartney"
+		composer="John Lennon och Paul McCartney"
 		melody="Let It Be"
 		category="Nördigt"
 	>
@@ -4823,7 +4824,7 @@
 		name="Sång till Stor-MUX"
 		id="136"
 		author="Erik Lundberg och Wilhelm Svenselius, IT-03 (KTH)"
-		melody="Balladen om Theobald Thor"
+		melody="The Ball of Kirriemuir (Balladen om Theobald Thor)"
 		category="Esoterica"
 	>
 		<p>

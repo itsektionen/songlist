@@ -1,11 +1,8 @@
 ---
 title: Starke Arvid
-author: [
-	{
-		name: 'Ola, Frukt och Flingor',
-		year: 1979
-	}
-]
+author:
+  - name: Ola, Frukt och Flingor
+    year: 1979
 tags: [esoteric, swe]
 ---
 
