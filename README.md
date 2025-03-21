@@ -71,7 +71,12 @@ All files are named and contain two sections, YAML front matter first and conten
 The front matter is contained by one line with `---` each before and after the section. Possible fields in the front matter are:
 
 - `title`, the name or title of the song **(required)**
-- `author`, the person or persons who wrote the lyrics of the song
+- `author`, information about the person or persons who wrote the lyrics of the song
+  - `name`, the name of the person or persons who wrote the lyrics of the song
+  - `event`, the event for which the song was made
+  - `location`, the city or university where the song is from
+  - `year`, the year the song was written
+  - `comment`, a comment about the author (for example, if an author wrote one of the verses)
 - `melody`, the melody the song is sung to
 - `composer`, the composer of the melody
 - `tags`, list of categories the songs fall in to and other identifiers (valid tags can be found in [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(required)**
@@ -85,7 +90,11 @@ Any field without a value should be omitted.
 ```yml
 ---
 title: Moder Kista
-author: David Larsson, IT00
+author:
+  - name: David Larsson, IT-00
+    event: IT-nØllningen
+    location: KTH
+    year: 2000
 melody: Längtan till landet
 composer: Otto Lindblad
 tags: [gasque, swe]
@@ -164,12 +173,17 @@ Builds files. Can optionally provide a date in the [ISO 8601](https://en.wikiped
 
 #### `yarn script create [title]`
 
-Creates a new song with the next possible ID and the given title. Front matter becomes populated with empty fields to make it as easy as possible to add them in. Optionally values to fields can be provided when running the script, e.g. `yarn script create "Moder Kista" --author="David Larsson, IT00" --tags=gasque` will have the following front matter:
+Creates a new song with the next possible ID and the given title. Front matter becomes populated with empty fields to make it as easy as possible to add them in. Optionally values to fields can be provided when running the script, e.g. `yarn script create "Moder Kista" --author="David Larsson, IT-00" --tags=gasque` will have the following front matter:
 
 ```yaml
 ---
 title: Moder Kista
-author: David Larsson, IT00
+author:
+  - name: David Larsson, IT-00
+    event:
+    location:
+    year:
+    comment:
 melody:
 composer:
 tags: [gasque]
@@ -284,6 +298,12 @@ Fronten har en rad med `---` före och efter sektionen. Möjliga fält i fronten
 
 - `title`, namnet eller titeln på sången **(obligatorisk)**
 - `author`, personen eller personerna som skrev sångtexten
+- `author`, information om personen eller personerna som skrev sångtexten
+  - `name`, personen eller personerna som skrev sångtexten
+  - `event`, evenemanget sången skrevs till
+  - `location`, staden eller universitetet som sången kommer ifrån
+  - `year`, året sången skrevs
+  - `comment`, kommentar om skribenten (exempelvis om en skribent har skrivit en av verserna)
 - `melody`, melodin som sången sjungs i
 - `composer`, kompositör till melodin
 - `tags`, lista med kategorier som sångerna tillhör och andra identifierare (giltiga taggar hittas i [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(obligatorisk)**
@@ -297,7 +317,11 @@ Alla fält utan värde bör utelämnas.
 ```yml
 ---
 title: Moder Kista
-author: David Larsson, IT00
+author:
+  - name: David Larsson, IT-00
+    event: IT-nØllningen
+    location: KTH
+    year: 2000
 melody: Längtan till landet
 composer: Otto Lindblad
 tags: [gasque, swe]
@@ -377,12 +401,17 @@ Kompilerar filer. Man kan valfritt ange ett datum i formatet [ISO 8601](https://
 
 #### `yarn script create [titel]`
 
-Skapar en ny sång med nästa möjliga ID och den givna titeln. Fronten fylls med tomma fält för att göra är så enkelt som möjligt att fylla i dem. Valfritt kan värden till fält tillhandahållas när man kör skriptet, t.ex. `yarn script create "Moder Kista" --author="David Larsson, IT00" --tags=gasque` kommer att ha följande front:
+Skapar en ny sång med nästa möjliga ID och den givna titeln. Fronten fylls med tomma fält för att göra är så enkelt som möjligt att fylla i dem. Valfritt kan värden till fält tillhandahållas när man kör skriptet, t.ex. `yarn script create "Moder Kista" --author="David Larsson, IT-00" --tags=gasque` kommer att ha följande front:
 
 ```yaml
 ---
 title: Moder Kista
-author: David Larsson, IT00
+author:
+  - name: David Larsson, IT-00
+    event:
+    location:
+    year:
+    comment:
 melody:
 composer:
 tags: [gasque]
