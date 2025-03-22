@@ -1,7 +1,7 @@
 ---
 title: I Love Punsch
 author:
-  - name: Samuel Larsson, IT-17
+  - name: Samuel Larsson, IN-17
     location: KTH
     year: 2020
 melody: Java Jive
