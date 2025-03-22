@@ -69,6 +69,6 @@ export const CATEGORY_ORDER = [
 	UNKNOWN,
 ];
 
-export type Tag = typeof TAGS[number];
+export type Tag = (typeof TAGS)[number];
 
-export type LegacyCategory = typeof LEGACY_ORDER[number];
+export type LegacyCategory = (typeof LEGACY_ORDER)[number];

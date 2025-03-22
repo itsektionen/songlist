@@ -48,7 +48,7 @@ describe('All IDs are valid', () => {
 		songs.forEach((song) => {
 			expect(
 				song.id,
-				`No song ID can be greater than 4095 (found in song with title ${song.title})`
+				`No song ID can be greater than 4095 (found in song with title ${song.title})`,
 			).toBeLessThanOrEqual(4095);
 		});
 	});

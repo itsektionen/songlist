@@ -11,14 +11,14 @@ import { isoDateRegex } from '../util/regex';
 import createSongs from '../util/createSongs';
 import dayjs from 'dayjs';
 
-export default function build(customUpdatedAt: string | undefined): void {
+export default async function build(customUpdatedAt: string | undefined): Promise<void> {
 	const updatedAt = customUpdatedAt?.match(isoDateRegex)
 		? customUpdatedAt
 		: dayjs().format('YYYY-MM-DD');
 
 	const buildSongs = createSongs(updatedAt);
 
-	writeJson(buildSongs.json);
+	writeJson(await buildSongs.json);
 	writeXml(buildSongs.xml);
 	writeXmlWithoutIds(buildSongs.xmlNoIds);
 	console.log('Build complete and saved');
@@ -31,7 +31,7 @@ export default function build(customUpdatedAt: string | undefined): void {
 	});
 	if (filesToRemove.length)
 		console.log(
-			`Removed ${filesToRemove.length} unneeded file${filesToRemove.length !== 1 ? 's' : ''}`
+			`Removed ${filesToRemove.length} unneeded file${filesToRemove.length !== 1 ? 's' : ''}`,
 		);
 }
 
