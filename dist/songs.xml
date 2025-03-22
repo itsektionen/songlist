@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IN-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-03-13">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-03-22">
 	<song
 		name="Moder Kista"
 		id="0"
-		author="David Larsson, IT00"
+		author="David Larsson, IT-00 (IT-nØllningen, KTH, 2000)"
 		composer="Otto Lindblad"
 		melody="Längtan till landet"
 		category="Gasque"
@@ -46,9 +46,9 @@
 		</p>
 	</song>
 	<song
-		name="Dance macabre"
+		name="Danse macabre"
 		id="1"
-		author="Carl-Erik Carlstedt, Chalmers"
+		author="Carl-Erik Carlstedt (Chalmers)"
 		melody="Vårvindar friska"
 		category="Gasque"
 	>
@@ -80,7 +80,7 @@
 	<song
 		name="Porthos visa"
 		id="2"
-		author="Tore Norén, Bergsspexet, 1960"
+		author="Tord Andrén, B (Bergsspexet, KTH, 1960 — Ursprungligen Athos visa)"
 		composer="Irving Berlin"
 		melody="You can't get a man with a gun"
 		category="Gasque"
@@ -115,7 +115,7 @@
 	<song
 		name="Jag ska festa"
 		id="3"
-		author="Stefan 'Stege' Gennert och Anders 'Pellefjant' Bjerkén, Sångarstriden Lund, 1987"
+		author="Stefan "Stege" Gennert, D-86, och Anders "Pellefjant" Bjerkén, D-87 (Sångarstriden, Lund, 1987)"
 		composer="Sten Carlberg"
 		melody="Bamsesången"
 		category="Gasque"
@@ -154,7 +154,7 @@
 	<song
 		name="Lyft ditt välförsedda glas"
 		id="4"
-		author="Medicinarspexet Göteborg, 1970"
+		author="(Medicinarspexet, Göteborg, 1970)"
 		composer="Jehan Tabourot, George Ratcliffe Woodward, Charles Wood"
 		melody="Ding dong merrily on high"
 		category="Gasque"
@@ -186,7 +186,7 @@
 	<song
 		name="Fredmans sång nr. 21"
 		id="5"
-		author="Carl Michael Bellman"
+		author="Carl Michael Bellman (1787)"
 		composer="Carl Michael Bellman"
 		category="Gasque"
 	>
@@ -308,7 +308,7 @@
 	<song
 		name="Härjarevisan"
 		id="6"
-		author="Lundaspexet Djingis Khan, 1954"
+		author="(Lundaspexet Djingis Khan, 1954)"
 		melody="Gärdebylåten"
 		category="Gasque"
 	>
@@ -404,7 +404,7 @@
 	<song
 		name="Système International"
 		id="9"
-		author="Anders Skog, F-75"
+		author="Anders Skog, F-75 (KTH)"
 		composer="Prins Gustaf av Sverige och Norge"
 		melody="Studentsången"
 		category="Gasque"
@@ -422,9 +422,9 @@
 	<song
 		name="Jag har aldrig..."
 		id="10"
-		author="(Handelsvisan) Team Kangaroo, 1977; (Fysikvisan) DKM, 2000; (Datavisan) Mattis Castegren, 2001"
-		composer="Joël Blomqvist och Per Ollén"
-		melody="O hur saligt att få vandra"
+		author="Team Kangaroo, F (Gerhards-gasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan)"
+		composer="Robert Lowry"
+		melody="O, hur saligt att få vandra"
 		category="Gasque"
 	>
 		<p>
@@ -587,7 +587,7 @@
 	<song
 		name="Jag var full en gång..."
 		id="11"
-		composer="Hugo Lindh, Gösta 'Snoddas' Nordgren"
+		composer="Hugo Lindh, Gösta "Snoddas" Nordgren"
 		melody="Flottarkärlek"
 		category="Gasque"
 	>
@@ -782,7 +782,7 @@
 	<song
 		name="Lille Olle"
 		id="13"
-		author="Calle Isaksson, D-LiTH"
+		author="Calle Isaksson, D (LiTH)"
 		composer="Matvey Blanter"
 		melody="Katjuscha"
 		category="Gasque"
@@ -838,7 +838,7 @@
 	<song
 		name="När jag är fuller"
 		id="15"
-		author="Sångartäflan, 1942"
+		author="Tore "Pekka" Norén, B (Sångartäflan,, KTH,, 1942)"
 		melody="När månen vandrar"
 		category="Gasque"
 	>
@@ -894,7 +894,7 @@
 	<song
 		name="Störthärligt full"
 		id="16"
-		author="Hittad på Handels, 1981"
+		author="(1981 — Hittad på Handels)"
 		composer="Povel Ramel"
 		melody="Fat Mammy Brown"
 		category="Gasque"
@@ -973,7 +973,7 @@
 	<song
 		name="Bort allt vad oro gör"
 		id="17"
-		author="Carl Michael Bellman"
+		author="Carl Michael Bellman (1783 — Bacchi Tempel sång nr. 17)"
 		composer="Carl Michael Bellman"
 		category="Gasque"
 	>
@@ -1170,7 +1170,7 @@
 	<song
 		name="Anti-snapsvisa"
 		id="23"
-		author="Lundakarnevalen, 1986"
+		author="(Lundakarnevalen, 1986)"
 		composer="Evert Taube"
 		melody="Sjösala vals"
 		category="Gasque"
@@ -1191,7 +1191,7 @@
 	<song
 		name="Cidervisan"
 		id="24"
-		author="Strängteoretiquerna, 2015"
+		author="Strängteoretiquerna, IT (KTH, 2015)"
 		composer="Thorbjørn Egner"
 		melody="Rövarnas visa"
 		category="Gasque"
@@ -1224,7 +1224,7 @@
 	<song
 		name="Vi tar en enkel liten sång"
 		id="25"
-		author="Strängteoretiquerna, 2015"
+		author="Strängteoretiquerna, IT (KTH, 2015)"
 		composer="Jules Sylvain och Sven Paddock"
 		melody="Med en enkel tulipan"
 		category="Gasque"
@@ -1246,7 +1246,7 @@
 	<song
 		name="Treo-comp"
 		id="26"
-		author="Lundakarnevalen, 1986"
+		author="(Lundakarnevalen, 1986)"
 		composer="Otto Lindblad"
 		melody="Längtan till landet"
 		category="Gasque"
@@ -1311,7 +1311,7 @@
 	<song
 		name="Vit vecka"
 		id="29"
-		author="Sångarstriden Lund, 1992"
+		author="(Sångarstriden, Lund, 1992)"
 		composer="Irving Berlin"
 		melody="White Christmas"
 		category="Gasque"
@@ -1378,7 +1378,7 @@
 	<song
 		name="Viking Raiders"
 		id="154"
-		author="Samuel Larsson (2020)"
+		author="Samuel Larsson, IT-17 (KTH, 2020)"
 		melody="Spanish Ladies"
 		category="Gasque"
 	>
@@ -1742,7 +1742,7 @@
 	<song
 		name="Öppna en öhl"
 		id="44"
-		author="Carl Brengesjö, 2013"
+		author="Carl Brengesjö (KTH, 2013)"
 		composer="Tommy Nilsson"
 		melody="Öppna din dörr"
 		category="Öhl"
@@ -1887,7 +1887,7 @@
 	<song
 		name="Elysisk längtan"
 		id="49"
-		author="Sångarstriden Lund, 1968"
+		author="(Sångarstriden, Lund, 1968)"
 		composer="Ludwig van Beethoven"
 		melody="An die Freude (Ode to Joy)"
 		category="Wihn"
@@ -2038,8 +2038,8 @@
 	<song
 		name="Längtan till landet"
 		id="55"
-		author="Herman Sätherberg och Otto Lindblad"
-		composer="Herman Sätherberg och Otto Lindblad"
+		author="Herman Sätherberg (1838)"
+		composer="Otto Lindblad"
 		category="Wihn"
 	>
 		<p>
@@ -2097,7 +2097,7 @@
 	<song
 		name="Tjugotre"
 		id="57"
-		author="Carl Nisser, E-80"
+		author="Carl Nisser, E-80 (KTH)"
 		melody="Amanda Lundbom"
 		category="Brännvin"
 	>
@@ -2397,7 +2397,7 @@
 	<song
 		name="Livet är härligt"
 		id="69"
-		author="Chalmersspexet Katarina II, 1959"
+		author="(Chalmersspexet Katarina II, 1959)"
 		composer="Lev Knipper"
 		melody="Röda kavalleriet (Polyushko-Pole)"
 		category="Brännvin"
@@ -2432,7 +2432,7 @@
 	<song
 		name="Vikingen"
 		id="70"
-		author="Sångarstriden, Lund, 1981"
+		author="E-Sektionen (Sångarstriden, Lund, 1981)"
 		melody="When Johnny comes marching home"
 		category="Brännvin"
 	>
@@ -2646,7 +2646,7 @@
 	<song
 		name="Gräv ur tundran"
 		id="78"
-		author="Ekonomspexet Lenin, 1989"
+		author="(Ekonomspexet Lenin, Stockholms universitet, 1989)"
 		composer="Matvey Blanter"
 		melody="Katjuscha"
 		category="Brännvin"
@@ -2776,7 +2776,7 @@
 	<song
 		name="Häv, häv detta glas"
 		id="83"
-		author="Erik Rålenius"
+		author="Erik Rålenius, IT (KTH)"
 		composer="Alice Tegnér"
 		melody="Bä, bä vita lamm"
 		category="Brännvin"
@@ -2792,7 +2792,7 @@
 	<song
 		name="Spritbolaget"
 		id="84"
-		author="Göran Svensson, Sångarstriden Lund, 1989"
+		author="Göran Svensson (Sångarstriden, Lund, 1989)"
 		composer="Georg Riedel"
 		melody="Du käre lille snickerboa"
 		category="Brännvin"
@@ -2821,7 +2821,7 @@
 	<song
 		name="Rackaren"
 		id="85"
-		author="Kårspexet Munken, 1983"
+		author="(Kårspexet Munken, KTH, 1983)"
 		composer="Georg Philipp Telemann"
 		melody="Hamburger Ebb und Fluth"
 		category="Brännvin"
@@ -2838,7 +2838,7 @@
 	<song
 		name="Ganska nykter"
 		id="86"
-		author="Strängteoretiquerna, 2015"
+		author="Strängteoretiquerna, IT (KTH, 2015)"
 		melody="Vi äro musikanter"
 		category="Brännvin"
 	>
@@ -2853,7 +2853,7 @@
 	<song
 		name="Hyllningsvisa till Absinthen"
 		id="87"
-		author="Sing-Sing Singers, 2000"
+		author="Sing-Sing Singers (KTH, 2000)"
 		melody="O come all ye faithful"
 		category="Brännvin"
 	>
@@ -2881,7 +2881,7 @@
 	<song
 		name="Man kan dricka vatten"
 		id="88"
-		author="Datas nØllespex, 1995"
+		author="(Datas nØllespex, KTH, 1995)"
 		melody="Vi äro musikanter"
 		category="Brännvin"
 	>
@@ -2929,7 +2929,7 @@
 	<song
 		name="Ode till halvan"
 		id="90"
-		author="Torgny, 1936"
+		author="Torgny (1936)"
 		composer="Otto Lindblad"
 		melody="Längtan till landet"
 		category="Brännvin"
@@ -2973,7 +2973,7 @@
 	<song
 		name="Regalskeppet Vasa"
 		id="153"
-		author="Den Kongliga INviten"
+		author="Den Kongliga invITen (KTH)"
 		composer="Leigh Harline"
 		melody="Ser du stjärnan i det blå"
 		category="Brännvin"
@@ -3116,9 +3116,11 @@
 		</p>
 	</song>
 	<song
-		name="FESTU:s punschvisa"
+		name="FestU:s punschvisa"
 		id="94"
-		melody="Tomtarnas vinternatt"
+		author="FestU (Chalmers)"
+		composer="Vilhelm Sefve-Svensson"
+		melody="Tomtarnas julnatt"
 		category="Punsch"
 	>
 		<p>
@@ -3335,6 +3337,7 @@
 	<song
 		name="P.U.S.S.:s punschvisa"
 		id="105"
+		author="P.U.S.S."
 		composer="Tommy Nilsson"
 		melody="Öppna din dörr"
 		category="Punsch"
@@ -3435,7 +3438,7 @@
 	<song
 		name="När kaffet är serverat"
 		id="108"
-		author="Sångarstriden Lund, 1987"
+		author="(Sångarstriden, Lund, 1987)"
 		composer="Christian Hartmann"
 		melody="Mössens julafton"
 		category="Punsch"
@@ -3487,7 +3490,8 @@
 	<song
 		name="Härlig är punschen"
 		id="110"
-		author="Juristspexet Ansgar, 2003"
+		author="(Juristspexet Ansgar, 2003)"
+		composer="Johann Sebastian Bach"
 		melody="Nu grönskar det"
 		category="Punsch"
 	>
@@ -3515,8 +3519,8 @@
 	<song
 		name="Nu blotas det"
 		id="111"
-		author="Juristspexet Ansgar, 2003"
-		composer="Johann Sebastian Bac"
+		author="(Juristspexet Ansgar, 2003)"
+		composer="Johann Sebastian Bach"
 		melody="Nu grönskar det"
 		category="Punsch"
 	>
@@ -3544,9 +3548,9 @@
 	<song
 		name="Imperial punsch"
 		id="112"
-		author="DKM, 2000"
+		author="DKM (KTH, 2000)"
 		composer="John Williams"
-		melody="Imperial march, Star Wars"
+		melody="Imperial march (Star Wars)"
 		category="Punsch"
 	>
 		<p>
@@ -3604,6 +3608,7 @@
 	<song
 		name="Sveriges arraktionalhymn"
 		id="152"
+		author="(Ekonomspexet Erik XIV, Stockholms universitet, 1992)"
 		melody="Du gamla, du fria"
 		category="Punsch"
 	>
@@ -3639,7 +3644,7 @@
 	<song
 		name="I Love Punsch"
 		id="159"
-		author="Samuel Larsson (2020)"
+		author="Samuel Larsson, IT-17 (KTH, 2020)"
 		composer="Ben Oakland and Milton Drake"
 		melody="Java Jive"
 		category="Punsch"
@@ -3660,7 +3665,7 @@
 	<song
 		name="Barrett's Privateers"
 		id="114"
-		author="Stan Rogers"
+		author="Stan Rogers (1976)"
 		category="Utländskt"
 	>
 		<p>
@@ -4094,7 +4099,8 @@
 	<song
 		name="My heart will go on"
 		id="120"
-		author="Celine Dion"
+		author="Celine Dion (1997)"
+		composer="James Horner"
 		category="Utländskt"
 	>
 		<p>
@@ -4258,7 +4264,7 @@
 	<song
 		name="Unix Man"
 		id="124"
-		author="Bran Morrison"
+		author="Brad Morrison"
 		composer="John Lennon and Paul McCartney"
 		melody="Nowhere Man"
 		category="Nördigt"
@@ -4296,7 +4302,7 @@
 	<song
 		name="Man ska ha Linux"
 		id="125"
-		author="Erik Rålenius"
+		author="Erik Rålenius, IT (KTH)"
 		composer="Claes Eriksson"
 		melody="Man ska ha husvagn"
 		category="Nördigt"
@@ -4361,7 +4367,7 @@
 	<song
 		name="Om Emacs"
 		id="126"
-		author="Ingemar Ragnemalm"
+		author="Ingemar Ragnemalm (LiU)"
 		melody="Kovan kommer, kovan går"
 		category="Nördigt"
 	>
@@ -4394,7 +4400,7 @@
 		name="Ostkaka"
 		id="127"
 		composer="Jeremy Soule"
-		melody="Dovahkin, Skyrim theme"
+		melody="Dovahkin (Skyrim theme)"
 		category="Nördigt"
 	>
 		<p>
@@ -4422,7 +4428,7 @@
 	<song
 		name="Jag kan lära dig C"
 		id="160"
-		author="Arian och Sixten (DISK KM), DISK KM:s julfest 2011"
+		author="Arian och Sixten (DISK KM:s julfest, Stockholms universitet, 2011)"
 		composer="Alan Menken"
 		melody="A Whole New World"
 		category="Nördigt"
@@ -4454,8 +4460,8 @@
 	<song
 		name="Write in C"
 		id="161"
-		author="Jay Piecora, SUNY Binghamton"
-		composer="John Lennon, Paul McCartney"
+		author="Jay Piecora (SUNY Binghamton)"
+		composer="John Lennon och Paul McCartney"
 		melody="Let It Be"
 		category="Nördigt"
 	>
@@ -4503,7 +4509,7 @@
 	<song
 		name="Pop opp i topp"
 		id="128"
-		author="Thore Skogman, 1965"
+		author="Thore Skogman (1965)"
 		category="Esoterica"
 	>
 		<p>
@@ -4563,7 +4569,7 @@
 	<song
 		name="PRAOs visa"
 		id="129"
-		author="Niklas Söderlund och Wilhelm Svenselius"
+		author="Niklas Söderlund och Wilhelm Svenselius, IT-03 (KTH)"
 		melody="När månen vandrar"
 		category="Esoterica"
 	>
@@ -4581,7 +4587,7 @@
 	<song
 		name="Vår flygpilot"
 		id="130"
-		author="Dain Nilsson"
+		author="Dain Nilsson, IT-04 (KTH)"
 		melody="Oh Tannenbaum"
 		category="Esoterica"
 	>
@@ -4597,7 +4603,7 @@
 	<song
 		name="Farväl till IT-sektionen"
 		id="131"
-		author="Dain Nilsson och Erik Rålenius"
+		author="Dain Nilsson, IT-04, och Erik Rålenius, IT (KTH)"
 		melody="Uti vår hage"
 		category="Esoterica"
 	>
@@ -4632,7 +4638,7 @@
 	<song
 		name="IN-sektionen"
 		id="132"
-		author="Dain Nilsson och Erik Rålenius"
+		author="Dain Nilsson, IT-04, och Erik Rålenius, IT (KTH)"
 		composer="Aleksander Aleksandrov"
 		melody="Rysslands nationalsång"
 		category="Esoterica"
@@ -4655,7 +4661,7 @@
 	<song
 		name="Faddersången 2001"
 		id="133"
-		author="Kjell Ahlström"
+		author="Kjell Ahlström (KTH, 2001)"
 		composer="Elizabeth Cotten"
 		melody="SJ, SJ, gamle vän"
 		category="Esoterica"
@@ -4684,15 +4690,12 @@
 			Bron den utgör gränsens strand
 			till farligt ghettoland.
 		</p>
-		<comment>
-			Den sista versen delades ut på separata lappar i bussen och skall därför betraktas
-			som inofficiell.
-		</comment>
+		<comment>Den sista versen delades ut på separata lappar i bussen och skall därför betraktas som inofficiell.</comment>
 	</song>
 	<song
 		name="Läs inte på Handels"
 		id="134"
-		author="Alex Ellgren och Oscar Frick"
+		author="Alex Ellgren, ME-07, och Oscar Frick, ME-07 (KTH)"
 		category="Esoterica"
 	>
 		<p>
@@ -4820,8 +4823,8 @@
 	<song
 		name="Sång till Stor-MUX"
 		id="136"
-		author="Erik Lundberg och Wilhelm Svenselius"
-		melody="Balladen om Theobald Thor"
+		author="Erik Lundberg och Wilhelm Svenselius, IT-03 (KTH)"
+		melody="The Ball of Kirriemuir (Balladen om Theobald Thor)"
 		category="Esoterica"
 	>
 		<p>
@@ -4885,7 +4888,7 @@
 	<song
 		name="Bacchivisan"
 		id="137"
-		author="Kjell Ahlström"
+		author="Kjell Ahlström (KTH)"
 		melody="Agadoo (ungefär)"
 		category="Esoterica"
 	>
@@ -4978,7 +4981,7 @@
 	<song
 		name="Tentavakten"
 		id="138"
-		author="Erik Rålenius"
+		author="Erik Rålenius, IT (KTH)"
 		melody="Du gamla, du fria"
 		category="Esoterica"
 	>
@@ -5001,7 +5004,7 @@
 	<song
 		name="Vart tog den schlema lilla nØllan vägen?"
 		id="139"
-		author="Kjell Ahlström"
+		author="Kjell Ahlström (KTH)"
 		melody="Vart tog den söta lilla flickan vägen"
 		category="Esoterica"
 	>
@@ -5092,7 +5095,7 @@
 	<song
 		name="Starke Arvid"
 		id="140"
-		author="Ola, Frukt och Flingor, 1979"
+		author="Ola, Frukt och Flingor (1979)"
 		category="Esoterica"
 	>
 		<p>
@@ -5146,7 +5149,7 @@
 	<song
 		name="Man ska gå ME"
 		id="141"
-		author="Viktor Åberg"
+		author="Viktor Åberg (KTH)"
 		composer="Claes Eriksson"
 		melody="Man ska ha husvagn"
 		category="Esoterica"
@@ -5196,7 +5199,7 @@
 	<song
 		name="Osqvik"
 		id="143"
-		author="Strängteoretiquerna, 2015"
+		author="Strängteoretiquerna, IT (KTH, 2015)"
 		melody="Vi äro musikanter"
 		category="Esoterica"
 	>
@@ -5284,7 +5287,7 @@
 	<song
 		name="invITensången"
 		id="146"
-		author="Daniel Byström"
+		author="Daniel Byström (KTH)"
 		composer="Otto Lindblad"
 		melody="Kungssången"
 		category="Högtidligt"
@@ -5313,7 +5316,7 @@
 	<song
 		name="Kungssången"
 		id="147"
-		author="C.V.A.Strandberg och Otto Lindblad, 1844"
+		author="C.V.A.Strandberg och Otto Lindblad (1844)"
 		category="Högtidligt"
 	>
 		<p>
@@ -5331,7 +5334,7 @@
 	<song
 		name="Stockholm i mitt hjärta"
 		id="148"
-		author="Lasse Berghagen"
+		author="Lasse Berghagen (1995)"
 		category="Högtidligt"
 	>
 		<p>
@@ -5380,7 +5383,7 @@
 	<song
 		name="Du gamla, du fria"
 		id="149"
-		author="Richard Dybeck, 1844"
+		author="Richard Dybeck (1844)"
 		category="Högtidligt"
 	>
 		<p>
@@ -5401,8 +5404,8 @@
 	<song
 		name="O, gamla klang- och jubeltid!"
 		id="150"
-		author="August Lindh, 1921"
-		composer="Eugen Höfling, 1825"
+		author="August Lindh (Juvenalorden, Uppsala, 1921)"
+		composer="Eugen Höfling (1825)"
 		melody="O alte Burschenherrlichkeit"
 		category="Högtidligt"
 	>

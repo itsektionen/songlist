@@ -1,7 +1,7 @@
 ---
 title: Jag var full en gång...
 melody: Flottarkärlek
-composer: Hugo Lindh, Gösta 'Snoddas' Nordgren
+composer: Hugo Lindh, Gösta "Snoddas" Nordgren
 tags: [gasque, swe]
 ---
 

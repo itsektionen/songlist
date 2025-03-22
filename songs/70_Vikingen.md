@@ -1,6 +1,10 @@
 ---
 title: Vikingen
-author: Sångarstriden, Lund, 1981
+author:
+  - name: E-Sektionen
+    event: Sångarstriden
+    location: Lund
+    year: 1981
 melody: When Johnny comes marching home
 tags: [snaps, swe]
 ---

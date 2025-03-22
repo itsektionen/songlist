@@ -1,6 +1,8 @@
 ---
 title: Lille Olle
-author: Calle Isaksson, D-LiTH
+author:
+  - name: Calle Isaksson, D
+    location: LiTH
 melody: Katjuscha
 composer: Matvey Blanter
 tags: [gasque, swe]

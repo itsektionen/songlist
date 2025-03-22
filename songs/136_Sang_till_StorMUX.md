@@ -1,7 +1,9 @@
 ---
 title: Sång till Stor-MUX
-author: Erik Lundberg och Wilhelm Svenselius
-melody: Balladen om Theobald Thor
+author:
+  - name: Erik Lundberg och Wilhelm Svenselius, IT-03
+    location: KTH
+melody: The Ball of Kirriemuir (Balladen om Theobald Thor)
 tags: [esoteric, swe]
 ---
 

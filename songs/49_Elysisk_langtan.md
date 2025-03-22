@@ -1,6 +1,9 @@
 ---
 title: Elysisk längtan
-author: Sångarstriden Lund, 1968
+author:
+  - event: Sångarstriden
+    location: Lund
+    year: 1968
 melody: An die Freude (Ode to Joy)
 composer: Ludwig van Beethoven
 tags: [wine, swe]

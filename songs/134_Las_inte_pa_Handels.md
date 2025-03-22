@@ -1,6 +1,8 @@
 ---
 title: Läs inte på Handels
-author: Alex Ellgren och Oscar Frick
+author:
+  - name: Alex Ellgren, ME-07, och Oscar Frick, ME-07
+    location: KTH
 tags: [esoteric, swe]
 ---
 

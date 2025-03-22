@@ -1,6 +1,8 @@
 ---
 title: Störthärligt full
-author: Hittad på Handels, 1981
+author:
+  - year: 1981
+    comment: Hittad på Handels
 melody: Fat Mammy Brown
 composer: Povel Ramel
 tags: [gasque, swe]
