@@ -1,6 +1,6 @@
 ---
 title: Ostkaka
-melody: Dovahkin, Skyrim theme
+melody: Dovahkin (Skyrim theme)
 composer: Jeremy Soule
 tags: [nerdy, swe]
 ---

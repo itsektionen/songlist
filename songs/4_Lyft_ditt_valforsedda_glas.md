@@ -1,6 +1,9 @@
 ---
 title: Lyft ditt välförsedda glas
-author: Medicinarspexet Göteborg, 1970
+author:
+  - event: Medicinarspexet
+    location: Göteborg
+    year: 1970
 melody: Ding dong merrily on high
 composer: Jehan Tabourot, George Ratcliffe Woodward, Charles Wood
 tags: [gasque, swe]

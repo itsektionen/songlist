@@ -1,6 +1,8 @@
 ---
 title: Livet är härligt
-author: Chalmersspexet Katarina II, 1959
+author:
+  - event: Chalmersspexet Katarina II
+    year: 1959
 melody: Röda kavalleriet (Polyushko-Pole)
 composer: Lev Knipper
 tags: [snaps, swe]

@@ -1,8 +1,10 @@
 ---
 title: Nu blotas det
-author: Juristspexet Ansgar, 2003
+author:
+  - event: Juristspexet Ansgar
+    year: 2003
 melody: Nu grönskar det
-composer: Johann Sebastian Bac
+composer: Johann Sebastian Bach
 tags: [punsch, swe]
 ---
 

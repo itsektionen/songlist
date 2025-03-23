@@ -1,8 +1,22 @@
 ---
 title: Jag har aldrig...
-author: (Handelsvisan) Team Kangaroo, 1977; (Fysikvisan) DKM, 2000; (Datavisan) Mattis Castegren, 2001
-melody: O hur saligt att få vandra
-composer: Joël Blomqvist och Per Ollén
+author:
+  - name: Team Kangaroo, F
+    event: Gerhards-gasque
+    location: KTH
+    year: 1977
+    comment: Handelsvisan
+  - name: DKM
+    location: KTH
+    year: 2000
+    comment: Fysikvisan
+  - name: Mattis Castegren
+    event: Fysiksektionens Ettans fest
+    location: KTH
+    year: 2001
+    comment: Datavisan
+melody: O, hur saligt att få vandra
+composer: Robert Lowry
 tags: [gasque, swe]
 ---
 
