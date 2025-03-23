@@ -1,6 +1,7 @@
 ---
 title: In the trade of jester
-author: Jauvet
+author:
+  - name: Jauvet
 tags: [foreign, eng]
 ---
 

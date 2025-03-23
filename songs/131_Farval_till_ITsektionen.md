@@ -1,6 +1,8 @@
 ---
 title: Farväl till IT-sektionen
-author: Dain Nilsson och Erik Rålenius
+author:
+  - name: Dain Nilsson, IT-04, och Erik Rålenius, IT
+    location: KTH
 melody: Uti vår hage
 tags: [esoteric, swe]
 ---

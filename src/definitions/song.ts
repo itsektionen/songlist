@@ -1,9 +1,10 @@
 import { LegacyCategory, Tag } from './tags';
+import { Author } from './author';
 
 export type Song = {
 	id: number;
 	title: string;
-	author?: string;
+	author?: Author[];
 	melody?: string;
 	composer?: string;
 	tags: Tag[];

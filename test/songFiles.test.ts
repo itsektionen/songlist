@@ -3,6 +3,7 @@ import matter from 'gray-matter';
 import { validMetaKeys } from '../src/definitions/song';
 import { TAGS } from '../src/definitions/tags';
 import { getAllSongPaths, getAllSongs } from '../src/util/songs';
+import { VALID_AUTHOR_KEYS } from '../src/definitions/author';
 
 describe('All files in songs folder are songs', () => {
 	test('All files are markdown', () => {
@@ -31,9 +32,33 @@ describe('All songs have valid data', () => {
 
 		songs.forEach((song) => {
 			expect(typeof song.title).toBe('string');
-			expect(typeof song.author).toMatch(/(string|undefined)/);
-			expect(typeof song.composer).toMatch(/(string|undefined)/);
-			expect(typeof song.melody).toMatch(/(string|undefined)/);
+
+			expect(Array.isArray(song.author) || song.author === undefined).toBeTruthy();
+			if (song.author) {
+				song.author.forEach((author) => {
+					expect(typeof author).toBe('object');
+
+					Object.keys(author).forEach((key) => {
+						expect(
+							VALID_AUTHOR_KEYS,
+							`Song with ID=${song.id} and title '${song.title}' contains the invalid author field '${key}'`
+						).toContain(key);
+					});
+
+					VALID_AUTHOR_KEYS.forEach((key) => {
+						if (key in author && author[key]) {
+							if (key === 'year') {
+								expect(typeof author[key]).toBe('number');
+							} else {
+								expect(typeof author[key]).toBe('string');
+							}
+						}
+					});
+				});
+			}
+
+			if (song.composer) expect(typeof song.composer).toBe('string');
+			if (song.melody) expect(typeof song.melody).toBe('string');
 			if (typeof song.deleted === 'boolean') expect(song.deleted).toBeTruthy();
 			else expect(song.deleted).toBeUndefined();
 

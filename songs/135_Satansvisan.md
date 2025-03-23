@@ -1,6 +1,7 @@
 ---
 title: Satansvisan
-author: J. Strauss, Strauss ex Machina
+author:
+  - name: J. Strauss, Strauss ex Machina
 melody: Staffan var en stalledräng
 tags: [esoteric, swe]
 ---

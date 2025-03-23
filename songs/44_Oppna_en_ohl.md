@@ -1,6 +1,9 @@
 ---
 title: Öppna en öhl
-author: Carl Brengesjö, 2013
+author:
+  - name: Carl Brengesjö
+    location: KTH
+    year: 2013
 melody: Öppna din dörr
 composer: Tommy Nilsson
 tags: [beer, swe]
