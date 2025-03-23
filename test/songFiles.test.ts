@@ -21,7 +21,7 @@ describe('All songs have valid data', () => {
 			Object.keys(metaKeys).forEach((metaKey) => {
 				expect(
 					validMetaKeys,
-					`Value ${metaKey} not a valid metadata property (found in ${path})`
+					`Value ${metaKey} not a valid metadata property (found in ${path})`,
 				).toContain(metaKey);
 			});
 		});
@@ -41,7 +41,7 @@ describe('All songs have valid data', () => {
 					Object.keys(author).forEach((key) => {
 						expect(
 							VALID_AUTHOR_KEYS,
-							`Song with ID=${song.id} and title '${song.title}' contains the invalid author field '${key}'`
+							`Song with ID=${song.id} and title '${song.title}' contains the invalid author field '${key}'`,
 						).toContain(key);
 					});
 
@@ -68,7 +68,7 @@ describe('All songs have valid data', () => {
 			const invalidTag = song.tags.find((tag) => !TAGS.includes(tag));
 			expect(
 				invalidTag,
-				`Song with ID=${song.id} and title '${song.title}' contains the invalid tag '${invalidTag}'`
+				`Song with ID=${song.id} and title '${song.title}' contains the invalid tag '${invalidTag}'`,
 			).toBeUndefined();
 		});
 	});
