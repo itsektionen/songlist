@@ -1,6 +1,8 @@
 ---
 title: Stockholm i mitt hjärta
-author: Lasse Berghagen
+author:
+  - name: Lasse Berghagen
+    year: 1995
 tags: [solemn, swe]
 ---
 

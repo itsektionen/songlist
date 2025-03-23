@@ -1,6 +1,9 @@
 ---
 title: Osqvik
-author: Strängteoretiquerna, 2015
+author:
+  - name: Strängteoretiquerna, IN
+    location: KTH
+    year: 2015
 melody: Vi äro musikanter
 tags: [esoteric, swe]
 ---

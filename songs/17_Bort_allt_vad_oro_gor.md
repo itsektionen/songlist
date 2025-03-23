@@ -1,6 +1,9 @@
 ---
 title: Bort allt vad oro gör
-author: Carl Michael Bellman
+author:
+  - name: Carl Michael Bellman
+    year: 1783
+    comment: Bacchi Tempel sång nr. 17
 composer: Carl Michael Bellman
 tags: [gasque, swe]
 ---
