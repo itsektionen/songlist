@@ -57,8 +57,7 @@ jobs:
           git config --global user.name 'Songbird Bot'
           git config --global user.email 'itsektionen-webmaster@users.noreply.github.com'
           git add dist
-          git commit -m "\
-          ${{ steps.commit-title.outputs.out }}\
-          \n\n\
-          Build was created as a result of commit ${{ github.event.workflow_run.head_commit.id }}\n[skip actions]"
+          git commit -m "${{ steps.commit-title.outputs.out }}" \
+          -m "Build was created as a result of commit ${{ github.event.workflow_run.head_commit.id }}" \
+          -m "[skip actions]"
           git push
