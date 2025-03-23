@@ -8,7 +8,7 @@ export default async function (): Promise<boolean> {
 	if (typeof lastUpdatedAt !== 'string' || !lastUpdatedAt.match(isoDateRegex)) return true;
 
 	const songs = createSongs(lastUpdatedAt);
-	if (songs.json !== oldSongs.json) return true;
+	if ((await songs.json) !== oldSongs.json) return true;
 	if (songs.xml !== oldSongs.xml) return true;
 	if (songs.xmlNoIds !== oldSongs.xmlNoIds) return true;
 
