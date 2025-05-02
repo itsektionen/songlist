@@ -15,6 +15,11 @@ author:
     location: KTH
     year: 2001
     comment: Datavisan
+  - name: IT-Sektionens styrelse
+    event: Mållinjen (Tbas)
+    location: KTH
+    year: 2025
+    comment: Tbasvisan
 melody: O, hur saligt att få vandra
 composer: Robert Lowry
 tags: [gasque, swe]
@@ -146,6 +151,38 @@ och uppgraderas till en användbar version.
 Datan är trist - javisst, javisst!
 Datan är skit - man drar en nit
 om man går di-i-it! ://
+
+# Tbasvisan
+
+Jag vill aldrig gå på Tbas,
+aldrig tenta om gymnasiekurserna.
+Lära sig om allting barnsligt,
+och tro att dom kommer nå'n vart.
+
+Dom har aldrig sett ett hp,
+inte ens en sådan introkurs!
+Deras kurser ger f-u-p,
+även om dom knappt är tre.
+
+//: För f-u-p! Va fan ä' det?
+För f-u-p! Va fan ä' det?
+För f-u-p! Va fan ä' det?
+För f-uu-p! ://
+
+Sitter där och tenta kemi,
+bara för att plugga jävla INDEK.
+Komvux i ett annat typsnitt,
+lär sig inget med värde i!
+
+Man kan räkna kurser på handen,
+KH tjugo-ett till tjugo-fem.
+Varit fast nånstans i Nymble,
+fira flytta in med Kistas IT!
+
+//: Ingen natur! När tar det slut?
+Ingen natur! När tar det slut?
+Ingen natur! När tar det slut?
+Ingen nat-uu-r! ://
 
 # Extravers för Kistastudenter
 
