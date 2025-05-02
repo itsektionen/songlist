@@ -19,7 +19,7 @@ author:
     event: Mållinjen (Tbas)
     location: KTH
     year: 2025
-    comment: Tbasvisan
+    comment: TBasvisan
 melody: O, hur saligt att få vandra
 composer: Robert Lowry
 tags: [gasque, swe]
@@ -152,7 +152,7 @@ Datan är trist - javisst, javisst!
 Datan är skit - man drar en nit
 om man går di-i-it! ://
 
-# Tbasvisan
+# TBasvisan
 
 Jag vill aldrig gå på Tbas,
 aldrig tenta om gymnasiekurserna.
