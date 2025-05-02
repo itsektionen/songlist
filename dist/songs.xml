@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-04-05">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-05-02">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -422,7 +422,7 @@
 	<song
 		name="Jag har aldrig..."
 		id="10"
-		author="Team Kangaroo, F (Gerhards-gasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan)"
+		author="Team Kangaroo, F (Gerhards-gasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan); IT-Sektionens styrelse (Mållinjen (Tbas), KTH, 2025 — TBasvisan)"
 		composer="Robert Lowry"
 		melody="O, hur saligt att få vandra"
 		category="Gasque"
@@ -575,6 +575,43 @@
 			Datan är trist - javisst, javisst!
 			Datan är skit - man drar en nit
 			om man går di-i-it! ://
+		</p>
+		<header>TBasvisan</header>
+		<p>
+			Jag vill aldrig gå på Tbas,
+			aldrig tenta om gymnasiekurserna.
+			Lära sig om allting barnsligt,
+			och tro att dom kommer nå'n vart.
+		</p>
+		<p>
+			Dom har aldrig sett ett hp,
+			inte ens en sådan introkurs!
+			Deras kurser ger f-u-p,
+			även om dom knappt är tre.
+		</p>
+		<p>
+			//: För f-u-p! Va fan ä' det?
+			För f-u-p! Va fan ä' det?
+			För f-u-p! Va fan ä' det?
+			För f-uu-p! ://
+		</p>
+		<p>
+			Sitter där och tenta kemi,
+			bara för att plugga jävla INDEK.
+			Komvux i ett annat typsnitt,
+			lär sig inget med värde i!
+		</p>
+		<p>
+			Man kan räkna kurser på handen,
+			KH tjugo-ett till tjugo-fem.
+			Varit fast nånstans i Nymble,
+			fira flytta in med Kistas IT!
+		</p>
+		<p>
+			//: Ingen natur! När tar det slut?
+			Ingen natur! När tar det slut?
+			Ingen natur! När tar det slut?
+			Ingen nat-uu-r! ://
 		</p>
 		<header>Extravers för Kistastudenter</header>
 		<p>
