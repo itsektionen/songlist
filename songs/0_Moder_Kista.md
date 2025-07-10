@@ -13,6 +13,8 @@ author:
     comment: Vers 7-8
 melody: Längtan till landet
 composer: Otto Lindblad
+notes:
+  - Sjungs av IT-Sektionen i början av varje gasque.
 tags: [gasque, swe]
 ---
 
