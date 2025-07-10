@@ -3,7 +3,6 @@ import {
 	JSON_SONGS_PATH,
 	DIST_FILES,
 	DIST_FOLDER_PATH,
-	XML_NO_IDS_SONGS_PATH,
 	XML_SONGS_PATH,
 } from '../definitions/paths';
 import { join } from 'path';
@@ -20,7 +19,6 @@ export default async function build(customUpdatedAt: string | undefined): Promis
 
 	writeJson(await buildSongs.json);
 	writeXml(buildSongs.xml);
-	writeXmlWithoutIds(buildSongs.xmlNoIds);
 	console.log('Build complete and saved');
 
 	const filesToRemove = readdirSync(DIST_FOLDER_PATH)
@@ -41,8 +39,4 @@ export function writeJson(songs: string) {
 
 export function writeXml(songs: string) {
 	writeFileSync(XML_SONGS_PATH, songs);
-}
-
-export function writeXmlWithoutIds(songs: string) {
-	writeFileSync(XML_NO_IDS_SONGS_PATH, songs);
 }
