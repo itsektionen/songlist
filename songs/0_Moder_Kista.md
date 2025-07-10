@@ -7,6 +7,8 @@ author:
     year: 2000
 melody: Längtan till landet
 composer: Otto Lindblad
+notes:
+  - Sjungs av IT-Sektionen i början av varje gasque.
 tags: [gasque, swe]
 ---
 

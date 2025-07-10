@@ -32,6 +32,7 @@ async function generateDefaultSongFileContent(
 		author,
 		melody,
 		composer,
+		notes = [],
 		tags = [],
 		content,
 	}: Omit<Song, 'id' | 'title' | 'deleted' | 'content'> & { content?: string },
@@ -47,6 +48,14 @@ async function generateDefaultSongFileContent(
 
 	contentBuilder += `melody: ${melody || ''}\n`;
 	contentBuilder += `composer: ${composer || ''}\n`;
+
+	if (notes) {
+		contentBuilder += `notes:\n`;
+		notes.forEach((note) => {
+			contentBuilder += `  - ${note}`;
+		});
+	}
+
 	contentBuilder += `tags: [${tags.join(', ')}]\n`;
 	contentBuilder += '---\n';
 	if (content) contentBuilder += content;
