@@ -10,7 +10,6 @@ export default async function (): Promise<boolean> {
 	const songs = createSongs(lastUpdatedAt);
 	if ((await songs.json) !== oldSongs.json) return true;
 	if (songs.xml !== oldSongs.xml) return true;
-	if (songs.xmlNoIds !== oldSongs.xmlNoIds) return true;
 
 	return false;
 }

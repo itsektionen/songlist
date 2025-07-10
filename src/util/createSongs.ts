@@ -10,7 +10,6 @@ export default function createSongs(updatedAt: string = dayjs().format('YYYY-MM-
 	return {
 		json: createJsonSongs(songs, updatedAt),
 		xml: buildXmlString(songs, updatedAt, true),
-		xmlNoIds: buildXmlString(songs, updatedAt, false),
 	};
 }
 

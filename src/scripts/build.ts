@@ -3,7 +3,6 @@ import {
 	JSON_SONGS_PATH,
 	DIST_FILES,
 	DIST_FOLDER_PATH,
-	XML_NO_IDS_SONGS_PATH,
 	XML_SONGS_PATH,
 } from '../definitions/paths';
 import { join } from 'path';
