@@ -7,23 +7,32 @@ export const SONGS_DESCRIPTION =
 	'IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)';
 
 function songToXmlAttributes(song: XmlifyableSong, withId: boolean): string {
-	let attributes = `\n\t\tname="${song.title}"`;
+	let attributes = `\n\t\tname="${safeXmlString(song.title)}"`;
 
 	if (withId) attributes += `\n\t\tid="${song.id}"`;
 
-	if (song.author) attributes += `\n\t\tauthor="${formatAuthor(song.author)}"`;
-	if (song.composer) attributes += `\n\t\tcomposer="${song.composer}"`;
-	if (song.melody) attributes += `\n\t\tmelody="${song.melody}"`;
-	attributes += `\n\t\tcategory="${song.category}"`;
+	if (song.author) attributes += `\n\t\tauthor="${safeXmlString(formatAuthor(song.author))}"`;
+	if (song.composer) attributes += `\n\t\tcomposer="${safeXmlString(song.composer)}"`;
+	if (song.melody) attributes += `\n\t\tmelody="${safeXmlString(song.melody)}"`;
+	attributes += `\n\t\tcategory="${safeXmlString(song.category)}"`;
 
 	return attributes;
+}
+
+function safeXmlString(text: string): string {
+	return text
+		.replace(/&/g, '&amp;')
+		.replace(/"/g, '&quot;')
+		.replace(/'/g, '&apos;')
+		.replace(/</g, '&lt;')
+		.replace(/>/g, '&gt;');
 }
 
 function xmlifyParagraph(content: Song['content']): string {
 	const lines = content.replace(/\\\*/g, '*').replace(/\\#/g, '#').split('\n');
 	if (lines.length === 1) return lines[0];
 
-	return `\n\t\t\t${lines.join('\n\t\t\t')}\n\t\t`;
+	return `\n\t\t\t${safeXmlString(lines.join('\n\t\t\t'))}\n\t\t`;
 }
 
 function songContentToXml(content: Song['content']): string {
@@ -60,7 +69,7 @@ function generateXmlifyableSong(song: Song): XmlifyableSong {
 
 export function buildXmlString(songs: Song[], updatedAt: string, withId: boolean): string {
 	let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
-	xml += `<songs description="${SONGS_DESCRIPTION}" updated="${updatedAt}">\n`;
+	xml += `<songs description="${safeXmlString(SONGS_DESCRIPTION)}" updated="${updatedAt}">\n`;
 
 	const xmlifyAblesongs = songs.map((song) => generateXmlifyableSong(song));
 	sortXmlifyableSongs(xmlifyAblesongs).forEach((song) => {

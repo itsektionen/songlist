@@ -82,7 +82,7 @@
 		id="2"
 		author="Tord Andrén, B (Bergsspexet, KTH, 1960 — Ursprungligen Athos visa)"
 		composer="Irving Berlin"
-		melody="You can't get a man with a gun"
+		melody="You can&apos;t get a man with a gun"
 		category="Gasque"
 	>
 		<p>
@@ -115,7 +115,7 @@
 	<song
 		name="Jag ska festa"
 		id="3"
-		author="Stefan "Stege" Gennert, D-86, och Anders "Pellefjant" Bjerkén, D-87 (Sångarstriden, Lund, 1987)"
+		author="Stefan &quot;Stege&quot; Gennert, D-86, och Anders &quot;Pellefjant&quot; Bjerkén, D-87 (Sångarstriden, Lund, 1987)"
 		composer="Sten Carlberg"
 		melody="Bamsesången"
 		category="Gasque"
@@ -136,7 +136,7 @@
 			Jag är skitfull, däckar först av alla
 			Missar festen, men vad gör väl det?
 			Blandar hejdlöst öl och gammal filmjölk.
-			Kastar upp på bordsdamen breve'!
+			Kastar upp på bordsdamen breve&apos;!
 		</p>
 		<p>
 			Först en öl i torra strupen,
@@ -217,7 +217,7 @@
 		<p>
 			Och du som pratar där så stort,
 			med band och stjärnor på din rock:
-			Re'n snickarn kistan färdig gjort,
+			Re&apos;n snickarn kistan färdig gjort,
 			och hyvlar på des lock.
 		</p>
 		<p>Tycker du...</p>
@@ -332,8 +332,8 @@
 		</p>
 		<p>
 			Med blod skall vi stäppen färga
-			Nu änteligen lär ja'
-			kunna dra nå'n verklig nytta
+			Nu änteligen lär ja&apos;
+			kunna dra nå&apos;n verklig nytta
 			av min Hermodskurs i mord.
 		</p>
 		<p>
@@ -487,13 +487,13 @@
 		<p>
 			Mammas pojkar är dom alla,
 			pappas flickor är dom likaså.
-			Går och tror att dom e' balla,
+			Går och tror att dom e&apos; balla,
 			fastän dom inget alls ju förstå.
 		</p>
 		<p>
 			Hela Handels borde rivas,
 			detta anser hela vårat lag.
-			Då skull' Osquarina trivas,
+			Då skull&apos; Osquarina trivas,
 			uppå denna Handels ljuva domedag.
 		</p>
 		<p>
@@ -581,7 +581,7 @@
 			Jag vill aldrig gå på Tbas,
 			aldrig tenta om gymnasiekurserna.
 			Lära sig om allting barnsligt,
-			och tro att dom kommer nå'n vart.
+			och tro att dom kommer nå&apos;n vart.
 		</p>
 		<p>
 			Dom har aldrig sett ett hp,
@@ -590,9 +590,9 @@
 			även om dom knappt är tre.
 		</p>
 		<p>
-			//: För f-u-p! Va fan ä' det?
-			För f-u-p! Va fan ä' det?
-			För f-u-p! Va fan ä' det?
+			//: För f-u-p! Va fan ä&apos; det?
+			För f-u-p! Va fan ä&apos; det?
+			För f-u-p! Va fan ä&apos; det?
 			För f-uu-p! ://
 		</p>
 		<p>
@@ -624,7 +624,7 @@
 	<song
 		name="Jag var full en gång..."
 		id="11"
-		composer="Hugo Lindh, Gösta "Snoddas" Nordgren"
+		composer="Hugo Lindh, Gösta &quot;Snoddas&quot; Nordgren"
 		melody="Flottarkärlek"
 		category="Gasque"
 	>
@@ -647,7 +647,7 @@
 			elefant!
 		</p>
 		<p>
-			Elefanten spruta' vatten,
+			Elefanten spruta&apos; vatten,
 			och jag trodde det var öl,
 			sedan dess har alla kallat mig för knöl.
 			Mera öl!
@@ -659,7 +659,7 @@
 			elefant!
 		</p>
 		<p>
-			Elefanten spruta' vatten,
+			Elefanten spruta&apos; vatten,
 			och jag trodde det var vin,
 			sedan dess har alla kallat mig för svin.
 			Mera vin!
@@ -671,7 +671,7 @@
 			elefant!
 		</p>
 		<p>
-			Elefanten spruta' vatten,
+			Elefanten spruta&apos; vatten,
 			och jag trodde det var sprit,
 			sedan dess har alla kallat mig för skit.
 			Mera sprit!
@@ -795,7 +795,7 @@
 		</p>
 		<p>
 			//: *Vad ska bonden få till mat,
-			sura sillar och potat'? ://
+			sura sillar och potat&apos;? ://
 			Det blir sillsallat!
 		</p>
 		<p>
@@ -827,7 +827,7 @@
 		<p>
 			Lille Olle skulle gå på disco,
 			men han hade inte någon sprit.
-			Lille Olle skaffa' lite hembränt.
+			Lille Olle skaffa&apos; lite hembränt.
 			Lille Olle gick då på en nit.
 		</p>
 		<p>La lala la la ...</p>
@@ -847,7 +847,7 @@
 		<p>La lala la la ...</p>
 		<p>
 			Lille Olle började med droger,
-			blanda' ut sin LSD med juice.
+			blanda&apos; ut sin LSD med juice.
 			Lille Olles hjärna står i lågor.
 			Lille Olle dog av överdos.
 		</p>
@@ -875,7 +875,7 @@
 	<song
 		name="När jag är fuller"
 		id="15"
-		author="Tore "Pekka" Norén, B (Sångartäflan,, KTH,, 1942)"
+		author="Tore &quot;Pekka&quot; Norén, B (Sångartäflan,, KTH,, 1942)"
 		melody="När månen vandrar"
 		category="Gasque"
 	>
@@ -958,7 +958,7 @@
 			Ja, jag är störthärligt full
 			och jag ramlar mest omkull.
 			Det är präktigt, härligt,
-			supa och va' full.
+			supa och va&apos; full.
 		</p>
 		<p>
 			Ifrån fester minns jag inget,
@@ -980,7 +980,7 @@
 			Ja, jag är störthärligt full
 			och jag ramlar mest omkull.
 			Det är präktigt, härligt,
-			supa och va' full.
+			supa och va&apos; full.
 		</p>
 		<p>
 			Nästa morgon när jag vaknar
@@ -1004,7 +1004,7 @@
 			Ja, jag är störthärligt full
 			och jag ramlar mest omkull.
 			Det är präktigt, härligt,
-			supa och va' full.
+			supa och va&apos; full.
 		</p>
 	</song>
 	<song
@@ -1026,7 +1026,7 @@
 			Vet, denna oljan ger humör.
 			Vad det var läckert!
 			Vad var det? Rhenskt bleckert?
-			"Oui, monseigneur!" ://
+			&quot;Oui, monseigneur!&quot; ://
 		</p>
 		<p>
 			Bort allt vad oro gör,
@@ -1039,8 +1039,8 @@
 			//: Granne, gör du just som jag gör!
 			Vet, denna oljan ger humör.
 			Vad det var mäktigt!
-			Vad var det? "Jo, präktigt!"
-			Malaga? "Ja!" ://
+			Vad var det? &quot;Jo, präktigt!&quot;
+			Malaga? &quot;Ja!&quot; ://
 		</p>
 	</song>
 	<song
@@ -1050,9 +1050,9 @@
 	>
 		<p>
 			Hoppe Hoppe Hare,
-			satt och mumsa' bär.
-			Klappa' sig på magen:
-			"Det var gott det här!"
+			satt och mumsa&apos; bär.
+			Klappa&apos; sig på magen:
+			&quot;Det var gott det här!&quot;
 		</p>
 		<p>
 			Fram smyger räven
@@ -1063,7 +1063,7 @@
 		<p>
 			Hoppe Hoppe Hare
 			hoppar mot en sten
-			stuka' lilla tassen,
+			stuka&apos; lilla tassen,
 			bröt sitt långa ben.
 		</p>
 		<p>
@@ -1116,11 +1116,11 @@
 			Skål kamrater, ty livet är glatt
 			och snart förgäta vi sorgen.
 			Vi söpo igår, vi supa idag
-			och ta' en sjujäkel imorgon.
+			och ta&apos; en sjujäkel imorgon.
 			Skål, skål, skål, skål!
 		</p>
 		<p>
-			Skål, go'vänner i vinet en skål,
+			Skål, go&apos;vänner i vinet en skål,
 			den hjälper oss sorgerna glömma.
 			För glädjen idag, i vännernas lag
 			för detta vi glaset tömma.
@@ -1147,7 +1147,7 @@
 		<p>Och ### säger inte nej därtill!</p>
 		<p>
 			För det var i vår ungdoms fagraste vår,
-			vi drack varandra till och vi sade: "Gutår!"
+			vi drack varandra till och vi sade: &quot;Gutår!&quot;
 		</p>
 	</song>
 	<song
@@ -1188,7 +1188,7 @@
 			och Polens bästa porter.
 		</p>
 		<p>
-			Och Gordon's gin är gott minsann
+			Och Gordon&apos;s gin är gott minsann
 			och rysk champagne går också an,
 			men annars så tar vi så lite vi kan,
 			både Kasper och Jesper och Jonathan.
@@ -1219,7 +1219,7 @@
 			i ångesten vi svettas kom sjung din refräng:
 		</p>
 		<p>
-			Varför finns det aldrig nå'n nykter karneval?
+			Varför finns det aldrig nå&apos;n nykter karneval?
 			O, låt oss somna om så vi slipper våra kval.
 			Men se, så många supar vi redan kastat upp i sängen
 			Renat och Skåne, Svart Vinbär och fager Bäsk!
@@ -1386,8 +1386,8 @@
 		<p>//: Hallen lutar, hallen lutar ://</p>
 		<p>
 			Jag minns knappt julen nittiotre.
-			Min bror var där å syster me',
-			å snyggingen i rött satt alld'les breve'.
+			Min bror var där å syster me&apos;,
+			å snyggingen i rött satt alld&apos;les breve&apos;.
 			Vi drack vår glögg och pratade,
 			min dejt blev trött och schappade.
 			Så jag fick ännu mer tid för den röde.
@@ -1553,8 +1553,8 @@
 		<p>
 			En Pripps klass III, en Pripps klass III,
 			då går det mycket snabbare,
-			och blir man inte full på de'
-			då kan man dricka renat me'
+			och blir man inte full på de&apos;
+			då kan man dricka renat me&apos;
 			En Pripps klass III, en Pripps klass III,
 			då går det mycket snabbare.
 		</p>
@@ -1587,7 +1587,7 @@
 		<p>
 			På gatorna gick folk omkring
 			och drog från krog till krog,
-			och alla vråla' dom av törst
+			och alla vråla&apos; dom av törst
 			och svimmade och dog.
 		</p>
 	</song>
@@ -1745,8 +1745,8 @@
 			vi vet hur vår Svatta* skall behandlas.
 		</p>
 		<comment>
-			* Damer sjunger "Svakar", herrar sjunger "Svatta".
-			Orden motsvarar "Osquar" resp. "Osqulda"
+			* Damer sjunger &quot;Svakar&quot;, herrar sjunger &quot;Svatta&quot;.
+			Orden motsvarar &quot;Osquar&quot; resp. &quot;Osqulda&quot;
 			på tekniska högskolan i Helsingfors (TKK).
 		</comment>
 	</song>
@@ -1758,7 +1758,7 @@
 		category="Öhl"
 	>
 		<p>
-			Vi skall festa, hela da'n till nästa,
+			Vi skall festa, hela da&apos;n till nästa,
 			kanske börja om på nytt igen.
 			Vi tar drycken, godast utav alla,
 			Fram med ölen, nu så är det dags!
@@ -1786,7 +1786,7 @@
 	>
 		<p>
 			Den första gång jag öppna en
-			och kände hur den svalka' sen.
+			och kände hur den svalka&apos; sen.
 			Bort föll allting jag trott var ballt
 			kvar stod jäst, humle, liksom malt.
 		</p>
@@ -1829,9 +1829,9 @@
 		<p>
 			Jag minns än idag hur min fader,
 			kom hem ifrån staden så glader,
-			och rada' upp flaskor i rader,
+			och rada&apos; upp flaskor i rader,
 			och sade nöjd som så:
-			"Bordeaux, Bordeaux!"
+			&quot;Bordeaux, Bordeaux!&quot;
 		</p>
 		<p>
 			Han drack ett glas, kom i extas,
@@ -1840,7 +1840,7 @@
 			som första klassens fyllesvin.
 			Och vi dansade runt där på bordet,
 			och skrek så vi blev blå:
-			"Bordeaux, Bordeaux!"
+			&quot;Bordeaux, Bordeaux!&quot;
 		</p>
 	</song>
 	<song
@@ -1902,10 +1902,10 @@
 			som sedan ska jäsas till vin.
 		</p>
 		<p>
-			Transpirationen viktig e',
+			Transpirationen viktig e&apos;,
 			ty den ge, fin bouquet.
-			Vårtor och svampar följer me'
-			men vad gör väl de'?
+			Vårtor och svampar följer me&apos;
+			men vad gör väl de&apos;?
 		</p>
 		<p>
 			För vi vill ha vin,
@@ -2017,7 +2017,7 @@
 		</p>
 	</song>
 	<song
-		name="Crassus' vinsång"
+		name="Crassus&apos; vinsång"
 		id="53"
 		composer="Alice Tegnér"
 		melody="Mors lille olle"
@@ -2122,7 +2122,7 @@
 			Vem kan ragla förutan vin,
 			vem är nykter om våren,
 			vem kan skilja på kron och gin
-			utan att smaka på 'ren?
+			utan att smaka på &apos;ren?
 		</p>
 		<p>
 			Jag kan ragla förutan vin,
@@ -2275,7 +2275,7 @@
 	>
 		<p>
 			//: Nu ska vi klämma septen, gutår,
-			klämma en trudelutt om de' går.
+			klämma en trudelutt om de&apos; går.
 			Tjosan Mohammed snart är det vår!
 			Julafton är en torsdag!*
 			Klunk klunk klunk klunk klunk klunk,
@@ -2298,15 +2298,15 @@
 			där han satt uti bleket.
 		</p>
 		<p>
-			"Jag vill ha sill!" hördes måsen rope,
-			och skepparn svarte: "Jag vill ha OP,
-			om blott jag får, om blott jag får".
+			&quot;Jag vill ha sill!&quot; hördes måsen rope,
+			och skepparn svarte: &quot;Jag vill ha OP,
+			om blott jag får, om blott jag får&quot;.
 		</p>
 		<p>
 			Nu lyfter måsen från klyvarbom
 			och vinden spelar i tågen.
-			OP'n svalkat har skepparns gom.
-			Jag önskar blott att jag såg 'en.
+			OP&apos;n svalkat har skepparns gom.
+			Jag önskar blott att jag såg &apos;en.
 		</p>
 		<p>
 			Så nöjd och lycklig, den arme saten,
@@ -2345,8 +2345,8 @@
 		</p>
 		<p>
 			Han ville uppåt, han ville mer,
-			men planet svarte: "Jag vill nu ner,
-			mot alla hjon, på Västerbron."
+			men planet svarte: &quot;Jag vill nu ner,
+			mot alla hjon, på Västerbron.&quot;
 		</p>
 		<header>Musen</header>
 		<p>
@@ -2397,7 +2397,7 @@
 			kvarten gör en som en männska ny.
 		</p>
 		<p>
-			Låt oss skåla med varann, go' vänner!
+			Låt oss skåla med varann, go&apos; vänner!
 			Skål för vår levnads glada hopp!
 			Törstens eld på nytt i strupen bränner,
 			leve livet, skål och botten opp!
@@ -2495,7 +2495,7 @@
 			som lik, sig lik!
 		</p>
 		<p>
-			Å' sen när vi vaknar vi sjunger en bit,
+			Å&apos; sen när vi vaknar vi sjunger en bit,
 			så korkar vi upp Skånes Akvavit.
 			Skål för alla, skål för alla, skål för alla
 			vikingar som kom hit!
@@ -2648,7 +2648,7 @@
 			kalla pilsnerhalvor luta sig därmot,
 			men därnere, miserere, sitter allas våran far,
 			det är fan och han vill ha det som är kvar!
-			(Låt han få't!)
+			(Låt han få&apos;t!)
 		</p>
 	</song>
 	<song
@@ -2704,16 +2704,16 @@
 		<comment>Sjung högt:</comment>
 		<p>Höj sen glasen för fosterlandets välgång, HEJ!</p>
 		<p>
-			Sjung "na zdrowie" med en mäktig
+			Sjung &quot;na zdrowie&quot; med en mäktig
 			bas, bas, bas, bas!
 		</p>
 		<p>
 			Höj sen glasen för fosterlandets välgång,
-			sjung "na zdrowie", låt glasen gå i kras!
+			sjung &quot;na zdrowie&quot;, låt glasen gå i kras!
 		</p>
 		<comment>
 			Krossa eller släng nubbeglaset efter skålen, dock endast plastglas.
-			Vid glasglas sjung "låt glasen vara kvar".
+			Vid glasglas sjung &quot;låt glasen vara kvar&quot;.
 		</comment>
 	</song>
 	<song
@@ -2745,7 +2745,7 @@
 			Kom hjärtans kär!
 			Vill du mig något så träffas vi där.
 			Kom Renat och Aqua Vitae,
-			kom OP och allt vad sprit e',
+			kom OP och allt vad sprit e&apos;,
 			kom ljuva Genever,
 			kom Överste!
 		</p>
@@ -2820,7 +2820,7 @@
 	>
 		<p>
 			Häv, häv detta glas, nu är det kalas.
-			Nä, nä, vet du va', jag ska inget ha'
+			Nä, nä, vet du va&apos;, jag ska inget ha&apos;
 			För om jag dricker opp,
 			och inte säger stopp,
 			så slutar jag nog som ett minne blott.
@@ -2839,8 +2839,8 @@
 			och bankar på dess port.
 			Jag vill ha nåt som bränner bra
 			Och gör mig skitfull fort.
-			Expediten sade "Go'dag,
-			Hur gammal kan min herre va?"
+			Expediten sade &quot;Go&apos;dag,
+			Hur gammal kan min herre va?&quot;
 			Har du nåt leg, ditt fula drägg?
 			Kom hit igen när du fått skägg!
 		</p>
@@ -3017,13 +3017,13 @@
 	>
 		<p>
 			Ser du skeppet i vår hamn?
-			Ner i Mälar'n det försvann!
+			Ner i Mälar&apos;n det försvann!
 			Hur sjönk Vasa? Ve och fasa!
 			Botten upp.
 		</p>
 		<p>
 			Full besättning fanns ombord.
-			Hälften hoppa' överbord.
+			Hälften hoppa&apos; överbord.
 			Skeppet sjunka, alla drunkna!
 			Botten upp!
 		</p>
@@ -3037,7 +3037,7 @@
 		<p>
 			I take the snaps, the snaps thrills me,
 			thrilling as only a snaps can be.
-			I don't know where I ought to be
+			I don&apos;t know where I ought to be
 			before I get me snapses three.
 		</p>
 		<p>
@@ -3066,10 +3066,10 @@
 		<p>
 			When he’s digging, when he’s digging,
 			he sees something on a rock
-			It's a bottle, with some contents
+			It&apos;s a bottle, with some contents
 			could it be his aquavit?
 			Oh my darling oh my darling
-			it's my darling aquavit
+			it&apos;s my darling aquavit
 			Thou are back and here for ever
 			I will drink you aquavit.
 		</p>
@@ -3131,8 +3131,8 @@
 			varmrätt och dessert!
 		</p>
 		<p>
-			Jag gillar punsch för vet du va'
-			rent kaffe gör ju ingen gla'.
+			Jag gillar punsch för vet du va&apos;
+			rent kaffe gör ju ingen gla&apos;.
 			Så punsch för fulla muggar vill jag ha!
 		</p>
 		<p>
@@ -3195,8 +3195,8 @@
 			så länge jag får leva.
 			För när jag en gång dör,
 			så står det på min grav:
-			"Här vilar en som Svenska
-			punschen gillat har!"
+			&quot;Här vilar en som Svenska
+			punschen gillat har!&quot;
 		</p>
 		<p>
 			Jag gillar, jag gillar punschen,
@@ -3393,7 +3393,7 @@
 		</p>
 		<p>
 			Jag gömde mig i fantasi.
-			långt bort från vardan's tråkeri.
+			långt bort från vardan&apos;s tråkeri.
 			Och var gång som jag hade dig,
 			så väcktes skönsång uti mig.
 		</p>
@@ -3462,8 +3462,8 @@
 		<p>
 			Punschen den älskas ju av alla och envar.
 			Låt festen börja, låt punschen få flöda.
-			Skål alla vänner som har nå't i glaset kvar.
-			Hedra nu minnet av gamle kung Oscars da'r!
+			Skål alla vänner som har nå&apos;t i glaset kvar.
+			Hedra nu minnet av gamle kung Oscars da&apos;r!
 		</p>
 		<p>
 			Kalla den gudagåva eller himlanektar, vad du vill.
@@ -3515,13 +3515,13 @@
 		</p>
 		<p>
 			//: Så slickar vi, så slickar vi,
-			båd' utanpå och i.*
+			båd&apos; utanpå och i.*
 			Och finns det ändå något kvar
-			får det va' till sämre dar. ://
+			får det va&apos; till sämre dar. ://
 		</p>
 		<comment>
 			* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions
-			namn i mellanrummet: "båd' utanpå och i .. IN!!!"
+			namn i mellanrummet: &quot;båd&apos; utanpå och i .. IN!!!&quot;
 		</comment>
 	</song>
 	<song
@@ -3637,7 +3637,7 @@
 			Men det går ej.
 		</p>
 		<p>
-			Ska det va' så svårt få vad man beställt,
+			Ska det va&apos; så svårt få vad man beställt,
 			snart så har ju efterrätten smällt.
 			//: Det enda jag vill ha, det är punsch. ://
 		</p>
@@ -3700,43 +3700,43 @@
 		</p>
 	</song>
 	<song
-		name="Barrett's Privateers"
+		name="Barrett&apos;s Privateers"
 		id="114"
 		author="Stan Rogers (1976)"
 		category="Utländskt"
 	>
 		<p>
-			Kan sjungas med sångledare, då sjunger alla raderna som börjar med "*", sångledaren i
+			Kan sjungas med sångledare, då sjunger alla raderna som börjar med &quot;*&quot;, sångledaren i
 			övrigt solo.
 			O the year was 17-78!
 			*How I wish I was in Sherbrooke now!
 			A letter of marque came from the king,
-			to the scummiest vessel I'd ever seen!
+			to the scummiest vessel I&apos;d ever seen!
 		</p>
 		<p>
 			*God damn them all!
-			*I was told we'd cruise the seas for american gold!
-			*We'd fire no guns, shed no tears!
-			*Now I'm a broken man on a Halifax pier,
-			*the last of Barrett's privateers.
+			*I was told we&apos;d cruise the seas for american gold!
+			*We&apos;d fire no guns, shed no tears!
+			*Now I&apos;m a broken man on a Halifax pier,
+			*the last of Barrett&apos;s privateers.
 		</p>
 		<p>
 			O Elcid Barrett cried the town.
 			*How I wish I was in Sherbrooke now!
 			For twenty brave men, all fishermen who
-			would make for him the Antelope's crew.
+			would make for him the Antelope&apos;s crew.
 		</p>
 		<p>*God damn them all ...</p>
 		<p>
 			The Antelope sloop was a sickening sight.
 			*How I wish I was in Sherbrooke now!
-			She'd a list to the port and her sails in rags
+			She&apos;d a list to the port and her sails in rags
 			and the cook in the scuppers
 			with the staggers and jags!
 		</p>
 		<p>*God damn them all ...</p>
 		<p>
-			On the king's birthday we put to sea.
+			On the king&apos;s birthday we put to sea.
 			*How I wish I was in Sherbrooke now!
 			We were ninety-one days to Montego Bay,
 			pumping like madmen all the way.
@@ -3771,15 +3771,15 @@
 		</p>
 		<p>
 			*God damn them all!
-			*I was told we'd cruise the seas for american gold!
-			*We'd fire no guns, shed no tears!
-			*Now I'm a broken man on a Halifax pier,
-			*the last of Barrett's privateers.
+			*I was told we&apos;d cruise the seas for american gold!
+			*We&apos;d fire no guns, shed no tears!
+			*Now I&apos;m a broken man on a Halifax pier,
+			*the last of Barrett&apos;s privateers.
 		</p>
 		<p>
 			Now here I lay in my 23rd year.
 			*How I wish I was in Sherbrooke now!
-			It's been six long years since we sailed away,
+			It&apos;s been six long years since we sailed away,
 			and I just made Halifax yesterday.
 		</p>
 		<p>*God damn them all ...</p>
@@ -3802,12 +3802,12 @@
 			where my old horse should be?
 		</p>
 		<p>
-			Ah, you're drunk, you're drunk, you silly old fool.
-			Still you can not see, that's a lovely sow
+			Ah, you&apos;re drunk, you&apos;re drunk, you silly old fool.
+			Still you can not see, that&apos;s a lovely sow
 			that me mother sent to me.
 		</p>
 		<p>
-			Well, it's many a day I've travelled
+			Well, it&apos;s many a day I&apos;ve travelled
 			a hundred miles or more,
 			but a saddle on a sow, sure I never saw before.
 		</p>
@@ -3824,12 +3824,12 @@
 			where my old coat should be?
 		</p>
 		<p>
-			Ah, you're drunk, you're drunk you silly old fool.
-			Still you can not see, that's a woollen blanket
+			Ah, you&apos;re drunk, you&apos;re drunk you silly old fool.
+			Still you can not see, that&apos;s a woollen blanket
 			that me mother sent to me.
 		</p>
 		<p>
-			Well, it's many a day I've travelled
+			Well, it&apos;s many a day I&apos;ve travelled
 			a hundred miles or more,
 			but buttons in a blanket, sure I never saw before.
 		</p>
@@ -3846,12 +3846,12 @@
 			where my old pipe should be?
 		</p>
 		<p>
-			Ah, you're drunk, you're drunk, you silly old fool.
-			Still you can not see that's a lovely tin whistle
+			Ah, you&apos;re drunk, you&apos;re drunk, you silly old fool.
+			Still you can not see that&apos;s a lovely tin whistle
 			that me mother sent to me.
 		</p>
 		<p>
-			Well, it's many a day I've travelled
+			Well, it&apos;s many a day I&apos;ve travelled
 			a hundred miles or more,
 			but tobacco in a tin whistle
 			sure I never saw before.
@@ -3869,12 +3869,12 @@
 			where my old boots should be?
 		</p>
 		<p>
-			Ah, you're drunk, you're drunk, you silly old fool.
-			Still you can not see, they're two lovely
+			Ah, you&apos;re drunk, you&apos;re drunk, you silly old fool.
+			Still you can not see, they&apos;re two lovely
 			Geranium pots me mother sent to me.
 		</p>
 		<p>
-			Well, it's many a day I've travelled
+			Well, it&apos;s many a day I&apos;ve travelled
 			a hundred miles or more,
 			but laces in Geranium pots I never saw before.
 		</p>
@@ -3891,12 +3891,12 @@
 			where my old head should be?
 		</p>
 		<p>
-			Ah, you're drunk, you're drunk you silly old fool.
-			Still you can not see, that's a baby boy
+			Ah, you&apos;re drunk, you&apos;re drunk you silly old fool.
+			Still you can not see, that&apos;s a baby boy
 			that me mother sent to me.
 		</p>
 		<p>
-			Well, it's many a day I've travelled
+			Well, it&apos;s many a day I&apos;ve travelled
 			a hundred miles or more,
 			but a baby boy with his whiskers on
 			sure I never saw before.
@@ -3914,12 +3914,12 @@
 			where my old hands should be?
 		</p>
 		<p>
-			Ah, you're drunk, you're drunk you silly old fool.
-			Still you can not see, that's a lovely night gown
+			Ah, you&apos;re drunk, you&apos;re drunk you silly old fool.
+			Still you can not see, that&apos;s a lovely night gown
 			that me mother sent to me.
 		</p>
 		<p>
-			Well, it's many a day I've travelled
+			Well, it&apos;s many a day I&apos;ve travelled
 			a hundred miles or more,
 			but fingers in a night gown sure I never saw before.
 		</p>
@@ -3936,12 +3936,12 @@
 			where my old thing should be?
 		</p>
 		<p>
-			Ah, you're drunk, you're drunk you silly old fool.
-			Still you can not see, that's a lovely hammer
+			Ah, you&apos;re drunk, you&apos;re drunk you silly old fool.
+			Still you can not see, that&apos;s a lovely hammer
 			that me mother sent to me.
 		</p>
 		<p>
-			Well, it's many a day I've travelled,
+			Well, it&apos;s many a day I&apos;ve travelled,
 			a hundred miles or more,
 			but a hammer with a head like that
 			sure I never saw before.
@@ -3953,13 +3953,13 @@
 		category="Utländskt"
 	>
 		<p>
-			I've been a wild rover for many's the year,
-			I've spent all me money on whiskey and beer.
-			But now I'm returning with gold in great store,
+			I&apos;ve been a wild rover for many&apos;s the year,
+			I&apos;ve spent all me money on whiskey and beer.
+			But now I&apos;m returning with gold in great store,
 			and I never will play the wild rover no more.
 		</p>
 		<p>
-			And it's no, nay, never!
+			And it&apos;s no, nay, never!
 			No, nay, never, no more,
 			will I play the wild rover.
 			No never no more!
@@ -3967,29 +3967,29 @@
 		<p>
 			I went to an alehouse I used to frequent,
 			and I told the landlady me money was spent.
-			I asked her for credit, she answered me "nay,
-			such a custom as yours I could have any day".
+			I asked her for credit, she answered me &quot;nay,
+			such a custom as yours I could have any day&quot;.
 		</p>
 		<p>And it's no, nay, never ...</p>
 		<p>
 			I took from me pocket ten sovereigns bright,
-			and the landlady's eyes opened wide with delight.
-			She said "I have whiskeys and wines of the best,
-			and the words I just spoke they were only in jest".
+			and the landlady&apos;s eyes opened wide with delight.
+			She said &quot;I have whiskeys and wines of the best,
+			and the words I just spoke they were only in jest&quot;.
 		</p>
 		<p>And it's no, nay, never ...</p>
 		<p>
-			I'll have none of your whiskeys,
+			I&apos;ll have none of your whiskeys,
 			nor fine Spanish wines,
 			for your words show you clearly as no friend of mine.
-			There's others most willing to open a door,
+			There&apos;s others most willing to open a door,
 			to a man coming home from a far distant shore.
 		</p>
 		<p>And it's no, nay, never ...</p>
 		<p>
-			I'll go home to me parents, confess what I've done,
-			and I'll ask them to pardon their prodigal son.
-			And when they've caressed me as oft times before,
+			I&apos;ll go home to me parents, confess what I&apos;ve done,
+			and I&apos;ll ask them to pardon their prodigal son.
+			And when they&apos;ve caressed me as oft times before,
 			I never will play the wild rover no more.
 		</p>
 		<p>And it's no, nay, never ...</p>
@@ -3997,7 +3997,7 @@
 	<song
 		name="Alle Fugler"
 		id="117"
-		melody="Alla fåglar kommit re'n"
+		melody="Alla fåglar kommit re&apos;n"
 		category="Utländskt"
 	>
 		<p>
@@ -4017,7 +4017,7 @@
 			Early in the morning!
 		</p>
 		<p>
-			//: Put him in the longboat til' he's sober ... :// (x3)
+			//: Put him in the longboat til&apos; he&apos;s sober ... :// (x3)
 			Early in the morning!
 		</p>
 		<p>
@@ -4028,17 +4028,17 @@
 		<p>
 			Put him in the scupper with a hosepipe on him...
 			Pull out the plug and wet him all over...
-			Put him in bed with the captain's daughter...
+			Put him in bed with the captain&apos;s daughter...
 			Shave his belly with a rusty razor...
 			Hang him from the mast like a Jolly Roger...
 			Throw him in the bilge and make him drink it...
 			Stick him in a bag and beat him senseless...
 			Put him in the hull with an angry weasel...
-			Hang him from the yardarm til' he dangles...
+			Hang him from the yardarm til&apos; he dangles...
 		</p>
 	</song>
 	<song
-		name="Under the Scotsman's Kilt"
+		name="Under the Scotsman&apos;s Kilt"
 		id="119"
 		category="Utländskt"
 	>
@@ -4046,7 +4046,7 @@
 			Well, a Scotsman clad in kilt
 			left the bar one evening fair,
 			and one could tell by how he walked
-			that he'd drunk more than his share.
+			that he&apos;d drunk more than his share.
 		</p>
 		<p>
 			He fumbled round until he
@@ -4067,16 +4067,16 @@
 			with a twinkle in her eye:
 		</p>
 		<p>
-			"See yon sleeping Scotsman
+			&quot;See yon sleeping Scotsman
 			so strong and handsome built,
-			I wonder if it's true what they
-			don't wear beneath the kilt?"
+			I wonder if it&apos;s true what they
+			don&apos;t wear beneath the kilt?&quot;
 		</p>
 		<p>
 			Ring ding diddle diddle i de o,
 			ring di diddle i o.
-			"I wonder if it's true what
-			they don't wear beneath the kilt?"
+			&quot;I wonder if it&apos;s true what
+			they don&apos;t wear beneath the kilt?&quot;
 		</p>
 		<p>
 			They crept up on that sleeping
@@ -4098,39 +4098,39 @@
 		</p>
 		<p>
 			They marveled for a moment,
-			then one said: "We must be gone,
-			let's leave a present for our friend
-			before we move along."
+			then one said: &quot;We must be gone,
+			let&apos;s leave a present for our friend
+			before we move along.&quot;
 		</p>
 		<p>
 			As a gift they left a blue silk
 			ribbon tied into a bow,
 			around the bonnie spar that
-			the Scot's kilt did lift and show.
+			the Scot&apos;s kilt did lift and show.
 		</p>
 		<p>
 			Ring ding diddle diddle i de o,
 			ring di diddle i o.
 			Around the bonnie spar that
-			the Scot's kilt did lift and show.
+			the Scot&apos;s kilt did lift and show.
 		</p>
 		<p>
-			Now the Scotsman woke to nature's
+			Now the Scotsman woke to nature&apos;s
 			call and stumbled toward a tree,
 			behind a bush he lifts his kilt and
 			gawks at what he sees.
 		</p>
 		<p>
 			And in a startled voice he says
-			to what's before his eyes,
-			Aw, "Lad I don't know where you've
-			been but I see you won first prize!"
+			to what&apos;s before his eyes,
+			Aw, &quot;Lad I don&apos;t know where you&apos;ve
+			been but I see you won first prize!&quot;
 		</p>
 		<p>
 			Ring ding diddle diddle i de o,
 			ring di diddle i o.
-			Aw, "Lad I don't know where you've
-			been but I see you won first prize!"
+			Aw, &quot;Lad I don&apos;t know where you&apos;ve
+			been but I see you won first prize!&quot;
 		</p>
 	</song>
 	<song
@@ -4154,30 +4154,30 @@
 			Near, far, wherever you are,
 			I believe that the heart does go on.
 			Once more you open the door,
-			and you're here in my heart and
+			and you&apos;re here in my heart and
 			my heart will go on and on.
 		</p>
 		<p>
 			Love can touch us one time
 			and last for a lifetime.
-			And never let go 'til we're gone.
+			And never let go &apos;til we&apos;re gone.
 		</p>
 		<p>
 			Love was when I loved you
 			one true time I hold to.
-			In my life we'll always go on.
+			In my life we&apos;ll always go on.
 		</p>
 		<p>
 			Near, far, wherever you are,
 			I believe that the heart does go on.
 			Once more you open the door
-			And you're here in my heart and
+			And you&apos;re here in my heart and
 			my heart will go on and on.
 		</p>
 		<p>
-			You're here, there's nothing I fear,
+			You&apos;re here, there&apos;s nothing I fear,
 			and I know that my heart will go on.
-			We'll stay forever this way.
+			We&apos;ll stay forever this way.
 			You are safe in my heart and
 			my heart will go on and on.
 		</p>
@@ -4190,28 +4190,28 @@
 	>
 		<p>
 			In the trade of jester,
-			we're fools that play our part.
+			we&apos;re fools that play our part.
 			In an act sworn by folklore,
 			where the lines are made by heart.
 		</p>
 		<p>
 			Getting gold from the nobles
-			and mockin' from ye all.
+			and mockin&apos; from ye all.
 			But we drink with the greatest warriors,
 			and we dance in every hall.
 		</p>
 		<p>
 			We travel through the country,
 			we go from town to town.
-			We're the sworn kings of jester
-			but we've never worn a crown.
+			We&apos;re the sworn kings of jester
+			but we&apos;ve never worn a crown.
 		</p>
 		<p>Getting gold ...</p>
 		<p>
-			I've never had a family,
+			I&apos;ve never had a family,
 			nor have I had a wife.
-			It's a high cost of living,
-			it's the price I pay for life.
+			It&apos;s a high cost of living,
+			it&apos;s the price I pay for life.
 		</p>
 		<p>Getting gold ...</p>
 		<p>
@@ -4281,14 +4281,14 @@
 		</p>
 		<p>
 			Suddenly,
-			There's not half the files there used to be,
-			and there's a milestone hanging over me.
+			There&apos;s not half the files there used to be,
+			and there&apos;s a milestone hanging over me.
 			The system crashed so suddenly.
 		</p>
 		<p>
 			I pushed something wrong,
 			what it was I could not say.
-			All my data's gone,
+			All my data&apos;s gone,
 			and I long for yesterday-ay-ay-ay.
 		</p>
 		<p>
@@ -4307,33 +4307,33 @@
 		category="Nördigt"
 	>
 		<p>
-			He's a real UNIX Man,
+			He&apos;s a real UNIX Man,
 			sitting in his UNIX LAN,
 			making all his UNIX .plans
 			for nobody.
 		</p>
 		<p>
-			Knows the blocksize from 'du'.
+			Knows the blocksize from &apos;du&apos;.
 			Cares not where /dev/null goes to.
-			Isn't he a bit like you and me?
+			Isn&apos;t he a bit like you and me?
 		</p>
 		<p>
-			UNIX Man, don't worry.
-			It's the tube that's blurry.
+			UNIX Man, don&apos;t worry.
+			It&apos;s the tube that&apos;s blurry.
 			UNIX Man,
 			the new kernel boots,
 			just like you had planned.
 		</p>
 		<p>
-			He's as wise as he can be.
+			He&apos;s as wise as he can be.
 			Programs in lex, yacc and C.
 			UNIX Man, can you help me at all?
 		</p>
 		<p>
 			UNIX Man, please listen.
-			My printout is missin'.
+			My printout is missin&apos;.
 			UNIX Man,
-			the wo-o-o-orld is your 'at' command.
+			the wo-o-o-orld is your &apos;at&apos; command.
 		</p>
 	</song>
 	<song
@@ -4368,8 +4368,8 @@
 			kompilera kerneln.
 			Men så en dag sa jag till frugan,
 			vänligt men bestämt:
-			"Vi skaffar oss ett nytt OS
-			som inte är ett skämt!"
+			&quot;Vi skaffar oss ett nytt OS
+			som inte är ett skämt!&quot;
 		</p>
 		<p>
 			Man ska ha Linux,
@@ -4417,7 +4417,7 @@
 			står: garbage collecting, done!
 		</p>
 		<p>
-			Väntar på'n till min pension, tugga på, tugga på.
+			Väntar på&apos;n till min pension, tugga på, tugga på.
 			Emacs gör en Sparcstation, tugga på, tugga på.
 			Snabb som en ABC-80.
 			Högprestanda blir så smått i
@@ -4453,7 +4453,7 @@
 			Vad är värst? På vårt torn.
 			Han vill ha ett glas saft.
 			Han förstår på ett nafs
-			och du måst' in på dass!
+			och du måst&apos; in på dass!
 			Skala din Aladdin!
 			På en naken dag.
 		</p>
@@ -4515,15 +4515,15 @@
 		<p>
 			Write in C, write in C,
 			write in C, oh, write in C.
-			LOGO's dead and buried, write in C.
+			LOGO&apos;s dead and buried, write in C.
 		</p>
 		<p>
-			I used to write a lot of FORTRAN;<
+			I used to write a lot of FORTRAN;&lt;
 			for science it worked flawlessly.
 			Try using it for graphics! Write in C.
 		</p>
 		<p>
-			If you've just spent nearly 30 hours
+			If you&apos;ve just spent nearly 30 hours
 			debugging some assembly,
 			soon you will be glad to write in C.
 		</p>
@@ -4535,12 +4535,12 @@
 		<p>
 			Write in C, write in C,
 			write in C, oh, write in C.
-			Pascal won't quite cut it, write in C.
+			Pascal won&apos;t quite cut it, write in C.
 		</p>
 		<p>
 			Write in C, write in C,
 			write in C, yeah, write in C.
-			Don't even mention COBOL. Write in C.
+			Don&apos;t even mention COBOL. Write in C.
 		</p>
 	</song>
 	<song
@@ -4562,7 +4562,7 @@
 			pop opp i topp-opp!
 		</p>
 		<p>
-			Världen är full av elektriska 'jänger,
+			Världen är full av elektriska &apos;jänger,
 			pop, pop, pop opp i topp-opp!
 			Alla har drabbats av samma refräng,
 			pop opp i topp-opp!
@@ -4615,10 +4615,10 @@
 			men idéerna tryter.
 			Vi har fått leva på luft och kex,
 			och klubbmästaren ryter:
-			"Era drägg, ni e' inge bra!"
+			&quot;Era drägg, ni e&apos; inge bra!&quot;
 			Och praoen svarte:
-			"Jag vill bli invald,
-			om blott jag får, om blott jag får."
+			&quot;Jag vill bli invald,
+			om blott jag får, om blott jag får.&quot;
 		</p>
 	</song>
 	<song
@@ -4630,11 +4630,11 @@
 	>
 		<p>
 			//: Vår flygpilot, vår flygpilot,
-			får inte va nån' idiot. ://
+			får inte va nån&apos; idiot. ://
 			För om han är en idiot,
 			så kan vi bli en hög med skrot.
 			Vår flygpilot, vår flygpilot,
-			får inte va nån' idiot.
+			får inte va nån&apos; idiot.
 		</p>
 	</song>
 	<song
@@ -4660,7 +4660,7 @@
 			Klubbmästeriet hur vi saknar er.
 			Kräftskiva och annat festligt,
 			vi kan räkna ut betygssnitt.
-			Nu har ni bokstäver, va' fan är det?
+			Nu har ni bokstäver, va&apos; fan är det?
 		</p>
 		<p>
 			IN-sektionen en framtid vi ser,
@@ -4736,7 +4736,7 @@
 		category="Esoterica"
 	>
 		<p>
-			Sångledaren läser raderna som startar med "*"
+			Sångledaren läser raderna som startar med &quot;*&quot;
 			Studenter se det är som så,
 			jag är nyss fyllda 18 år.
 			Så vilken skola är av bästa klass?
@@ -4750,7 +4750,7 @@
 			Läs nåt som du har glädje av!
 		</p>
 		<p>
-			Skolan ska' va riktigt bra,
+			Skolan ska&apos; va riktigt bra,
 			det bästa är det som jag vill ha.
 			Kanske du minns hur du kände dig,
 			kåren, vill ni hjälpa mig?
@@ -4867,7 +4867,7 @@
 		<p>
 			En MUX som hette Ann-Sofi Åhn,
 			hon hade en stekpanna av Teflon,
-			I den la' hon sin mobiltelefon
+			I den la&apos; hon sin mobiltelefon
 			som genast sprängdes med schwung!
 		</p>
 		<p>
@@ -4882,13 +4882,13 @@
 		<p>
 			Nu har hon ingen telefon,
 			hon fick köpa sig en megafon.
-			Se'n skrek hon i sin mikrofon
+			Se&apos;n skrek hon i sin mikrofon
 			så att ingen fick sova en blund!
 		</p>
 		<p>Det var en stor blund...</p>
 		<p>
 			Kassören han blev helt bestört,
-			invITen skrek nåt' oerhört,
+			invITen skrek nåt&apos; oerhört,
 			Phöz tog varsin citodon
 			och tystade Ann-Sofi Åhn!
 		</p>
@@ -4939,7 +4939,7 @@
 			Så i spårval jag valde
 			att i nördars fotspår gå
 			Läsa teknikers linje
-			me'ns de andra kröka på.
+			me&apos;ns de andra kröka på.
 		</p>
 		<p>
 			För Bacchus älskar ju dem,
@@ -4973,8 +4973,8 @@
 			å där stod det liksom så:
 		</p>
 		<p>
-			"Jag kan kasta en stövel,
-			stjäla skyltar, supa på."
+			&quot;Jag kan kasta en stövel,
+			stjäla skyltar, supa på.&quot;
 			Å då jävlar de visste,
 			han har gått på KTH!
 		</p>
@@ -5046,10 +5046,10 @@
 		category="Esoterica"
 	>
 		<p>
-			"Du Konglig?"
-			"Ja?"
-			"Ibland e groggen för stor men oftast e den för liten."
-			"Mm, så är det."
+			&quot;Du Konglig?&quot;
+			&quot;Ja?&quot;
+			&quot;Ibland e groggen för stor men oftast e den för liten.&quot;
+			&quot;Mm, så är det.&quot;
 		</p>
 		<p>
 			//: Vart tog den schlema lilla nØllan vägen? :// (3x)
@@ -5073,7 +5073,7 @@
 			Vänta lite bara!
 			Hjältarna i mantlar
 			tycks komma i en skara!
-			"Höger hand på höger axel"
+			&quot;Höger hand på höger axel&quot;
 			sägs i gnällig röst,
 			sen vandrar de iväg,
 			i schlemled blir han phöst.
@@ -5116,7 +5116,7 @@
 			Och snuskiga små gyckel
 			som trotsar kårens bruk,
 			subliminala hintar,
-			vad rimmar på "duk"?
+			vad rimmar på &quot;duk&quot;?
 		</p>
 		<p>
 			Och lämna aldrig er
@@ -5210,7 +5210,7 @@
 			fem minuters sömn i soffan på plan 6.
 		</p>
 		<comment>
-			* "här finns inga tjejer" ska sjungas med tragedi, eftersom det inte var något
+			* &quot;här finns inga tjejer&quot; ska sjungas med tragedi, eftersom det inte var något
 			som celebrerades utan ett plågsamt faktum år 2004, när låten skrevs.
 		</comment>
 	</song>
@@ -5260,7 +5260,7 @@
 	<song
 		name="Kaffe"
 		id="144"
-		melody="She'll be coming 'round the mountain"
+		melody="She&apos;ll be coming &apos;round the mountain"
 		category="Esoterica"
 	>
 		<p>
