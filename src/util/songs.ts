@@ -43,6 +43,7 @@ export function getSong(from: string | number): Song {
 		title: data.title,
 	};
 
+	if (data.alternativeTitles) song.alternativeTitles = data.alternativeTitles;
 	if (data.author) song.author = data.author;
 	if (data.melody) song.melody = data.melody;
 	if (data.composer) song.composer = data.composer;
@@ -62,6 +63,12 @@ export function getAllSongs(sorted: boolean = true): Song[] {
 export function updateSong(song: Partial<Song> & { id: number }): void {
 	let fileContent = '---\n';
 	if (song.title) fileContent += `title: ${song.title}\n`;
+	if (song.alternativeTitles) {
+		fileContent += `alternativeTitles:\n`;
+		song.alternativeTitles.forEach((title) => {
+			fileContent += `  -${title}\n`;
+		});
+	}
 	if (song.author) fileContent += `author: ${song.author}\n`;
 	if (song.melody) fileContent += `melody: ${song.melody}\n`;
 	if (song.composer) fileContent += `composer: ${song.composer}\n`;
