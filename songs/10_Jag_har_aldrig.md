@@ -190,4 +190,4 @@ Jag vill aldrig gå i Kista,
 aldrig tenta programmeringsmetodik.
 //: Vi kan bara iterera... :// (in abs.)
 
-> Finns fler verser för olika sektioner, men de sjungs vanligen inte av IN-sektionen.
+> Finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.

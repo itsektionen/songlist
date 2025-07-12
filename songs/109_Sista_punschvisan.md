@@ -15,4 +15,6 @@ Och finns det ändå något kvar
 får det va' till sämre dar. ://
 
 > \* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions
-> namn i mellanrummet: "båd' utanpå och i .. IN!!!"
+> namn i mellanrummet: "båd' utanpå och i... IT!!!"
+> Tidigare vrålade sektionen "IN", efter IN-sektionen.
+> Flera andra sektionen vrålar också "igen", möjligen efter högljudda "IN".
