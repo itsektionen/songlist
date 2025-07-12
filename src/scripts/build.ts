@@ -4,6 +4,7 @@ import {
 	DIST_FILES,
 	DIST_FOLDER_PATH,
 	XML_SONGS_PATH,
+	SONG_TITLES_PATH,
 } from '../definitions/paths';
 import { join } from 'path';
 import { isoDateRegex } from '../util/regex';
@@ -19,6 +20,7 @@ export default async function build(customUpdatedAt: string | undefined): Promis
 
 	writeJson(await buildSongs.json);
 	writeXml(buildSongs.xml);
+	writeTitles(await buildSongs.titles);
 	console.log('Build complete and saved');
 
 	const filesToRemove = readdirSync(DIST_FOLDER_PATH)
@@ -39,4 +41,8 @@ export function writeJson(songs: string) {
 
 export function writeXml(songs: string) {
 	writeFileSync(XML_SONGS_PATH, songs);
+}
+
+export function writeTitles(titles: string) {
+	writeFileSync(SONG_TITLES_PATH, titles);
 }

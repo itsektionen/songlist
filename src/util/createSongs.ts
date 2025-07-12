@@ -10,6 +10,7 @@ export default function createSongs(updatedAt: string = dayjs().format('YYYY-MM-
 	return {
 		json: createJsonSongs(songs, updatedAt),
 		xml: buildXmlString(songs, updatedAt, true),
+		titles: createSongTitlesList(songs, updatedAt),
 	};
 }
 
@@ -18,6 +19,18 @@ export function createJsonSongs(songs: Song[], updatedAt: string) {
 		return { ...song, author: author ? formatAuthor(author) : undefined };
 	});
 	return format(JSON.stringify({ songs: sortedSongs, updatedAt }), {
+		parser: 'json',
+		useTabs: true,
+	});
+}
+
+export function createSongTitlesList(songs: Song[], updatedAt: string) {
+	const titles = sortSongs(songs).map((song) => ({
+		id: song.id,
+		title: song.title,
+		alternativeTitles: song.alternativeTitles,
+	}));
+	return format(JSON.stringify({ titles: titles, updatedAt }), {
 		parser: 'json',
 		useTabs: true,
 	});
