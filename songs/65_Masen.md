@@ -1,5 +1,7 @@
 ---
 title: Måsen
+alternativeTitles:
+  - JAS:en
 melody: När månen vandrar
 tags: [snaps, swe]
 ---

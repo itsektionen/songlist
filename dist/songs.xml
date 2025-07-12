@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-05-02">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-07-11">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -80,6 +80,7 @@
 	<song
 		name="Porthos visa"
 		id="2"
+		alternativeTitles="Athos visa"
 		author="Tord Andrén, B (Bergsspexet, KTH, 1960 — Ursprungligen Athos visa)"
 		composer="Irving Berlin"
 		melody="You can&apos;t get a man with a gun"
@@ -186,6 +187,7 @@
 	<song
 		name="Fredmans sång nr. 21"
 		id="5"
+		alternativeTitles="Så lunka vi så småningom"
 		author="Carl Michael Bellman (1787)"
 		composer="Carl Michael Bellman"
 		category="Gasque"
@@ -1010,6 +1012,7 @@
 	<song
 		name="Bort allt vad oro gör"
 		id="17"
+		alternativeTitles="Bacchi Tempel sång nr. 17"
 		author="Carl Michael Bellman (1783 — Bacchi Tempel sång nr. 17)"
 		composer="Carl Michael Bellman"
 		category="Gasque"
@@ -2288,6 +2291,7 @@
 	<song
 		name="Måsen"
 		id="65"
+		alternativeTitles="JAS:en"
 		melody="När månen vandrar"
 		category="Brännvin"
 	>
@@ -5421,6 +5425,7 @@
 	<song
 		name="Du gamla, du fria"
 		id="149"
+		alternativeTitles="Sveriges nationalsång"
 		author="Richard Dybeck (1844)"
 		category="Högtidligt"
 	>
