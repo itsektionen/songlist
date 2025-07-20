@@ -4,6 +4,7 @@ import { validMetaKeys } from '../src/definitions/song';
 import { TAGS } from '../src/definitions/tags';
 import { getAllSongPaths, getAllSongs } from '../src/util/songs';
 import { VALID_AUTHOR_KEYS } from '../src/definitions/author';
+import { closest } from 'fastest-levenshtein';
 
 describe('All files in songs folder are songs', () => {
 	test('All files are markdown', () => {
@@ -21,7 +22,7 @@ describe('All songs have valid data', () => {
 			Object.keys(metaKeys).forEach((metaKey) => {
 				expect(
 					validMetaKeys,
-					`Value ${metaKey} not a valid metadata property (found in ${path})`,
+					`Value ${metaKey} not a valid metadata property (found in ${path})\nDid you mean '${closest(metaKey, validMetaKeys)}'?`,
 				).toContain(metaKey);
 			});
 		});
@@ -68,7 +69,7 @@ describe('All songs have valid data', () => {
 			const invalidTag = song.tags.find((tag) => !TAGS.includes(tag));
 			expect(
 				invalidTag,
-				`Song with ID=${song.id} and title '${song.title}' contains the invalid tag '${invalidTag}'`,
+				`Song with ID=${song.id} and title '${song.title}' contains the invalid tag '${invalidTag}'. Did you mean '${closest(invalidTag ?? '', TAGS)}'`,
 			).toBeUndefined();
 		});
 	});
