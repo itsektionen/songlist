@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-07-11">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-07-21">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -5425,7 +5425,7 @@
 	<song
 		name="Du gamla, du fria"
 		id="149"
-		alternativeTitles="Sveriges nationalsång"
+		alternativeTitles="Sveriges nationalsång; Nationalsången"
 		author="Richard Dybeck (1844)"
 		category="Högtidligt"
 	>

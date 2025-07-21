@@ -1256,7 +1256,7 @@
 		{
 			"id": 149,
 			"title": "Du gamla, du fria",
-			"alternativeTitles": ["Sveriges nationalsång"],
+			"alternativeTitles": ["Sveriges nationalsång", "Nationalsången"],
 			"tags": ["solemn", "swe"],
 			"content": "Du gamla, du fria, du fjällhöga Nord,\ndu tysta, du glädjerika sköna!\nJag hälsar dig, vänaste land uppå jord.\n//: Din sol, din himmel,\ndina ängder gröna! ://\n\nDu tronar på minnen från fornstora dar,\ndå ärat ditt namn flög över jorden.\nJag vet att du är och du blir vad du var.\n//: Ja, jag vill leva,\njag vill dö i Norden! ://",
 			"author": "Richard Dybeck (1844)"
@@ -1277,5 +1277,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2025-07-11"
+	"updatedAt": "2025-07-21"
 }
