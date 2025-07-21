@@ -5,6 +5,12 @@ author:
     event: IT-nØllningen
     location: KTH
     year: 2000
+    comment: Vers 1-4
+  - name: Hugo Bachér, IN-21 & Tobias "Bobbe" Altin, IN-21
+    event: IN-Sektionens 15 års jubileum
+    location: KTH
+    year: 2023
+    comment: Vers 7-8
 melody: Längtan till landet
 composer: Otto Lindblad
 tags: [gasque, swe]
@@ -39,3 +45,13 @@ Nu system och minnen byggas på kisel,
 stora ingenjörer följer vårt spår.
 Så med styrka vi för världen nu visar:
 Vi är här och framtiden är vår!
+
+Ack för Kista brinner våra hjärtan,
+i Electrum skapas det magi.
+Alla minnen vi tillsammans skapat,
+detta firar vi med ceremoni.
+
+Huvud Campus äro inget för oss,
+de' är bara ett jävla clowneri.
+Med det sagt vill vi därför iterera:
+Att i Kiista, måste vi förbli!
