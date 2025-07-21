@@ -71,6 +71,7 @@ All files are named and contain two sections, YAML front matter first and conten
 The front matter is contained by one line with `---` each before and after the section. Possible fields in the front matter are:
 
 - `title`, the name or title of the song **(required)**
+- `alternativeTitles`, a list of alternative names or titles of the song
 - `author`, information about the person or persons who wrote the lyrics of the song
   - `name`, the name of the person or persons who wrote the lyrics of the song
   - `event`, the event for which the song was made
@@ -297,7 +298,7 @@ Alla filer är namngivna och innehåller två sektioner, YAML-front först och s
 Fronten har en rad med `---` före och efter sektionen. Möjliga fält i fronten är:
 
 - `title`, namnet eller titeln på sången **(obligatorisk)**
-- `author`, personen eller personerna som skrev sångtexten
+- `alternativeTitles`, en lista av alternativa namn eller titlar för sången
 - `author`, information om personen eller personerna som skrev sångtexten
   - `name`, personen eller personerna som skrev sångtexten
   - `event`, evenemanget sången skrevs till

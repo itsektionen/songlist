@@ -1,5 +1,7 @@
 ---
 title: Porthos visa
+alternativeTitles:
+  - Athos visa
 author:
   - name: Tord Andrén, B
     event: Bergsspexet

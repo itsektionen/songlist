@@ -1,5 +1,8 @@
 ---
 title: Du gamla, du fria
+alternativeTitles:
+  - Sveriges nationalsång
+  - Nationalsången
 author:
   - name: Richard Dybeck
     year: 1844

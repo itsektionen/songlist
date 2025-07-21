@@ -33,6 +33,14 @@ describe('All songs have valid data', () => {
 
 		songs.forEach((song) => {
 			expect(typeof song.title).toBe('string');
+			expect(
+				Array.isArray(song.alternativeTitles) || song.alternativeTitles === undefined,
+			).toBeTruthy();
+			if (song.alternativeTitles) {
+				song.alternativeTitles.forEach((title) => {
+					expect(typeof title).toBe('string');
+				});
+			}
 
 			expect(Array.isArray(song.author) || song.author === undefined).toBeTruthy();
 			if (song.author) {

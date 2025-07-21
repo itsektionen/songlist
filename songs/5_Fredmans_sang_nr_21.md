@@ -1,5 +1,7 @@
 ---
 title: Fredmans sång nr. 21
+alternativeTitles:
+  - Så lunka vi så småningom
 author:
   - name: Carl Michael Bellman
     year: 1787

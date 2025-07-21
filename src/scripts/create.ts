@@ -30,6 +30,7 @@ async function generateDefaultSongFileContent(
 	title: string,
 	{
 		author,
+		alternativeTitles,
 		melody,
 		composer,
 		tags = [],
@@ -38,10 +39,17 @@ async function generateDefaultSongFileContent(
 ): Promise<string> {
 	let contentBuilder = `---\ntitle: ${title}\n`;
 
+	contentBuilder += `author:\n`;
 	if (author) {
-		contentBuilder += `author:\n`;
 		author.forEach((a) => {
 			contentBuilder += `  - ${formatAuthor(a)}`;
+		});
+	}
+
+	if (alternativeTitles && alternativeTitles.length > 0) {
+		contentBuilder += `alternativeTitles:\n`;
+		alternativeTitles.forEach((title) => {
+			contentBuilder += `  - ${title}\n`;
 		});
 	}
 
@@ -67,6 +75,12 @@ function parseArgs(
 	const tags = getArgValues(args, 'tags').filter((tag) => TAGS.includes(tag as Tag)) as Tag[];
 	const [content] = getArgValues(args, 'content');
 
+	const [alternativeTitlesRaw] = getArgValues(args, 'alternativeTitles');
+	const alternativeTitles = (alternativeTitlesRaw ?? '')
+		.split(';')
+		.map((s) => s.trim())
+		.filter(Boolean);
+
 	let author: Author[] | undefined;
 	if (name || event || location || year) {
 		const authorObj: Author = {};
@@ -84,6 +98,7 @@ function parseArgs(
 					? Number(idString)
 					: undefined
 				: undefined,
+		alternativeTitles,
 		author,
 		melody,
 		composer,

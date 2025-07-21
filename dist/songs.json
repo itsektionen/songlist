@@ -20,6 +20,7 @@
 		{
 			"id": 2,
 			"title": "Porthos visa",
+			"alternativeTitles": ["Athos visa"],
 			"melody": "You can't get a man with a gun",
 			"composer": "Irving Berlin",
 			"tags": ["gasque", "swe"],
@@ -47,6 +48,7 @@
 		{
 			"id": 5,
 			"title": "Fredmans sång nr. 21",
+			"alternativeTitles": ["Så lunka vi så småningom"],
 			"composer": "Carl Michael Bellman",
 			"tags": ["gasque", "swe"],
 			"content": "Så lunka vi så småningom\nfrån Bacchi buller och tumult,\nnär döden ropar, Granne kom,\nditt timglas är nu fullt.\n\nDu Gubbe fäll din krycka ner,\noch du, du yngling, lyd min lag:\nDen skönsta nymf som åt dig ler\ninunder armen tag.\n\nTycker du att graven är för djup,\nnå välan så tag dig då en sup,\ntag dig sen dito en, dito två,\ndito tre, så dör du nöjdare.\n\nDu vid din remmare och press,\nrödbrusig och med hatt på sned,\nsnart skrider fram din likprocess\nI några svarta led;\n\nOch du som pratar där så stort,\nmed band och stjärnor på din rock:\nRe'n snickarn kistan färdig gjort,\noch hyvlar på des lock.\n\nTycker du...\n\nMen du som med en trumpen min,\nbland reglar, galler, järn och lås,\ndig vilar på ditt penningskrin,\ninom ditt stängda bås;\n\nOch du som svartsjuk slår i kras\nbuteljer, speglar och pokal;\nBjud nu god natt, drick ur ditt glas,\noch hälsa din rival:\n\nTycker du ...\n\nOch du som under titlars klang\ndin tiggarstav förgyllt vart år,\nsom knappast har, med all din rang,\nen skilling till din bår;\n\nOch du som ilsken, feg och lat,\nfördömer vaggan som dig välvt,\noch ändå dagligt är plakat\ntill glasets sista hälft;\n\nTycker du ...\n\nDu som vid Martis fältbasun\nI blodig skjorta sträckt ditt steg;\nOch du som tumlar i paulun,\nI Chloris armar feg;\n\nOch du som med din gyllne bok\nvid templets genljud reser dig,\nsom rister huvud lärd och klok,\noch för mot avgrund krig;\n\nTycker du att graven är för djup,\nnå välan så tag dig då en sup,\ntag dig sen dito en, dito två,\ndito tre, så dör du nöjdare.\n\nMen du som med en ärlig min\nplär dina vänner häda jämt,\noch dem förtalar vid ditt vin,\noch det liksom på skämt;\n\nOch du som ej försvarar dem,\nfastän ur deras flaskor du,\ndu väl kan slicka dina fem,\nvad svarar du väl nu?\n\nTycker du ...\n\nMen du som till din återfärd,\nifrån det du till bordet gick,\nEj klingat för din raska värd,\nfastän han ropar: Drick!\n\nDriv sådan gäst från mat och vin,\nkör honom med sitt anhang ut,\nOch sen med en ovänlig min,\nryck remmarn ur hans trut!\n\nTycker du ...\n\nSäg är du nöjd? Min granne säg,\nså prisa värden nu till slut;\nOm vi ha en och samma väg,\nså följoms åt; drick ut!\n\nMen först med vinet rött och vitt\nför vår värdinna bugom oss,\noch halkom sen i grafven fritt,\nvid aftonstjärnans bloss!\n\nTycker du ...",
@@ -144,6 +146,7 @@
 		{
 			"id": 17,
 			"title": "Bort allt vad oro gör",
+			"alternativeTitles": ["Bacchi Tempel sång nr. 17"],
 			"composer": "Carl Michael Bellman",
 			"tags": ["gasque", "swe"],
 			"content": "Bort allt vad oro gör,\nbort allt vad hjärtat kväljer!\nBäst att man väljer\nbland dessa buteljer\nsin maglikör.\n\n//: Granne, gör du just som jag gör!\nVet, denna oljan ger humör.\nVad det var läckert!\nVad var det? Rhenskt bleckert?\n\"Oui, monseigneur!\" ://\n\nBort allt vad oro gör,\nallt är ju stoft och aska.\nLåt oss bli raska\noch tömma vår flaska\nbland bröderna!\n\n//: Granne, gör du just som jag gör!\nVet, denna oljan ger humör.\nVad det var mäktigt!\nVad var det? \"Jo, präktigt!\"\nMalaga? \"Ja!\" ://",
@@ -524,6 +527,7 @@
 		{
 			"id": 65,
 			"title": "Måsen",
+			"alternativeTitles": ["JAS:en"],
 			"melody": "När månen vandrar",
 			"tags": ["snaps", "swe"],
 			"content": "Det satt en mås på en klyvarbom,\noch tom i krävan var kräket.\nOch tungan lådde i skepparns gom\ndär han satt uti bleket.\n\n\"Jag vill ha sill!\" hördes måsen rope,\noch skepparn svarte: \"Jag vill ha OP,\nom blott jag får, om blott jag får\".\n\nNu lyfter måsen från klyvarbom\noch vinden spelar i tågen.\nOP'n svalkat har skepparns gom.\nJag önskar blott att jag såg 'en.\n\nSå nöjd och lycklig, den arme saten,\nhan sätter storsegel den krabaten.\nTill sjöss han far, och halvan tar.\n\n# När månen vandrat sin tysta ban\n\nNär månen vandrat sin tysta ban,\noch tittar in genom rutan.\nDå tänker jag att på ljusa dan,\ndå kan jag klara mig utan.\n\nDå kan jag klara mig utan måne,\nmen utan renat och utan Skåne.\nDet vete fan, det vete fan.\n\nDen mås som satt på en klyvarbom,\nhan är nu död och begraven.\nOch skepparn som drack en flaska rom\nhan har nu druknat i haven.\n\nSå kan det gå om man fått för mycket,\nom man för brännvin har fattat tycke.\nVi som har kvar, vi resten tar.\n\n# JAS:en\n\nDär flög en JAS över Västerbron,\nmen styrsystemet var trasigt.\nPiloten utsköt sig med kanon,\nty planet svängde så knasigt.\n\nHan ville uppåt, han ville mer,\nmen planet svarte: \"Jag vill nu ner,\nmot alla hjon, på Västerbron.\"\n\n# Musen\n\nDet satt en mus i en hushållsost\noch åt och åt utan måtta.\nTills osten blev till en mushåls-ost\noch han en klotformad råtta.\nSå bra, sa musen, att va en fettboll,\nnu kan jag rulla med hast åt rätt håll:\nOstindien, Ostindien."
@@ -1252,6 +1256,7 @@
 		{
 			"id": 149,
 			"title": "Du gamla, du fria",
+			"alternativeTitles": ["Sveriges nationalsång", "Nationalsången"],
 			"tags": ["solemn", "swe"],
 			"content": "Du gamla, du fria, du fjällhöga Nord,\ndu tysta, du glädjerika sköna!\nJag hälsar dig, vänaste land uppå jord.\n//: Din sol, din himmel,\ndina ängder gröna! ://\n\nDu tronar på minnen från fornstora dar,\ndå ärat ditt namn flög över jorden.\nJag vet att du är och du blir vad du var.\n//: Ja, jag vill leva,\njag vill dö i Norden! ://",
 			"author": "Richard Dybeck (1844)"
@@ -1272,5 +1277,5 @@
 			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2025-05-02"
+	"updatedAt": "2025-07-21"
 }

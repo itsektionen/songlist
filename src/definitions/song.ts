@@ -4,6 +4,7 @@ import { Author } from './author';
 export type Song = {
 	id: number;
 	title: string;
+	alternativeTitles?: string[];
 	author?: Author[];
 	melody?: string;
 	composer?: string;
@@ -19,6 +20,7 @@ export type XmlifyableSong = Song & {
 
 export const validMetaKeys = [
 	'title',
+	'alternativeTitles',
 	'author',
 	'melody',
 	'composer',
