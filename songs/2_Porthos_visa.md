@@ -10,6 +10,8 @@ author:
     comment: Ursprungligen Athos visa
 melody: You can't get a man with a gun
 composer: Irving Berlin
+notes:
+  - Andra halvan av sången har rörelser som reflekterar texten.
 tags: [gasque, swe]
 ---
 
