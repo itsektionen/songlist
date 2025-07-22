@@ -1,6 +1,8 @@
 ---
 title: Sista punschvisan
 melody: Auld lang syne
+notes:
+  - Sista versen sjungs på stolen och under bordet.
 tags: [punsch, swe]
 ---
 
