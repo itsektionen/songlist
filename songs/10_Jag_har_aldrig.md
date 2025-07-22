@@ -23,7 +23,7 @@ author:
 melody: O, hur saligt att få vandra
 composer: Robert Lowry
 notes:
-  - Traditionellt hoppar IT-sektionen över Datavisan och sjunger extraversen för Kistastudenter direkt.
+  - Traditionellt hoppar IT-Sektionen över Datavisan och sjunger extraversen för Kistastudenter direkt.
 tags: [gasque, swe]
 ---
 
