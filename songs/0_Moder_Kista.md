@@ -38,7 +38,7 @@ nu är tiden här att ta vår chans.
 
 Ack för Kista brinner våra hjärtan,
 allas stämmor, klara höjs mot skyn.
-Högt från ovan science tower tronar i sin prakt;
+Högt från ovan Science Tower tronar i sin prakt;
 det är en ståtlig syn.
 
 Nu system och minnen byggas på kisel,
