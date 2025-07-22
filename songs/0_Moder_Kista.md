@@ -6,7 +6,7 @@ author:
     location: KTH
     year: 2000
     comment: Vers 1-4
-  - name: Hugo Bachér, IN-21 & Tobias "Bobbe" Altin, IN-21
+  - name: Hugo Bachér, IN-21, och Tobias "Bobbe" Altin, IN-21
     event: IN-Sektionens 15 års jubileum
     location: KTH
     year: 2023
