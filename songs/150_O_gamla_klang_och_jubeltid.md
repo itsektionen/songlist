@@ -7,6 +7,9 @@ author:
     year: 1921
 melody: O alte Burschenherrlichkeit
 composer: Eugen Höfling (1825)
+notes:
+  - Traditionellt reser sig studerande vid de strofer som bäst passar deras respektive fakultet.
+  - Under sista versen reser sig alla upp.
 tags: [solemn, swe]
 ---
 

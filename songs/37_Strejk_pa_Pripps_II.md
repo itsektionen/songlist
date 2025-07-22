@@ -2,6 +2,8 @@
 title: Strejk på Pripps (II)
 melody: I natt jag drömde
 composer: Ed McCurdy
+notes:
+  - Sista versen sjunges stående.
 tags: [beer, swe]
 ---
 

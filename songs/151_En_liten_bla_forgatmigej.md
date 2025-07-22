@@ -1,10 +1,12 @@
 ---
 title: En liten blå förgätmigej
 tags: [gasque, swe]
+notes:
+  - Sjunges alltid som gasquens sista sång, som ett tack till personalen.
+  - \"förklara\" sjunges i falsett.
+  - \"dig\" i slutet upprepas för alla man tackar.
 sorting: -99
 ---
-
-> Sjunges alltid som gasquens sista sång.
 
 Hur gärna ville jag ej vara,
 en liten blå förgätmigej,
