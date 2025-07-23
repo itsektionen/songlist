@@ -8,6 +8,8 @@ export const SONGS_DESCRIPTION =
 
 function songToXmlAttributes(song: XmlifyableSong, withId: boolean): string {
 	let attributes = `\n\t\tname="${safeXmlString(song.title)}"`;
+	if (song.alternativeTitles)
+		attributes += `\n\t\talternativeTitles="${safeXmlString(song.alternativeTitles.join('; '))}"`;
 
 	if (withId) attributes += `\n\t\tid="${song.id}"`;
 
