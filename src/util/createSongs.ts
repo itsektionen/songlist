@@ -9,7 +9,7 @@ export default function createSongs(updatedAt: string = dayjs().format('YYYY-MM-
 	const songs = getAllSongs().filter((song) => !song.deleted);
 	return {
 		json: createJsonSongs(songs, updatedAt),
-		xml: buildXmlString(songs, updatedAt, true),
+		xml: buildXmlString(songs, updatedAt),
 	};
 }
 

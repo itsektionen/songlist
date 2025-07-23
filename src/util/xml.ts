@@ -6,10 +6,12 @@ import { formatAuthor } from './formatAuthor';
 export const SONGS_DESCRIPTION =
 	'IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)';
 
-function songToXmlAttributes(song: XmlifyableSong, withId: boolean): string {
+function songToXmlAttributes(song: XmlifyableSong): string {
 	let attributes = `\n\t\tname="${safeXmlString(song.title)}"`;
+	if (song.alternativeTitles)
+		attributes += `\n\t\talternativeTitles="${song.alternativeTitles.map(safeXmlString).join(';')}"`;
 
-	if (withId) attributes += `\n\t\tid="${song.id}"`;
+	attributes += `\n\t\tid="${song.id}"`;
 
 	if (song.author) attributes += `\n\t\tauthor="${safeXmlString(formatAuthor(song.author))}"`;
 	if (song.composer) attributes += `\n\t\tcomposer="${safeXmlString(song.composer)}"`;
@@ -67,13 +69,13 @@ function generateXmlifyableSong(song: Song): XmlifyableSong {
 	return { ...song, category: category };
 }
 
-export function buildXmlString(songs: Song[], updatedAt: string, withId: boolean): string {
+export function buildXmlString(songs: Song[], updatedAt: string): string {
 	let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 	xml += `<songs description="${safeXmlString(SONGS_DESCRIPTION)}" updated="${updatedAt}">\n`;
 
 	const xmlifyAblesongs = songs.map((song) => generateXmlifyableSong(song));
 	sortXmlifyableSongs(xmlifyAblesongs).forEach((song) => {
-		xml += `\t<song${songToXmlAttributes(song, withId)}\n\t>\n`;
+		xml += `\t<song${songToXmlAttributes(song)}\n\t>\n`;
 		xml += songContentToXml(song.content);
 		xml += '\t</song>\n';
 	});
