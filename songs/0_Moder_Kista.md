@@ -49,9 +49,9 @@ Vi är här och framtiden är vår!
 Ack för Kista brinner våra hjärtan,
 i Electrum skapas det magi.
 Alla minnen vi tillsammans skapat,
-detta firar vi med ceremoni.
+dessa firar vi med ceremoni.
 
 Huvud Campus äro inget för oss,
-de' är bara ett jävla clowneri.
-Med det sagt vill vi därför iterera:
-Att i Kiista, måste vi förbli!
+det anser vi är ett stort clowneri.
+Me' det sagt vill vi därför iterera:
+Att i Kista, måste vi förbli!
