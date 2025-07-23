@@ -2,7 +2,7 @@
 title: Sista punschvisan
 melody: Auld lang syne
 notes:
-  - Sista versen sjungs på stolen och under bordet.
+  - Sista versen sjungs först på stolen och sedan igen under bordet.
 tags: [punsch, swe]
 ---
 
