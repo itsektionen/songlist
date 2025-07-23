@@ -1,8 +1,8 @@
-# Songlist for the IN-Chapter
+# Songlist for the IT-Chapter
 
-[Klicka här för att läsa på svenska](#sånglista-för-in-sektionen)
+[Klicka här för att läsa på svenska](#sånglista-för-it-sektionen)
 
-This is the IN-Chapters songlist. The songs are stored as Markdown files in the [`/songs`](/songs) folder and generated into songlists in various formats.
+This is the IT-Chapters songlist. The songs are stored as Markdown files in the [`/songs`](/songs) folder and generated into songlists in various formats.
 
 You can also find information on how to contribute to this repository, either by adding/editing songs, or by contributing to the codebase.
 
@@ -58,7 +58,7 @@ Now you can commit your changes, make sure to provide a relevant commit message 
 
 #### **6. Review and merge**
 
-After someone has reviewed your changes they will be merged into the repository and that's it! You've contributed to the IN-Chapters songlist!
+After someone has reviewed your changes they will be merged into the repository and that's it! You've contributed to the IT-Chapters songlist!
 
 ## Contributing (songs)
 
@@ -225,11 +225,11 @@ This might all sound like a lot so if there's ever anything you're wondering abo
 
 ## Background
 
-The songs in this IN-chapter song list are originally from Strängteoretiquerna's revised songbook (2009-2015) with additions, deletions and revisions made in the [in-sangbok repository](https://github.com/wsv-accidis/in-sangbok) between the years 2016 to 2022.
+The songs in this IT-chapter song list are originally from Strängteoretiquerna's revised songbook (2009-2015) with additions, deletions and revisions made in the [in-sangbok repository](https://github.com/wsv-accidis/in-sangbok) between the years 2016 to 2022.
 
-# Sånglista för IN-Sektionen
+# Sånglista för IT-Sektionen
 
-Detta är IN-Sektionens sånglista. Sångerna är sparade som Markdown filer i [`/songs`](/songs) mappen och genererade till sånglistor i olika format.
+Detta är IT-Sektionens sånglista. Sångerna är sparade som Markdown filer i [`/songs`](/songs) mappen och genererade till sånglistor i olika format.
 
 Du kan också hitta information hur du bidrar till detta repository, antingen genom att lägga till/ändra sånger eller genom att bidra till koden.
 
@@ -285,7 +285,7 @@ Nu kan du genomföra dina ändringar, se till att skriva ett relevant commit-med
 
 #### **6. Granska och merge:a**
 
-Efter att någon har granskat dina ändringar kommer de att merge:as in i detta repository och det är allt! Du har bidragit till IN-sektionens sånglista!
+Efter att någon har granskat dina ändringar kommer de att merge:as in i detta repository och det är allt! Du har bidragit till IT-sektionens sånglista!
 
 ## Bidra (sånger)
 
@@ -453,4 +453,4 @@ Allt detta kan låta mycket, så om det är något du undrar över kan du alltid
 
 ## Bakgrund
 
-Sångerna i denna sånglista för IN-sektionen är från början från Strängteoretiquernas reviderade sångbok (2009-2015) med tillägg, strykningar och ändringar gjorda i [in-sangbok repository](https://github.com/wsv-accidis/in-sangbok) mellan 2016 och 2022.
+Sångerna i denna sånglista för IT-sektionen är från början från Strängteoretiquernas reviderade sångbok (2009-2015) med tillägg, strykningar och ändringar gjorda i [in-sangbok repository](https://github.com/wsv-accidis/in-sangbok) mellan 2016 och 2022.

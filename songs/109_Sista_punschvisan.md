@@ -14,5 +14,6 @@ båd' utanpå och i.\*
 Och finns det ändå något kvar
 får det va' till sämre dar. ://
 
-> \* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions
-> namn i mellanrummet: "båd' utanpå och i .. IN!!!"
+> \* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. "båd' utanpå och i... IT!!!"
+> Dock är det även vanligt att istället sjunga "båd' utanpå och i... IN!!!" som ett minne till sektionens historia.
+> Flera andra sektionen vrålar också "igen", möjligen till följd av många högljudda "IN".
