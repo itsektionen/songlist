@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-07-21">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-07-23">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -79,6 +79,7 @@
 	</song>
 	<song
 		name="Porthos visa"
+		alternativeTitles="Athos visa"
 		id="2"
 		author="Tord Andrén, B (Bergsspexet, KTH, 1960 — Ursprungligen Athos visa)"
 		composer="Irving Berlin"
@@ -185,6 +186,7 @@
 	</song>
 	<song
 		name="Fredmans sång nr. 21"
+		alternativeTitles="Så lunka vi så småningom"
 		id="5"
 		author="Carl Michael Bellman (1787)"
 		composer="Carl Michael Bellman"
@@ -619,7 +621,7 @@
 			aldrig tenta programmeringsmetodik.
 			//: Vi kan bara iterera... :// (in abs.)
 		</p>
-		<comment>Finns fler verser för olika sektioner, men de sjungs vanligen inte av IN-sektionen.</comment>
+		<comment>Finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.</comment>
 	</song>
 	<song
 		name="Jag var full en gång..."
@@ -1009,6 +1011,7 @@
 	</song>
 	<song
 		name="Bort allt vad oro gör"
+		alternativeTitles="Bacchi Tempel sång nr. 17"
 		id="17"
 		author="Carl Michael Bellman (1783 — Bacchi Tempel sång nr. 17)"
 		composer="Carl Michael Bellman"
@@ -2287,6 +2290,7 @@
 	</song>
 	<song
 		name="Måsen"
+		alternativeTitles="JAS:en"
 		id="65"
 		melody="När månen vandrar"
 		category="Brännvin"
@@ -3520,8 +3524,9 @@
 			får det va&apos; till sämre dar. ://
 		</p>
 		<comment>
-			* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions
-			namn i mellanrummet: &quot;båd&apos; utanpå och i .. IN!!!&quot;
+			* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. &quot;båd&apos; utanpå och i... IT!!!&quot;
+			Dock är det även vanligt att istället sjunga &quot;båd&apos; utanpå och i... IN!!!&quot; som ett minne till sektionens historia.
+			Flera andra sektionen vrålar också &quot;igen&quot;, möjligen till följd av många högljudda &quot;IN&quot;.
 		</comment>
 	</song>
 	<song
@@ -5420,6 +5425,7 @@
 	</song>
 	<song
 		name="Du gamla, du fria"
+		alternativeTitles="Sveriges nationalsång;Nationalsången"
 		id="149"
 		author="Richard Dybeck (1844)"
 		category="Högtidligt"
