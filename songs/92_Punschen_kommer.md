@@ -4,7 +4,7 @@ melody: Vals ur Glada änkan
 composer: Franz Lehár
 notes:
   - Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger.
-  - Först gungar man från sida till sida flera gånger, sedan fram och tillbaka flera gånger, slutligen ställer man sig upp och sätter sig ner flera gånger. Sedan börjar man om från början med första gungningen igen.
+  - För varje repetition följer en rörelse; gunga vänster till höger, gunga fram och tillbaka, ställa sig upp och sätta sig ner. Dessa upprepas så länge man sjunger.
 tags: [punsch, swe]
 ---
 
