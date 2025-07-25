@@ -8,6 +8,7 @@ export type Song = {
 	author?: Author[];
 	melody?: string;
 	composer?: string;
+	notes?: string[];
 	tags: Tag[];
 	sorting?: number;
 	deleted?: true;
@@ -24,6 +25,7 @@ export const validMetaKeys = [
 	'author',
 	'melody',
 	'composer',
+	'notes',
 	'tags',
 	'sorting',
 	'deleted',

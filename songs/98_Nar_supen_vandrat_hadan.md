@@ -1,10 +1,11 @@
 ---
 title: När supen vandrat hädan
 melody: Jag gick mig ut i skogen
+notes:
+  - Den stämma som slutar samtidigast som den andra, vinner.
 tags: [punsch, swe]
 ---
 
-> Den stämma som slutar samtidigt som den andra, vinner.
 > Stämma 1:
 
 //: Punsch, punsch, punsch, punsch,

@@ -16,6 +16,7 @@ function songToXmlAttributes(song: XmlifyableSong): string {
 	if (song.author) attributes += `\n\t\tauthor="${safeXmlString(formatAuthor(song.author))}"`;
 	if (song.composer) attributes += `\n\t\tcomposer="${safeXmlString(song.composer)}"`;
 	if (song.melody) attributes += `\n\t\tmelody="${safeXmlString(song.melody)}"`;
+	if (song.notes) attributes += `\n\t\tnotes="${safeXmlString(song.notes.join(' — '))}"`;
 	attributes += `\n\t\tcategory="${safeXmlString(song.category)}"`;
 
 	return attributes;

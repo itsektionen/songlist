@@ -47,6 +47,7 @@ export function getSong(from: string | number): Song {
 	if (data.author) song.author = data.author;
 	if (data.melody) song.melody = data.melody;
 	if (data.composer) song.composer = data.composer;
+	if (data.notes) song.notes = data.notes;
 	song.tags = data.tags;
 	if (data.sorting) song.sorting = data.sorting;
 	if (data.deleted) song.deleted = data.deleted;
@@ -72,6 +73,7 @@ export function updateSong(song: Partial<Song> & { id: number }): void {
 	if (song.author) fileContent += `author: ${song.author}\n`;
 	if (song.melody) fileContent += `melody: ${song.melody}\n`;
 	if (song.composer) fileContent += `composer: ${song.composer}\n`;
+	if (song.notes) fileContent += `notes: [${song.notes.join(', ')}]\n`;
 	if (song.tags) fileContent += `tags: [${song.tags.join(', ')}]\n`;
 	if (song.deleted) fileContent += `deleted: true\n`;
 	fileContent += '---\n';

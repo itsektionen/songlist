@@ -1,6 +1,8 @@
 ---
 title: Sista punschvisan
 melody: Auld lang syne
+notes:
+  - Sista versen sjungs först med ena foten på stolen, sedan igen med andra foten på stolen och slutligen en gång under bordet.
 tags: [punsch, swe]
 ---
 

@@ -71,6 +71,13 @@ describe('All songs have valid data', () => {
 			if (typeof song.deleted === 'boolean') expect(song.deleted).toBeTruthy();
 			else expect(song.deleted).toBeUndefined();
 
+			expect(Array.isArray(song.notes) || song.notes === undefined).toBeTruthy();
+			if (song.notes) {
+				song.notes.forEach((note) => {
+					expect(typeof note).toBe('string');
+				});
+			}
+
 			expect(song.tags).toBeInstanceOf(Array);
 			expect(song.tags.length).toBeGreaterThan(0);
 			// No tags are not part of list of tags

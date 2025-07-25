@@ -2,6 +2,8 @@
 title: In the trade of jester
 author:
   - name: Jauvet
+notes:
+  - Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk
 tags: [foreign, eng]
 ---
 
@@ -42,6 +44,3 @@ So we work until our last day,
 and we die like common man.
 
 Getting gold ...
-
-> Skriven av en gycklargrupp från Norrköping och
-> därmed inte precis utländsk.
