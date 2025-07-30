@@ -2,6 +2,8 @@
 title: Hederssång
 notes:
   - Sjungs efter riktigt bra gyckel som ett tack till de som uppträdde.
+alternativeTitles:
+  - Tacksång
 tags: [gasque, swe]
 ---
 

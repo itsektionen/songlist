@@ -1,7 +1,10 @@
 ---
 title: Härjarevisan
+alternativeTitles:
+  - Härjasången
 author:
-  - event: Lundaspexet Djingis Khan
+  - name: Hans "Hasse" Alfredsson
+    event: Lundaspexet Djingis Khan
     year: 1954
 melody: Gärdebylåten
 tags: [gasque, swe]
