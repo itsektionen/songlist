@@ -9,14 +9,15 @@ export const SONGS_DESCRIPTION =
 function songToXmlAttributes(song: XmlifyableSong): string {
 	let attributes = `\n\t\tname="${safeXmlString(song.title)}"`;
 	if (song.alternativeTitles)
-		attributes += `\n\t\talternativeTitles="${song.alternativeTitles.map(safeXmlString).join(';')}"`;
+		attributes += `\n\t\talternativeTitles="${song.alternativeTitles
+			.map(safeXmlString)
+			.join(';')}"`;
 
 	attributes += `\n\t\tid="${song.id}"`;
 
 	if (song.author) attributes += `\n\t\tauthor="${safeXmlString(formatAuthor(song.author))}"`;
 	if (song.composer) attributes += `\n\t\tcomposer="${safeXmlString(song.composer)}"`;
 	if (song.melody) attributes += `\n\t\tmelody="${safeXmlString(song.melody)}"`;
-	if (song.notes) attributes += `\n\t\tnotes="${safeXmlString(song.notes.join(';'))}"`;
 	attributes += `\n\t\tcategory="${safeXmlString(song.category)}"`;
 
 	return attributes;
@@ -48,7 +49,7 @@ function songContentToXml(content: Song['content']): string {
 				paragraph
 					.split('\n')
 					.map((s) => s.substring(2))
-					.join('\n'),
+					.join('\n')
 			)}</comment>\n`;
 		} else {
 			xml += `\t\t<p>${xmlifyParagraph(paragraph)}</p>\n`;
@@ -77,6 +78,9 @@ export function buildXmlString(songs: Song[], updatedAt: string): string {
 	const xmlifyAblesongs = songs.map((song) => generateXmlifyableSong(song));
 	sortXmlifyableSongs(xmlifyAblesongs).forEach((song) => {
 		xml += `\t<song${songToXmlAttributes(song)}\n\t>\n`;
+		song.notes?.forEach((note) => {
+			xml += `\t\t<note>${safeXmlString(note)}</note>\n`;
+		});
 		xml += songContentToXml(song.content);
 		xml += '\t</song>\n';
 	});
