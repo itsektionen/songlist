@@ -24,6 +24,7 @@ melody: O, hur saligt att få vandra
 composer: Robert Lowry
 notes:
   - IT-Sektionen hoppar ofta över Datavisan och sjunger extraversen för Kistastudenter direkt.
+  - Det finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.
 tags: [gasque, swe]
 ---
 
@@ -191,5 +192,3 @@ Ingen nat-uu-r! ://
 Jag vill aldrig gå i Kista,
 aldrig tenta programmeringsmetodik.
 //: Vi kan bara iterera... :// (in abs.)
-
-> Finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.
