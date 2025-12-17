@@ -2,6 +2,7 @@
 title: Måsen
 alternativeTitles:
   - JAS:en
+  - Musen
 melody: När månen vandrar
 tags: [snaps, swe]
 ---

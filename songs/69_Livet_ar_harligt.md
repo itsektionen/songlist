@@ -8,7 +8,7 @@ composer: Lev Knipper
 tags: [snaps, swe]
 ---
 
-> Sjungs tyst:
+> Sjung tyst:
 
 Livet är härligt!
 Tavaritj, vårt liv är härligt!

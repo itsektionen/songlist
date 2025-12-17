@@ -6,6 +6,9 @@ author:
     year: 1989
 melody: Katjuscha
 composer: Matvey Blanter
+notes:
+  - Krossa eller släng nubbeglaset efter skålen, dock endast plastglas.
+  - Vid glasglas sjung "låt glasen vara kvar!" istället för "låt glasen gå i kras!".
 tags: [snaps, swe]
 ---
 
@@ -29,6 +32,3 @@ bas, bas, bas, bas!
 
 Höj sen glasen för fosterlandets välgång,
 sjung "na zdrowie", låt glasen gå i kras!
-
-> Krossa eller släng nubbeglaset efter skålen, dock endast plastglas.
-> Vid glasglas sjung "låt glasen vara kvar".

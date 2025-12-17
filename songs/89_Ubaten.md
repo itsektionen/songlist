@@ -2,6 +2,8 @@
 title: Ubåten
 melody: Jazzgossen
 composer: Edvard Brink
+notes:
+  - Gurgla nubben i slutet!
 tags: [snaps, swe]
 ---
 
@@ -9,5 +11,3 @@ tags: [snaps, swe]
 och den säger tut-tut-tut!
 Å så kommer det en ubåt,
 och den säger...
-
-> Gurgla nubben!

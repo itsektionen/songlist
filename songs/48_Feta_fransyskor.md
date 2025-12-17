@@ -2,10 +2,11 @@
 title: Feta fransyskor
 melody: Marche Militaire
 composer: Franz Schubert
+notes:
+  - Enligt tradition sjunges D av damer; H av herrar.
+  - '"(Fast större!)" var egentligen en redigeringsnotis till första upplagan som av misstag blev kvar. Avsikten var att "Ja!" skulle tryckts i större text.'
 tags: [wine, swe]
 ---
-
-> Enligt tradition sjunges A av damer; B av herrar
 
 Feta fransyskor
 som svettas om fötterna,
@@ -23,7 +24,7 @@ vill ha mera vin,
 även om följderna blir
 att vi få lida pin.
 
-A: Flaskan och glaset gått i sin.
-B: Hit med vin, mera vin!
-A: Tror ni att vi är fyllesvin?
-B: Ja! (Fast större!)
+D: Flaskan och glaset gått i sin.
+H: Hit med vin, mera vin!
+D: Tror ni att vi är fyllesvin?
+H: Ja! (Fast större!)

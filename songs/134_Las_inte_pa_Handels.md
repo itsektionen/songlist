@@ -3,10 +3,11 @@ title: Läs inte på Handels
 author:
   - name: Alex Ellgren, ME-07, och Oscar Frick, ME-07
     location: KTH
+notes:
+  - Sångledaren läser raderna som startar med *.
 tags: [esoteric, swe]
 ---
 
-Sångledaren läser raderna som startar med "\*"
 Studenter se det är som så,
 jag är nyss fyllda 18 år.
 Så vilken skola är av bästa klass?
