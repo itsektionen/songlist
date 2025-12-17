@@ -80,6 +80,7 @@ The front matter is contained by one line with `---` each before and after the s
   - `comment`, a comment about the author (for example, if an author wrote one of the verses)
 - `melody`, the melody the song is sung to
 - `composer`, the composer of the melody
+- `notes`, notes about the song, like its history or movements
 - `tags`, list of categories the songs fall in to and other identifiers (valid tags can be found in [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(required)**
 - `deleted`, marks the song as deleted or not (should only be `true` if the song is removed and not be specified otherwise)
 - `sorting`, number defining where to sort the song when generating xml format files (primarily exists for "En liten blå förgätmigej")
@@ -98,6 +99,8 @@ author:
     year: 2000
 melody: Längtan till landet
 composer: Otto Lindblad
+notes:
+  - Sjungs av IT-Sektionen i början av varje gasque.
 tags: [gasque, swe]
 ---
 ```
@@ -187,6 +190,8 @@ author:
     comment:
 melody:
 composer:
+notes:
+  -
 tags: [gasque]
 ---
 ```
@@ -307,6 +312,7 @@ Fronten har en rad med `---` före och efter sektionen. Möjliga fält i fronten
   - `comment`, kommentar om skribenten (exempelvis om en skribent har skrivit en av verserna)
 - `melody`, melodin som sången sjungs i
 - `composer`, kompositör till melodin
+- `notes`, noteringar om sången, som dess historia eller rörelser
 - `tags`, lista med kategorier som sångerna tillhör och andra identifierare (giltiga taggar hittas i [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(obligatorisk)**
 - `deleted`, markerar sången som borttagen eller inte (ska bara vara "sann" om sången tas bort och inte anges på annat sätt)
 - `sorting`, nummer som definierar var sången ska sorteras vid generering av filer i xml-format (finns primärt för "En liten blå förgätmigej")
@@ -325,6 +331,8 @@ author:
     year: 2000
 melody: Längtan till landet
 composer: Otto Lindblad
+notes:
+  - Sjungs av IT-Sektionen i början av varje gasque.
 tags: [gasque, swe]
 ---
 ```
@@ -415,6 +423,8 @@ author:
     comment:
 melody:
 composer:
+notes:
+  -
 tags: [gasque]
 ---
 ```

@@ -9,7 +9,9 @@ export const SONGS_DESCRIPTION =
 function songToXmlAttributes(song: XmlifyableSong): string {
 	let attributes = `\n\t\tname="${safeXmlString(song.title)}"`;
 	if (song.alternativeTitles)
-		attributes += `\n\t\talternativeTitles="${song.alternativeTitles.map(safeXmlString).join(';')}"`;
+		attributes += `\n\t\talternativeTitles="${song.alternativeTitles
+			.map(safeXmlString)
+			.join(';')}"`;
 
 	attributes += `\n\t\tid="${song.id}"`;
 
@@ -76,6 +78,9 @@ export function buildXmlString(songs: Song[], updatedAt: string): string {
 	const xmlifyAblesongs = songs.map((song) => generateXmlifyableSong(song));
 	sortXmlifyableSongs(xmlifyAblesongs).forEach((song) => {
 		xml += `\t<song${songToXmlAttributes(song)}\n\t>\n`;
+		song.notes?.forEach((note) => {
+			xml += `\t\t<note>${safeXmlString(note)}</note>\n`;
+		});
 		xml += songContentToXml(song.content);
 		xml += '\t</song>\n';
 	});
