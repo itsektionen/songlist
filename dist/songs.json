@@ -5,6 +5,7 @@
 			"title": "Moder Kista",
 			"melody": "Längtan till landet",
 			"composer": "Otto Lindblad",
+			"notes": ["Sjungs av IT-Sektionen i början av varje gasque."],
 			"tags": ["gasque", "swe"],
 			"content": "Ack för Kista brinner våra hjärtan,\ncentrum för vår I-Teknologi.\nAlla sorger sopas under mattan,\nnär vårt Kista vi flanerar i.\n\nSjung för alla stolta basstationer,\nsjung för Forums vackra arkitektur.\nLåt oss därför celebrera vår moder:\nKista, du förstärker vår bravur!\n\nIfrån Kista trampas nya stigar,\nmorgondagsteknik är vår gebit.\nÅr för år, vi fortsätter att vara\nblickfång för global teknikelit.\n\nHär föds många nya forskningsgenier,\nskarpa sinnen väcks och strålar med glans.\nNu har turen blivit vår att stoltsera,\nnu är tiden här att ta vår chans.\n\nAck för Kista brinner våra hjärtan,\nallas stämmor, klara höjs mot skyn.\nHögt från ovan Science Tower tronar i sin prakt;\ndet är en ståtlig syn.\n\nNu system och minnen byggas på kisel,\nstora ingenjörer följer vårt spår.\nSå med styrka vi för världen nu visar:\nVi är här och framtiden är vår!\n\nAck för Kista brinner våra hjärtan,\ni Electrum skapas det magi.\nAlla minnen vi tillsammans skapat,\ndessa firar vi med ceremoni.\n\nHuvud Campus äro inget för oss,\ndet anser vi är ett stort clowneri.\nMe' det sagt vill vi därför iterera:\nAtt i Kista, måste vi förbli!",
 			"author": "David Larsson, IT-00 (IT-nØllningen, KTH, 2000 — Vers 1-4); Hugo Bachér, IN-21, och Tobias \"Bobbe\" Altin, IN-21 (IN-Sektionens 15 års jubileum, KTH, 2023 — Vers 7-8)"
@@ -92,8 +93,12 @@
 			"title": "Jag har aldrig...",
 			"melody": "O, hur saligt att få vandra",
 			"composer": "Robert Lowry",
+			"notes": [
+				"IT-Sektionen hoppar ofta över Datavisan och sjunger extraversen för Kistastudenter direkt.",
+				"Det finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen."
+			],
 			"tags": ["gasque", "swe"],
-			"content": "Jag har aldrig vart på snusen,\naldrig rökat en cigarr, halleluja!\nMina dygder äro tusen,\ninga syndiga laster jag har.\n\nJag har aldrig sett nåt naket,\ninte ens ett litet nyfött barn!\n\nMina blickar går mot taket,\ndärmed undgår jag frestarens garn!\n\n//: Halleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja-a-ah! ://\n\nBacchus spelar på gitarren,\nSatan spelar på sitt handklaver!\nAlla djävlar dansar tango,\nsäg vad kan man väl önska sig mer?\n\nJo! Att alla bäckar vore brännvin,\nRiddarfjärden full av bayerskt öl.\nKonjak i varenda rännsten\noch punsch i varendaste pöl!\n\n//: Och mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera ö-ö-öl! ://\n\n# Handelsvisan\n\nJag vill aldrig gå på Handels,\naldrig tenta företagsekonomi!\nDeras IQ är ju Mandels,\noch förståndet det har gjort sorti.\n\nDom har jätteusla snören,\ni sitt jätteusla draperi.\nDom kan bara räkna ören,\nhela Handels är ett jävla aperi!\n\n//: Handels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är ski-i-it! ://\n\nMammas pojkar är dom alla,\npappas flickor är dom likaså.\nGår och tror att dom e' balla,\nfastän dom inget alls ju förstå.\n\nHela Handels borde rivas,\ndetta anser hela vårat lag.\nDå skull' Osquarina trivas,\nuppå denna Handels ljuva domedag.\n\n//: Och vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket dra-a-ag! ://\n\n# Fysikvisan\n\nJag vill aldrig gå på Fysik,\naldrig tenta termometerdynamik.\nJag vill inte höra syntmusik\neller festa som en jävla mattegeek!\n\nDom ser ut som televerket\ni sin jättefula overall.\nDom kan bara räkna kvarkar\nnu hyllar vi Data med en skål!\n\n//: Fysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är to-o-orrt! ://\n\nEinsteins pojkar är dom alla,\nHandels flickor kan dom aldrig få.\nGår och tror att dom har ballar,\ndet får bli på egen hand om det ska gå!\n\nNu ska hela Sing-Sing rivas,\narkitekt är med på Datas lag.\nTeleverket ska fördrivas,\nuppå konsulatets ljuva domedag.\n\n//: Och nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedra-a-ag! ://\n\n# Datavisan\n\nAlla vi som går på Data\nsitter mest och kodar Perl-script varje natt.\nMed oss kan man inte prata\nom man inte loggat in på någon chatt.\n\nVåran hy är grå som aska\nnär solen skiner sysslar vi med webdesign\noch när de andra börjat gasqua\nsitter vi och spelar Ultima Online.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\nVi har något tomt i blicken,\nen hel skvadron av tomtar på vårt loft!\nIngen av oss har nån flickvän,\nmen vi drömmer varje natt om Lara Croft.\n\nData borde formateras,\nsystematiskt, partition för partition.\nNördarna dekompileras\noch uppgraderas till en användbar version.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\n# TBasvisan\n\nJag vill aldrig gå på Tbas,\naldrig tenta om gymnasiekurserna.\nLära sig om allting barnsligt,\noch tro att dom kommer nå'n vart.\n\nDom har aldrig sett ett hp,\ninte ens en sådan introkurs!\nDeras kurser ger f-u-p,\näven om dom knappt är tre.\n\n//: För f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-uu-p! ://\n\nSitter där och tenta kemi,\nbara för att plugga jävla INDEK.\nKomvux i ett annat typsnitt,\nlär sig inget med värde i!\n\nMan kan räkna kurser på handen,\nKH tjugo-ett till tjugo-fem.\nVarit fast nånstans i Nymble,\nfira flytta in med Kistas IT!\n\n//: Ingen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen nat-uu-r! ://\n\n# Extravers för Kistastudenter\n\nJag vill aldrig gå i Kista,\naldrig tenta programmeringsmetodik.\n//: Vi kan bara iterera... :// (in abs.)\n\n> Finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.",
+			"content": "Jag har aldrig vart på snusen,\naldrig rökat en cigarr, halleluja!\nMina dygder äro tusen,\ninga syndiga laster jag har.\n\nJag har aldrig sett nåt naket,\ninte ens ett litet nyfött barn!\n\nMina blickar går mot taket,\ndärmed undgår jag frestarens garn!\n\n//: Halleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja-a-ah! ://\n\nBacchus spelar på gitarren,\nSatan spelar på sitt handklaver!\nAlla djävlar dansar tango,\nsäg vad kan man väl önska sig mer?\n\nJo! Att alla bäckar vore brännvin,\nRiddarfjärden full av bayerskt öl.\nKonjak i varenda rännsten\noch punsch i varendaste pöl!\n\n//: Och mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera ö-ö-öl! ://\n\n# Handelsvisan\n\nJag vill aldrig gå på Handels,\naldrig tenta företagsekonomi!\nDeras IQ är ju Mandels,\noch förståndet det har gjort sorti.\n\nDom har jätteusla snören,\ni sitt jätteusla draperi.\nDom kan bara räkna ören,\nhela Handels är ett jävla aperi!\n\n//: Handels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är ski-i-it! ://\n\nMammas pojkar är dom alla,\npappas flickor är dom likaså.\nGår och tror att dom e' balla,\nfastän dom inget alls ju förstå.\n\nHela Handels borde rivas,\ndetta anser hela vårat lag.\nDå skull' Osquarina trivas,\nuppå denna Handels ljuva domedag.\n\n//: Och vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket dra-a-ag! ://\n\n# Fysikvisan\n\nJag vill aldrig gå på Fysik,\naldrig tenta termometerdynamik.\nJag vill inte höra syntmusik\neller festa som en jävla mattegeek!\n\nDom ser ut som televerket\ni sin jättefula overall.\nDom kan bara räkna kvarkar\nnu hyllar vi Data med en skål!\n\n//: Fysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är to-o-orrt! ://\n\nEinsteins pojkar är dom alla,\nHandels flickor kan dom aldrig få.\nGår och tror att dom har ballar,\ndet får bli på egen hand om det ska gå!\n\nNu ska hela Sing-Sing rivas,\narkitekt är med på Datas lag.\nTeleverket ska fördrivas,\nuppå konsulatets ljuva domedag.\n\n//: Och nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedra-a-ag! ://\n\n# Datavisan\n\nAlla vi som går på Data\nsitter mest och kodar Perl-script varje natt.\nMed oss kan man inte prata\nom man inte loggat in på någon chatt.\n\nVåran hy är grå som aska\nnär solen skiner sysslar vi med webdesign\noch när de andra börjat gasqua\nsitter vi och spelar Ultima Online.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\nVi har något tomt i blicken,\nen hel skvadron av tomtar på vårt loft!\nIngen av oss har nån flickvän,\nmen vi drömmer varje natt om Lara Croft.\n\nData borde formateras,\nsystematiskt, partition för partition.\nNördarna dekompileras\noch uppgraderas till en användbar version.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\n# TBasvisan\n\nJag vill aldrig gå på Tbas,\naldrig tenta om gymnasiekurserna.\nLära sig om allting barnsligt,\noch tro att dom kommer nå'n vart.\n\nDom har aldrig sett ett hp,\ninte ens en sådan introkurs!\nDeras kurser ger f-u-p,\näven om dom knappt är tre.\n\n//: För f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-uu-p! ://\n\nSitter där och tenta kemi,\nbara för att plugga jävla INDEK.\nKomvux i ett annat typsnitt,\nlär sig inget med värde i!\n\nMan kan räkna kurser på handen,\nKH tjugo-ett till tjugo-fem.\nVarit fast nånstans i Nymble,\nfira flytta in med Kistas IT!\n\n//: Ingen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen nat-uu-r! ://\n\n# Extravers för Kistastudenter\n\nJag vill aldrig gå i Kista,\naldrig tenta programmeringsmetodik.\n//: Vi kan bara iterera... :// (in abs.)",
 			"author": "Team Kangaroo, F (Gerhards-gasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan); IT-Sektionens styrelse (Mållinjen (Tbas), KTH, 2025 — TBasvisan)"
 		},
 		{
@@ -176,6 +181,9 @@
 		{
 			"id": 21,
 			"title": "Hederssång",
+			"notes": [
+				"Sjungs efter riktigt bra gyckel som ett tack till de som uppträdde."
+			],
 			"tags": ["gasque", "swe"],
 			"content": "> Vid de/dom nu kan man också sjunga Hon/Henne och Han/Honom,\n> \\#\\#\\# sjunger man personens eller gruppens namn.\n\nDet där det gjorde de fan så bra, hej!\nEn skål uti botten för dom nu vi ta.\nHugg i och dra, hej! Hugg i och dra, hej!\nEn skål uti botten för dom nu vi ta.\n\nOch alla så dricka vi nu ### till...\n\n> Den hedrade svarar:\n\nOch ### säger inte nej därtill!\n\nFör det var i vår ungdoms fagraste vår,\nvi drack varandra till och vi sade: \"Gutår!\""
 		},
@@ -316,6 +324,7 @@
 			"title": "Strejk på Pripps (II)",
 			"melody": "I natt jag drömde",
 			"composer": "Ed McCurdy",
+			"notes": ["Sista versen sjunges stående."],
 			"tags": ["beer", "swe"],
 			"content": "I natt jag drömde något som,\njag aldrig drömt förut.\nJag drömde det var strejk på Pripps\noch alla ölen var slut.\n\nJag drömde om en jättesal\ndär ölen stod på rad.\nJag drack så där ett tjugotal\noch reste mig och sa:\n\nArmen i vinkel!\nBlicken i skyn!\nSå var det menat!\nWhisky och renat!\nVårt mål alkohol!\nFör dem som tål! Skål!"
 		},
@@ -771,8 +780,12 @@
 			"title": "Punschen kommer",
 			"melody": "Vals ur Glada änkan",
 			"composer": "Franz Lehár",
+			"notes": [
+				"Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger.",
+				"För varje repetition följer en rörelse; gunga vänster till höger, gunga fram och tillbaka, ställa sig upp och sätta sig ner. Dessa upprepas så länge man sjunger."
+			],
 			"tags": ["punsch", "swe"],
-			"content": "Punschen kommer,\npunschen kommer,\nljuv och sval.\n\nGlasen imma,\nröster stimma,\ni vår sal.\n\nSkål för glada minnen!\n\nSkål för varje vår\n\nInga sorger finnas mer\nnär punsch vi får.\n\n> Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger."
+			"content": "Punschen kommer,\npunschen kommer,\nljuv och sval.\n\nGlasen imma,\nröster stimma,\ni vår sal.\n\nSkål för glada minnen!\n\nSkål för varje vår\n\nInga sorger finnas mer\nnär punsch vi får."
 		},
 		{
 			"id": 93,
@@ -816,8 +829,9 @@
 			"id": 98,
 			"title": "När supen vandrat hädan",
 			"melody": "Jag gick mig ut i skogen",
+			"notes": ["Den stämma som slutar samtidigast som den andra, vinner."],
 			"tags": ["punsch", "swe"],
-			"content": "> Den stämma som slutar samtidigt som den andra, vinner.\n> Stämma 1:\n\n//: Punsch, punsch, punsch, punsch,\npunsch, punsch, alla sorters... ://\n\n> Stämma 2:\n\nNär supen vandrat hädan\noch maten lagts därpå,\noch kaffet står på bordet,\nvad väntar vi då på?\n//: Jo, punsch och punsch och ännu\nmera punsch. ://\n\nJa, den föll oss i smaken,\nnu ropar vi gutår,\noch koppen står där naken\noch väntar på en tår.\n//: Å punsch och punsch och ännu\nmera punsch. ://"
+			"content": "> Stämma 1:\n\n//: Punsch, punsch, punsch, punsch,\npunsch, punsch, alla sorters... ://\n\n> Stämma 2:\n\nNär supen vandrat hädan\noch maten lagts därpå,\noch kaffet står på bordet,\nvad väntar vi då på?\n//: Jo, punsch och punsch och ännu\nmera punsch. ://\n\nJa, den föll oss i smaken,\nnu ropar vi gutår,\noch koppen står där naken\noch väntar på en tår.\n//: Å punsch och punsch och ännu\nmera punsch. ://"
 		},
 		{
 			"id": 99,
@@ -903,8 +917,12 @@
 			"id": 109,
 			"title": "Sista punschvisan",
 			"melody": "Auld lang syne",
+			"notes": [
+				"Sista versen sjungs först med ena foten på stolen, sedan igen med andra foten på stolen och slutligen en gång under bordet.",
+				"\\* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. \"båd' utanpå och i... IT!!!\" Dock är det även vanligt att istället sjunga \"båd' utanpå och i... IN!!!\" som ett minne till sektionens historia. Flera andra sektionen vrålar också \"igen\", möjligen till följd av många högljudda \"IN\"."
+			],
 			"tags": ["punsch", "swe"],
-			"content": "När punschen småningom är slut\noch vår flaska blivit tom.\nDå vänder vi den upp och ner,\ntill dess inget rinner ur.\n\n//: Så slickar vi, så slickar vi,\nbåd' utanpå och i.\\*\nOch finns det ändå något kvar\nfår det va' till sämre dar. ://\n\n> \\* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. \"båd' utanpå och i... IT!!!\"\n> Dock är det även vanligt att istället sjunga \"båd' utanpå och i... IN!!!\" som ett minne till sektionens historia.\n> Flera andra sektionen vrålar också \"igen\", möjligen till följd av många högljudda \"IN\"."
+			"content": "När punschen småningom är slut\noch vår flaska blivit tom.\nDå vänder vi den upp och ner,\ntill dess inget rinner ur.\n\n//: Så slickar vi, så slickar vi,\nbåd' utanpå och i.\\*\nOch finns det ändå något kvar\nfår det va' till sämre dar. ://"
 		},
 		{
 			"id": 110,
@@ -1015,8 +1033,11 @@
 		{
 			"id": 121,
 			"title": "In the trade of jester",
+			"notes": [
+				"Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk."
+			],
 			"tags": ["foreign", "eng"],
-			"content": "In the trade of jester,\nwe're fools that play our part.\nIn an act sworn by folklore,\nwhere the lines are made by heart.\n\nGetting gold from the nobles\nand mockin' from ye all.\nBut we drink with the greatest warriors,\nand we dance in every hall.\n\nWe travel through the country,\nwe go from town to town.\nWe're the sworn kings of jester\nbut we've never worn a crown.\n\nGetting gold ...\n\nI've never had a family,\nnor have I had a wife.\nIt's a high cost of living,\nit's the price I pay for life.\n\nGetting gold ...\n\nWe meet the fairest ladies,\nbut we never had a chance.\nSo we play our bagpipes\nas the common people dance.\n\n> \"Säckpipor\"\n\nTo die without a nickel\nis a scare for anyone.\nSo we work until our last day,\nand we die like common man.\n\nGetting gold ...\n\n> Skriven av en gycklargrupp från Norrköping och\n> därmed inte precis utländsk.",
+			"content": "In the trade of jester,\nwe're fools that play our part.\nIn an act sworn by folklore,\nwhere the lines are made by heart.\n\nGetting gold from the nobles\nand mockin' from ye all.\nBut we drink with the greatest warriors,\nand we dance in every hall.\n\nWe travel through the country,\nwe go from town to town.\nWe're the sworn kings of jester\nbut we've never worn a crown.\n\nGetting gold ...\n\nI've never had a family,\nnor have I had a wife.\nIt's a high cost of living,\nit's the price I pay for life.\n\nGetting gold ...\n\nWe meet the fairest ladies,\nbut we never had a chance.\nSo we play our bagpipes\nas the common people dance.\n\n> \"Säckpipor\"\n\nTo die without a nickel\nis a scare for anyone.\nSo we work until our last day,\nand we die like common man.\n\nGetting gold ...",
 			"author": "Jauvet"
 		},
 		{
@@ -1266,6 +1287,10 @@
 			"title": "O, gamla klang- och jubeltid!",
 			"melody": "O alte Burschenherrlichkeit",
 			"composer": "Eugen Höfling (1825)",
+			"notes": [
+				"Traditionellt reser sig studerande vid de strofer som bäst passar deras respektive fakultet.",
+				"Under sista versen reser sig alla upp."
+			],
 			"tags": ["solemn", "swe"],
 			"content": "O gamla klang- och jubeltid\nditt minne skall förbliva\noch än åt livets bistra strid,\nett rosigt skimmer giva.\nSnart tystnar allt vårt yra skämt,\nvår sång blir stum, vårt glam förstämt.\n\nO, jerum, jerum, jerum.\nO, quae mutatio rerum!\n\nVar äro de som kunde allt,\nblott ej sin ära svika.\nSom voro män av äkta halt\noch världens herrar lika?\nDe drogo bort från vin och sång\ntill vardagslivets tråk och tvång.\n\nO, jerum...\n\nDen ene vetenskap och vett\nin i scholares mänger.\nDen andre i sitt anlets svett\npå paragrafer vränger.\nEn plåstrar själen som är skral,\nen lappar hop dess trasiga fodral.\n\nO, jerum...\n\nMen hjärtat i en sann student,\nkan ingen tid förfrysa.\nDen glädjeeld, som där han tänt,\nhans hela liv skall lysa.\n\nDet gamla skalet brustit har\nmen kärnan finnes frisk dock kvar\noch vad han än må mista,\nden skall dock aldrig brista!\n\nSå sluten, bröder, fast vår krets,\ntill glädjens värn och ära!\nTrots allt vi tryggt och väl tillfreds\nvår vänskap trohet svära.\n\nLyft bägarn högt och klinga väl!\nDe gamla gudar leva än,\nbland skålar och pokaler,\nbland skålar och pokaler!",
 			"author": "August Lindh (Juvenalorden, Uppsala, 1921)"
@@ -1273,9 +1298,14 @@
 		{
 			"id": 151,
 			"title": "En liten blå förgätmigej",
+			"notes": [
+				"Sjunges alltid som gasquens sista sång, som ett tack till personalen.",
+				"\\\"förklara\\\" sjunges i falsett.",
+				"\\\"dig\\\" i slutet upprepas för alla man tackar."
+			],
 			"tags": ["gasque", "swe"],
-			"content": "> Sjunges alltid som gasquens sista sång.\n\nHur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
+			"content": "Hur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\nhur innerligt jag älskar dig!"
 		}
 	],
-	"updatedAt": "2025-07-23"
+	"updatedAt": "2025-12-17"
 }

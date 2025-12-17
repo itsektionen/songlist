@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-07-23">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-12-17">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -8,6 +8,7 @@
 		melody="Längtan till landet"
 		category="Gasque"
 	>
+		<note>Sjungs av IT-Sektionen i början av varje gasque.</note>
 		<p>
 			Ack för Kista brinner våra hjärtan,
 			centrum för vår I-Teknologi.
@@ -441,6 +442,8 @@
 		melody="O, hur saligt att få vandra"
 		category="Gasque"
 	>
+		<note>IT-Sektionen hoppar ofta över Datavisan och sjunger extraversen för Kistastudenter direkt.</note>
+		<note>Det finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.</note>
 		<p>
 			Jag har aldrig vart på snusen,
 			aldrig rökat en cigarr, halleluja!
@@ -633,7 +636,6 @@
 			aldrig tenta programmeringsmetodik.
 			//: Vi kan bara iterera... :// (in abs.)
 		</p>
-		<comment>Finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.</comment>
 	</song>
 	<song
 		name="Jag var full en gång..."
@@ -1147,6 +1149,7 @@
 		id="21"
 		category="Gasque"
 	>
+		<note>Sjungs efter riktigt bra gyckel som ett tack till de som uppträdde.</note>
 		<comment>
 			Vid de/dom nu kan man också sjunga Hon/Henne och Han/Honom,
 			### sjunger man personens eller gruppens namn.
@@ -1613,6 +1616,7 @@
 		melody="I natt jag drömde"
 		category="Öhl"
 	>
+		<note>Sista versen sjunges stående.</note>
 		<p>
 			I natt jag drömde något som,
 			jag aldrig drömt förut.
@@ -3114,6 +3118,8 @@
 		melody="Vals ur Glada änkan"
 		category="Punsch"
 	>
+		<note>Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger.</note>
+		<note>För varje repetition följer en rörelse; gunga vänster till höger, gunga fram och tillbaka, ställa sig upp och sätta sig ner. Dessa upprepas så länge man sjunger.</note>
 		<p>
 			Punschen kommer,
 			punschen kommer,
@@ -3130,7 +3136,6 @@
 			Inga sorger finnas mer
 			när punsch vi får.
 		</p>
-		<comment>Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger.</comment>
 	</song>
 	<song
 		name="Djungelpunsch"
@@ -3242,10 +3247,8 @@
 		melody="Jag gick mig ut i skogen"
 		category="Punsch"
 	>
-		<comment>
-			Den stämma som slutar samtidigt som den andra, vinner.
-			Stämma 1:
-		</comment>
+		<note>Den stämma som slutar samtidigast som den andra, vinner.</note>
+		<comment>Stämma 1:</comment>
 		<p>
 			//: Punsch, punsch, punsch, punsch,
 			punsch, punsch, alla sorters... ://
@@ -3523,6 +3526,8 @@
 		melody="Auld lang syne"
 		category="Punsch"
 	>
+		<note>Sista versen sjungs först med ena foten på stolen, sedan igen med andra foten på stolen och slutligen en gång under bordet.</note>
+		<note>\* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. &quot;båd&apos; utanpå och i... IT!!!&quot; Dock är det även vanligt att istället sjunga &quot;båd&apos; utanpå och i... IN!!!&quot; som ett minne till sektionens historia. Flera andra sektionen vrålar också &quot;igen&quot;, möjligen till följd av många högljudda &quot;IN&quot;.</note>
 		<p>
 			När punschen småningom är slut
 			och vår flaska blivit tom.
@@ -3535,11 +3540,6 @@
 			Och finns det ändå något kvar
 			får det va&apos; till sämre dar. ://
 		</p>
-		<comment>
-			* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. &quot;båd&apos; utanpå och i... IT!!!&quot;
-			Dock är det även vanligt att istället sjunga &quot;båd&apos; utanpå och i... IN!!!&quot; som ett minne till sektionens historia.
-			Flera andra sektionen vrålar också &quot;igen&quot;, möjligen till följd av många högljudda &quot;IN&quot;.
-		</comment>
 	</song>
 	<song
 		name="Härlig är punschen"
@@ -4205,6 +4205,7 @@
 		author="Jauvet"
 		category="Utländskt"
 	>
+		<note>Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk.</note>
 		<p>
 			In the trade of jester,
 			we&apos;re fools that play our part.
@@ -4245,10 +4246,6 @@
 			and we die like common man.
 		</p>
 		<p>Getting gold ...</p>
-		<comment>
-			Skriven av en gycklargrupp från Norrköping och
-			därmed inte precis utländsk.
-		</comment>
 	</song>
 	<song
 		name="En matematiker"
@@ -5465,6 +5462,8 @@
 		melody="O alte Burschenherrlichkeit"
 		category="Högtidligt"
 	>
+		<note>Traditionellt reser sig studerande vid de strofer som bäst passar deras respektive fakultet.</note>
+		<note>Under sista versen reser sig alla upp.</note>
 		<p>
 			O gamla klang- och jubeltid
 			ditt minne skall förbliva
@@ -5525,7 +5524,9 @@
 		id="151"
 		category="Gasque"
 	>
-		<comment>Sjunges alltid som gasquens sista sång.</comment>
+		<note>Sjunges alltid som gasquens sista sång, som ett tack till personalen.</note>
+		<note>\&quot;förklara\&quot; sjunges i falsett.</note>
+		<note>\&quot;dig\&quot; i slutet upprepas för alla man tackar.</note>
 		<p>
 			Hur gärna ville jag ej vara,
 			en liten blå förgätmigej,
