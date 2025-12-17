@@ -2,8 +2,8 @@
 title: En liten blå förgätmigej
 tags: [gasque, swe]
 notes:
-  - Sjunges alltid som gasquens sista sång, som ett tack till personalen.
-  - '* "förklara" sjunges i falsett.'
+  - Sjungs alltid som gasquens sista sång, som ett tack till personalen.
+  - '* "förklara" sjungs i falsett.'
   - '** "dig" i slutet upprepas för alla man tackar.'
 sorting: -99
 ---

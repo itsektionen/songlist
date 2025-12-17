@@ -6,7 +6,7 @@ author:
     year: 1995
 melody: Vi äro musikanter
 notes:
-  - '* "helium" sjunges ljust.'
+  - '* "helium" sjungs ljust.'
 tags: [snaps, swe]
 ---
 

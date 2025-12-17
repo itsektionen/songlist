@@ -3,7 +3,7 @@ title: Feta fransyskor
 melody: Marche Militaire
 composer: Franz Schubert
 notes:
-  - Enligt tradition sjunges D av damer; H av herrar.
+  - Enligt tradition sjungs D av damer; H av herrar.
   - '"(Fast större!)" var egentligen en redigeringsnotis till första upplagan som av misstag blev kvar. Avsikten var att "Ja!" skulle tryckts i större text.'
 tags: [wine, swe]
 ---
