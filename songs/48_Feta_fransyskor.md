@@ -1,5 +1,7 @@
 ---
 title: Feta fransyskor
+alternativeTitles:
+  - Fransk vinvisa
 melody: Marche Militaire
 composer: Franz Schubert
 notes:
