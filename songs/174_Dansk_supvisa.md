@@ -2,7 +2,7 @@
 title: Dansk supvisa
 alternativeTitles:
   - Dansk snapsvisa
-tags: [snaps, swe]
+tags: [snaps]
 ---
 
 Icke Nu...
