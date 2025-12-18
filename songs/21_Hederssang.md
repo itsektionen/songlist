@@ -2,7 +2,7 @@
 title: Hederssång
 notes:
   - Sjungs efter riktigt bra gyckel som ett tack till de som uppträdde.
-  - 'Vid de/dem nu kan man också sjunga Hon/Henne och Han/Honom. ### sjunger man personens eller gruppens namn.'
+  - 'Vid de/dem kan man också sjunga Hon/Henne och Han/Honom. ### sjunger man personens eller gruppens namn.'
 alternativeTitles:
   - Tacksång
 tags: [gasque, swe]
