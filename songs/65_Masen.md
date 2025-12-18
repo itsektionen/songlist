@@ -3,6 +3,7 @@ title: Måsen
 alternativeTitles:
   - JAS:en
   - Musen
+  - När månen vandrat
 melody: När månen vandrar
 tags: [snaps, swe]
 ---
@@ -24,6 +25,15 @@ Jag önskar blott att jag såg 'en.
 Så nöjd och lycklig, den arme saten,
 han sätter storsegel den krabaten.
 Till sjöss han far, och halvan tar.
+
+Den mås som satt på en klyvarbom,
+den är nu död och begraven,
+och skeppar'n som drack en flaska rom,
+han har nu drunknat i haven.
+
+Så kan det gå om man fått för mycke',
+om man för brännvin har fattat tycke.
+Vi som har kvar, vi resten tar!
 
 # När månen vandrat sin tysta ban
 
