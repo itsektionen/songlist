@@ -1,5 +1,5 @@
 ---
-title: Lång ner i Småland
+title: Långt ner i Småland
 alternativeTitles:
   - Rännan
 notes:
