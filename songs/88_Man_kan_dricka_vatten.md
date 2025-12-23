@@ -5,6 +5,8 @@ author:
     location: KTH
     year: 1995
 melody: Vi äro musikanter
+notes:
+  - '* "helium" sjungs ljust.'
 tags: [snaps, swe]
 ---
 
@@ -20,9 +22,7 @@ Och vi kan svepa islandshästar,
 mockavästar när vi festar.
 Vi kan svepa svavelsyra på vår yra fest.
 
-> "helium" sjunges ljust.
-
-Vi kan häva kvicksilver och helium.
+Vi kan häva kvicksilver och helium.\*
 Vi kan häva ost och vardagsrum.
 
 Och vi kan supa bomfadderalla,

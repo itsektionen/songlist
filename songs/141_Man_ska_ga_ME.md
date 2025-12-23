@@ -5,6 +5,8 @@ author:
     location: KTH
 melody: Man ska ha husvagn
 composer: Claes Eriksson
+notes:
+  - '* "här finns inga tjejer" ska sjungas med tragedi, eftersom det inte var något som celebrerades utan ett plågsamt faktum år 2004, när låten skrevs.'
 tags: [esoteric, swe]
 ---
 
@@ -22,6 +24,3 @@ Fem minuter kvant och fem minuter termo,
 fem minuter TET och fem minuter bärvåg,
 fem minuter vin och fem minuter fest,
 fem minuters sömn i soffan på plan 6.
-
-> \* "här finns inga tjejer" ska sjungas med tragedi, eftersom det inte var något
-> som celebrerades utan ett plågsamt faktum år 2004, när låten skrevs.

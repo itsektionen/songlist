@@ -1,6 +1,8 @@
 ---
 title: Septen
 melody: Nu ska vi skörda linet
+notes:
+  - '* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag.'
 tags: [snaps, swe]
 ---
 
@@ -12,5 +14,3 @@ Klunk klunk klunk klunk klunk klunk,
 blanda och ge, blanda och ge,
 abrakadabra klunk,
 julafton är en torsdag!\* :// (in abs.)
-
-> \* 2022 lördag, 2023 söndag, 2024 tisdag, 2025 onsdag, 2026 torsdag, 2027 fredag.

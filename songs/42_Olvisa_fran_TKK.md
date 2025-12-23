@@ -1,6 +1,9 @@
 ---
 title: Ölvisa från TKK
 melody: Staffan var en stalledräng
+notes:
+  - '* Damer sjunger "Svakar", herrar sjunger "Svatta".'
+  - Orden motsvarar "Osquar" resp. "Osqulda" på Tekniska Högskolan i Helsingfors (TKK).
 tags: [beer, swe]
 ---
 
@@ -17,7 +20,3 @@ Vi bugar för vår Svatta* strax,
 och sveper sedan vätskan.
 Ingen droppe skall bli kvar,
 vi vet hur vår Svatta* skall behandlas.
-
-> \* Damer sjunger "Svakar", herrar sjunger "Svatta".
-> Orden motsvarar "Osquar" resp. "Osqulda"
-> på tekniska högskolan i Helsingfors (TKK).

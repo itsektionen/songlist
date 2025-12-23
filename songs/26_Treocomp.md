@@ -1,5 +1,7 @@
 ---
 title: Treo-comp
+alternativeTitles:
+  - Ode till Treo
 author:
   - event: Lundakarnevalen
     year: 1986

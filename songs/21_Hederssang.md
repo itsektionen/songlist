@@ -2,11 +2,11 @@
 title: Hederssång
 notes:
   - Sjungs efter riktigt bra gyckel som ett tack till de som uppträdde.
+  - 'Vid de/dem kan man också sjunga hon/henne eller han/honom. ### sjunger man personens eller gruppens namn.'
+alternativeTitles:
+  - Tacksång
 tags: [gasque, swe]
 ---
-
-> Vid de/dom nu kan man också sjunga Hon/Henne och Han/Honom,
-> \#\#\# sjunger man personens eller gruppens namn.
 
 Det där det gjorde de fan så bra, hej!
 En skål uti botten för dom nu vi ta.

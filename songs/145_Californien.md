@@ -1,5 +1,5 @@
 ---
-title: I Californien
+title: Californien
 melody: Oh! Susanna
 composer: Stephen Foster
 tags: [esoteric, swe]

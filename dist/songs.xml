@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-12-17">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-12-23">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -322,8 +322,9 @@
 	</song>
 	<song
 		name="Härjarevisan"
+		alternativeTitles="Härjasången"
 		id="6"
-		author="(Lundaspexet Djingis Khan, 1954)"
+		author="Hans &quot;Hasse&quot; Alfredsson (Lundaspexet Djingis Khan, 1954)"
 		melody="Gärdebylåten"
 		category="Gasque"
 	>
@@ -436,8 +437,9 @@
 	</song>
 	<song
 		name="Jag har aldrig..."
+		alternativeTitles="Jag har aldrig var&apos;t på snusen;Handelsvisan;Fysikvisan;Datavisan;TBasvisan;Kistavisan"
 		id="10"
-		author="Team Kangaroo, F (Gerhards-gasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan); IT-Sektionens styrelse (Mållinjen (Tbas), KTH, 2025 — TBasvisan)"
+		author="Team Kangaroo, F (Gerhards-gasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren, D-01 (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan); IT-Sektionens styrelse (Mållinjen (TBas), KTH, 2025 — TBasvisan)"
 		composer="Robert Lowry"
 		melody="O, hur saligt att få vandra"
 		category="Gasque"
@@ -595,7 +597,7 @@
 		</p>
 		<header>TBasvisan</header>
 		<p>
-			Jag vill aldrig gå på Tbas,
+			Jag vill aldrig gå på TBas,
 			aldrig tenta om gymnasiekurserna.
 			Lära sig om allting barnsligt,
 			och tro att dom kommer nå&apos;n vart.
@@ -891,7 +893,7 @@
 	<song
 		name="När jag är fuller"
 		id="15"
-		author="Tore &quot;Pekka&quot; Norén, B (Sångartäflan,, KTH,, 1942)"
+		author="Tore &quot;Pekka&quot; Norén, B (Sångartäflan, KTH, 1942)"
 		melody="När månen vandrar"
 		category="Gasque"
 	>
@@ -1146,14 +1148,12 @@
 	</song>
 	<song
 		name="Hederssång"
+		alternativeTitles="Tacksång"
 		id="21"
 		category="Gasque"
 	>
 		<note>Sjungs efter riktigt bra gyckel som ett tack till de som uppträdde.</note>
-		<comment>
-			Vid de/dom nu kan man också sjunga Hon/Henne och Han/Honom,
-			### sjunger man personens eller gruppens namn.
-		</comment>
+		<note>Vid de/dem nu kan man också sjunga Hon/Henne och Han/Honom. ### sjunger man personens eller gruppens namn.</note>
 		<p>
 			Det där det gjorde de fan så bra, hej!
 			En skål uti botten för dom nu vi ta.
@@ -1300,6 +1300,7 @@
 	</song>
 	<song
 		name="Treo-comp"
+		alternativeTitles="Ode till Treo"
 		id="26"
 		author="(Lundakarnevalen, 1986)"
 		composer="Otto Lindblad"
@@ -1537,7 +1538,7 @@
 		melody="Row, row, row your boat"
 		category="Öhl"
 	>
-		<comment>Kan sjungas i kanon</comment>
+		<note>Kan sjungas i kanon.</note>
 		<p>
 			//: Öl, öl, öl i glas eller i butelj.
 			Skummande, skummande,
@@ -1616,7 +1617,7 @@
 		melody="I natt jag drömde"
 		category="Öhl"
 	>
-		<note>Sista versen sjunges stående.</note>
+		<note>Sista versen sjungs stående.</note>
 		<p>
 			I natt jag drömde något som,
 			jag aldrig drömt förut.
@@ -1747,6 +1748,8 @@
 		melody="Staffan var en stalledräng"
 		category="Öhl"
 	>
+		<note>* Damer sjunger &quot;Svakar&quot;, herrar sjunger &quot;Svatta&quot;.</note>
+		<note>Orden motsvarar &quot;Osquar&quot; resp. &quot;Osqulda&quot; på Tekniska Högskolan i Helsingfors (TKK).</note>
 		<p>
 			Hos TMEIT är det fest ikväll,
 			och ölet det skall flöda.
@@ -1763,11 +1766,6 @@
 			Ingen droppe skall bli kvar,
 			vi vet hur vår Svatta* skall behandlas.
 		</p>
-		<comment>
-			* Damer sjunger &quot;Svakar&quot;, herrar sjunger &quot;Svatta&quot;.
-			Orden motsvarar &quot;Osquar&quot; resp. &quot;Osqulda&quot;
-			på tekniska högskolan i Helsingfors (TKK).
-		</comment>
 	</song>
 	<song
 		name="Bamsehäf"
@@ -1908,12 +1906,14 @@
 	</song>
 	<song
 		name="Feta fransyskor"
+		alternativeTitles="Fransk vinvisa"
 		id="48"
 		composer="Franz Schubert"
 		melody="Marche Militaire"
 		category="Wihn"
 	>
-		<comment>Enligt tradition sjunges A av damer; B av herrar</comment>
+		<note>Enligt tradition sjungs D av damer; H av herrar.</note>
+		<note>&quot;(Fast större!)&quot; var egentligen en redigeringsnotis till första upplagan som av misstag blev kvar. Avsikten var att &quot;Ja!&quot; skulle tryckts i större text.</note>
 		<p>
 			Feta fransyskor
 			som svettas om fötterna,
@@ -1934,10 +1934,10 @@
 			att vi få lida pin.
 		</p>
 		<p>
-			A: Flaskan och glaset gått i sin.
-			B: Hit med vin, mera vin!
-			A: Tror ni att vi är fyllesvin?
-			B: Ja! (Fast större!)
+			D: Flaskan och glaset gått i sin.
+			H: Hit med vin, mera vin!
+			D: Tror ni att vi är fyllesvin?
+			H: Ja! (Fast större!)
 		</p>
 	</song>
 	<song
@@ -2157,6 +2157,7 @@
 		melody="Amanda Lundbom"
 		category="Brännvin"
 	>
+		<note>När sången skrevs hade Bäska Droppar hade nummer 23 på Systembolaget.</note>
 		<p>
 			Tjugotre är Bäska Droppar,
 			bomfaderi, bomfaderalleralla.
@@ -2188,7 +2189,7 @@
 		melody="Karl-Alfred Boy"
 		category="Brännvin"
 	>
-		<comment>Dunka två gånger i bordet på "!"</comment>
+		<note>Dunka två gånger i bordet på &quot;!&quot;</note>
 		<p>
 			//: För brännvin är jävligt gott!
 			Bättre ju mer man fått!
@@ -2249,10 +2250,12 @@
 	</song>
 	<song
 		name="Lång finsk supvisa"
+		alternativeTitles="Finsk snapsvisa"
 		id="62"
 		category="Brännvin"
 	>
-		<p>Int' nu, men ... Nu!</p>
+		<note>Ei nyt, mutta... nyt!</note>
+		<p>Int' nu, men... Nu!</p>
 	</song>
 	<song
 		name="Mera brännvin"
@@ -2260,7 +2263,7 @@
 		melody="Internationalen"
 		category="Brännvin"
 	>
-		<comment>Ibland sjunger man bara de två sista verserna.</comment>
+		<note>Ibland sjunger man bara de två sista verserna.</note>
 		<p>
 			Nu är det dags att taga supen,
 			den stärker varje svag fysik.
@@ -2292,6 +2295,7 @@
 		melody="Nu ska vi skörda linet"
 		category="Brännvin"
 	>
+		<note>* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag.</note>
 		<p>
 			//: Nu ska vi klämma septen, gutår,
 			klämma en trudelutt om de&apos; går.
@@ -2302,11 +2306,10 @@
 			abrakadabra klunk,
 			julafton är en torsdag!* :// (in abs.)
 		</p>
-		<comment>* 2022 lördag, 2023 söndag, 2024 tisdag, 2025 onsdag, 2026 torsdag, 2027 fredag.</comment>
 	</song>
 	<song
 		name="Måsen"
-		alternativeTitles="JAS:en"
+		alternativeTitles="JAS:en;Musen;När månen vandrat"
 		id="65"
 		melody="När månen vandrar"
 		category="Brännvin"
@@ -2332,6 +2335,17 @@
 			Så nöjd och lycklig, den arme saten,
 			han sätter storsegel den krabaten.
 			Till sjöss han far, och halvan tar.
+		</p>
+		<p>
+			Den mås som satt på en klyvarbom,
+			den är nu död och begraven,
+			och skeppar&apos;n som drack en flaska rom,
+			han har nu drunknat i haven.
+		</p>
+		<p>
+			Så kan det gå om man fått för mycke&apos;,
+			om man för brännvin har fattat tycke.
+			Vi som har kvar, vi resten tar!
 		</p>
 		<header>När månen vandrat sin tysta ban</header>
 		<p>
@@ -2428,13 +2442,13 @@
 		id="67"
 		category="Brännvin"
 	>
+		<note>Sparsamma sjunger &quot;Snål!&quot; istället för &quot;Skål!&quot;.</note>
 		<p>
 			Kors i allsin dar!
 			Har du brännvin kvar?
 			Är du sparsam eller snål?
 			Skål!
 		</p>
-		<comment>Sparsamma sjunger "Snål!" istället.</comment>
 	</song>
 	<song
 		name="Tänk om jag hade lilla nubben..."
@@ -2459,7 +2473,7 @@
 		melody="Röda kavalleriet (Polyushko-Pole)"
 		category="Brännvin"
 	>
-		<comment>Sjungs tyst:</comment>
+		<comment>Sjung tyst:</comment>
 		<p>
 			Livet är härligt!
 			Tavaritj, vårt liv är härligt!
@@ -2708,6 +2722,8 @@
 		melody="Katjuscha"
 		category="Brännvin"
 	>
+		<note>Krossa eller släng nubbeglaset efter skålen, dock endast plastglas.</note>
+		<note>Vid glasglas sjung &quot;låt glasen vara kvar!&quot; istället för &quot;låt glasen gå i kras!&quot;.</note>
 		<comment>Sjung tyst:</comment>
 		<p>
 			Gräv ur tundran två dussin potäter,
@@ -2731,10 +2747,6 @@
 			Höj sen glasen för fosterlandets välgång,
 			sjung &quot;na zdrowie&quot;, låt glasen gå i kras!
 		</p>
-		<comment>
-			Krossa eller släng nubbeglaset efter skålen, dock endast plastglas.
-			Vid glasglas sjung &quot;låt glasen vara kvar&quot;.
-		</comment>
 	</song>
 	<song
 		name="Uti min mage"
@@ -2942,6 +2954,7 @@
 		melody="Vi äro musikanter"
 		category="Brännvin"
 	>
+		<note>* &quot;helium&quot; sjungs ljust.</note>
 		<p>
 			Man kan dricka vatten, mjölk,
 			och gammalt flott.
@@ -2957,9 +2970,8 @@
 			mockavästar när vi festar.
 			Vi kan svepa svavelsyra på vår yra fest.
 		</p>
-		<comment>"helium" sjunges ljust.</comment>
 		<p>
-			Vi kan häva kvicksilver och helium.
+			Vi kan häva kvicksilver och helium.*
 			Vi kan häva ost och vardagsrum.
 		</p>
 		<p>
@@ -2975,13 +2987,13 @@
 		melody="Jazzgossen"
 		category="Brännvin"
 	>
+		<note>Gurgla nubben i slutet!</note>
 		<p>
 			Å så kommer det en ångbåt,
 			och den säger tut-tut-tut!
 			Å så kommer det en ubåt,
 			och den säger...
 		</p>
-		<comment>Gurgla nubben!</comment>
 	</song>
 	<song
 		name="Ode till halvan"
@@ -3527,7 +3539,7 @@
 		category="Punsch"
 	>
 		<note>Sista versen sjungs först med ena foten på stolen, sedan igen med andra foten på stolen och slutligen en gång under bordet.</note>
-		<note>\* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. &quot;båd&apos; utanpå och i... IT!!!&quot; Dock är det även vanligt att istället sjunga &quot;båd&apos; utanpå och i... IN!!!&quot; som ett minne till sektionens historia. Flera andra sektionen vrålar också &quot;igen&quot;, möjligen till följd av många högljudda &quot;IN&quot;.</note>
+		<note>* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. &quot;båd&apos; utanpå och i... IT!!!&quot; Dock är det även vanligt att istället sjunga &quot;båd&apos; utanpå och i... IN!!!&quot; som ett minne till sektionens historia. Flera andra sektionen vrålar också &quot;igen&quot;, möjligen till följd av många högljudda &quot;IN&quot;.</note>
 		<p>
 			När punschen småningom är slut
 			och vår flaska blivit tom.
@@ -3722,9 +3734,8 @@
 		author="Stan Rogers (1976)"
 		category="Utländskt"
 	>
+		<note>Kan sjungas med sångledare, då sjunger alla raderna som börjar med *, sångledaren i övrigt solo.</note>
 		<p>
-			Kan sjungas med sångledare, då sjunger alla raderna som börjar med &quot;*&quot;, sångledaren i
-			övrigt solo.
 			O the year was 17-78!
 			*How I wish I was in Sherbrooke now!
 			A letter of marque came from the king,
@@ -4026,19 +4037,20 @@
 	</song>
 	<song
 		name="What shall we do with the drunken sailor?"
+		alternativeTitles="Drunken Sailor"
 		id="118"
 		category="Utländskt"
 	>
 		<p>
-			//: What shall we do with the drunken sailor? :// (x3)
+			//: What shall we do with the drunken sailor, :// (x3)
+			Early in the morning?
+		</p>
+		<p>
+			//: Put him in the longboat til&apos; he&apos;s sober... :// (x3)
 			Early in the morning!
 		</p>
 		<p>
-			//: Put him in the longboat til&apos; he&apos;s sober ... :// (x3)
-			Early in the morning!
-		</p>
-		<p>
-			//: Way-hay, and up she rises! :// (x3)
+			//: Way-hay, and up she rises, :// (x3)
 			Early in the morning!
 		</p>
 		<comment>(Fler verser bildas genom att tredje raden ersätts med t ex:)</comment>
@@ -4717,6 +4729,7 @@
 		melody="SJ, SJ, gamle vän"
 		category="Esoterica"
 	>
+		<note>Den sista versen delades ut på separata lappar i bussen och skall därför betraktas som inofficiell.</note>
 		<p>
 			Nu ska vi till Barnens Ö,
 			festa, skoja, tills vi dö!
@@ -4741,7 +4754,6 @@
 			Bron den utgör gränsens strand
 			till farligt ghettoland.
 		</p>
-		<comment>Den sista versen delades ut på separata lappar i bussen och skall därför betraktas som inofficiell.</comment>
 	</song>
 	<song
 		name="Läs inte på Handels"
@@ -4749,8 +4761,8 @@
 		author="Alex Ellgren, ME-07, och Oscar Frick, ME-07 (KTH)"
 		category="Esoterica"
 	>
+		<note>Sångledaren läser raderna som startar med *.</note>
 		<p>
-			Sångledaren läser raderna som startar med &quot;*&quot;
 			Studenter se det är som så,
 			jag är nyss fyllda 18 år.
 			Så vilken skola är av bästa klass?
@@ -5205,6 +5217,7 @@
 		melody="Man ska ha husvagn"
 		category="Esoterica"
 	>
+		<note>* &quot;här finns inga tjejer&quot; ska sjungas med tragedi, eftersom det inte var något som celebrerades utan ett plågsamt faktum år 2004, när låten skrevs.</note>
 		<p>
 			Jag har kört nästan alla kurser jag provat på.
 			I termo och i våg och i matten likaså.
@@ -5223,10 +5236,6 @@
 			fem minuter vin och fem minuter fest,
 			fem minuters sömn i soffan på plan 6.
 		</p>
-		<comment>
-			* &quot;här finns inga tjejer&quot; ska sjungas med tragedi, eftersom det inte var något
-			som celebrerades utan ett plågsamt faktum år 2004, när låten skrevs.
-		</comment>
 	</song>
 	<song
 		name="Visa vid Osqvik"
@@ -5293,7 +5302,7 @@
 		</p>
 	</song>
 	<song
-		name="I Californien"
+		name="Californien"
 		id="145"
 		composer="Stephen Foster"
 		melody="Oh! Susanna"
@@ -5456,6 +5465,7 @@
 	</song>
 	<song
 		name="O, gamla klang- och jubeltid!"
+		alternativeTitles="O, jerum, jerum"
 		id="150"
 		author="August Lindh (Juvenalorden, Uppsala, 1921)"
 		composer="Eugen Höfling (1825)"
@@ -5524,17 +5534,17 @@
 		id="151"
 		category="Gasque"
 	>
-		<note>Sjunges alltid som gasquens sista sång, som ett tack till personalen.</note>
-		<note>\&quot;förklara\&quot; sjunges i falsett.</note>
-		<note>\&quot;dig\&quot; i slutet upprepas för alla man tackar.</note>
+		<note>Sjungs alltid som gasquens sista sång, som ett tack till personalen.</note>
+		<note>* &quot;förklara&quot; sjungs i falsett.</note>
+		<note>** &quot;dig&quot; i slutet upprepas för alla man tackar.</note>
 		<p>
 			Hur gärna ville jag ej vara,
 			en liten blå förgätmigej,
 			en liten blå förgätmigej!
 		</p>
 		<p>
-			Då skulle jag för dig förklara,
-			hur innerligt jag älskar dig!
+			Då skulle jag för dig förklara,*
+			hur innerligt jag älskar dig!**
 		</p>
 	</song>
 </songs>
