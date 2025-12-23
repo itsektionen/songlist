@@ -1,6 +1,71 @@
 {
 	"songs": [
 		{
+			"id": 163,
+			"title": "Hejsan vänner",
+			"melody": "Brev från kolonien",
+			"composer": "Cornelis Vreeswijk",
+			"tags": ["swe", "gasque"],
+			"content": "Hejsan vänner, vi nu känner\nhur i strupen törsten bränner.\nVi har dricka här i glasen.\nVi ska ta den med en gång.\nJa, ta mig fasen!\n\nHöj nu armen, tryck mot barmen\ndenna nektar och säg amen.\nLåt oss njuta, aldrig sluta\natt berusa oss med sång.\nJa, ta mig tusan!"
+		},
+		{
+			"id": 164,
+			"title": "Undulaten",
+			"melody": "Med en enkel tulipan",
+			"composer": "Jules Sylvain",
+			"tags": ["swe", "wine"],
+			"content": "Jag är en liten undulat,\nsom får så dåligt med mat,\nför dom jag bor hos,\nför dom jag bor hos,\ndom är så snåla.\n\nDom ger mig sill varenda dag,\nmen det vill jag inte ha.\nJag vill ha rödvin,\njag vill ha rödvin,\noch Gorgonzola."
+		},
+		{
+			"id": 165,
+			"title": "You can have another",
+			"melody": "Popeye the sailor man",
+			"composer": "Sammy Lerner",
+			"tags": ["eng", "gasque"],
+			"content": "You can have another yet.\nThey're nicer the more you get!\nBut if you have twenty,\nyou'll wake with plenty,\nof head-ache and much regret."
+		},
+		{
+			"id": 166,
+			"title": "The Darwin song",
+			"melody": "Skånska slott och herresäten",
+			"composer": "Hjalmar Gullberg, Bengt Hjelmqvist",
+			"tags": ["eng", "gasque"],
+			"content": "When Darwin did study origin of species,\nHe found that the weakest of brain cells die easy,\nThe weakest of brain cells will also die first,\nSo increase your IQ and decrease your thirst!",
+			"author": "Rolf Malmström"
+		},
+		{
+			"id": 170,
+			"title": "Vodka, vodka",
+			"melody": "Stenka Rasin",
+			"composer": "Alexander Glazunov",
+			"tags": ["eng", "snaps"],
+			"content": "Vodka, vodka, drink of heaven.\nVodka, vodka drink of hell!\n\n//: Don’t resist any temptations.\nSoon enough you’ll hear the bell! ://"
+		},
+		{
+			"id": 171,
+			"title": "White spirit",
+			"melody": "White Christmas",
+			"composer": "Irving Berlin",
+			"tags": ["eng", "snaps"],
+			"content": "I'm dreaming of white spirits,\njust like the one I used to know.\nWhen eyes are glistering,\nand my tongue is blistering,\nI feel the vodka grooooow...\n\nSo I'm dreaming of white spirits,\nthat you can order by the phone.\nThere is nothing left to dispute,\nwhen retur call gives tax free Absolut."
+		},
+		{
+			"id": 172,
+			"title": "The Devil's call",
+			"melody": "Kors på Idas grav",
+			"composer": "Johan Göran Berger",
+			"tags": ["eng", "snaps"],
+			"content": "Filled anew, a frosted glass is standing by.\nWhen I see it, I can hear a muted cry.\nSomewhere down there, in my stomach,\nIn a dark and hidden spot.\nSits the devil calling for another shot!"
+		},
+		{
+			"id": 175,
+			"title": "Klimatångest",
+			"melody": "She'll Be Coming 'Round the Mountain",
+			"tags": ["swe", "snaps"],
+			"content": "Det är inte bra att åka mycket bil.\nOm du kör så får du inte dricka sprit. (OJ NEJ!)\nBil är dåligt för klimatet,\nvälj istället destillatet,\nrädda världen med en hela brännevin!\n\nDet är inte bra att äta animalt.\nSitza växtbaserat, rädda vårt klimat!\nOm du tagit kött för givet,\noch gett upp det goda livet,\när det tur att Koskenkorva är veganskt!",
+			"author": "Marcus \"Watt-Everth\" Lassus, E-19 (Aalto-universitetet — Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen)"
+		},
+		{
 			"id": 0,
 			"title": "Moder Kista",
 			"melody": "Längtan till landet",
@@ -193,7 +258,7 @@
 			"alternativeTitles": ["Tacksång"],
 			"notes": [
 				"Sjungs efter riktigt bra gyckel som ett tack till de som uppträdde.",
-				"Vid de/dem nu kan man också sjunga Hon/Henne och Han/Honom. ### sjunger man personens eller gruppens namn."
+				"Vid de/dem kan man också sjunga hon/henne eller han/honom. ### sjunger man personens eller gruppens namn."
 			],
 			"tags": ["gasque", "swe"],
 			"content": "Det där det gjorde de fan så bra, hej!\nEn skål uti botten för dom nu vi ta.\nHugg i och dra, hej! Hugg i och dra, hej!\nEn skål uti botten för dom nu vi ta.\n\nOch alla så dricka vi nu ### till...\n\n> Den hedrade svarar:\n\nOch ### säger inte nej därtill!\n\nFör det var i vår ungdoms fagraste vår,\nvi drack varandra till och vi sade: \"Gutår!\""
@@ -283,6 +348,17 @@
 			"tags": ["gasque", "eng"],
 			"content": "Farewell and adieu to you danish ladies\nFarewell and adieu to you lovely Danes\nFor we’re under orders to sail off to England\nWe hope in a short time to see you again\n\nWe’ll rant and we’ll roar like true viking raiders\nWe’ll plunder the shores along the north sea\nUntil we strike soundings in the channel o’ England\nFrom Valland to London ‘tis forty-five leagues\n\nWe hove our ship to, with the wind from sou’west, crew.\nWe hove our ship to, deep soundings to take.\n‘Twas twenty-one fathoms, with a murky mud bottom\nAnd bore right away, crew, and up river did make.\n\nWe’ll rant and we’ll roar...\n\nWe pull out our ships, gettin’ hold of our weapons.\nWe pull out our ships, preparing to raid.\nOur sights set on London, to get all of ’er gold.\nWhen we find the old city, we leave her in flames.\n\nWe’ll rant and we’ll roar...\n\nNow let every man drink off his full bumper\nAnd let every man drink off his full glass\nWe’ll drink and be jolly and drown melancholy\nHere’s to the health of each true-hearted lass\n\nWe’ll rant and we’ll roar...",
 			"author": "Samuel Larsson, IN-17 (KTH, 2020)"
+		},
+		{
+			"id": 162,
+			"title": "Långt ner i Småland",
+			"alternativeTitles": ["Rännan"],
+			"notes": [
+				"Gammal visa från åtminstone 1870-talet.",
+				"Strindberg använde den i Hemsöborna 1887."
+			],
+			"tags": ["gasque", "swe"],
+			"content": "Långt ner i Småland,\ndär rider själva djävulen\nmed laddade pistoler och knallande gevär,\noch alla små djävlar, de spelar på fioler\noch själva fader Satan, han spelar handklaver.\n\nHurra för Svealand,\nhurra för Götaland,\noch hurra för potatisland\nsom ger oss brännevin!\n\nJa, nog har vi glas,\nmen vi haver inget brännevin.\nFinns här någon handlingsman\nsom haver ett glas öl?\n\nHurra för...\n\nJa nubben kan tagas\npå mångahanda sätt och vis.\nDen lindar sig kring hjärtat\nsom rumpan på en gris.\n\nHurra för..."
 		},
 		{
 			"id": 31,
@@ -503,7 +579,9 @@
 			"id": 57,
 			"title": "Tjugotre",
 			"melody": "Amanda Lundbom",
-			"notes": ["När sången skrevs hade Bäska Droppar hade nummer 23 på Systembolaget."],
+			"notes": [
+				"När sången skrevs hade Bäska Droppar hade nummer 23 på Systembolaget."
+			],
 			"tags": ["snaps", "swe"],
 			"content": "Tjugotre är Bäska Droppar,\nbomfaderi, bomfaderalleralla.\nSkänker liv åt döda kroppar,\nbomfaderi, faderallanlej.\n\nSlå en sup i död mans kropp,\nbomfaderi faderallanlej, hugg i!\nSå vacklar han ur graven opp,\nbomfaderi, faderallanlej.\n\nJesus visste att de döda,\nbomfaderi, bomfaderalleralla,\nkunde väckas utan möda,\nbomfaderi, faderallanlej.\n\nBäska droppar nyttja han,\nbomfaderi faderallanlej, hugg i!\nOch Lazarus spratt till minsann,\nbomfaderi, faderallanlej.",
 			"author": "Carl Nisser, E-80 (KTH)"
@@ -557,7 +635,9 @@
 			"id": 64,
 			"title": "Septen",
 			"melody": "Nu ska vi skörda linet",
-			"notes": ["* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag."],
+			"notes": [
+				"* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag."
+			],
 			"tags": ["snaps", "swe"],
 			"content": "//: Nu ska vi klämma septen, gutår,\nklämma en trudelutt om de' går.\nTjosan Mohammed snart är det vår!\nJulafton är en torsdag!\\*\nKlunk klunk klunk klunk klunk klunk,\nblanda och ge, blanda och ge,\nabrakadabra klunk,\njulafton är en torsdag!\\* :// (in abs.)"
 		},
@@ -809,6 +889,36 @@
 			"melody": "Hej tomtegubbar",
 			"tags": ["snaps", "eng"],
 			"content": "//: What if I had a little string there\nwithin my deep throat, with liqueur! ://\n\nI drag the liqueur down the string\nand up we go then with everything\nWhat if I had a little string there\nwithin my deep throat, with liqueur!"
+		},
+		{
+			"id": 167,
+			"title": "I like the Snaps",
+			"melody": "Over The Mountains",
+			"composer": "Bosson",
+			"tags": ["snaps", "eng"],
+			"content": "I like the snaps and the snaps likes me,\nthrilling as only a snaps can be.\nI want to drink the real elite:\nAalborger aquavite!\n\n//: Over the mountains, over the sea,\nmillions of snapses are waiting for me.\nPlease go to hell with juice and tea,\nsnaps is the drink for me!! ://"
+		},
+		{
+			"id": 168,
+			"title": "Wish I could tie",
+			"melody": "Hej tomtegubbar",
+			"tags": ["snaps", "eng"],
+			"content": "//: Wish I could tie a piece of string,\naround the snaps 'fore I drink it! ://\n\nWhen it goes down,\nI pull the string,\nand thus reuse it,\nthat’s why I sing.\n\nWish I could tie a piece of string,\naround the snaps 'fore I drink it!"
+		},
+		{
+			"id": 169,
+			"title": "Herring and sill",
+			"melody": "Lili Marlene",
+			"tags": ["snaps", "eng"],
+			"content": "You can give us herring,\nand you can give us sill.\nBut you still be erring,\nunless you also will.\n\nGive us a glass of Akvavit,\nthat sure smells sweet,\nto Swedes in heat.\nIt gives the fish its feet,\nand makes the dish complete!",
+			"author": "Christer Engström"
+		},
+		{
+			"id": 174,
+			"title": "Dansk supvisa",
+			"alternativeTitles": ["Dansk snapsvisa"],
+			"tags": ["snaps"],
+			"content": "Icke Nu...\nIcke Nu...\nIcke Nu...\nMEN NU!!!"
 		},
 		{
 			"id": 92,
@@ -1072,7 +1182,9 @@
 		{
 			"id": 121,
 			"title": "In the trade of jester",
-			"notes": ["Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk."],
+			"notes": [
+				"Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk."
+			],
 			"tags": ["foreign", "eng"],
 			"content": "In the trade of jester,\nwe're fools that play our part.\nIn an act sworn by folklore,\nwhere the lines are made by heart.\n\nGetting gold from the nobles\nand mockin' from ye all.\nBut we drink with the greatest warriors,\nand we dance in every hall.\n\nWe travel through the country,\nwe go from town to town.\nWe're the sworn kings of jester\nbut we've never worn a crown.\n\nGetting gold ...\n\nI've never had a family,\nnor have I had a wife.\nIt's a high cost of living,\nit's the price I pay for life.\n\nGetting gold ...\n\nWe meet the fairest ladies,\nbut we never had a chance.\nSo we play our bagpipes\nas the common people dance.\n\n> \"Säckpipor\"\n\nTo die without a nickel\nis a scare for anyone.\nSo we work until our last day,\nand we die like common man.\n\nGetting gold ...",
 			"author": "Jauvet"
@@ -1339,6 +1451,14 @@
 			"tags": ["solemn", "swe"],
 			"content": "O gamla klang- och jubeltid\nditt minne skall förbliva\noch än åt livets bistra strid,\nett rosigt skimmer giva.\nSnart tystnar allt vårt yra skämt,\nvår sång blir stum, vårt glam förstämt.\n\nO, jerum, jerum, jerum.\nO, quae mutatio rerum!\n\nVar äro de som kunde allt,\nblott ej sin ära svika.\nSom voro män av äkta halt\noch världens herrar lika?\nDe drogo bort från vin och sång\ntill vardagslivets tråk och tvång.\n\nO, jerum...\n\nDen ene vetenskap och vett\nin i scholares mänger.\nDen andre i sitt anlets svett\npå paragrafer vränger.\nEn plåstrar själen som är skral,\nen lappar hop dess trasiga fodral.\n\nO, jerum...\n\nMen hjärtat i en sann student,\nkan ingen tid förfrysa.\nDen glädjeeld, som där han tänt,\nhans hela liv skall lysa.\n\nDet gamla skalet brustit har\nmen kärnan finnes frisk dock kvar\noch vad han än må mista,\nden skall dock aldrig brista!\n\nSå sluten, bröder, fast vår krets,\ntill glädjens värn och ära!\nTrots allt vi tryggt och väl tillfreds\nvår vänskap trohet svära.\n\nLyft bägarn högt och klinga väl!\nDe gamla gudar leva än,\nbland skålar och pokaler,\nbland skålar och pokaler!",
 			"author": "August Lindh (Juvenalorden, Uppsala, 1921)"
+		},
+		{
+			"id": 173,
+			"title": "Stad i ljus",
+			"notes": ["Sjungs alltid vid stängning."],
+			"tags": ["solemn", "swe"],
+			"content": "Min resa var mot solen,\nlångt bortom alla slutna rum.\nDär allting är oändligt,\noch alla gränser har förevigt suddats ut.\n\nJag ville se miraklet,\noch höra ord som föder liv.\nBli buren av en styrka,\nsom bara växer när jag anat mitt motiv.\n\nStad i ljus, i ett land utan namn.\nGe mig liv, där allting föds på nytt.\n\nOch så när allt förändrats,\nnär tiden inte längre finns.\nSå ser jag oss tillsammans,\noch då är resan slut,\ndet enda som vi minns.\n\nStad i ljus, i ett land utan namn.\nGe mig liv, där allting föds på nytt.\nStad i ljus, i ett land utan namn.\nGe, ge mig liv, där allting föds på nytt.",
+			"author": "Py Bäckman (1988)"
 		},
 		{
 			"id": 151,
