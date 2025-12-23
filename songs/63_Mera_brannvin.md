@@ -1,10 +1,10 @@
 ---
 title: Mera brännvin
 melody: Internationalen
+notes:
+  - Ibland sjunger man bara de två sista verserna.
 tags: [snaps, swe]
 ---
-
-> Ibland sjunger man bara de två sista verserna.
 
 Nu är det dags att taga supen,
 den stärker varje svag fysik.

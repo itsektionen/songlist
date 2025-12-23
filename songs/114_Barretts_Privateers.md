@@ -3,11 +3,11 @@ title: Barrett's Privateers
 author:
   - name: Stan Rogers
     year: 1976
+notes:
+  - Kan sjungas med sångledare, då sjunger alla raderna som börjar med *, sångledaren i övrigt solo.
 tags: [foreign, eng]
 ---
 
-Kan sjungas med sångledare, då sjunger alla raderna som börjar med "\*", sångledaren i
-övrigt solo.
 O the year was 17-78!
 \*How I wish I was in Sherbrooke now!
 A letter of marque came from the king,

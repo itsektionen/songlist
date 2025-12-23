@@ -1,15 +1,17 @@
 ---
 title: What shall we do with the drunken sailor?
+alternativeTitles:
+  - Drunken Sailor
 tags: [foreign, eng]
 ---
 
-//: What shall we do with the drunken sailor? :// (x3)
+//: What shall we do with the drunken sailor, :// (x3)
+Early in the morning?
+
+//: Put him in the longboat til' he's sober... :// (x3)
 Early in the morning!
 
-//: Put him in the longboat til' he's sober ... :// (x3)
-Early in the morning!
-
-//: Way-hay, and up she rises! :// (x3)
+//: Way-hay, and up she rises, :// (x3)
 Early in the morning!
 
 > (Fler verser bildas genom att tredje raden ersätts med t ex:)

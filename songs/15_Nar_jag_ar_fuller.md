@@ -2,8 +2,8 @@
 title: När jag är fuller
 author:
   - name: Tore "Pekka" Norén, B
-    event: Sångartäflan,
-    location: KTH,
+    event: Sångartäflan
+    location: KTH
     year: 1942
 melody: När månen vandrar
 tags: [gasque, swe]

@@ -1,5 +1,7 @@
 ---
 title: O, gamla klang- och jubeltid!
+alternativeTitles:
+  - O, jerum, jerum
 author:
   - name: August Lindh
     event: Juvenalorden

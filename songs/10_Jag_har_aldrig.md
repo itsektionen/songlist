@@ -1,5 +1,12 @@
 ---
 title: Jag har aldrig...
+alternativeTitles:
+  - Jag har aldrig var't på snusen
+  - Handelsvisan
+  - Fysikvisan
+  - Datavisan
+  - TBasvisan
+  - Kistavisan
 author:
   - name: Team Kangaroo, F
     event: Gerhards-gasque
@@ -10,13 +17,13 @@ author:
     location: KTH
     year: 2000
     comment: Fysikvisan
-  - name: Mattis Castegren
+  - name: Mattis Castegren, D-01
     event: Fysiksektionens Ettans fest
     location: KTH
     year: 2001
     comment: Datavisan
   - name: IT-Sektionens styrelse
-    event: Mållinjen (Tbas)
+    event: Mållinjen (TBas)
     location: KTH
     year: 2025
     comment: TBasvisan
@@ -157,7 +164,7 @@ om man går di-i-it! ://
 
 # TBasvisan
 
-Jag vill aldrig gå på Tbas,
+Jag vill aldrig gå på TBas,
 aldrig tenta om gymnasiekurserna.
 Lära sig om allting barnsligt,
 och tro att dom kommer nå'n vart.
