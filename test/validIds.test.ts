@@ -27,7 +27,7 @@ describe('All IDs are valid', () => {
 		});
 
 		Object.entries(ids).forEach(([id, occurances]) => {
-			expect(occurances, `${occurances} files have the ID ${id}.`).toBe(1);
+			expect(occurances, `${occurances} files have the ID=${id}.`).toBe(1);
 		});
 	});
 
