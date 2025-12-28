@@ -6,7 +6,7 @@ describe('All IDs are valid', () => {
 	test('All files have IDs', () => {
 		const files = getAllSongPaths();
 		files.forEach((file) => {
-			expect(() => getIdFromFileName(file), `Unable to find an ID for ${file}`).not.toThrow();
+			expect(() => getIdFromFileName(file), `Unable to find an ID for ${file}.`).not.toThrow();
 		});
 	});
 
@@ -14,7 +14,7 @@ describe('All IDs are valid', () => {
 		getAllSongPaths().forEach((path) => {
 			const idString = parseFile(path).name.split('_')[0];
 
-			expect(Number(idString).toString(), `${path} has leading zeroes`).toBe(idString);
+			expect(Number(idString).toString(), `${path} has leading zeroes.`).toBe(idString);
 		});
 	});
 
@@ -27,7 +27,7 @@ describe('All IDs are valid', () => {
 		});
 
 		Object.entries(ids).forEach(([id, occurances]) => {
-			expect(occurances, `${occurances} files have the ID ${id}`).toBe(1);
+			expect(occurances, `${occurances} files have the ID ${id}.`).toBe(1);
 		});
 	});
 
@@ -38,7 +38,7 @@ describe('All IDs are valid', () => {
 			existsArray[song.id] = true;
 		});
 		existsArray.forEach((exists, id) => {
-			expect(exists, `No song with ID=${id} found`).toBeTruthy();
+			expect(exists, `No song with ID=${id} found.`).toBeTruthy();
 		});
 	});
 
@@ -48,7 +48,7 @@ describe('All IDs are valid', () => {
 		songs.forEach((song) => {
 			expect(
 				song.id,
-				`No song ID can be greater than 4095 (found in song with title ${song.title})`,
+				`Song '${song.title}' (ID=${song.id}) ID cannot be greater than 4095.`,
 			).toBeLessThanOrEqual(4095);
 		});
 	});
