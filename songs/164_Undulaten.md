@@ -2,7 +2,7 @@
 title: Undulaten
 melody: Med en enkel tulipan
 composer: Jules Sylvain
-tags: [swe, wine]
+tags: [wine, swe]
 ---
 
 Jag är en liten undulat,

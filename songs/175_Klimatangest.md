@@ -5,7 +5,7 @@ author:
     location: Aalto-universitetet
     comment: Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen
 melody: She'll Be Coming 'Round the Mountain
-tags: [swe, snaps]
+tags: [snaps, swe]
 ---
 
 Det är inte bra att åka mycket bil.

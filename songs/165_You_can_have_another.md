@@ -2,7 +2,7 @@
 title: You can have another
 melody: Popeye the sailor man
 composer: Sammy Lerner
-tags: [eng, gasque]
+tags: [gasque, eng]
 ---
 
 You can have another yet.
