@@ -13,9 +13,9 @@ jobs:
     outputs:
       songs_have_changed: ${{steps.songs-changed.outputs.out}}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6.0.1
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6.1.0
         with:
           node-version: lts/*
           cache: 'yarn'
@@ -32,16 +32,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/create-github-app-token@v1
+      - uses: actions/create-github-app-token@v2.2.1
         id: app-token
         with:
           app-id: ${{ secrets.SONGBIRD_APP_ID }}
           private-key: ${{ secrets.SONGBIRD_PRIVATE_KEY }}
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6.0.1
         with:
           token: ${{ steps.app-token.outputs.token }}
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6.1.0
         with:
           node-version: lts/*
           cache: 'yarn'
