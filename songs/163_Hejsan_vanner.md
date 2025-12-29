@@ -2,7 +2,7 @@
 title: Hejsan vänner
 melody: Brev från kolonien
 composer: Cornelis Vreeswijk
-tags: [swe, gasque]
+tags: [gasque, swe]
 ---
 
 Hejsan vänner, vi nu känner

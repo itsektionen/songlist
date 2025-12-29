@@ -12,7 +12,7 @@ export const SOLEMN = 'solemn';
 export const SWE = 'swe';
 export const ENG = 'eng';
 
-export const TAGS = <const>[
+export const CATEGORY_TAGS = <const>[
 	GASUQUE,
 	BEER,
 	WINE,
@@ -22,9 +22,9 @@ export const TAGS = <const>[
 	NERDY,
 	ESOTERIC,
 	SOLEMN,
-	SWE,
-	ENG,
 ];
+export const LANGUAGE_TAGS = <const>[SWE, ENG];
+export const TAGS = <const>[...CATEGORY_TAGS, ...LANGUAGE_TAGS];
 
 // For legacy songlist
 // To deal with possible future songs that might not match any of the legacy tags

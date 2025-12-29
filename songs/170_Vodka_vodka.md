@@ -2,7 +2,7 @@
 title: Vodka, vodka
 melody: Stenka Rasin
 composer: Alexander Glazunov
-tags: [eng, snaps]
+tags: [snaps, eng]
 ---
 
 Vodka, vodka, drink of heaven.

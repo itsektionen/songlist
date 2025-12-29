@@ -2,7 +2,7 @@
 title: The Devil's call
 melody: Kors på Idas grav
 composer: Johan Göran Berger
-tags: [eng, snaps]
+tags: [snaps, eng]
 ---
 
 Filled anew, a frosted glass is standing by.

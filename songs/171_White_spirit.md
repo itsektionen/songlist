@@ -2,7 +2,7 @@
 title: White spirit
 melody: White Christmas
 composer: Irving Berlin
-tags: [eng, snaps]
+tags: [snaps, eng]
 ---
 
 I'm dreaming of white spirits,

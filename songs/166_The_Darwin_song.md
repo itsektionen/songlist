@@ -4,7 +4,7 @@ author:
   - name: Rolf Malmström
 melody: Skånska slott och herresäten
 composer: Hjalmar Gullberg, Bengt Hjelmqvist
-tags: [eng, gasque]
+tags: [gasque, eng]
 ---
 
 When Darwin did study origin of species,
