@@ -9,6 +9,7 @@ import { join } from 'path';
 import { isoDateRegex } from '../util/regex';
 import createSongs from '../util/createSongs';
 import dayjs from 'dayjs';
+import prettier from 'prettier';
 
 export default async function build(customUpdatedAt: string | undefined): Promise<void> {
 	const updatedAt = customUpdatedAt?.match(isoDateRegex)
@@ -17,7 +18,7 @@ export default async function build(customUpdatedAt: string | undefined): Promis
 
 	const buildSongs = createSongs(updatedAt);
 
-	writeJson(await buildSongs.json);
+	await writeJson(buildSongs.json);
 	writeXml(buildSongs.xml);
 	console.log('Build complete and saved');
 
@@ -33,8 +34,13 @@ export default async function build(customUpdatedAt: string | undefined): Promis
 		);
 }
 
-export function writeJson(songs: string) {
-	writeFileSync(JSON_SONGS_PATH, songs);
+export async function writeJson(songs: string) {
+	const config = await prettier.resolveConfig(JSON_SONGS_PATH);
+	const formatted = await prettier.format(songs, {
+		...config,
+		parser: 'json',
+	});
+	writeFileSync(JSON_SONGS_PATH, formatted);
 }
 
 export function writeXml(songs: string) {

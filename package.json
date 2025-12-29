@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"repository": "https://github.com/itsektionen/songlist",
 	"scripts": {
-		"build": "ts-node src/scripts build && yarn format",
+		"build": "ts-node src/scripts build",
 		"script": "ts-node src/scripts",
 		"test": "jest test",
 		"lint": "prettier --check dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
