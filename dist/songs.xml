@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-12-23">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-12-29">
 	<song
 		name="Hejsan vänner"
 		id="163"
@@ -2341,7 +2341,7 @@
 		melody="Amanda Lundbom"
 		category="Brännvin"
 	>
-		<note>När sången skrevs hade Bäska Droppar hade nummer 23 på Systembolaget.</note>
+		<note>När sången skrevs hade Bäska Droppar nummer 23 på Systembolaget.</note>
 		<p>
 			Tjugotre är Bäska Droppar,
 			bomfaderi, bomfaderalleralla.

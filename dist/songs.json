@@ -579,7 +579,9 @@
 			"id": 57,
 			"title": "Tjugotre",
 			"melody": "Amanda Lundbom",
-			"notes": ["När sången skrevs hade Bäska Droppar hade nummer 23 på Systembolaget."],
+			"notes": [
+				"När sången skrevs hade Bäska Droppar nummer 23 på Systembolaget."
+			],
 			"tags": ["snaps", "swe"],
 			"content": "Tjugotre är Bäska Droppar,\nbomfaderi, bomfaderalleralla.\nSkänker liv åt döda kroppar,\nbomfaderi, faderallanlej.\n\nSlå en sup i död mans kropp,\nbomfaderi faderallanlej, hugg i!\nSå vacklar han ur graven opp,\nbomfaderi, faderallanlej.\n\nJesus visste att de döda,\nbomfaderi, bomfaderalleralla,\nkunde väckas utan möda,\nbomfaderi, faderallanlej.\n\nBäska droppar nyttja han,\nbomfaderi faderallanlej, hugg i!\nOch Lazarus spratt till minsann,\nbomfaderi, faderallanlej.",
 			"author": "Carl Nisser, E-80 (KTH)"
@@ -633,7 +635,9 @@
 			"id": 64,
 			"title": "Septen",
 			"melody": "Nu ska vi skörda linet",
-			"notes": ["* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag."],
+			"notes": [
+				"* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag."
+			],
 			"tags": ["snaps", "swe"],
 			"content": "//: Nu ska vi klämma septen, gutår,\nklämma en trudelutt om de' går.\nTjosan Mohammed snart är det vår!\nJulafton är en torsdag!\\*\nKlunk klunk klunk klunk klunk klunk,\nblanda och ge, blanda och ge,\nabrakadabra klunk,\njulafton är en torsdag!\\* :// (in abs.)"
 		},
@@ -1178,7 +1182,9 @@
 		{
 			"id": 121,
 			"title": "In the trade of jester",
-			"notes": ["Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk."],
+			"notes": [
+				"Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk."
+			],
 			"tags": ["foreign", "eng"],
 			"content": "In the trade of jester,\nwe're fools that play our part.\nIn an act sworn by folklore,\nwhere the lines are made by heart.\n\nGetting gold from the nobles\nand mockin' from ye all.\nBut we drink with the greatest warriors,\nand we dance in every hall.\n\nWe travel through the country,\nwe go from town to town.\nWe're the sworn kings of jester\nbut we've never worn a crown.\n\nGetting gold ...\n\nI've never had a family,\nnor have I had a wife.\nIt's a high cost of living,\nit's the price I pay for life.\n\nGetting gold ...\n\nWe meet the fairest ladies,\nbut we never had a chance.\nSo we play our bagpipes\nas the common people dance.\n\n> \"Säckpipor\"\n\nTo die without a nickel\nis a scare for anyone.\nSo we work until our last day,\nand we die like common man.\n\nGetting gold ...",
 			"author": "Jauvet"
@@ -1466,5 +1472,5 @@
 			"content": "Hur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\\*\nhur innerligt jag älskar dig!\\*\\*"
 		}
 	],
-	"updatedAt": "2025-12-23"
+	"updatedAt": "2025-12-29"
 }
