@@ -49,8 +49,6 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Build
         run: yarn build
-      - name: Format build
-        run: yarn format
       - name: Get commit message
         id: commit-title
         run: yarn --silent github commitTitle >> "$GITHUB_OUTPUT"
