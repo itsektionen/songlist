@@ -5,7 +5,7 @@ author:
     location: KTH
 melody: Amanda Lundbom
 notes:
-  - När sången skrevs hade Bäska Droppar hade nummer 23 på Systembolaget.
+  - När sången skrevs hade Bäska Droppar nummer 23 på Systembolaget.
 tags: [snaps, swe]
 ---
 
