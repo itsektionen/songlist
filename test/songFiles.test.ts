@@ -138,7 +138,6 @@ describe('All songs have valid data', () => {
 				invalidTag,
 				`Song '${song.title}' (ID=${song.id}) contains the invalid tag '${invalidTag}'. Did you mean '${closest(invalidTag ?? '', TAGS)}'?`,
 			).toBeUndefined();
-
 			const categoryTags = song.tags.filter((tag) =>
 				(CATEGORY_TAGS as readonly string[]).includes(tag),
 			);
@@ -146,7 +145,6 @@ describe('All songs have valid data', () => {
 				categoryTags.length,
 				`Song '${song.title}' (ID=${song.id}) does not have 1 category tag.`,
 			).toBe(1);
-
 			const languageTags = song.tags.filter((tag) =>
 				(LANGUAGE_TAGS as readonly string[]).includes(tag),
 			);
