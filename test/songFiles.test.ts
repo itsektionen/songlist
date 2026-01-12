@@ -22,7 +22,7 @@ describe('All songs have valid data', () => {
 			Object.keys(metaKeys).forEach((metaKey) => {
 				expect(
 					validMetaKeys,
-					`Value ${metaKey} not a valid metadata property (found in ${path})\nDid you mean '${closest(metaKey, validMetaKeys)}'?`,
+					`Value ${metaKey} is not a valid metadata property (found in ${path})\nDid you mean '${closest(metaKey, validMetaKeys)}'?`,
 				).toContain(metaKey);
 			});
 		});
@@ -32,55 +32,97 @@ describe('All songs have valid data', () => {
 		const songs = getAllSongs(false);
 
 		songs.forEach((song) => {
-			expect(typeof song.title).toBe('string');
+			//Title
+			expect(typeof song.title, `Song '${song.title}' (ID=${song.id}) title is not a string.`).toBe(
+				'string',
+			);
 			expect(
 				Array.isArray(song.alternativeTitles) || song.alternativeTitles === undefined,
+				`Song '${song.title}' (ID=${song.id}) alternative titles are not an array.`,
 			).toBeTruthy();
+
+			//Alternative Titles
 			if (song.alternativeTitles) {
 				song.alternativeTitles.forEach((title) => {
-					expect(typeof title).toBe('string');
+					expect(
+						typeof title,
+						`Song '${song.title}' (ID=${song.id}) alternative title '${title}' is not a string.`,
+					).toBe('string');
 				});
 			}
 
-			expect(Array.isArray(song.author) || song.author === undefined).toBeTruthy();
+			//Author
 			if (song.author) {
+				expect(
+					Array.isArray(song.author),
+					`Song '${song.title}' (ID=${song.id}) author is not an array.`,
+				).toBeTruthy();
+
 				song.author.forEach((author) => {
-					expect(typeof author).toBe('object');
+					expect(
+						typeof author,
+						`Song '${song.title}' (ID=${song.id}) author is not an object.`,
+					).toBe('object');
 
 					Object.keys(author).forEach((key) => {
 						expect(
 							VALID_AUTHOR_KEYS,
-							`Song with ID=${song.id} and title '${song.title}' contains the invalid author field '${key}'`,
+							`Song '${song.title}' (ID=${song.id}) contains an invalid author field '${key}'.`,
 						).toContain(key);
 					});
 
 					VALID_AUTHOR_KEYS.forEach((key) => {
 						if (key in author && author[key]) {
 							if (key === 'year') {
-								expect(typeof author[key]).toBe('number');
+								expect(
+									typeof author[key],
+									`Song '${song.title}' (ID=${song.id}) author year is not a number.`,
+								).toBe('number');
 							} else {
-								expect(typeof author[key]).toBe('string');
+								expect(
+									typeof author[key],
+									`Song '${song.title}' (ID=${song.id}) author ${key} is not a string.`,
+								).toBe('string');
 							}
 						}
 					});
 				});
 			}
 
-			if (song.composer) expect(typeof song.composer).toBe('string');
-			if (song.melody) expect(typeof song.melody).toBe('string');
-			if (typeof song.deleted === 'boolean') expect(song.deleted).toBeTruthy();
-			else expect(song.deleted).toBeUndefined();
+			//Melody
+			if (song.melody) {
+				expect(
+					typeof song.melody,
+					`Song '${song.title}' (ID=${song.id}) melody is not a string.`,
+				).toBe('string');
+			}
 
-			expect(Array.isArray(song.notes) || song.notes === undefined).toBeTruthy();
+			//Composer
+			if (song.composer) {
+				expect(
+					typeof song.composer,
+					`Song '${song.title}' (ID=${song.id}) composer is not a string.`,
+				).toBe('string');
+			}
+
+			//Notes
 			if (song.notes) {
+				expect(
+					Array.isArray(song.notes),
+					`Song '${song.title}' (ID=${song.id}) notes are not an array.`,
+				).toBeTruthy();
+
 				song.notes.forEach((note) => {
-					expect(typeof note).toBe('string');
+					expect(typeof note, `Song '${song.title}' (ID=${song.id}) note is not a string.`).toBe(
+						'string',
+					);
 				});
 			}
 
+			//Tags
 			expect(
 				song.tags,
-				`Song '${song.title}' (ID=${song.id}) does not have a tag array.`,
+				`Song '${song.title}' (ID=${song.id}) tags are not an array.`,
 			).toBeInstanceOf(Array);
 			expect(
 				song.tags.length,
@@ -94,9 +136,8 @@ describe('All songs have valid data', () => {
 			const invalidTag = song.tags.find((tag) => !TAGS.includes(tag));
 			expect(
 				invalidTag,
-				`Song '${song.title}' (ID=${song.id}) contains the invalid tag '${invalidTag}'. Did you mean '${closest(invalidTag ?? '', TAGS)}'`,
+				`Song '${song.title}' (ID=${song.id}) contains the invalid tag '${invalidTag}'. Did you mean '${closest(invalidTag ?? '', TAGS)}'?`,
 			).toBeUndefined();
-
 			const categoryTags = song.tags.filter((tag) =>
 				(CATEGORY_TAGS as readonly string[]).includes(tag),
 			);
@@ -104,7 +145,6 @@ describe('All songs have valid data', () => {
 				categoryTags.length,
 				`Song '${song.title}' (ID=${song.id}) does not have 1 category tag.`,
 			).toBe(1);
-
 			const languageTags = song.tags.filter((tag) =>
 				(LANGUAGE_TAGS as readonly string[]).includes(tag),
 			);
@@ -121,6 +161,27 @@ describe('All songs have valid data', () => {
 					song.tags[1],
 					`Song '${song.title}' (ID=${song.id}) does not have a language tag last.`,
 				).toBe(languageTags[0]);
+			}
+
+			//Sorting
+			if (song.sorting) {
+				expect(
+					typeof song.sorting,
+					`Song '${song.title}' (ID=${song.id}) sorting is not a number.`,
+				).toBe('number');
+			}
+
+			//Deleted
+			if (typeof song.deleted === 'boolean') {
+				expect(
+					song.deleted,
+					`Song '${song.title}' (ID=${song.id}) deleted is not true.`,
+				).toBeTruthy();
+			} else {
+				expect(
+					song.deleted,
+					`Song '${song.title}' (ID=${song.id}) deleted is not undefined.`,
+				).toBeUndefined();
 			}
 		});
 	});
