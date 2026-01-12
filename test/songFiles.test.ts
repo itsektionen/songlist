@@ -1,7 +1,7 @@
 import { readFileSync } from 'fs';
 import matter from 'gray-matter';
 import { validMetaKeys } from '../src/definitions/song';
-import { TAGS } from '../src/definitions/tags';
+import { CATEGORY_TAGS, LANGUAGE_TAGS, TAGS } from '../src/definitions/tags';
 import { getAllSongPaths, getAllSongs } from '../src/util/songs';
 import { VALID_AUTHOR_KEYS } from '../src/definitions/author';
 import { closest } from 'fastest-levenshtein';
@@ -78,14 +78,50 @@ describe('All songs have valid data', () => {
 				});
 			}
 
-			expect(song.tags).toBeInstanceOf(Array);
-			expect(song.tags.length).toBeGreaterThan(0);
+			expect(
+				song.tags,
+				`Song '${song.title}' (ID=${song.id}) does not have a tag array.`,
+			).toBeInstanceOf(Array);
+			expect(
+				song.tags.length,
+				`Song '${song.title}' (ID=${song.id}) does not have any tags.`,
+			).toBeGreaterThan(0);
+			expect(
+				song.tags.length,
+				`Song '${song.title}' (ID=${song.id}) has more than 2 tags.`,
+			).toBeLessThanOrEqual(2);
 			// No tags are not part of list of tags
 			const invalidTag = song.tags.find((tag) => !TAGS.includes(tag));
 			expect(
 				invalidTag,
-				`Song with ID=${song.id} and title '${song.title}' contains the invalid tag '${invalidTag}'. Did you mean '${closest(invalidTag ?? '', TAGS)}'`,
+				`Song '${song.title}' (ID=${song.id}) contains the invalid tag '${invalidTag}'. Did you mean '${closest(invalidTag ?? '', TAGS)}'`,
 			).toBeUndefined();
+
+			const categoryTags = song.tags.filter((tag) =>
+				(CATEGORY_TAGS as readonly string[]).includes(tag),
+			);
+			expect(
+				categoryTags.length,
+				`Song '${song.title}' (ID=${song.id}) does not have 1 category tag.`,
+			).toBe(1);
+
+			const languageTags = song.tags.filter((tag) =>
+				(LANGUAGE_TAGS as readonly string[]).includes(tag),
+			);
+			if (song.tags.length == 2) {
+				expect(
+					languageTags.length,
+					`Song '${song.title}' (ID=${song.id}) does not have 1 language tag.`,
+				).toBe(1);
+				expect(
+					song.tags[0],
+					`Song '${song.title}' (ID=${song.id}) does not have a category tag first.`,
+				).toBe(categoryTags[0]);
+				expect(
+					song.tags[1],
+					`Song '${song.title}' (ID=${song.id}) does not have a language tag last.`,
+				).toBe(languageTags[0]);
+			}
 		});
 	});
 });
