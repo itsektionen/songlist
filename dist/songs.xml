@@ -1,57 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2025-12-29">
-	<song
-		name="Hejsan vänner"
-		id="163"
-		composer="Cornelis Vreeswijk"
-		melody="Brev från kolonien"
-		category="Gasque"
-	>
-		<p>
-			Hejsan vänner, vi nu känner
-			hur i strupen törsten bränner.
-			Vi har dricka här i glasen.
-			Vi ska ta den med en gång.
-			Ja, ta mig fasen!
-		</p>
-		<p>
-			Höj nu armen, tryck mot barmen
-			denna nektar och säg amen.
-			Låt oss njuta, aldrig sluta
-			att berusa oss med sång.
-			Ja, ta mig tusan!
-		</p>
-	</song>
-	<song
-		name="You can have another"
-		id="165"
-		composer="Sammy Lerner"
-		melody="Popeye the sailor man"
-		category="Gasque"
-	>
-		<p>
-			You can have another yet.
-			They&apos;re nicer the more you get!
-			But if you have twenty,
-			you&apos;ll wake with plenty,
-			of head-ache and much regret.
-		</p>
-	</song>
-	<song
-		name="The Darwin song"
-		id="166"
-		author="Rolf Malmström"
-		composer="Hjalmar Gullberg, Bengt Hjelmqvist"
-		melody="Skånska slott och herresäten"
-		category="Gasque"
-	>
-		<p>
-			When Darwin did study origin of species,
-			He found that the weakest of brain cells die easy,
-			The weakest of brain cells will also die first,
-			So increase your IQ and decrease your thirst!
-		</p>
-	</song>
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-01-12">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -1561,6 +1509,58 @@
 		<p>Hurra för...</p>
 	</song>
 	<song
+		name="Hejsan vänner"
+		id="163"
+		composer="Cornelis Vreeswijk"
+		melody="Brev från kolonien"
+		category="Gasque"
+	>
+		<p>
+			Hejsan vänner, vi nu känner
+			hur i strupen törsten bränner.
+			Vi har dricka här i glasen.
+			Vi ska ta den med en gång.
+			Ja, ta mig fasen!
+		</p>
+		<p>
+			Höj nu armen, tryck mot barmen
+			denna nektar och säg amen.
+			Låt oss njuta, aldrig sluta
+			att berusa oss med sång.
+			Ja, ta mig tusan!
+		</p>
+	</song>
+	<song
+		name="You can have another"
+		id="165"
+		composer="Sammy Lerner"
+		melody="Popeye the sailor man"
+		category="Gasque"
+	>
+		<p>
+			You can have another yet.
+			They&apos;re nicer the more you get!
+			But if you have twenty,
+			you&apos;ll wake with plenty,
+			of head-ache and much regret.
+		</p>
+	</song>
+	<song
+		name="The Darwin song"
+		id="166"
+		author="Rolf Malmström"
+		composer="Hjalmar Gullberg, Bengt Hjelmqvist"
+		melody="Skånska slott och herresäten"
+		category="Gasque"
+	>
+		<p>
+			When Darwin did study origin of species,
+			He found that the weakest of brain cells die easy,
+			The weakest of brain cells will also die first,
+			So increase your IQ and decrease your thirst!
+		</p>
+	</song>
+	<song
 		name="En pilsnerdrickare"
 		id="31"
 		composer="Alice Tegnér"
@@ -1926,28 +1926,6 @@
 		</p>
 	</song>
 	<song
-		name="Undulaten"
-		id="164"
-		composer="Jules Sylvain"
-		melody="Med en enkel tulipan"
-		category="Wihn"
-	>
-		<p>
-			Jag är en liten undulat,
-			som får så dåligt med mat,
-			för dom jag bor hos,
-			för dom jag bor hos,
-			dom är så snåla.
-		</p>
-		<p>
-			Dom ger mig sill varenda dag,
-			men det vill jag inte ha.
-			Jag vill ha rödvin,
-			jag vill ha rödvin,
-			och Gorgonzola.
-		</p>
-	</song>
-	<song
 		name="Bordeaux, Bordeaux"
 		id="45"
 		melody="I sommarens soliga dagar"
@@ -2230,77 +2208,25 @@
 		</p>
 	</song>
 	<song
-		name="Vodka, vodka"
-		id="170"
-		composer="Alexander Glazunov"
-		melody="Stenka Rasin"
-		category="Brännvin"
+		name="Undulaten"
+		id="164"
+		composer="Jules Sylvain"
+		melody="Med en enkel tulipan"
+		category="Wihn"
 	>
 		<p>
-			Vodka, vodka, drink of heaven.
-			Vodka, vodka drink of hell!
+			Jag är en liten undulat,
+			som får så dåligt med mat,
+			för dom jag bor hos,
+			för dom jag bor hos,
+			dom är så snåla.
 		</p>
 		<p>
-			//: Don’t resist any temptations.
-			Soon enough you’ll hear the bell! ://
-		</p>
-	</song>
-	<song
-		name="White spirit"
-		id="171"
-		composer="Irving Berlin"
-		melody="White Christmas"
-		category="Brännvin"
-	>
-		<p>
-			I&apos;m dreaming of white spirits,
-			just like the one I used to know.
-			When eyes are glistering,
-			and my tongue is blistering,
-			I feel the vodka grooooow...
-		</p>
-		<p>
-			So I&apos;m dreaming of white spirits,
-			that you can order by the phone.
-			There is nothing left to dispute,
-			when retur call gives tax free Absolut.
-		</p>
-	</song>
-	<song
-		name="The Devil&apos;s call"
-		id="172"
-		composer="Johan Göran Berger"
-		melody="Kors på Idas grav"
-		category="Brännvin"
-	>
-		<p>
-			Filled anew, a frosted glass is standing by.
-			When I see it, I can hear a muted cry.
-			Somewhere down there, in my stomach,
-			In a dark and hidden spot.
-			Sits the devil calling for another shot!
-		</p>
-	</song>
-	<song
-		name="Klimatångest"
-		id="175"
-		author="Marcus &quot;Watt-Everth&quot; Lassus, E-19 (Aalto-universitetet — Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen)"
-		melody="She&apos;ll Be Coming &apos;Round the Mountain"
-		category="Brännvin"
-	>
-		<p>
-			Det är inte bra att åka mycket bil.
-			Om du kör så får du inte dricka sprit. (OJ NEJ!)
-			Bil är dåligt för klimatet,
-			välj istället destillatet,
-			rädda världen med en hela brännevin!
-		</p>
-		<p>
-			Det är inte bra att äta animalt.
-			Sitza växtbaserat, rädda vårt klimat!
-			Om du tagit kött för givet,
-			och gett upp det goda livet,
-			är det tur att Koskenkorva är veganskt!
+			Dom ger mig sill varenda dag,
+			men det vill jag inte ha.
+			Jag vill ha rödvin,
+			jag vill ha rödvin,
+			och Gorgonzola.
 		</p>
 	</song>
 	<song
@@ -3370,6 +3296,58 @@
 		</p>
 	</song>
 	<song
+		name="Vodka, vodka"
+		id="170"
+		composer="Alexander Glazunov"
+		melody="Stenka Rasin"
+		category="Brännvin"
+	>
+		<p>
+			Vodka, vodka, drink of heaven.
+			Vodka, vodka drink of hell!
+		</p>
+		<p>
+			//: Don’t resist any temptations.
+			Soon enough you’ll hear the bell! ://
+		</p>
+	</song>
+	<song
+		name="White spirit"
+		id="171"
+		composer="Irving Berlin"
+		melody="White Christmas"
+		category="Brännvin"
+	>
+		<p>
+			I&apos;m dreaming of white spirits,
+			just like the one I used to know.
+			When eyes are glistering,
+			and my tongue is blistering,
+			I feel the vodka grooooow...
+		</p>
+		<p>
+			So I&apos;m dreaming of white spirits,
+			that you can order by the phone.
+			There is nothing left to dispute,
+			when retur call gives tax free Absolut.
+		</p>
+	</song>
+	<song
+		name="The Devil&apos;s call"
+		id="172"
+		composer="Johan Göran Berger"
+		melody="Kors på Idas grav"
+		category="Brännvin"
+	>
+		<p>
+			Filled anew, a frosted glass is standing by.
+			When I see it, I can hear a muted cry.
+			Somewhere down there, in my stomach,
+			In a dark and hidden spot.
+			Sits the devil calling for another shot!
+		</p>
+	</song>
+	<song
 		name="Dansk supvisa"
 		alternativeTitles="Dansk snapsvisa"
 		id="174"
@@ -3380,6 +3358,28 @@
 			Icke Nu...
 			Icke Nu...
 			MEN NU!!!
+		</p>
+	</song>
+	<song
+		name="Klimatångest"
+		id="175"
+		author="Marcus &quot;Watt-Everth&quot; Lassus, E-19 (Aalto-universitetet — Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen)"
+		melody="She&apos;ll Be Coming &apos;Round the Mountain"
+		category="Brännvin"
+	>
+		<p>
+			Det är inte bra att åka mycket bil.
+			Om du kör så får du inte dricka sprit. (OJ NEJ!)
+			Bil är dåligt för klimatet,
+			välj istället destillatet,
+			rädda världen med en hela brännevin!
+		</p>
+		<p>
+			Det är inte bra att äta animalt.
+			Sitza växtbaserat, rädda vårt klimat!
+			Om du tagit kött för givet,
+			och gett upp det goda livet,
+			är det tur att Koskenkorva är veganskt!
 		</p>
 	</song>
 	<song

@@ -1,71 +1,6 @@
 {
 	"songs": [
 		{
-			"id": 163,
-			"title": "Hejsan vänner",
-			"melody": "Brev från kolonien",
-			"composer": "Cornelis Vreeswijk",
-			"tags": ["swe", "gasque"],
-			"content": "Hejsan vänner, vi nu känner\nhur i strupen törsten bränner.\nVi har dricka här i glasen.\nVi ska ta den med en gång.\nJa, ta mig fasen!\n\nHöj nu armen, tryck mot barmen\ndenna nektar och säg amen.\nLåt oss njuta, aldrig sluta\natt berusa oss med sång.\nJa, ta mig tusan!"
-		},
-		{
-			"id": 164,
-			"title": "Undulaten",
-			"melody": "Med en enkel tulipan",
-			"composer": "Jules Sylvain",
-			"tags": ["swe", "wine"],
-			"content": "Jag är en liten undulat,\nsom får så dåligt med mat,\nför dom jag bor hos,\nför dom jag bor hos,\ndom är så snåla.\n\nDom ger mig sill varenda dag,\nmen det vill jag inte ha.\nJag vill ha rödvin,\njag vill ha rödvin,\noch Gorgonzola."
-		},
-		{
-			"id": 165,
-			"title": "You can have another",
-			"melody": "Popeye the sailor man",
-			"composer": "Sammy Lerner",
-			"tags": ["eng", "gasque"],
-			"content": "You can have another yet.\nThey're nicer the more you get!\nBut if you have twenty,\nyou'll wake with plenty,\nof head-ache and much regret."
-		},
-		{
-			"id": 166,
-			"title": "The Darwin song",
-			"melody": "Skånska slott och herresäten",
-			"composer": "Hjalmar Gullberg, Bengt Hjelmqvist",
-			"tags": ["eng", "gasque"],
-			"content": "When Darwin did study origin of species,\nHe found that the weakest of brain cells die easy,\nThe weakest of brain cells will also die first,\nSo increase your IQ and decrease your thirst!",
-			"author": "Rolf Malmström"
-		},
-		{
-			"id": 170,
-			"title": "Vodka, vodka",
-			"melody": "Stenka Rasin",
-			"composer": "Alexander Glazunov",
-			"tags": ["eng", "snaps"],
-			"content": "Vodka, vodka, drink of heaven.\nVodka, vodka drink of hell!\n\n//: Don’t resist any temptations.\nSoon enough you’ll hear the bell! ://"
-		},
-		{
-			"id": 171,
-			"title": "White spirit",
-			"melody": "White Christmas",
-			"composer": "Irving Berlin",
-			"tags": ["eng", "snaps"],
-			"content": "I'm dreaming of white spirits,\njust like the one I used to know.\nWhen eyes are glistering,\nand my tongue is blistering,\nI feel the vodka grooooow...\n\nSo I'm dreaming of white spirits,\nthat you can order by the phone.\nThere is nothing left to dispute,\nwhen retur call gives tax free Absolut."
-		},
-		{
-			"id": 172,
-			"title": "The Devil's call",
-			"melody": "Kors på Idas grav",
-			"composer": "Johan Göran Berger",
-			"tags": ["eng", "snaps"],
-			"content": "Filled anew, a frosted glass is standing by.\nWhen I see it, I can hear a muted cry.\nSomewhere down there, in my stomach,\nIn a dark and hidden spot.\nSits the devil calling for another shot!"
-		},
-		{
-			"id": 175,
-			"title": "Klimatångest",
-			"melody": "She'll Be Coming 'Round the Mountain",
-			"tags": ["swe", "snaps"],
-			"content": "Det är inte bra att åka mycket bil.\nOm du kör så får du inte dricka sprit. (OJ NEJ!)\nBil är dåligt för klimatet,\nvälj istället destillatet,\nrädda världen med en hela brännevin!\n\nDet är inte bra att äta animalt.\nSitza växtbaserat, rädda vårt klimat!\nOm du tagit kött för givet,\noch gett upp det goda livet,\när det tur att Koskenkorva är veganskt!",
-			"author": "Marcus \"Watt-Everth\" Lassus, E-19 (Aalto-universitetet — Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen)"
-		},
-		{
 			"id": 0,
 			"title": "Moder Kista",
 			"melody": "Längtan till landet",
@@ -361,6 +296,31 @@
 			"content": "Långt ner i Småland,\ndär rider själva djävulen\nmed laddade pistoler och knallande gevär,\noch alla små djävlar, de spelar på fioler\noch själva fader Satan, han spelar handklaver.\n\nHurra för Svealand,\nhurra för Götaland,\noch hurra för potatisland\nsom ger oss brännevin!\n\nJa, nog har vi glas,\nmen vi haver inget brännevin.\nFinns här någon handlingsman\nsom haver ett glas öl?\n\nHurra för...\n\nJa nubben kan tagas\npå mångahanda sätt och vis.\nDen lindar sig kring hjärtat\nsom rumpan på en gris.\n\nHurra för..."
 		},
 		{
+			"id": 163,
+			"title": "Hejsan vänner",
+			"melody": "Brev från kolonien",
+			"composer": "Cornelis Vreeswijk",
+			"tags": ["gasque", "swe"],
+			"content": "Hejsan vänner, vi nu känner\nhur i strupen törsten bränner.\nVi har dricka här i glasen.\nVi ska ta den med en gång.\nJa, ta mig fasen!\n\nHöj nu armen, tryck mot barmen\ndenna nektar och säg amen.\nLåt oss njuta, aldrig sluta\natt berusa oss med sång.\nJa, ta mig tusan!"
+		},
+		{
+			"id": 165,
+			"title": "You can have another",
+			"melody": "Popeye the sailor man",
+			"composer": "Sammy Lerner",
+			"tags": ["gasque", "eng"],
+			"content": "You can have another yet.\nThey're nicer the more you get!\nBut if you have twenty,\nyou'll wake with plenty,\nof head-ache and much regret."
+		},
+		{
+			"id": 166,
+			"title": "The Darwin song",
+			"melody": "Skånska slott och herresäten",
+			"composer": "Hjalmar Gullberg, Bengt Hjelmqvist",
+			"tags": ["gasque", "eng"],
+			"content": "When Darwin did study origin of species,\nHe found that the weakest of brain cells die easy,\nThe weakest of brain cells will also die first,\nSo increase your IQ and decrease your thirst!",
+			"author": "Rolf Malmström"
+		},
+		{
 			"id": 31,
 			"title": "En pilsnerdrickare",
 			"melody": "En sockerbagare",
@@ -567,6 +527,14 @@
 			"tags": ["wine", "swe"],
 			"content": "Vintern rasat ut bland våra fjällar,\ndrivans blommor smälta ned och dö.\nHimlen ler i vårens ljusa kvällar,\nsolen kysser liv i skog och sjö.\nSnart är sommarn här i purpurvågor,\nguldbelagda, azurskiftande,\nligga ängarne i dagens lågor,\noch i lunden dansa källorne.\n\nJa, jag kommer! Hälsen glada vindar,\nut till landet, ut till fåglarne,\natt jag älskar dem, till björk och lindar,\nsjö och berg jag vill dem återse.\nSe dem än som i min barndoms stunder,\nfölja bäckens dans till klarnad sjö.\nTrastens sång i furuskogens lunder,\nvattenfågelns lek kring fjärd och ö.",
 			"author": "Herman Sätherberg (1838)"
+		},
+		{
+			"id": 164,
+			"title": "Undulaten",
+			"melody": "Med en enkel tulipan",
+			"composer": "Jules Sylvain",
+			"tags": ["wine", "swe"],
+			"content": "Jag är en liten undulat,\nsom får så dåligt med mat,\nför dom jag bor hos,\nför dom jag bor hos,\ndom är så snåla.\n\nDom ger mig sill varenda dag,\nmen det vill jag inte ha.\nJag vill ha rödvin,\njag vill ha rödvin,\noch Gorgonzola."
 		},
 		{
 			"id": 56,
@@ -910,11 +878,43 @@
 			"author": "Christer Engström"
 		},
 		{
+			"id": 170,
+			"title": "Vodka, vodka",
+			"melody": "Stenka Rasin",
+			"composer": "Alexander Glazunov",
+			"tags": ["snaps", "eng"],
+			"content": "Vodka, vodka, drink of heaven.\nVodka, vodka drink of hell!\n\n//: Don’t resist any temptations.\nSoon enough you’ll hear the bell! ://"
+		},
+		{
+			"id": 171,
+			"title": "White spirit",
+			"melody": "White Christmas",
+			"composer": "Irving Berlin",
+			"tags": ["snaps", "eng"],
+			"content": "I'm dreaming of white spirits,\njust like the one I used to know.\nWhen eyes are glistering,\nand my tongue is blistering,\nI feel the vodka grooooow...\n\nSo I'm dreaming of white spirits,\nthat you can order by the phone.\nThere is nothing left to dispute,\nwhen retur call gives tax free Absolut."
+		},
+		{
+			"id": 172,
+			"title": "The Devil's call",
+			"melody": "Kors på Idas grav",
+			"composer": "Johan Göran Berger",
+			"tags": ["snaps", "eng"],
+			"content": "Filled anew, a frosted glass is standing by.\nWhen I see it, I can hear a muted cry.\nSomewhere down there, in my stomach,\nIn a dark and hidden spot.\nSits the devil calling for another shot!"
+		},
+		{
 			"id": 174,
 			"title": "Dansk supvisa",
 			"alternativeTitles": ["Dansk snapsvisa"],
 			"tags": ["snaps"],
 			"content": "Icke Nu...\nIcke Nu...\nIcke Nu...\nMEN NU!!!"
+		},
+		{
+			"id": 175,
+			"title": "Klimatångest",
+			"melody": "She'll Be Coming 'Round the Mountain",
+			"tags": ["snaps", "swe"],
+			"content": "Det är inte bra att åka mycket bil.\nOm du kör så får du inte dricka sprit. (OJ NEJ!)\nBil är dåligt för klimatet,\nvälj istället destillatet,\nrädda världen med en hela brännevin!\n\nDet är inte bra att äta animalt.\nSitza växtbaserat, rädda vårt klimat!\nOm du tagit kött för givet,\noch gett upp det goda livet,\när det tur att Koskenkorva är veganskt!",
+			"author": "Marcus \"Watt-Everth\" Lassus, E-19 (Aalto-universitetet — Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen)"
 		},
 		{
 			"id": 92,
@@ -1466,5 +1466,5 @@
 			"content": "Hur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\\*\nhur innerligt jag älskar dig!\\*\\*"
 		}
 	],
-	"updatedAt": "2025-12-29"
+	"updatedAt": "2026-01-12"
 }
