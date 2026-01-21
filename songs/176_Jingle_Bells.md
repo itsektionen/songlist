@@ -3,9 +3,8 @@ title: Jingle Punsch
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
+    location: KTH
 melody: Jingle Bells
-composer:
-notes:
 tags: [punsch, eng]
 ---
 
