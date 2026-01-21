@@ -3,9 +3,9 @@ title: The most wonderful time
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
+    location: KTH
 melody: It's the most wonderful time of the year (Chorus)
-composer:
-notes:
+composer: Edward Pola och George Wyle
 tags: [punsch, eng]
 ---
 
