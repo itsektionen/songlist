@@ -20,11 +20,11 @@ The clerk then asked me, bold and loud:
 "Got some ID, you scruffy kid?
 Come back when you can grow a beard!"
 
-No, this won’t do, it’s not my night,
-I’m getting drunk today!
+No, this won't do, it's not my night,
+I'm getting drunk today!
 But then a brilliant thought struck me -
-There’s booze at Shell, hooray!
+There's booze at Shell, hooray!
 The bottles stood there in a row,
-Now I’ll get drunk and let it flow.
+Now I'll get drunk and let it flow.
 The red drink poured way down my throat,
-Now I can’t see a thing, you know.
+Now I can't see a thing, you know.

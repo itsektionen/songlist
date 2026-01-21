@@ -9,7 +9,7 @@ Kom alla vänner, drick ur era glas.
 Ni vet väl alla, hur vinet skall tas?
 Först med din näsa,
 du känner bouquén,
-Då kan du skilja det röda från rose´n.
+Då kan du skilja det röda från rosén.
 
 Sen med din tunga du läppjar ditt vin.
 Vad sägs om aromen,

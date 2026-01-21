@@ -9,7 +9,7 @@ composer: Thomas Arne
 tags: [gasque, eng]
 ---
 
-Ohh let’s drink some, let’s drink a little more
-We won’t stop until we drink it all
-Ohhh let’s drink more, we need to drink some more
-We won’t stop until we drink it all
+Ohh let's drink some, let's drink a little more
+We won't stop until we drink it all
+Ohhh let's drink more, we need to drink some more
+We won't stop until we drink it all

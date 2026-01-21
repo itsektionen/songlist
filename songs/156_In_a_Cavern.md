@@ -13,7 +13,7 @@ oh my darling aquavit
 You are lost and gone forever,
 dreadful sorry aquavit
 
-When he’s digging, when he’s digging,
+When he's digging, when he's digging,
 he sees something on a rock
 It's a bottle, with some contents
 could it be his aquavit?
