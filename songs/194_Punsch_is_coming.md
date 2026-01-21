@@ -9,12 +9,17 @@ notes:
 tags: [punsch, eng]
 ---
 
-Punsch is coming, Punsch is coming  
-Sweet and cool.
-Glasses fogging, voices buzzing,
-In our hall.
+Punsch is coming,
+punsch is coming,
+sweet and cool.
 
-Skål to joyful mem’ries,
-Skål to every spring,
+Glasses fogging,
+voices buzzing,
+in our hall.
+
+Skål to joyful mem’ries!
+
+Skål to every spring
+
 No more sorrows will remain
 When punsch they bring.
