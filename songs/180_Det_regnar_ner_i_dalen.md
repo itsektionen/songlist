@@ -1,9 +1,6 @@
 ---
 title: Det regnar ner i dalen
-author:
-melody: The rattling bog
-composer:
-notes:
+melody: The rattlin' bog
 tags: [gasque, swe]
 ---
 
