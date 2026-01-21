@@ -37,6 +37,6 @@ And sing this song to pass away the time
 
 I’m beginning to feel the joy returning
 Singing fills the air
-With a friend that’s by my side
+With a friend who’s by my side
 And a good drink to abide
 I have not a care
