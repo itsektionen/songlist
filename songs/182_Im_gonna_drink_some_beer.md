@@ -3,9 +3,9 @@ title: I'm gonna drink some beer
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2025
+    location: KTH
 melody: I'm gonna be (500 miles)
 composer: The Proclaimers
-notes:
 tags: [beer, eng]
 ---
 
