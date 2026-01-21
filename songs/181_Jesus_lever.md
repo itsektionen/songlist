@@ -1,9 +1,7 @@
 ---
 title: Jesus lever
-author:
 melody: Sånt är livet
-composer:
-notes:
+composer: Bill Cook
 tags: [gasque, swe]
 ---
 
