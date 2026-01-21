@@ -3,10 +3,11 @@ title: The Liquor Store
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
+    location: KTH
 melody: Du käre lille snickerboa
 composer: Georg Riedel
 notes:
-  - This is an English translation of "Spritbolaget"
+  - English translation of "Spritbolaget"
 tags: [snaps, eng]
 ---
 
