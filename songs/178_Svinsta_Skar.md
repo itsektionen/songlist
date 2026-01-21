@@ -1,10 +1,10 @@
 ---
 title: Svinsta Skär
+alternativeTitles:
+  - Dansen går på Svinnsta skär
 author:
   - name: Gideon Wahlberg
-melody:
-composer:
-notes:
+    year: 1927
 tags: [gasque, swe]
 ---
 
