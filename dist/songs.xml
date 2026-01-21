@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-01-12">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-01-21">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -1561,6 +1561,373 @@
 		</p>
 	</song>
 	<song
+		name="I&apos;m beginning"
+		id="177"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		composer="Meredith Willson"
+		melody="It&apos;s Beginning to Look Like Christmas"
+		category="Gasque"
+	>
+		<p>
+			I’m beginning to have a little problem
+			I am getting bored
+			I don’t know what I should do
+			And no one has a clue
+			Is it time for me to wonder ‘bout the food?
+		</p>
+		<p>
+			I&apos;m beginning to feel a little hungry
+			Where&apos;s some food to eat
+			I’ve been waiting for far too long
+			Now I have to sing this song
+			Pleading from my seat
+		</p>
+		<p>
+			A plate of delicious food
+			and a whiskey to boot
+			is the need that I want fulfilled
+			but all that I have is this meagre old glass
+			that looks like it was in the dirt
+			But all I say is I don’t care
+			as long as I have fun
+		</p>
+		<p>
+			I&apos;m beginning to feel a little thirsty
+			Time to drink some more
+			So raise your beer and give a cheer
+			And then hold all your friends near
+			And sing this song to pass away the time
+		</p>
+		<p>
+			I’m beginning to feel the joy returning
+			Singing fills the air
+			With a friend who’s by my side
+			And a good drink to abide
+			I have not a care
+		</p>
+	</song>
+	<song
+		name="Svinsta Skär"
+		alternativeTitles="Dansen går på Svinnsta skär"
+		id="178"
+		author="Gideon Wahlberg (1927)"
+		category="Gasque"
+	>
+		<p>
+			Dansen den går uppå Svinnsta skär,
+			hör klackarna mot hällen.
+			Gossen han svänger med flickan kär
+			i stilla sommarnatt.
+			Blommorna dofta från hagen där
+			och många andra ställen,
+			och mitt i talltrastens kvällskonsert
+			hörs många muntra skratt.
+		</p>
+		<p>
+			Ljuvlig är sommarnatten
+			blånande vikens vatten.
+			Och mellan bergen och tallarna
+			höres musiken och trallarna.
+			Flickan har blommor i håren
+			månen strör silver i snåren.
+			Aldrig förglömmer jag stunderna där
+			uppå Svinnsta skär.
+		</p>
+		<p>
+			Gossen tar flickan uti sin hand
+			och vandrar nedåt stranden,
+			lossar sin jolle och ror från land
+			bland klippor och bland skär.
+			Drömmande ser han mot vågens rand
+			som rullar in mot sanden,
+			kysser sin flicka så ömt ibland
+			och viskar “Hjärtans kär”.
+		</p>
+		<p>Ljuvlig är sommarnatten...</p>
+		<p>
+			Solen går upp bakom Konungssund
+			och stänker guld på vågen.
+			Fåglarna kvittra i varje lund
+			sin stilla morgonbön.
+			Gäddorna slå invid skär och grund
+			så lekfulla i hågen.
+			Men sista valsen i morgonstund,
+			man hör från Svinnerön.
+		</p>
+		<p>Ljuvlig är sommarnatten...</p>
+	</song>
+	<song
+		name="Det regnar ner i dalen"
+		id="180"
+		melody="The rattlin&apos; bog"
+		category="Gasque"
+	>
+		<p>//: Å se det regnar då, det regnar ner i dalen då ://</p>
+		<p>
+			I den dalen fanns en äng,
+			en fin äng, en sällsynt äng
+			En äng i dalen och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			På den ängen fanns ett träd,
+			ett fint träd, ett sällsynt träd
+			Ett träd på en äng och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			På det trädet fanns en gren,
+			en fin gren, en sällsynt gren
+			En gren på ett träd, ett träd på en äng
+			och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			På den grenen fanns en kvist,
+			en fin kvist, en sällsynt kvist
+			En kvist på en gren, en gren på ett träd,
+			ett träd på en äng och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			På den kvist fanns ett bo,
+			ett fint bo, ett sällsynt bo
+			Ett bo på en kvist, en kvist på en gren, en gren på ett träd,
+			ett träd på en äng och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			I det boet fanns ett ägg,
+			ett fint ägg, ett sällsynt ägg
+			Ett ägg i ett bo, ett bo på en kvist, en kvist på en gren, en gren på
+			ett träd, ett träd på en äng och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			Från det ägget kom en fågel,
+			en fin fågel, en sällsynt fågel
+			En fågel från ett ägg, ett ägg i ett bo, ett bo på en kvist, en kvist på
+			en gren, en gren på ett träd, ett träd på en äng och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			Från den fågeln kom ett dun,
+			ett fint dun, ett sällsynt dun
+			Ett dun från en fågel, en fågel från ett ägg, ett ägg i ett bo, ett bo på
+			en kvist, en kvist på en gren, en gren på ett träd, ett träd på en äng
+			och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			Från det dunet kom en kudde,
+			en fin kudde, en sällsynt kudde
+			En kudde från ett dun, ett dun från en fågel, en fågel från ett ägg,
+			ett ägg i ett bo, ett bo på en kvist, en kvist på en gren, en gren på
+			ett träd, ett träd på en äng och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+		<p>
+			På den kudden låg en kvinna,
+			en fin kvinna, en sällsynt kvinna
+			En kvinna på en kudde, en kudde från ett dun, ett dun från en fågel,
+			en fågel från ett ägg, ett ägg i ett bo, ett bo på en kvist,
+			en kvist på en gren, en gren på ett träd, ett träd på en äng
+			och det regnar ner i dalen då
+		</p>
+		<p>//: Å se... ://</p>
+	</song>
+	<song
+		name="Jesus lever"
+		id="181"
+		composer="Bill Cook"
+		melody="Sånt är livet"
+		category="Gasque"
+	>
+		<p>
+			Jesus lever, han bor i Lappis
+			Han kör en Volvo och han är gift
+			Han har en villa med rododendron
+			Han sparar pengar och jobbar skift
+		</p>
+		<p>
+			Redan på lekis var han märklig
+			Han ville inte leka krig
+			Men när hans kompis, Knut, blev skjuten
+			så lät han Jesus uppväcka sig
+		</p>
+		<p>Jesus lever...</p>
+		<p>
+			Han gick i skolan, som alla andra
+			Han var rätt duktig på gymnastik
+			å vilken kille han gick på vatten,
+			en gång så gick han till Reykjavik
+		</p>
+		<p>Jesus lever...</p>
+		<p>
+			I sina tonår så var han poppis
+			Och han blev bjuden på varje fest
+			Å vilken kille, han fick ju vatten
+			att bli till rusdryck utan jäst
+		</p>
+		<p>//: Jesus lever... ://</p>
+	</song>
+	<song
+		name="Fill the Glasses"
+		id="184"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		melody="Deck the Halls"
+		category="Gasque"
+	>
+		<p>
+			Fill the glasses with more spirits
+			Fa-la-la-la-la, la-la-la-la
+			It is time to test our limits  
+			Fa-la-la-la-la, la-la-la-la
+			Give me beer, cider and fernet
+			Fa-la-la, la-la-la, la-la-la
+			It is good if I can burn it
+			Fa-la-la-la-la, la-la-la-la
+		</p>
+		<p>
+			Fill the room with liquids flowing
+			Fa-la-la-la-la, la-la-la-la
+			Raise your glasses, cheer is growing
+			Fa-la-la-la-la, la-la-la-la
+			Skål to all our friends and neighbors
+			Fa-la-la, la-la-la, la-la-la
+			This moment, everybody savors
+			Fa-la-la-la-la, la-la-la-la
+		</p>
+	</song>
+	<song
+		name="Let&apos;s drink more"
+		id="185"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2025)"
+		composer="Thomas Arne"
+		melody="Rule Britannia (Chorus)"
+		category="Gasque"
+	>
+		<p>
+			Ohh let’s drink some, let’s drink a little more
+			We won’t stop until we drink it all
+			Ohhh let’s drink more, we need to drink some more
+			We won’t stop until we drink it all
+		</p>
+	</song>
+	<song
+		name="Vi skålar för våra vänner"
+		id="187"
+		melody="Flickan hon går i ringen"
+		category="Gasque"
+	>
+		<p>
+			Vi skålar för våra vänner
+			och de som vi känner
+			och de som vi inte känner,
+			de sätter vi på!
+		</p>
+		<p>
+			Hej hå, hej hå, de sätter vi på,
+			Hej hå, hej hå, de sätter vi på
+			PÅ KTH!
+		</p>
+	</song>
+	<song
+		name="Porthos Song"
+		id="189"
+		composer="Irving Berlin"
+		melody="Can&apos;t get a man with a gun"
+		category="Gasque"
+	>
+		<note>English translation of &quot;Porthos visa&quot;</note>
+		<p>
+			Please start the gasque now
+			I’m reaching for my flask now
+			All this waiting is making me think
+		</p>
+		<p>
+			My thirst is consuming,
+			my hunger is still fuming
+			For fuck sake, give me something to drink!
+		</p>
+		<p>
+			All this mayhem! Please just stop them
+			Who the fuck thinks that I am a moose?
+		</p>
+		<p>
+			To England on horseback,
+			while chugging down a six pack
+			I am sure that we’ll find us a pub
+		</p>
+		<p>
+			And there we will party,
+			with some guy named Marty
+			Let’s drink whisky and port wine,
+			and act like a real swine
+			we’ll try all the rubb and the stubb!
+		</p>
+	</song>
+	<song
+		name="Thank You for the Dinner"
+		id="191"
+		composer="ABBA"
+		melody="Thank You for the Music"
+		category="Gasque"
+	>
+		<p>
+			So I say
+			Thank you for the dinner,
+			the food you’re giving.
+			Thanks for all the drinks you’re bringing.
+			Who could live without it?
+			I ask in all honesty, what would life be?
+			without a schnapps, or punch, what are we?
+			So I say
+			Thank you for the dinner
+			For giving it to me.
+		</p>
+	</song>
+	<song
+		name="I Will Party"
+		id="193"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		composer="Sten Carlberg"
+		melody="Bamsesången"
+		category="Gasque"
+	>
+		<note>English translation of &quot;Jag ska festa&quot;</note>
+		<p>
+			I will party, take it slow with drinking.
+			Have some fun without getting too drunk.
+			Not crawling &apos;round with the party crowd.
+			Take it easy, relax for my own sake
+		</p>
+		<p>
+			First a beer to quench my thirst,
+			Then a shot, you know what’s first.
+			Down the wine, then punsch in line,
+			A cocktail buffet last.
+		</p>
+		<p>
+			Now I’m wasted, pass out first of all,
+			Miss the party, but who really cares?
+			Mixing beer and old sour milk for kicks,
+			Throwing up on my dinner mate there!
+		</p>
+		<p>
+			First a beer to quench my thirst,
+			Then a shot, you know what’s first.
+			Down the wine, then punsch in line,
+			A cocktail buffet last.
+		</p>
+		<p>
+			Vomit’s flowing down my woolen tie,
+			Ravioli’s drying in my hair.
+			Who put me here in this damn urinal?
+			And whose fork is stuck in my right thigh?
+		</p>
+	</song>
+	<song
 		name="En pilsnerdrickare"
 		id="31"
 		composer="Alice Tegnér"
@@ -1926,6 +2293,55 @@
 		</p>
 	</song>
 	<song
+		name="I&apos;m gonna drink some beer"
+		id="182"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2025)"
+		composer="The Proclaimers"
+		melody="I&apos;m gonna be (500 miles)"
+		category="Öhl"
+	>
+		<p>
+			When I wake up, well, I know I&apos;m gonna be
+			I&apos;m gonna be the man who wakes up with my beer
+			When I go out, yeah, I know I&apos;m gonna be
+			I&apos;m gonna be the man who orders us some beer
+			If I get drunk, well, I know I&apos;m gonna be
+			I&apos;m gonna be the man who gets drunk off of beer
+			And if I throw up, yeah, I know I&apos;m gonna be
+			I&apos;m gonna be the man who&apos;s throwin’ up some beer
+		</p>
+		<p>
+			But I would drink five hundred beers
+			And I would drink five hundred more
+			Just to be the man who drank a thousand
+			Beers before I drank some mooo-oore
+		</p>
+		<p>
+			When I&apos;m workin&apos;, yes, I know I&apos;m gonna be
+			I&apos;m gonna be the man who&apos;s workin&apos; hard for beer
+			And when the money comes in for the work I do
+			I&apos;ll spend almost every krona on more beer
+			When I come home (When I come home), oh, I know I&apos;m gonna be
+			I&apos;m gonna be the man who drinks some shower beer
+			And if I grow old, well, I know I&apos;m gonna be
+			I&apos;m gonna be the man who&apos;s always drinkin’ beer
+		</p>
+		<p>
+			But I would drink five hundred beers
+			And I would drink five hundred more
+			Just to be the man who drank a thousand
+			Beers before I drank some mooo-oore
+		</p>
+		<p>
+			Da-da da da (Da-da da da)
+			Da-da da da (Da-da da da)
+			Da-da dum diddy dum diddy dum diddy da da da
+			Da-da da da (Da-da da da)
+			Da-da da da (Da-da da da)
+			Da-da dum diddy dum diddy dum diddy da da da
+		</p>
+	</song>
+	<song
 		name="Bordeaux, Bordeaux"
 		id="45"
 		melody="I sommarens soliga dagar"
@@ -2227,6 +2643,27 @@
 			Jag vill ha rödvin,
 			jag vill ha rödvin,
 			och Gorgonzola.
+		</p>
+	</song>
+	<song
+		name="Du gamla vin"
+		id="188"
+		melody="Du gamla du fria"
+		category="Wihn"
+	>
+		<p>
+			Du gamla, du fina, du årgångna vin
+			som plockats och trampats i bland bergen.
+			Jag dyrkar aromen och smaken så fin,
+			men ljuvast utav allt är ändå färgen.
+			Den drycken den går ända in i märgen.
+		</p>
+		<p>
+			Ny fyller vi glasen och höjer vår arm
+			för lycka och vänskapsband vi skåla.
+			Ja, vinet det har en förunderlig charm,
+			är nästan lika gott som rom och cola.
+			Så låt oss därför med varandra skåla.
 		</p>
 	</song>
 	<song
@@ -3383,6 +3820,194 @@
 		</p>
 	</song>
 	<song
+		name="The Gull"
+		id="179"
+		melody="När månen vandrar"
+		category="Brännvin"
+	>
+		<p>
+			There was a gull sitting on a boom
+			and she was hungry and tired.
+			The skipper looked at the scene with gloom,
+			a drink was all he desired.
+		</p>
+		<p>
+			The gull said: &quot;Please give some herring to me!&quot;
+			The skipper answered &quot;I want some O.P.&quot;
+			If it&apos;s around, and it was found.
+		</p>
+	</song>
+	<song
+		name="Why do they drink like this"
+		id="186"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2025)"
+		composer="ABBA"
+		melody="Dancing Queen"
+		category="Brännvin"
+	>
+		<p>
+			I want more
+			You want mooo–ree
+			We all want a little moo–ore
+			Come on let’s raise our glass
+			Take a sip
+			And drink a little bit
+		</p>
+		<p>
+			Sitting here and my mouth is dry
+			I think I know exactly whyyy
+			Looking at my glass there
+			Liquid is inside
+			That’s gonna change tonight
+		</p>
+		<p>
+			Maybe it’s tradition
+			Maybe it’s superstition
+			But why do we take sips here
+			Why not just the shot
+			I want to drink a lot
+		</p>
+		<p>But there’s too many songs</p>
+		<p>
+			Why is this place like this
+			Such odd rules
+			I am so confused oh yeah
+			Weird ass rules
+			I don’t knooow
+			What I am supposed to dooo
+		</p>
+		<p>
+			I want more
+			You want mooo–ree
+			We all want a little moo–ore
+			Come on let’s raise our glass
+			Take a sip
+			And drink a little bit
+		</p>
+	</song>
+	<song
+		name="The Viking"
+		id="190"
+		melody="When Johnny comes marching home"
+		category="Brännvin"
+	>
+		<note>English translation of &quot;Vikingen&quot;</note>
+		<p>
+			A viking loves the joys of life,
+			hurra, hurra!
+		</p>
+		<p>
+			They’re quickly running down his throat,  
+			hurra, hurra!
+		</p>
+		<p>
+			With veal, with ox, with fish, with pork,
+			Vikings never use a fork,
+			Vikings only want to pop the cork.
+		</p>
+		<p>
+			The bäsk eventually runs out,
+			oh no, oh no!
+		</p>
+		<p>
+			Every viking’s carried out  
+			yo ho, yo ho!
+		</p>
+		<p>
+			And when we wake up, we sing a just a bit,
+			and open a bottle of Akvavit.
+			Skål to every, skål to every, skål to every
+			viking that took the hit!
+		</p>
+	</song>
+	<song
+		name="The Liquor Store"
+		id="192"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		composer="Georg Riedel"
+		melody="Du käre lille snickerboa"
+		category="Brännvin"
+	>
+		<note>English translation of &quot;Spritbolaget&quot;</note>
+		<p>
+			The liquor store I dash towards
+			And bang upon its door.
+			I want something that burns real fast,
+			And gets me drunk for sure.
+			The clerk then asked me, bold and loud:
+			&quot;How old are you, to be so proud?&quot;
+			&quot;Got some ID, you scruffy kid?
+			Come back when you can grow a beard!&quot;
+		</p>
+		<p>
+			No, this won’t do, it’s not my night,
+			I’m getting drunk today!
+			But then a brilliant thought struck me -
+			There’s booze at Shell, hooray!
+			The bottles stood there in a row,
+			Now I’ll get drunk and let it flow.
+			The red drink poured way down my throat,
+			Now I can’t see a thing, you know.
+		</p>
+	</song>
+	<song
+		name="Skolan KTH"
+		id="195"
+		melody="Fader Abraham"
+		category="Brännvin"
+	>
+		<p>
+			Skolan KTH,
+			Skolan KTH,
+			Fyra campus hade KTH
+			och de slösade,
+			och spenderade
+		</p>
+		<p>
+			Och så gjorde de så här
+			Telge bort
+		</p>
+		<p>
+			Skolan KTH,
+			Skolan KTH,
+			Fyra campus hade KTH
+			och de slösade,
+			och spenderade
+		</p>
+		<p>
+			Och så gjorde de så här
+			Telge bort
+			Kista bort
+		</p>
+		<p>
+			Skolan KTH,
+			Skolan KTH,
+			Fyra campus hade KTH
+			och de slösade,
+			och spenderade
+		</p>
+		<p>
+			Och så gjorde de så här
+			Telge bort
+			Kista bort
+			Sälj bort L
+		</p>
+		<p>
+			Skolan KTH,
+			Skolan KTH,
+			Fyra campus hade KTH
+			och de slösade,
+			och spenderade
+		</p>
+		<p>
+			Och så gjorde de så här
+			Telge bort
+			Kista bort
+			Sälj bort L
+			Ta in fler
+		</p>
+	</song>
+	<song
 		name="Punschen kommer"
 		id="92"
 		composer="Franz Lehár"
@@ -3985,6 +4610,80 @@
 			I love the golden drops, I lick ‘em up
 			Now flip the cup and punsch lovers drink up
 			A shot, a shot, a shot, a shot, a shot
+		</p>
+	</song>
+	<song
+		name="Jingle Punsch"
+		id="176"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		melody="Jingle Bells"
+		category="Punsch"
+	>
+		<p>
+			Raising our glass, and seeing it&apos;s not clear
+			wondering what we can do to make it disappear
+			Skål we say to all, and lift our glasses high
+			It&apos;s time to finish our job and drink the punsch tonight, oh
+		</p>
+		<p>
+			Let&apos;s drink punsch, drink more punsch
+			Drink it all the time
+			Oh how tasty punsch does taste
+			These golden drops of mine - HEY
+		</p>
+		<p>
+			Let&apos;s drink punsch, drink more punsch
+			Drink it all the time
+			Oh how tasty punsch does taste
+			These golden drops of mine
+		</p>
+	</song>
+	<song
+		name="The most wonderful time"
+		id="183"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		composer="Edward Pola och George Wyle"
+		melody="It&apos;s the most wonderful time of the year (Chorus)"
+		category="Punsch"
+	>
+		<p>
+			It’s the most wonderful time of the gasque
+			When the spirits are high  
+			and the bellies are full and the punsch has been served
+			It’s the most wonderful time of the gasque
+		</p>
+		<p>
+			It is time for us to start drinking punsch
+			We all say skål and let  
+			golden drops flow all the way down our throats
+			It is time for us to start drinking puu-unsch
+		</p>
+	</song>
+	<song
+		name="Punsch is coming"
+		id="194"
+		composer="Franz Lehár"
+		melody="Vals ur Glada änkan"
+		category="Punsch"
+	>
+		<note>Repeats until all the punsch is served. Only those who have not been served sing.</note>
+		<note>For each repetition, a movement follows; rocking left to right, rocking back and forth, standing up and sitting down. These are repeated as long as you sing.</note>
+		<note>English translation of &quot;Punschen kommer&quot;</note>
+		<p>
+			Punsch is coming,
+			punsch is coming,
+			sweet and cool.
+		</p>
+		<p>
+			Glasses fogging,
+			voices buzzing,
+			in our hall.
+		</p>
+		<p>Skål to joyful mem’ries!</p>
+		<p>Skål to every spring</p>
+		<p>
+			No more sorrows will remain
+			When punsch they bring.
 		</p>
 	</song>
 	<song
