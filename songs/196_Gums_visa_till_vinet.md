@@ -1,5 +1,5 @@
 ---
-title: Gums visa
+title: Gums visa till vinet
 melody: Skära havre
 tags: [wine, swe]
 ---
