@@ -35,7 +35,7 @@ som rullar in mot sanden,
 kysser sin flicka så ömt ibland
 och viskar “Hjärtans kär”.
 
-Ljuvlig är sommarnatten…
+Ljuvlig är sommarnatten...
 
 Solen går upp bakom Konungssund
 och stänker guld på vågen.
