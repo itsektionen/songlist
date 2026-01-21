@@ -1,6 +1,7 @@
 ---
 title: Svinsta Skär
-author: Gideon Wahlberg
+author:
+  - name: Gideon Wahlberg
 melody:
 composer:
 notes:
@@ -22,7 +23,7 @@ Och mellan bergen och tallarna
 höres musiken och trallarna.
 Flickan har blommor i håren
 månen strör silver i snåren.
-Aldrig förglömmer jag stunderna där 
+Aldrig förglömmer jag stunderna där
 uppå Svinnsta skär.
 
 Gossen tar flickan uti sin hand

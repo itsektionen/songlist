@@ -4,7 +4,7 @@ author:
 melody: Flickan hon går i ringen
 composer:
 notes:
-tags: [swe]
+tags: [gasque, swe]
 ---
 
 Vi skålar för våra vänner och de som vi känner och

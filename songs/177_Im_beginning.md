@@ -1,10 +1,12 @@
 ---
 title: I'm beginning
-author: Dylan Horn Kreiner, IT-23
+author:
+  - name: Dylan Horn Kreiner, IT-23
+    year: 2024
 melody: It's beginning to look a lot like Christmas
 composer:
 notes:
-tags: [eng, gasque]
+tags: [gasque, eng]
 ---
 
 I’m beginning to have a little problem

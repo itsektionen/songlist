@@ -4,7 +4,7 @@ author:
 melody: Du gamla du fria
 composer:
 notes:
-tags: [vin, swe]
+tags: [wine, swe]
 ---
 
 Du gamla, du fina, du årgågna vin

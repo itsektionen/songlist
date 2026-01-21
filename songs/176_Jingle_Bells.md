@@ -1,12 +1,12 @@
 ---
 title: Jingle Punsch
-author: 
-      - name: Dylan Horn Kreiner, IT-23
-        year: 2024
+author:
+  - name: Dylan Horn Kreiner, IT-23
+    year: 2024
 melody: Jingle Bells
 composer:
 notes:
-tags: [eng, punsch]
+tags: [punsch, eng]
 ---
 
 Raising our glass, and seeing it's not clear
