@@ -1,7 +1,7 @@
 ---
 title: Gums visa
 melody: Skära havre
-tags: [gasque, swe]
+tags: [wine, swe]
 ---
 
 //: Skål go'vänner, i vinet en skål
