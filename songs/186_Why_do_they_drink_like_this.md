@@ -3,9 +3,9 @@ title: Why do they drink like this
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2025
+    location: KTH
 melody: Dancing Queen
 composer: ABBA
-notes:
 tags: [snaps, eng]
 ---
 
