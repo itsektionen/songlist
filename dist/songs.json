@@ -185,7 +185,8 @@
 			"title": "Gums visa",
 			"melody": "Skära havre",
 			"tags": ["gasque", "swe"],
-			"content": "Skål kamrater, ty livet är glatt\noch snart förgäta vi sorgen.\nVi söpo igår, vi supa idag\noch ta' en sjujäkel imorgon.\nSkål, skål, skål, skål!\n\nSkål, go'vänner i vinet en skål,\nden hjälper oss sorgerna glömma.\nFör glädjen idag, i vännernas lag\nför detta vi glaset tömma.\nSkål, skål, skål, skål!"
+			"content": "//: Skål kamrater, ty livet är glatt\noch snart förgäta vi sorgen.\nVi söpo igår, vi supa idag\noch ta' en sjujäkel imorgon. ://\n\nSkål, skål, skål, skål!",
+			"author": "Torsten Hummel-Gumælius"
 		},
 		{
 			"id": 21,
@@ -634,6 +635,13 @@
 			"melody": "Du gamla du fria",
 			"tags": ["wine", "swe"],
 			"content": "Du gamla, du fina, du årgångna vin\nsom plockats och trampats i bland bergen.\nJag dyrkar aromen och smaken så fin,\nmen ljuvast utav allt är ändå färgen.\nDen drycken den går ända in i märgen.\n\nNy fyller vi glasen och höjer vår arm\nför lycka och vänskapsband vi skåla.\nJa, vinet det har en förunderlig charm,\när nästan lika gott som rom och cola.\nSå låt oss därför med varandra skåla."
+		},
+		{
+			"id": 196,
+			"title": "Gums visa",
+			"melody": "Skära havre",
+			"tags": ["wine", "swe"],
+			"content": "//: Skål go'vänner, i vinet en skål\nden hjälper oss sorgerna glömma.\nFör glädjen idag, i vännernas lag\nför detta vi glaset tömma. ://\n\nSkål, skål, skål, skål!"
 		},
 		{
 			"id": 56,

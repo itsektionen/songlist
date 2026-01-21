@@ -1128,23 +1128,17 @@
 	<song
 		name="Gums visa"
 		id="20"
+		author="Torsten Hummel-Gumælius"
 		melody="Skära havre"
 		category="Gasque"
 	>
 		<p>
-			Skål kamrater, ty livet är glatt
+			//: Skål kamrater, ty livet är glatt
 			och snart förgäta vi sorgen.
 			Vi söpo igår, vi supa idag
-			och ta&apos; en sjujäkel imorgon.
-			Skål, skål, skål, skål!
+			och ta&apos; en sjujäkel imorgon. ://
 		</p>
-		<p>
-			Skål, go&apos;vänner i vinet en skål,
-			den hjälper oss sorgerna glömma.
-			För glädjen idag, i vännernas lag
-			för detta vi glaset tömma.
-			Skål, skål, skål, skål!
-		</p>
+		<p>Skål, skål, skål, skål!</p>
 	</song>
 	<song
 		name="Hederssång"
@@ -2665,6 +2659,20 @@
 			är nästan lika gott som rom och cola.
 			Så låt oss därför med varandra skåla.
 		</p>
+	</song>
+	<song
+		name="Gums visa"
+		id="196"
+		melody="Skära havre"
+		category="Wihn"
+	>
+		<p>
+			//: Skål go&apos;vänner, i vinet en skål
+			den hjälper oss sorgerna glömma.
+			För glädjen idag, i vännernas lag
+			för detta vi glaset tömma. ://
+		</p>
+		<p>Skål, skål, skål, skål!</p>
 	</song>
 	<song
 		name="Vem kan hugga"
