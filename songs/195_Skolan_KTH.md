@@ -11,7 +11,7 @@ och de slösade,
 och spenderade
 
 Och så gjorde de så här
-Flempan bort
+Telge bort
 
 Skolan KTH,
 Skolan KTH,
@@ -20,7 +20,7 @@ och de slösade,
 och spenderade
 
 Och så gjorde de så här
-Flempan bort
+Telge bort
 Kista bort
 
 Skolan KTH,
@@ -30,7 +30,7 @@ och de slösade,
 och spenderade
 
 Och så gjorde de så här
-Flempan bort
+Telge bort
 Kista bort
 Sälj bort L
 
@@ -41,7 +41,7 @@ och de slösade,
 och spenderade
 
 Och så gjorde de så här
-Flempan bort
+Telge bort
 Kista bort
 Sälj bort L
 Ta in fler
