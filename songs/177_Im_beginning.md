@@ -3,9 +3,9 @@ title: I'm beginning
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
-melody: It's beginning to look a lot like Christmas
-composer:
-notes:
+    location: KTH
+melody: It's Beginning to Look Like Christmas
+composer: Meredith Willson
 tags: [gasque, eng]
 ---
 
