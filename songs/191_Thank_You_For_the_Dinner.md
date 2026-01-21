@@ -1,9 +1,7 @@
 ---
-title: Thank You For the Dinner
-author:
-melody: Thank you for the music
-composer:
-notes:
+title: Thank You for the Dinner
+melody: Thank You for the Music
+composer: ABBA
 tags: [gasque, eng]
 ---
 
@@ -15,6 +13,5 @@ Who could live without it?
 I ask in all honesty, what would life be?
 without a schnapps, or punch, what are we?
 So I say
-Thank you
-for the dinner
+Thank you for the dinner
 For giving it to me.

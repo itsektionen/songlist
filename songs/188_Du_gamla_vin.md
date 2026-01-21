@@ -1,9 +1,6 @@
 ---
 title: Du gamla vin
-author:
 melody: Du gamla du fria
-composer:
-notes:
 tags: [wine, swe]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Porthos Song
-author:
 melody: Can't get a man with a gun
-composer:
+composer: Irving Berlin
 notes:
+  - English translation of "Porthos visa"
 tags: [gasque, eng]
 ---
 

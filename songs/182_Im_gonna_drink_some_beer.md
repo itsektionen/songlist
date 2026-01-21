@@ -18,7 +18,6 @@ I'm gonna be the man who gets drunk off of beer
 And if I throw up, yeah, I know I'm gonna be
 I'm gonna be the man who's throwin’ up some beer
 
-[Chorus]
 But I would drink five hundred beers
 And I would drink five hundred more
 Just to be the man who drank a thousand
@@ -33,13 +32,11 @@ I'm gonna be the man who drinks some shower beer
 And if I grow old, well, I know I'm gonna be
 I'm gonna be the man who's always drinkin’ beer
 
-[Chorus]
 But I would drink five hundred beers
 And I would drink five hundred more
 Just to be the man who drank a thousand
 Beers before I drank some mooo-oore
 
-[Post-Chorus]
 Da-da da da (Da-da da da)
 Da-da da da (Da-da da da)
 Da-da dum diddy dum diddy dum diddy da da da
