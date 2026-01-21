@@ -3,9 +3,8 @@ title: Fill the Glasses
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
+    location: KTH
 melody: Deck the Halls
-composer:
-notes:
 tags: [gasque, eng]
 ---
 
