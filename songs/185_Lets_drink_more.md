@@ -3,9 +3,9 @@ title: Let's drink more
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2025
+    location: KTH
 melody: Rule Britannia (Chorus)
-composer:
-notes:
+composer: Thomas Arne
 tags: [gasque, eng]
 ---
 
