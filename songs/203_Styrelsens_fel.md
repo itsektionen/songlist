@@ -14,9 +14,9 @@ för roten till allas problem ja det är faktiskt vi.
 
 Ja det är styrelsens fel, (styrelsens fel)
 styrelsens fel. (styrelsens fel)
-I reglementet står det det är styrelsen fel.
+I reglementet står det, det är styrelsens fel.
 Jag vet inte vilken paragraf, sida eller del,
-men nånstans där i står det det är styrelsens fel.
+men nånstans där i står det, det är styrelsens fel.
 
 Ångest, sömnlöshet och stress, (styrelsens fel)
 kåravgift på THS, (styrelsens fel)
