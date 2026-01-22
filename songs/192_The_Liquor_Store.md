@@ -1,5 +1,7 @@
 ---
 title: The Liquor Store
+alternativeTitles:
+  - Spritbolaget (Engelska)
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024

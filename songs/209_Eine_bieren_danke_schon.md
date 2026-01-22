@@ -1,5 +1,7 @@
 ---
 title: Eine bieren danke schön
+alternativeTitles:
+  - Öluppdrickarvisa (Tyska)
 author:
   - location: KTH
 melody: Huvud, axlar, knä och tå

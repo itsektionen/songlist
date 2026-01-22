@@ -1,5 +1,7 @@
 ---
 title: The Viking
+alternativeTitles:
+  - Vikingen (Engelska)
 melody: When Johnny comes marching home
 notes:
   - English translation of "Vikingen"

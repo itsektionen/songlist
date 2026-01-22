@@ -1,5 +1,7 @@
 ---
 title: Una cerveza por favor
+alternativeTitles:
+  - Öluppdrickarvisa (Spanska)
 author:
   - name: Oskar Sirland, S-08
     location: KTH
