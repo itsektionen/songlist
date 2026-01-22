@@ -1,6 +1,6 @@
 ---
 title: Bamsehäf
-melody: Bamse
+melody: Bamsesången
 composer: Sten Carlberg
 tags: [beer, swe]
 ---
