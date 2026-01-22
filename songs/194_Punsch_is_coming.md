@@ -17,7 +17,7 @@ Glasses fogging,
 voices buzzing,
 in our hall.
 
-Skål to joyful mem’ries!
+Skål to joyful mem'ries!
 
 Skål to every spring
 

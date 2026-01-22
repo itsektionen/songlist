@@ -15,6 +15,6 @@ Arrack and tea, makes the punsch just for me
 A shot, a shot, a shot, a shot, a shot
 
 I love punsch filling my cup
-I love the golden drops, I lick ‘em up
+I love the golden drops, I lick 'em up
 Now flip the cup and punsch lovers drink up
 A shot, a shot, a shot, a shot, a shot

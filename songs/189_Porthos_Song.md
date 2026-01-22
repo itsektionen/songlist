@@ -8,7 +8,7 @@ tags: [gasque, eng]
 ---
 
 Please start the gasque now
-I’m reaching for my flask now
+I'm reaching for my flask now
 All this waiting is making me think
 
 My thirst is consuming,
@@ -20,10 +20,10 @@ Who the fuck thinks that I am a moose?
 
 To England on horseback,
 while chugging down a six pack
-I am sure that we’ll find us a pub
+I am sure that we'll find us a pub
 
 And there we will party,
 with some guy named Marty
-Let’s drink whisky and port wine,
+Let's drink whisky and port wine,
 and act like a real swine
-we’ll try all the rubb and the stubb!
+we'll try all the rubb and the stubb!

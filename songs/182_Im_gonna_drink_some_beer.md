@@ -16,7 +16,7 @@ I'm gonna be the man who orders us some beer
 If I get drunk, well, I know I'm gonna be
 I'm gonna be the man who gets drunk off of beer
 And if I throw up, yeah, I know I'm gonna be
-I'm gonna be the man who's throwin’ up some beer
+I'm gonna be the man who's throwin' up some beer
 
 But I would drink five hundred beers
 And I would drink five hundred more
@@ -30,7 +30,7 @@ I'll spend almost every krona on more beer
 When I come home (When I come home), oh, I know I'm gonna be
 I'm gonna be the man who drinks some shower beer
 And if I grow old, well, I know I'm gonna be
-I'm gonna be the man who's always drinkin’ beer
+I'm gonna be the man who's always drinkin' beer
 
 But I would drink five hundred beers
 And I would drink five hundred more

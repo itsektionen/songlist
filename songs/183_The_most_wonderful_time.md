@@ -9,10 +9,10 @@ composer: Edward Pola och George Wyle
 tags: [punsch, eng]
 ---
 
-It’s the most wonderful time of the gasque
+It's the most wonderful time of the gasque
 When the spirits are high  
 and the bellies are full and the punsch has been served
-It’s the most wonderful time of the gasque
+It's the most wonderful time of the gasque
 
 It is time for us to start drinking punsch
 We all say skål and let  

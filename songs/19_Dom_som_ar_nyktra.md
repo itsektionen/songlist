@@ -13,7 +13,7 @@ men vi som är fulla
 vi har bara kul nästan jämt.
 
 Det sägs att en mänska
-kan va´ utan brännvin.
+kan va' utan brännvin.
 Det stämmer måhända
 men se blott på den min,
 som pryder en absolutist
