@@ -1,5 +1,7 @@
 ---
 title: Punsch is coming
+alternativeTitles:
+  - Punschen kommer (Engelska)
 melody: Vals ur Glada änkan
 composer: Franz Lehár
 notes:

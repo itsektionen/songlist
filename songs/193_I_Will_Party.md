@@ -1,5 +1,7 @@
 ---
 title: I Will Party
+alternativeTitles:
+  - Jag ska festa (Engelska)
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
