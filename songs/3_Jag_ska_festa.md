@@ -7,6 +7,8 @@ author:
     year: 1987
 melody: Bamsesången
 composer: Sten Carlberg
+notes:
+  - Sista versen kallas "Gaffeln" och tillkom senare. Den upprepas ofta med olika melodier.
 tags: [gasque, swe]
 ---
 

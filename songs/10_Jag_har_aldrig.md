@@ -1,10 +1,12 @@
 ---
 title: Jag har aldrig...
 alternativeTitles:
-  - Jag har aldrig var't på snusen
+  - Jag har aldrig vart på snusen
   - Handelsvisan
   - Fysikvisan
+  - Fysikhatarvisan
   - Datavisan
+  - Datas visa
   - TBasvisan
   - Kistavisan
 author:
@@ -32,6 +34,8 @@ composer: Robert Lowry
 notes:
   - IT-Sektionen hoppar ofta över Datavisan och sjunger extraversen för Kistastudenter direkt.
   - Det finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.
+  - Studentoverallen föddes 1969 när Fysik bytte frack mot ovve i Televerksorange.
+  - Handels usla snören har en rolig bakomliggande historia.
 tags: [gasque, swe]
 ---
 

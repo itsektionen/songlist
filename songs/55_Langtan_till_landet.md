@@ -4,7 +4,7 @@ author:
   - name: Herman Sätherberg
     year: 1838
 composer: Otto Lindblad
-tags: [wine, swe]
+tags: [solemn, swe]
 ---
 
 Vintern rasat ut bland våra fjällar,

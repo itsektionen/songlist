@@ -4,7 +4,7 @@ alternativeTitles:
   - Athos visa
 author:
   - name: Tord Andrén, B
-    event: Bergsspexet
+    event: Bergsspexet De 4 Musketörerna
     location: KTH
     year: 1960
     comment: Ursprungligen Athos visa

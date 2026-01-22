@@ -3,8 +3,14 @@ title: Måsen
 alternativeTitles:
   - JAS:en
   - Musen
-  - När månen vandrat
+author:
+  - name: Kongliga Dadderiet
+    location: KTH
+    year: 1993
+    comment: JAS:en
 melody: När månen vandrar
+notes:
+  - 1993 kraschade en JAS 39 Gripen på Långholmen brevid Västerbron.
 tags: [snaps, swe]
 ---
 
@@ -35,26 +41,6 @@ Så kan det gå om man fått för mycke',
 om man för brännvin har fattat tycke.
 Vi som har kvar, vi resten tar!
 
-# När månen vandrat sin tysta ban
-
-När månen vandrat sin tysta ban,
-och tittar in genom rutan.
-Då tänker jag att på ljusa dan,
-då kan jag klara mig utan.
-
-Då kan jag klara mig utan måne,
-men utan renat och utan Skåne.
-Det vete fan, det vete fan.
-
-Den mås som satt på en klyvarbom,
-han är nu död och begraven.
-Och skepparn som drack en flaska rom
-han har nu druknat i haven.
-
-Så kan det gå om man fått för mycket,
-om man för brännvin har fattat tycke.
-Vi som har kvar, vi resten tar.
-
 # JAS:en
 
 Där flög en JAS över Västerbron,
@@ -72,6 +58,7 @@ Det satt en mus i en hushållsost
 och åt och åt utan måtta.
 Tills osten blev till en mushåls-ost
 och han en klotformad råtta.
-Så bra, sa musen, att va en fettboll,
+
+Så bra, sa musen, att va' en fettboll,
 nu kan jag rulla med hast åt rätt håll:
 Ostindien, Ostindien.
