@@ -6,6 +6,7 @@ author:
 melody: Huvud, axlar, knä och tå
 notes:
   - Sjungs först tyst och lugnt, reprisen sjungs så starkt som möjligt.
+  - Finns på flera olika språk.
 tags: [beer, swe]
 ---
 
