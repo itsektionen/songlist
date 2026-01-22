@@ -1,0 +1,38 @@
+---
+title: Studentsången
+alternativeTitles:
+  - Marsch
+author:
+  - name: Herman Sätherberg
+    event: Vårkonsert i Carolina Rediviva
+    location: Uppsala
+    year: 1852
+composer: Prins Gustaf av Sverige och Norge
+tags: [solemn, swe]
+---
+
+Sjungom studentens lyckliga dag,
+låtom oss fröjdas i ungdomens vår!
+Än klappar hjärtat med friska slag,
+och den ljusnande framtid är vår.
+Inga stormar än
+i vårt sinne bo,
+hoppet är vår vän,
+vi dess löften tro,
+när vi knyta förbund i den lund,
+där de härliga lagrarna gro!
+Där de härliga lagrarna gro!
+Hurra!
+
+Svea vår moder hugstor och skön,
+manar till bragd som i fornstora da'r,
+vinkar med segerns och ärans lön,
+men den skörd utan strid man ej tar.
+Aldrig slockne då
+känslans rena brand,
+aldrig brista må
+vår trohets helga band,
+så i gyllene frid som i strid.
+Liv och blod för vårt fädernesland!
+Liv och blod för vårt fädernesland!
+Hurra!
