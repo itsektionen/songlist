@@ -2,6 +2,11 @@
 title: Feta fransyskor
 alternativeTitles:
   - Fransk vinvisa
+author:
+  - name: K-Sektionen
+    location: LTH
+    event: Sångarstriden
+    year: 1985
 melody: Marche Militaire
 composer: Franz Schubert
 notes:

@@ -1,5 +1,7 @@
 ---
 title: Kalmarevisan
+alternativeTitles:
+  - Calmarevisan
 tags: [gasque, swe]
 ---
 

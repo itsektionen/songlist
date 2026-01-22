@@ -5,7 +5,8 @@ composer: Terry Gilkyson
 tags: [beer, swe]
 ---
 
-Var nöjd med allt som ölen ger,
+Var nöjd med
+allt som ölen ger,
 och även om du dubbelt ser.
 Glöm bort bekymmmer,
 sorger och besvär!

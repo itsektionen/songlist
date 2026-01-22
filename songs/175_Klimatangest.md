@@ -2,7 +2,7 @@
 title: Klimatångest
 author:
   - name: Marcus "Watt-Everth" Lassus, E-19
-    location: Aalto-universitetet
+    location: Aalto-universitet
     comment: Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen
 melody: She'll Be Coming 'Round the Mountain
 tags: [snaps, swe]

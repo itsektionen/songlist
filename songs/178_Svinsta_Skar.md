@@ -5,7 +5,7 @@ alternativeTitles:
 author:
   - name: Gideon Wahlberg
     year: 1927
-tags: [gasque, swe]
+tags: [solemn, swe]
 ---
 
 Dansen den går uppå Svinnsta skär,

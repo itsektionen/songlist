@@ -8,7 +8,7 @@ tags: [punsch, swe]
 Kom nu lilla punschen min,
 följ nu efter supen.
 
-Snart skall du få åka in
+Snart så skall du få åka in
 ner igenom strupen.
 Till mitt stora magpalats,
 där det finns så mycket plats.

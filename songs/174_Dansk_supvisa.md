@@ -2,10 +2,9 @@
 title: Dansk supvisa
 alternativeTitles:
   - Dansk snapsvisa
+  - Lång dansk supvisa
 tags: [snaps]
 ---
 
-Icke Nu...
-Icke Nu...
-Icke Nu...
-MEN NU!!!
+Icke nu,
+Men... Nu!

@@ -1,7 +1,7 @@
 ---
 title: Kungssången
 author:
-  - name: C.V.A.Strandberg
+  - name: C.V.A. Strandberg
     event: Firande av Oscar I:s tronbestigning
     location: Lunds universitet
     year: 1844
