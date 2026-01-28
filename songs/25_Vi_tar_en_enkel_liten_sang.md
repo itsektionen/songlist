@@ -1,7 +1,7 @@
 ---
 title: Vi tar en enkel liten sång
 author:
-  - name: Strängteoretiquerna, IT
+  - name: Strängteoretiquerna, IN
     location: KTH
     year: 2015
 melody: Med en enkel tulipan

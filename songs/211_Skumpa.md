@@ -1,7 +1,7 @@
 ---
 title: Skumpa
 author:
-  - name: Strängteoretiquerna, IT
+  - name: Strängteoretiquerna, IN
     location: KTH
     year: 2015
 melody: Tänk om jag hade en liten apa

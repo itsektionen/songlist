@@ -1,7 +1,7 @@
 ---
 title: Cidervisan
 author:
-  - name: Strängteoretiquerna, IT
+  - name: Strängteoretiquerna, IN
     location: KTH
     year: 2015
 melody: Rövarnas visa
