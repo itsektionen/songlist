@@ -4,8 +4,8 @@ alternativeTitles:
   - Fransk vinvisa
 author:
   - name: K-Sektionen
-    location: Lund
     event: Sångarstriden
+    location: LTH
     year: 1985
 melody: Marche Militaire
 composer: Franz Schubert

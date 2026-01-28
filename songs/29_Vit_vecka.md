@@ -2,7 +2,7 @@
 title: Vit vecka
 author:
   - event: Sångarstriden
-    location: Lund
+    location: LTH
     year: 1992
 melody: White Christmas
 composer: Irving Berlin
