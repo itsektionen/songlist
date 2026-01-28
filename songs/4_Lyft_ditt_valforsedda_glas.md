@@ -1,9 +1,10 @@
 ---
 title: Lyft ditt välförsedda glas
 author:
-  - event: Medicinarspexet
+  - name: Hakon Leffer
+    event: Medicinarspexet Nero II
     location: Göteborg
-    year: 1970
+    year: 1968
 melody: Ding dong merrily on high
 composer: Jehan Tabourot, George Ratcliffe Woodward, Charles Wood
 tags: [gasque, swe]
