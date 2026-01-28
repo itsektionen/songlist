@@ -3,6 +3,7 @@ title: Måsen
 alternativeTitles:
   - JAS:en
   - Musen
+  - Moosen
 author:
   - name: Kongliga Dadderiet
     location: KTH
@@ -62,3 +63,14 @@ och han en klotformad råtta.
 Så bra, sa musen, att va' en fettboll,
 nu kan jag rulla med hast åt rätt håll:
 Ostindien, Ostindien.
+
+# Moosen
+
+Det satt en älg i en klyvartopp,
+förklädd i älgjaktens månad.
+Han var befjädrad till horn och kropp.
+Ja, skeppar'n blev rätt förvånad.
+
+"Jag är en mås, go'a skeppar'n", ljög den
+förklädda älgen, därefter flög den.
+Mjukt föll den sen på skepparen.
