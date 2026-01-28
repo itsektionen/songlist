@@ -3,7 +3,7 @@ title: Spritbolaget
 author:
   - name: Göran Svensson
     event: Sångarstriden
-    location: Lund
+    location: LTH
     year: 1989
 melody: Du käre lille snickerboa
 composer: Georg Riedel
