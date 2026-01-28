@@ -3,7 +3,7 @@ title: Lång finsk supvisa
 alternativeTitles:
   - Finsk snapsvisa
 notes:
-  - Ei nyt, mutta... nyt!
+  - Ei nyt, ja ei nyt, mutta... nyt!
 tags: [snaps]
 ---
 
