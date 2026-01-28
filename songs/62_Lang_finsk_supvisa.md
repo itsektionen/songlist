@@ -8,4 +8,6 @@ tags: [snaps]
 ---
 
 Int' nu,
-men... Nu!
+och int' nu,
+men...
+NU!

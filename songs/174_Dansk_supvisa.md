@@ -7,4 +7,6 @@ tags: [snaps]
 ---
 
 Icke nu,
-Men... Nu!
+og icke nu,
+men...
+NU!
