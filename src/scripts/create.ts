@@ -32,15 +32,26 @@ function checkSimilarSongs(newTitle: string): void {
 	getAllSongPaths().forEach((path) => {
 		try {
 			const song = getSong(path);
-			const normalizedExisting = normalizeTitle(song.title);
+			const titles: Array<string> = [song.title, ...(song.alternativeTitles || [])];
 
-			const dist = distance(normalizedNewTitle, normalizedExisting);
-			const maxLen = Math.max(normalizedNewTitle.length, normalizedExisting.length);
-			const similarity = 1 - dist / maxLen;
+			let bestSimilarity = 0;
+			let bestTitle = song.title;
 
-			if (similarity >= 0.7) {
+			titles.forEach((title) => {
+				const normalizedExisting = normalizeTitle(title);
+				const dist = distance(normalizedNewTitle, normalizedExisting);
+				const maxLen = Math.max(normalizedNewTitle.length, normalizedExisting.length);
+				const similarity = 1 - dist / maxLen;
+
+				if (similarity > bestSimilarity) {
+					bestSimilarity = similarity;
+					bestTitle = title;
+				}
+			});
+
+			if (bestSimilarity >= 0.7) {
 				const fileName = basename(path, '.md');
-				similarSongs.push({ title: song.title, fileName, similarity });
+				similarSongs.push({ title: bestTitle, fileName, similarity: bestSimilarity });
 			}
 		} catch (error) {
 			return;
