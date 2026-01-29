@@ -1,5 +1,5 @@
 ---
-title: Strejk på Pripps (II)
+title: Strejk på Pripps
 melody: I natt jag drömde
 composer: Ed McCurdy
 notes:
@@ -17,9 +17,10 @@ där ölen stod på rad.
 Jag drack så där ett tjugotal
 och reste mig och sa:
 
-Armen i vinkel!
-Blicken i skyn!
-Så var det menat!
+Armen i vinkel,
+blicken i skyn!
+Så var det menat,
 Whisky och renat!
-Vårt mål alkohol!
-För dem som tål! Skål!
+Vårt mål alkohol,
+för dem som tål!
+Skål!
