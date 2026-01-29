@@ -5,6 +5,7 @@ alternativeTitles:
 author:
   - name: Bengt-Åke "Bengå" Möller
     event: Chalmersspexet Katarina II
+	location: CTH
     year: 1959
 melody: Röda kavalleriet (Polyushko-Pole)
 composer: Lev Knipper

@@ -2,7 +2,7 @@
 title: FestU:s punschvisa
 author:
   - name: FestU
-    location: Chalmers
+    location: CTH
 melody: Tomtarnas julnatt
 composer: Vilhelm Sefve-Svensson
 tags: [punsch, swe]

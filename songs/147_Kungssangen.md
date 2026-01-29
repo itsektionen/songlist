@@ -3,7 +3,7 @@ title: Kungssången
 author:
   - name: C.V.A. Strandberg
     event: Firande av Oscar I:s tronbestigning
-    location: Lunds universitet
+    location: LU
     year: 1844
 composer: Otto Lindblad
 tags: [solemn, swe]

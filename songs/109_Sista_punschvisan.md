@@ -3,7 +3,7 @@ title: Sista punschvisan
 author:
   - name: E-Sektionen
     event: PU:s Punschvisetävling
-    location: Chalmers
+    location: CTH
     year: 1973
 melody: Auld lang syne
 notes:

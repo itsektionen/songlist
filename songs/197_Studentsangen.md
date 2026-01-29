@@ -5,7 +5,7 @@ alternativeTitles:
 author:
   - name: Herman Sätherberg
     event: Vårkonsert i Carolina Rediviva
-    location: Uppsala
+    location: UU
     year: 1852
 composer: Prins Gustaf av Sverige och Norge
 tags: [solemn, swe]

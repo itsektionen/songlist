@@ -5,7 +5,7 @@ alternativeTitles:
 author:
   - name: August Lindh
     event: Juvenalorden
-    location: Uppsala
+    location: UU
     year: 1921
 melody: O alte Burschenherrlichkeit
 composer: Eugen Höfling (1825)
