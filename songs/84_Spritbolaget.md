@@ -1,7 +1,7 @@
 ---
 title: Spritbolaget
 author:
-  - name: Göran Svensson
+  - name: Göran Svensson, E
     event: Sångarstriden
     location: LTH
     year: 1989

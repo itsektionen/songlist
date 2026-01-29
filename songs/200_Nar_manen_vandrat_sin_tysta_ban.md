@@ -1,5 +1,7 @@
 ---
 title: När månen vandrat sin tysta ban
+alternativeTitles:
+  - Månvisa
 melody: När månen vandrar
 tags: [snaps, swe]
 ---

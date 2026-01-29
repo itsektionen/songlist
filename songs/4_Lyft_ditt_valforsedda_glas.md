@@ -1,5 +1,7 @@
 ---
 title: Lyft ditt välförsedda glas
+alternativeTitles:
+  - Lyftet
 author:
   - name: Hakon Leffer
     event: Medicinarspexet Nero II

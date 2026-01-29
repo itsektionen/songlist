@@ -4,9 +4,9 @@ alternativeTitles:
   - Athos visa
 author:
   - name: Tord Andrén, B
-    event: Bergsspexet De 4 Musketörerna
+    event: Bergsspexet De fyra musketörerna
     location: KTH
-    year: 1960
+    year: 1959
     comment: Ursprungligen Athos visa
 melody: You can't get a man with a gun
 composer: Irving Berlin

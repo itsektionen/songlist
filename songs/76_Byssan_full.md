@@ -1,5 +1,10 @@
 ---
 title: Byssan full
+alternativeTitles:
+  - Byssan lull
+author:
+  - name: Göran Rygert, A-57
+    location: Chalmers
 melody: Byssan lull
 composer: Evert Taube
 tags: [snaps, swe]

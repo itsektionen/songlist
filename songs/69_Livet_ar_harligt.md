@@ -1,33 +1,25 @@
 ---
 title: Livet är härligt
+alternativeTitles:
+  - Livet
 author:
-  - event: Chalmersspexet Katarina II
+  - name: Bengt-Åke "Bengå" Möller
+    event: Chalmersspexet Katarina II
     year: 1959
 melody: Röda kavalleriet (Polyushko-Pole)
 composer: Lev Knipper
+notes:
+  - Sjungs först tyst och sedan högt andra gången.
 tags: [snaps, swe]
 ---
 
-> Sjung tyst:
-
-Livet är härligt!
+//: Livet är härligt!
 Tavaritj, vårt liv är härligt!
 Vi alla våra små bekymmer glömmer
-När vi har fått en tår på tanden, skål!
+När vi har fått en tår på tanden,
+SKÅL!
 
 Tag dig en vodka!
 Tavaritj, en liten vodka!
 Glasen i botten vi tillsammans tömmer!
-Det kommer mera efter h-a-and.
-
-> Sjung högt:
-
-Livet är härligt!
-Tavaritj, vårt liv är härligt!
-Vi alla våra små bekymmer glömmer
-När vi har fått en tår på tanden, skål!
-
-Tag dig en vodka!
-Tavaritj, en liten vodka!
-Glasen i botten vi tillsammans tömmer!
-Det kommer mera efter handen, skål!
+Det kommer mera efter hand. ://

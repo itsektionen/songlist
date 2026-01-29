@@ -1,5 +1,7 @@
 ---
 title: Vem kan hugga
+alternativeTitles:
+  - Vem kan ragla
 melody: Vem kan segla förutan vind?
 tags: [snaps, swe]
 ---

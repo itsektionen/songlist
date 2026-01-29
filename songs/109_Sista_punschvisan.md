@@ -1,5 +1,10 @@
 ---
 title: Sista punschvisan
+author:
+  - name: E-Sektionen
+    event: PU:s Punschvisetävling
+    location: Chalmers
+    year: 1973
 melody: Auld lang syne
 notes:
   - Sista versen sjungs först med ena foten på stolen, sedan igen med andra foten på stolen och slutligen en gång under bordet.

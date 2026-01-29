@@ -1,5 +1,8 @@
 ---
 title: En pilsnerdrickare
+author:
+  - name: Göran Rygert, A-57
+    location: Chalmers
 melody: En sockerbagare
 composer: Alice Tegnér
 tags: [beer, swe]
