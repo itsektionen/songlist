@@ -1,5 +1,7 @@
 ---
 title: Et Langue d'or
+alternativeTitles:
+  - Helan går (Franska)
 melody: Helan går
 notes:
   - Fransk version av "Helan går"
