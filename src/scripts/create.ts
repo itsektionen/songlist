@@ -8,7 +8,7 @@ import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
 import { getAllSongPaths, getSong } from '../util/songs';
 import { Author, VALID_AUTHOR_KEYS } from '../definitions/author';
-import { generateSongName, normalizeTitle } from '../util/normalizeTitles';
+import { generateFileName, normalizeTitle } from '../util/normalizeTitles';
 
 export default async function create(title: string, ...args: string[]): Promise<void> {
 	if (!title) return console.error('A title for the new song must be provided!');
@@ -17,7 +17,7 @@ export default async function create(title: string, ...args: string[]): Promise<
 	checkSimilarSongs(title);
 
 	const newTitle =
-		id !== undefined ? generateSongName(title, id) : generateSongName(title, nextId());
+		id !== undefined ? generateFileName(title, id) : generateFileName(title, nextId());
 	const newContent = generateDefaultSongFileContent(title, parsedArgs);
 
 	if (id !== undefined) pushIds(id);

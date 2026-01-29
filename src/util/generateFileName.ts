@@ -1,7 +1,7 @@
 import { readFileSync } from 'fs';
 import matter from 'gray-matter';
 import { parse as parseFile } from 'path';
-import { generateSongName } from './normalizeTitles';
+import { generateFileName } from './normalizeTitles';
 
 export function getIdFromFileName(file: string): number {
 	const fileName = parseFile(file).name;
@@ -23,5 +23,5 @@ export function generateSongNameFromCurrentName(file: string, fileContent?: stri
 	const title = data.title as string;
 	const id = getIdFromFileName(file);
 
-	return generateSongName(title, id);
+	return generateFileName(title, id);
 }

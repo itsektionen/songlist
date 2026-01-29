@@ -2,7 +2,7 @@ export function normalizeTitle(title: string): string {
 	return removeAccents(title).toLowerCase();
 }
 
-export function generateSongName(title: string, id: number): string {
+export function generateFileName(title: string, id: number): string {
 	const normalizedTitle = removeAccents(title).replace(/\s/g, '_');
 	return `${id}_${normalizedTitle}.md`;
 }
