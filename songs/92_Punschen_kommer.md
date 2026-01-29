@@ -1,6 +1,11 @@
 ---
 title: Punschen kommer
-melody: Vals ur Glada änkan
+alternativeTitles:
+  - Punschvisan
+  - Punschen kommer (kall)
+author:
+  - name: Lillie Gren-Värjare
+melody: Änkevalsen ur Glada änkan
 composer: Franz Lehár
 notes:
   - Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger.
@@ -16,9 +21,7 @@ Glasen imma,
 röster stimma,
 i vår sal.
 
-Skål för glada minnen!
-
-Skål för varje vår
-
+Skål för glada minnen.
+Skål för varje vår.
 Inga sorger finnas mer
-när punsch vi får.
+när punsch vi får!

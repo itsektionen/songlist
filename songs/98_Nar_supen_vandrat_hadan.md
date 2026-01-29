@@ -1,5 +1,7 @@
 ---
 title: När supen vandrat hädan
+alternativeTitles:
+  - Punschkanon
 melody: Jag gick mig ut i skogen
 notes:
   - Den stämma som slutar samtidigast som den andra, vinner.

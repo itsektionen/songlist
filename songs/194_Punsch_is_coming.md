@@ -2,7 +2,8 @@
 title: Punsch is coming
 alternativeTitles:
   - Punschen kommer (Engelska)
-melody: Vals ur Glada änkan
+  - Punsch is coming (cool)
+melody: Änkevalsen ur Glada änkan
 composer: Franz Lehár
 notes:
   - Repeats until all the punsch is served. Only those who have not been served sing.
@@ -19,9 +20,7 @@ Glasses fogging,
 voices buzzing,
 in our hall.
 
-Skål to joyful mem'ries!
-
-Skål to every spring
-
+Skål to joyful mem'ries.
+Skål to every spring.
 No more sorrows will remain
-When punsch they bring.
+when punsch they bring!
