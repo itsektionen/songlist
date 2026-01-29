@@ -1,17 +1,20 @@
 import { writeFileSync } from 'fs';
-import { join } from 'path';
+import { join, basename } from 'path';
 import { format } from 'prettier';
+import { distance } from 'fastest-levenshtein';
 import { Song } from '../definitions/song';
 import { Tag, TAGS } from '../definitions/tags';
 import generateFileName from '../util/generateFileName';
 import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
-import { getAllSongPaths } from '../util/songs';
+import { getAllSongPaths, getSong } from '../util/songs';
 import { Author, VALID_AUTHOR_KEYS } from '../definitions/author';
 
 export default async function create(title: string, ...args: string[]): Promise<void> {
 	if (!title) return console.error('A title for the new song must be provided!');
 	const { id, ...parsedArgs } = parseArgs(args);
+
+	checkSimilarSongs(title);
 
 	const newTitle =
 		id !== undefined ? generateFileName(title, id) : generateFileName(title, nextId());
@@ -20,6 +23,45 @@ export default async function create(title: string, ...args: string[]): Promise<
 	if (id !== undefined) pushIds(id);
 
 	writeFileSync(join(SONGS_FOLDER_PATH, newTitle), await newContent);
+}
+
+function checkSimilarSongs(newTitle: string): void {
+	const similarSongs: Array<{ title: string; fileName: string; similarity: number }> = [];
+	const normalizedNewTitle = normalizeTitle(newTitle);
+
+	getAllSongPaths().forEach((path) => {
+		try {
+			const song = getSong(path);
+			const normalizedExisting = normalizeTitle(song.title);
+
+			const dist = distance(normalizedNewTitle, normalizedExisting);
+			const maxLen = Math.max(normalizedNewTitle.length, normalizedExisting.length);
+			const similarity = 1 - dist / maxLen;
+
+			if (similarity >= 0.7) {
+				const fileName = basename(path, '.md');
+				similarSongs.push({ title: song.title, fileName, similarity });
+			}
+		} catch (error) {
+			return;
+		}
+	});
+
+	if (similarSongs.length > 0) {
+		console.warn('Warning: Similar song names found:');
+		similarSongs.forEach(({ title, fileName, similarity }) => {
+			console.warn(`- "${title}" (${fileName}) ${(similarity * 100).toFixed(1)}% match`);
+		});
+	}
+}
+
+function normalizeTitle(title: string): string {
+	return title
+		.toLowerCase()
+		.normalize('NFD')
+		.replace(/[\u0300-\u036f]/g, '')
+		.replace(/[^a-z0-9]/g, '')
+		.trim();
 }
 
 function nextId(): number {
