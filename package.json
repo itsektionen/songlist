@@ -1,6 +1,6 @@
 {
 	"name": "it-song-list",
-	"version": "2.2.1",
+	"version": "2.2.4",
 	"license": "MIT",
 	"repository": "https://github.com/itsektionen/songlist",
 	"scripts": {
