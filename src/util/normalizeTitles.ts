@@ -4,7 +4,6 @@ export function normalizeTitle(title: string): string {
 
 export function generateSongName(title: string, id: number): string {
 	const normalizedTitle = removeAccents(title).replace(/\s/g, '_');
-
 	return `${id}_${normalizedTitle}.md`;
 }
 
