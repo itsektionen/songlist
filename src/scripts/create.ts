@@ -4,11 +4,11 @@ import { format } from 'prettier';
 import { distance } from 'fastest-levenshtein';
 import { Song } from '../definitions/song';
 import { Tag, TAGS } from '../definitions/tags';
-import generateFileName from '../util/generateFileName';
 import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
 import { getAllSongPaths, getSong } from '../util/songs';
 import { Author, VALID_AUTHOR_KEYS } from '../definitions/author';
+import { generateSongName, normalizeTitle } from '../util/normalizeTitles';
 
 export default async function create(title: string, ...args: string[]): Promise<void> {
 	if (!title) return console.error('A title for the new song must be provided!');
@@ -17,7 +17,7 @@ export default async function create(title: string, ...args: string[]): Promise<
 	checkSimilarSongs(title);
 
 	const newTitle =
-		id !== undefined ? generateFileName(title, id) : generateFileName(title, nextId());
+		id !== undefined ? generateSongName(title, id) : generateSongName(title, nextId());
 	const newContent = generateDefaultSongFileContent(title, parsedArgs);
 
 	if (id !== undefined) pushIds(id);
@@ -30,31 +30,28 @@ function checkSimilarSongs(newTitle: string): void {
 	const normalizedNewTitle = normalizeTitle(newTitle);
 
 	getAllSongPaths().forEach((path) => {
-		try {
-			const song = getSong(path);
-			const titles: Array<string> = [song.title, ...(song.alternativeTitles || [])];
+		const song = getSong(path);
+		const titles: Array<string> = [song.title, ...(song.alternativeTitles || [])];
+		const threshold = 0.7;
 
-			let bestSimilarity = 0;
-			let bestTitle = song.title;
+		let bestSimilarity = 0;
+		let bestTitle = song.title;
 
-			titles.forEach((title) => {
-				const normalizedExisting = normalizeTitle(title);
-				const dist = distance(normalizedNewTitle, normalizedExisting);
-				const maxLen = Math.max(normalizedNewTitle.length, normalizedExisting.length);
-				const similarity = 1 - dist / maxLen;
+		titles.forEach((title) => {
+			const normalizedExisting = normalizeTitle(title);
+			const dist = distance(normalizedNewTitle, normalizedExisting);
+			const maxLen = Math.max(normalizedNewTitle.length, normalizedExisting.length);
+			const similarity = 1 - dist / maxLen;
 
-				if (similarity > bestSimilarity) {
-					bestSimilarity = similarity;
-					bestTitle = title;
-				}
-			});
-
-			if (bestSimilarity >= 0.7) {
-				const fileName = basename(path, '.md');
-				similarSongs.push({ title: bestTitle, fileName, similarity: bestSimilarity });
+			if (similarity > threshold && similarity > bestSimilarity) {
+				bestSimilarity = similarity;
+				bestTitle = title;
 			}
-		} catch (error) {
-			return;
+		});
+
+		if (bestSimilarity >= threshold) {
+			const fileName = basename(path, '.md');
+			similarSongs.push({ title: bestTitle, fileName, similarity: bestSimilarity });
 		}
 	});
 
@@ -64,15 +61,6 @@ function checkSimilarSongs(newTitle: string): void {
 			console.warn(`- "${title}" (${fileName}) ${(similarity * 100).toFixed(1)}% match`);
 		});
 	}
-}
-
-function normalizeTitle(title: string): string {
-	return title
-		.toLowerCase()
-		.normalize('NFD')
-		.replace(/[\u0300-\u036f]/g, '')
-		.replace(/[^a-z0-9]/g, '')
-		.trim();
 }
 
 function nextId(): number {
