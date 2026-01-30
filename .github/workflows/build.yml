@@ -11,20 +11,14 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     outputs:
-      songs_have_changed: ${{steps.songs-changed.outputs.out}}
+      songs_have_changed: ${{ steps.songs-changed.outputs.any_changed }}
     steps:
       - uses: actions/checkout@v6.0.1
-      - name: Setup Node
-        uses: actions/setup-node@v6.1.0
-        with:
-          node-version: lts/*
-          cache: 'yarn'
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
-      - name: Check if songs have changed
+      - name: Check for changes in songs folder
         id: songs-changed
-        run: yarn --silent github songChanges >> "$GITHUB_OUTPUT"
-
+        uses: tj-actions/changed-files@v47.0.1
+        with:
+          files: songs/**
   build:
     needs: check-changes
     if: ${{ needs.check-changes.outputs.songs_have_changed == 'true' }}

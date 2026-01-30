@@ -9,7 +9,7 @@
 		"test": "jest test",
 		"lint": "prettier --check dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
 		"format": "prettier --write dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
-		"github": "ts-node src/github"
+		"github": "ts-node src/github/buildCommitTitle"
 	},
 	"devDependencies": {
 		"@types/jest": "^30.0.0",
