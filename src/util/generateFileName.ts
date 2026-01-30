@@ -1,7 +1,7 @@
 import { readFileSync } from 'fs';
 import matter from 'gray-matter';
 import { parse as parseFile } from 'path';
-import { generateFileName } from './normalizeTitles';
+import { generateFileName } from './normalizeTitle';
 
 export function getIdFromFileName(file: string): number {
 	const fileName = parseFile(file).name;

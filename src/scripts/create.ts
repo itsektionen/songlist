@@ -8,7 +8,7 @@ import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
 import { getAllSongPaths, getSong } from '../util/songs';
 import { Author, VALID_AUTHOR_KEYS } from '../definitions/author';
-import { generateFileName, normalizeTitle } from '../util/normalizeTitles';
+import { generateFileName, normalizeTitle } from '../util/normalizeTitle';
 
 export default async function create(title: string, ...args: string[]): Promise<void> {
 	if (!title) return console.error('A title for the new song must be provided!');
