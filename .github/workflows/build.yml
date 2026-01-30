@@ -11,14 +11,26 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     outputs:
-      songs_have_changed: ${{ steps.songs-changed.outputs.any_changed }}
+      songs_have_changed: ${{ steps.songs-changed.outputs.changed }}
     steps:
       - uses: actions/checkout@v6.0.1
+        with:
+          fetch-depth: 0
+      - name: Get last dist change SHA
+        id: last-change
+        run: echo "since_commit=$(git log -1 --format=format:'%H' dist)" >> $GITHUB_OUTPUT
       - name: Check for changes in songs folder
         id: songs-changed
-        uses: tj-actions/changed-files@v47.0.1
-        with:
-          files: songs/**
+        run: |
+          changed_files=$(git diff --name-only ${{ steps.last-change.outputs.since_commit }} songs)
+          if [ -n "$changed_files" ]; then
+            echo "Changed songs:"
+            echo "$changed_files"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes in songs folder"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
   build:
     needs: check-changes
     if: ${{ needs.check-changes.outputs.songs_have_changed == 'true' }}
