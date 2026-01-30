@@ -1,17 +1,23 @@
 import { writeFileSync } from 'fs';
-import { join } from 'path';
+import { join, basename } from 'path';
 import { format } from 'prettier';
+import { distance } from 'fastest-levenshtein';
 import { Song } from '../definitions/song';
 import { Tag, TAGS } from '../definitions/tags';
-import generateFileName from '../util/generateFileName';
 import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import pushIds from '../util/pushIds';
-import { getAllSongPaths } from '../util/songs';
+import { getAllSongPaths, getSong } from '../util/songs';
 import { Author, VALID_AUTHOR_KEYS } from '../definitions/author';
+import { generateFileName, normalizeTitle } from '../util/normalizeTitle';
 
 export default async function create(title: string, ...args: string[]): Promise<void> {
 	if (!title) return console.error('A title for the new song must be provided!');
 	const { id, ...parsedArgs } = parseArgs(args);
+	const force = args.find((arg) => arg === '--force');
+
+	if (checkSimilarSongs(title) && !force) {
+		return;
+	}
 
 	const newTitle =
 		id !== undefined ? generateFileName(title, id) : generateFileName(title, nextId());
@@ -20,6 +26,53 @@ export default async function create(title: string, ...args: string[]): Promise<
 	if (id !== undefined) pushIds(id);
 
 	writeFileSync(join(SONGS_FOLDER_PATH, newTitle), await newContent);
+}
+
+function checkSimilarSongs(newTitle: string): boolean {
+	const similarSongs: Array<{ title: string; fileName: string; similarity: number }> = [];
+	const normalizedNewTitle = normalizeTitle(newTitle);
+
+	for (const path of getAllSongPaths()) {
+		const song = getSong(path);
+		const titles: Array<string> = [song.title, ...(song.alternativeTitles || [])];
+		const WARNING_THRESHOLD = 65;
+		const ERROR_THRESHOLD = 95;
+
+		let bestSimilarity = 0;
+		let bestTitle = song.title;
+
+		for (const title of titles) {
+			const normalizedExisting = normalizeTitle(title);
+			const dist = distance(normalizedNewTitle, normalizedExisting);
+			const maxLen = Math.max(normalizedNewTitle.length, normalizedExisting.length);
+			const similarity = (1 - dist / maxLen) * 100;
+
+			if (similarity > ERROR_THRESHOLD) {
+				console.error('Error: Exact song names found:');
+				console.error(`- "${title}" (${basename(path, '.md')}) ${similarity.toFixed(1)}% match`);
+				return true;
+			}
+
+			if (similarity > WARNING_THRESHOLD && similarity > bestSimilarity) {
+				bestSimilarity = similarity;
+				bestTitle = title;
+			}
+		}
+
+		if (bestSimilarity >= WARNING_THRESHOLD) {
+			const fileName = basename(path, '.md');
+			similarSongs.push({ title: bestTitle, fileName, similarity: bestSimilarity });
+		}
+	}
+
+	if (similarSongs.length > 0) {
+		console.warn('Warning: Similar song names found:');
+		similarSongs.forEach(({ title, fileName, similarity }) => {
+			console.warn(`- "${title}" (${fileName}) ${similarity.toFixed(1)}% match`);
+		});
+	}
+
+	return false;
 }
 
 function nextId(): number {
