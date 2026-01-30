@@ -55,15 +55,12 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Build
         run: yarn build
-      - name: Get commit message
-        id: commit-title
-        run: yarn --silent github commitTitle >> "$GITHUB_OUTPUT"
       - name: Commit build
         run: |
           git config --global user.name 'Songbird Bot'
           git config --global user.email 'itsektionen-webmaster@users.noreply.github.com'
           git add dist
-          git commit -m "${{ steps.commit-title.outputs.out }}" \
+          git commit -m "Build for changes made at $(TZ='Europe/Stockholm' date +'%Y-%m-%d %H:%M:%S')" \
           -m "Build was created as a result of commit ${{ github.event.workflow_run.head_commit.id }}" \
           -m "[skip actions]"
           git push
