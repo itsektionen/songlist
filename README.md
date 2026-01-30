@@ -198,6 +198,8 @@ tags: [gasque]
 
 Multiple tags can be set during creation by separating them with `=`, e.g. `--tags=gasque=swe` will result in `tags: [gasque, swe]`.
 
+If an exact match of a song title already exist, the script will not create a new song. To force the addition of a new song with the same song, add the `--force` flag to the command.
+
 #### `yarn script updateFileNames [ID?]`
 
 Will update all filenames to be `[ID]_[normalized_title]`, e.g. "Système International" has ID 9 and will become `9_Systeme_International.md`.
@@ -430,6 +432,8 @@ tags: [gasque]
 ```
 
 Flera taggar kan läggas till under skapandet genom att separera dem med `=`, t.ex. `--tags=gasque=swe` kommer att resultera i `taggar: [gasque, swe]`.
+
+Om en låt med exakt samma sångtitel redan finns så kommer skriptet inte skapa en ny låt. För att tvinga att lägga till en ny sång med samma namn, lägg till `--force` flaggan.
 
 #### `yarn script updateFileNames [ID?]`
 

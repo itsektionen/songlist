@@ -13,8 +13,9 @@ import { generateFileName, normalizeTitle } from '../util/normalizeTitles';
 export default async function create(title: string, ...args: string[]): Promise<void> {
 	if (!title) return console.error('A title for the new song must be provided!');
 	const { id, ...parsedArgs } = parseArgs(args);
+	const force = args.find((arg) => arg === '--force');
 
-	if (checkSimilarSongs(title)) {
+	if (checkSimilarSongs(title) && !force) {
 		return;
 	}
 
