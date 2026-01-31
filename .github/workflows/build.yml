@@ -11,20 +11,26 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     runs-on: ubuntu-latest
     outputs:
-      songs_have_changed: ${{steps.songs-changed.outputs.out}}
+      songs_have_changed: ${{ steps.songs-changed.outputs.changed }}
     steps:
       - uses: actions/checkout@v6.0.1
-      - name: Setup Node
-        uses: actions/setup-node@v6.1.0
         with:
-          node-version: lts/*
-          cache: 'yarn'
-      - name: Install dependencies
-        run: yarn install --frozen-lockfile
-      - name: Check if songs have changed
+          fetch-depth: 0
+      - name: Get last dist change SHA
+        id: last-change
+        run: echo "since_commit=$(git log -1 --format=format:'%H' dist)" >> $GITHUB_OUTPUT
+      - name: Check for changes in songs folder
         id: songs-changed
-        run: yarn --silent github songChanges >> "$GITHUB_OUTPUT"
-
+        run: |
+          changed_files=$(git diff --name-only ${{ steps.last-change.outputs.since_commit }} songs)
+          if [ -n "$changed_files" ]; then
+            echo "Changed songs:"
+            echo "$changed_files"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "No changes in songs folder"
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
   build:
     needs: check-changes
     if: ${{ needs.check-changes.outputs.songs_have_changed == 'true' }}
@@ -49,15 +55,12 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Build
         run: yarn build
-      - name: Get commit message
-        id: commit-title
-        run: yarn --silent github commitTitle >> "$GITHUB_OUTPUT"
       - name: Commit build
         run: |
           git config --global user.name 'Songbird Bot'
           git config --global user.email 'itsektionen-webmaster@users.noreply.github.com'
           git add dist
-          git commit -m "${{ steps.commit-title.outputs.out }}" \
+          git commit -m "Build for changes made at $(TZ='Europe/Stockholm' date +'%Y-%m-%d %H:%M:%S')" \
           -m "Build was created as a result of commit ${{ github.event.workflow_run.head_commit.id }}" \
           -m "[skip actions]"
           git push

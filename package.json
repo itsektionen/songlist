@@ -1,6 +1,6 @@
 {
 	"name": "it-song-list",
-	"version": "2.2.4",
+	"version": "2.2.5",
 	"license": "MIT",
 	"repository": "https://github.com/itsektionen/songlist",
 	"scripts": {
@@ -8,8 +8,7 @@
 		"script": "ts-node src/scripts",
 		"test": "jest test",
 		"lint": "prettier --check dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
-		"format": "prettier --write dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
-		"github": "ts-node src/github"
+		"format": "prettier --write dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json"
 	},
 	"devDependencies": {
 		"@types/jest": "^30.0.0",
