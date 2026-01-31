@@ -1,6 +1,7 @@
 ---
 title: Studiemedelsrondo
 melody: Ösa sand
+composer: Owe Thörnqvist
 tags: [punsch, swe]
 ---
 

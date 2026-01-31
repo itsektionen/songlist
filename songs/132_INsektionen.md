@@ -3,7 +3,7 @@ title: IN-sektionen
 author:
   - name: Dain Nilsson, IT-04, och Erik Rålenius, IT
     location: KTH
-melody: Rysslands nationalsång
+melody: Sovjetunionens nationalsång
 composer: Aleksander Aleksandrov
 tags: [esoteric, swe]
 ---
