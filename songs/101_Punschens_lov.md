@@ -1,7 +1,7 @@
 ---
 title: Punschens lov
 author:
-  - event: Kårspexet "Sven Hedin eller en enkel tur och retur"
+  - event: Kårspexet Sven Hedin eller en enkel tur och retur
     year: 1987
     location: KTH
 melody: Rövarnas visa
