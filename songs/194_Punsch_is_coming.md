@@ -8,7 +8,7 @@ composer: Franz Lehár
 notes:
   - Repeats until all the punsch is served. Only those who have not been served sing.
   - For each repetition, a movement follows; rocking left to right, rocking back and forth, standing up and sitting down. These are repeated as long as you sing.
-  - English translation of "Punschen kommer"
+  - English translation of "Punschen kommer".
 tags: [punsch, eng]
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Wish I could tie
 melody: Hej tomtegubbar
+notes:
+  - English version of "Tänk om jag hade lilla nubben"
 tags: [snaps, eng]
 ---
 

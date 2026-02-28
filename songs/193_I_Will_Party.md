@@ -9,7 +9,7 @@ author:
 melody: Bamsesången
 composer: Sten Carlberg
 notes:
-  - English translation of "Jag ska festa"
+  - English translation of "Jag ska festa".
 tags: [gasque, eng]
 ---
 

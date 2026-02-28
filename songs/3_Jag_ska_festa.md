@@ -1,14 +1,21 @@
 ---
 title: Jag ska festa
+alternativeTitles:
+  - Gaffeln
 author:
   - name: Stefan "Stege" Gennert, D-86, och Anders "Pellefjant" Bjerkén, D-87
     event: Sångarstriden
     location: LTH
     year: 1987
+  - name: D
+    event: Sångartäfvlan
+    location: KTH
+    year: 1987
+    comment: Sista versen "Gaffeln"
 melody: Bamsesången
 composer: Sten Carlberg
 notes:
-  - Sista versen kallas "Gaffeln" och tillkom senare. Den upprepas ofta med olika melodier.
+  - Sista versen kallas "Gaffeln" och tillkom senare. Den upprepas ofta med olika melodier och det tillkommer ständigt fler.
 tags: [gasque, swe]
 ---
 

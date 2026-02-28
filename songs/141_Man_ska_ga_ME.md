@@ -3,6 +3,7 @@ title: Man ska gå ME
 author:
   - name: Viktor Åberg
     location: KTH
+    year: 2004
 melody: Man ska ha husvagn
 composer: Claes Eriksson
 notes:

@@ -1,6 +1,8 @@
 ---
 title: What if I had a Little Liquor
 melody: Hej tomtegubbar
+notes:
+  - English version of "Tänk om jag hade lilla nubben"
 tags: [snaps, eng]
 ---
 

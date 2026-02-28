@@ -4,7 +4,7 @@ alternativeTitles:
   - Helan går (Franska)
 melody: Helan går
 notes:
-  - Fransk version av "Helan går"
+  - Fransk version av "Helan går".
 tags: [snaps]
 ---
 

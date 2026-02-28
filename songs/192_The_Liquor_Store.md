@@ -9,7 +9,7 @@ author:
 melody: Du käre lille snickerboa
 composer: Georg Riedel
 notes:
-  - English translation of "Spritbolaget"
+  - English translation of "Spritbolaget".
 tags: [snaps, eng]
 ---
 

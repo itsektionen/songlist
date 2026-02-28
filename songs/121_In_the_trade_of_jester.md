@@ -2,6 +2,7 @@
 title: In the trade of jester
 author:
   - name: Jauvet
+    location: Norrköping
 notes:
   - Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk.
 tags: [foreign, eng]

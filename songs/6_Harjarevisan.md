@@ -7,6 +7,8 @@ author:
     event: Lundaspexet Djingis Khan
     year: 1954
 melody: Gärdebylåten
+notes:
+  - Den första versens ursprung är okänt. Endast andra och tredje versen kommer från spexet.
 tags: [gasque, swe]
 ---
 
