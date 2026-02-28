@@ -4,7 +4,7 @@ alternativeTitles:
   - Helan går (Engelska)
 melody: Helan går
 notes:
-  - English version of "Helan går"
+  - English version of "Helan går".
 tags: [snaps, eng]
 ---
 
