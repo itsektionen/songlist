@@ -2,7 +2,7 @@
 title: Punsch is coming
 alternativeTitles:
   - Punschen kommer (Engelska)
-  - Punsch is coming (cool)
+  - Punsch is coming (cold)
 melody: Änkevalsen ur Glada änkan
 composer: Franz Lehár
 notes:
