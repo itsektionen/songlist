@@ -1,7 +1,7 @@
 ---
 title: Tentavakten
 author:
-  - name: Erik Rålenius, IT
+  - name: Erik Rålenius, IT-04
     location: KTH
 melody: Du gamla, du fria
 tags: [esoteric, swe]

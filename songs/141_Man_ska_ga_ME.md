@@ -1,7 +1,7 @@
 ---
 title: Man ska gå ME
 author:
-  - name: Viktor Åberg
+  - name: Viktor Åberg, ME-02
     location: KTH
     year: 2004
 melody: Man ska ha husvagn
