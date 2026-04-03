@@ -17,10 +17,14 @@ vrålen från gast, som osalig dör.
 Satan han skrattar, flaskan han fattar,
 super tills dagen gryr.
 
+> Sjung tyst:
+
 Gastar och spöken skymtar i kröken,
 dödingar släpa ruttnande lik.
 Benrangel skramla, spökhänder famla,
 kväva din strupes rosslande skrik.
+
+> Sjung högt:
 
 Helvetes alla fasor släpps loss,
 Fan rider här med hela sin tross.
