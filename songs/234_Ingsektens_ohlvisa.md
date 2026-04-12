@@ -1,6 +1,7 @@
 ---
 title: IngSektens Öhlvisa
-author: Yvonne Rosenlund
+author:
+  - name: Yvonne Rosenlund
 melody: Myggan Hubert
 tags: [beer, swe]
 ---

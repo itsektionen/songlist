@@ -23,4 +23,5 @@ SKÅL!
 Tag dig en vodka!
 Tavaritj, en liten vodka!
 Glasen i botten vi tillsammans tömmer!
-Det kommer mera efter hand. ://
+Det kommer mera efter hand.
+En skål! ://
