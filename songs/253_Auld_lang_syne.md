@@ -1,0 +1,56 @@
+---
+title: Auld lang syne
+author:
+  - name: Robert Burns
+    year: 1788
+tags: [solemn, eng]
+---
+
+Should auld acquaintance be forgot
+And never brought to mind
+Should auld acquaintance be forgot
+And auld lang syne
+
+For auld lang syne, my jo
+For auld lang syne
+We'll tak a cup o' kindness yet
+For auld lang syne
+
+And surely ye'll be your pint-stowp
+And surely I'll be mine
+And we'll tak a cup o' kindness yet
+For auld lang syne
+
+For auld lang syne, my jo
+For auld lang syne
+We'll tak a cup o' kindness yet
+For auld lang syne
+
+We twa hae run about the braes
+And pu'd the gowans fine
+But we've wander'd mony a weary fit
+Sin auld lang syne
+
+For auld lang syne, my jo
+For auld lang syne
+We'll tak a cup o' kindness yet
+For auld lang syne
+We twa hae paidl'd i' the burn
+Frae morning sun till dine
+But seas between us braid hae roar'd
+Sin auld lang syne
+
+For auld lang syne, my jo
+For auld lang syne
+We'll tak a cup o' kindness yet
+For auld lang syne
+
+And there's a hand, my trusty fiere
+And gie's a hand o' thine
+And we'll tak a right gude-willy waught
+For auld lang syne
+
+For auld lang syne, my jo
+For auld lang syne
+We'll tak a cup o' kindness yet
+For auld lang syne
