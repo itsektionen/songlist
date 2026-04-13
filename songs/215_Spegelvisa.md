@@ -1,5 +1,7 @@
 ---
-title: Så länge rösten är mild
+title: Spegelvisa
+alternativeTitles:
+  - Så länge rösten är mild
 melody: Så länge skutan kan gå
 composer: Evert Taube
 tags: [wine, swe]
@@ -16,7 +18,6 @@ så länge alla kan tralla - så fyller vi på.
 
 För vem har sagt att just du kom med storken
 för att bli glad av att lukta på korken?
-Men kring vårt bord här nånstans,
-vi höjer bägarn med glans.
-
+Men bland kvinnornas glans
+vi höjer bägarn i trans.
 Så låt nu vinet gå ner i en yrande dans.
