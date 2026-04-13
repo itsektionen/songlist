@@ -1,7 +1,7 @@
 ---
 title: Hyfsvisa
 notes:
-  - Sparsamma sjunger "Snål!" istället för "Skål!".
+  - Sparsamma sjunger "Snål" istället för "Skål!".
 tags: [snaps, swe]
 ---
 

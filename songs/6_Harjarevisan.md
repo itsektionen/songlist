@@ -41,7 +41,7 @@ Din doft, o kära Brunte, är trots brist i hygienen,
 för en vild mongol minst lika ljuv som syrenen.
 Tänk, att på din rygg få rida runt i stan och spela topp!
 
-Ja, nu skall vi ut ...
+Ja, nu skall vi ut...
 
 Ja, mordbränder är klämmiga, ta fram fotogenen!
 Eftersläckningen tillhör just de fenomenen
