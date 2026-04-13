@@ -1,5 +1,7 @@
 ---
-title: I Frankrike dricks det
+title: Hybridvisa
+alternativeTitles:
+  - I Frankrike dricks det
 author:
   - event: Chalmersspexet Dr Livingstone
     year: 1978

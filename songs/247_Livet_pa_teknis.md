@@ -1,6 +1,6 @@
 ---
 title: Livet på Teknis
-melody: Jänta å ja
+melody: Jänta å ja'
 composer: Fredrik August Dahlgren
 tags: [snaps, swe]
 ---
