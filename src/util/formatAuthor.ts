@@ -8,7 +8,7 @@ function formatSingleAuthor({ name, event, location, year, comment }: Author): s
 	let details = [event, location, year].filter(Boolean).join(', ');
 	details = comment ? (details ? `${details} — ${comment}` : comment) : details;
 
-	if (!details) return name;
+	if (!details) return name ?? '';
 	if (!name) return `(${details})`;
 	return `${name} (${details})`;
 }

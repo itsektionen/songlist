@@ -6,12 +6,12 @@ import { getIdFromFileName } from './generateFileName';
 import { SONGS_FOLDER_PATH } from '../definitions/paths';
 import { CATEGORY_ORDER, LEGACY_ORDER } from '../definitions/tags';
 
-export function getFilePathFromId(id: number): string | undefined {
+export function getFilePathFromId(id: number): string {
 	const files = readdirSync(SONGS_FOLDER_PATH);
 	let filePath = files.find((file) => file.startsWith(`${id}_`));
 	if (!filePath) filePath = files.find((file) => file === `${id}.md`);
 
-	if (!filePath) return undefined;
+	if (!filePath) throw new Error(`Couldn't find file path for song ID ${id}`);
 	return join(SONGS_FOLDER_PATH, filePath);
 }
 
