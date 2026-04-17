@@ -1,7 +1,7 @@
 ---
 title: Här kommer det en Elektriker
 melody: Fritiof Anderssons paradmarsch
-composer: Evert Taubes
+composer: Evert Taube
 tags: [esoteric, swe]
 ---
 
