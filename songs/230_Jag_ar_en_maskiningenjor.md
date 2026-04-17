@@ -2,7 +2,7 @@
 title: Jag är en Maskiningenjör
 melody: Med en enkel tulipan
 composer: Jules Sylvain
-tags: [esoteric]
+tags: [esoteric, swe]
 ---
 
 Jag är en maskiningenjör,
