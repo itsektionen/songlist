@@ -1,9 +1,9 @@
 ---
-title: Strejk på Pripps (Alternativ)
+title: Strejk på Pripps (Original)
 melody: I natt jag drömde
 composer: Ed McCurdy
 notes:
-  - Denna sjungs inte av IT-Sektionen, vi sjunger huvudversionen.
+  - Sjungs sällan av IT-Sektionen, den kortare versionen sjungs istället.
 tags: [beer, swe]
 ---
 
