@@ -60,13 +60,14 @@ function songContentToXml(content: Song['content']): string {
 }
 
 function generateXmlifyableSong(song: Song): XmlifyableSong {
-	let category: LegacyCategory;
-	for (let i = 0; i < song.tags.length; i++)
-		if (LEGACY_MAP[song.tags[i]]) {
-			category = LEGACY_MAP[song.tags[i]];
+	let category: LegacyCategory = LEGACY_MAP[UNKNOWN];
+	for (let i = 0; i < song.tags.length; i++) {
+		const tag = song.tags[i];
+		if (tag in LEGACY_MAP) {
+			category = LEGACY_MAP[tag as keyof typeof LEGACY_MAP];
 			break;
 		}
-	if (!category) category = LEGACY_MAP[UNKNOWN];
+	}
 
 	return { ...song, category: category };
 }
