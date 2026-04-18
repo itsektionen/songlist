@@ -4,7 +4,7 @@ alternativeTitles:
   - Finsk snapsvisa
 notes:
   - Ei nyt, ja ei nyt, mutta... nyt!
-tags: [snaps]
+tags: [snaps, swe]
 ---
 
 Int' nu,

@@ -1,7 +1,5 @@
 ---
 title: Byssan full
-alternativeTitles:
-  - Byssan lull
 author:
   - name: Göran Rygert, A-57
     location: CTH

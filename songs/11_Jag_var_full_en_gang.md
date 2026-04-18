@@ -1,7 +1,7 @@
 ---
 title: Jag var full
 melody: Flottarkärlek
-composer: Hugo Lindh, Gösta "Snoddas" Nordgren
+composer: Hugo Lindh
 tags: [gasque, swe]
 ---
 

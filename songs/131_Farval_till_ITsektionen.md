@@ -6,7 +6,7 @@ author:
     year: 2009
 melody: Uti vår hage
 notes:
-  - Skrevs till avskedssittningen när IT-Sektionen och ME-Sektionen blev IN-Sektionen.
+  - Skrevs till avskedssittningen när IT-Sektionen och ME-Sektionen bildade IN-Sektionen.
 tags: [esoteric, swe]
 ---
 

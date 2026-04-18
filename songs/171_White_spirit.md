@@ -1,6 +1,8 @@
 ---
 title: White spirit
 author:
+  - name: Unknown
+    comment: Original author
   - name: Dante Julio Cosentino, IT-21
     location: KTH
     year: 2026

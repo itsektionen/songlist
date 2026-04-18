@@ -10,6 +10,7 @@ author:
 melody: Internationalen
 notes:
   - Ibland sjunger man bara de två sista verserna.
+  - Avslutas ofta med "bevars, bevars, bevars!".
 tags: [snaps, swe]
 ---
 
@@ -29,6 +30,6 @@ mera bord på kalasen,
 mer kalas på vår jord.
 
 Mera jordar kring månen,
-mera månar kring Mars,
+mera månar kring mars,
 mera marscher till Skåne,
 mera Skåne gud bevars!

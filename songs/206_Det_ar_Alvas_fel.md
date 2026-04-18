@@ -1,7 +1,7 @@
 ---
 title: Det är Alvas fel
 author:
-  - name: Oscar "Nollkoll" Persson, IT-18, Hugo "prInTer" Bachér, IT-21
+  - name: Oscar "Nollkoll" Persson, IT-18, Hugo "prINter" Bachér, IT-21
     event: Tackfesten
     location: KTH
     year: 2022

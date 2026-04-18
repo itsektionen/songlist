@@ -20,7 +20,7 @@ och reste mig och sa:
 Armen i vinkel,
 blicken i skyn!
 Så var det menat,
-Whisky och renat!
+whisky och renat!
 Vårt mål alkohol,
 för dem som tål!
 Skål!
