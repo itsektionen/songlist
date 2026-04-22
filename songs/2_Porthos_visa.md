@@ -3,6 +3,7 @@ title: Porthos visa
 alternativeTitles:
   - Athos visa
   - Athos visa till Portos
+  - Jag vill ut och gasqua
 author:
   - name: Tord Andrén, B
     event: Bergsspexet De fyra musketörerna

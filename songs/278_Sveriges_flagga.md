@@ -1,9 +1,13 @@
 ---
 title: Sveriges flagga
+alternativeTitles:
+  - Sverges fana
 author:
   - name: K.G. Ossiannilsson
     year: 1916
 composer: Hugo Alfvén
+notes:
+  - Skriven på en tågresa mellan Stockholm och Uppsala. Melodin och körarrangemanget skapades på varsin sträcka, med rytmik troligen inspirerad av tågets dunkande mot rälsen.
 tags: [solemn, swe]
 ---
 

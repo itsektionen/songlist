@@ -3,6 +3,7 @@ title: Punschen kommer
 alternativeTitles:
   - Punschvisan
   - Punschen kommer (kall)
+  - Gamla punschvisan
 author:
   - name: Lillie Gren-Värjare
 melody: Änkevalsen ur Glada änkan

@@ -1,5 +1,7 @@
 ---
 title: Vad ger dig din sisu
+alternativeTitles:
+  - Nya punschvisan
 author:
   - event: Chalmersspexet Sven Duva
     location: CTH
