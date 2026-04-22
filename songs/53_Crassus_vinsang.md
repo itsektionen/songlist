@@ -1,6 +1,6 @@
 ---
-title: Crassus' vinsång
-melody: Mors lille olle
+title: Crassus vinsång
+melody: Mors lille Olle
 composer: Alice Tegnér
 tags: [wine, swe]
 ---

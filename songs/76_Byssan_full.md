@@ -1,5 +1,8 @@
 ---
 title: Byssan full
+author:
+  - name: Göran Rygert, A-57
+    location: CTH
 melody: Byssan lull
 composer: Evert Taube
 tags: [snaps, swe]

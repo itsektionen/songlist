@@ -1,5 +1,5 @@
 ---
-title: White spirit
+title: White spirit I
 melody: White Christmas
 composer: Irving Berlin
 tags: [snaps, eng]

@@ -1,6 +1,6 @@
 ---
 title: Hallen lutar
-melody: Halleluja
+melody: Hallelujah
 composer: Leonard Cohen
 tags: [gasque, swe]
 ---

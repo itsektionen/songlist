@@ -9,15 +9,15 @@ excavating for a mine
 Dwelt a miner, fortyniner
 and his bottle Aquavit
 Oh my darling o my darling
-oh my darling aquavit
+oh my darling Aquavit
 You are lost and gone forever,
-dreadful sorry aquavit
+dreadful sorry Aquavit
 
 When he's digging, when he's digging,
 he sees something on a rock
 It's a bottle, with some contents
-could it be his aquavit?
+could it be his Aquavit?
 Oh my darling oh my darling
-it's my darling aquavit
+it's my darling Aquavit
 Thou are back and here for ever
-I will drink you aquavit.
+I will drink you Aquavit.

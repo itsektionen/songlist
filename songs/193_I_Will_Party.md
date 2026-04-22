@@ -1,5 +1,7 @@
 ---
 title: I Will Party
+alternativeTitles:
+  - Jag ska festa (Engelska)
 author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
@@ -7,7 +9,7 @@ author:
 melody: Bamsesången
 composer: Sten Carlberg
 notes:
-  - English translation of "Jag ska festa"
+  - English version of "Jag ska festa".
 tags: [gasque, eng]
 ---
 

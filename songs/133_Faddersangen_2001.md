@@ -1,7 +1,7 @@
 ---
-title: Faddersången 2001
+title: Faddersången
 author:
-  - name: Kjell Ahlström
+  - name: Kjell Ahlström, IT-00
     location: KTH
     year: 2001
 melody: SJ, SJ, gamle vän

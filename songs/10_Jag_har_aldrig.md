@@ -1,15 +1,19 @@
 ---
 title: Jag har aldrig...
 alternativeTitles:
-  - Jag har aldrig var't på snusen
+  - Jag har aldrig vart på snusen
   - Handelsvisan
+  - Handels visa
   - Fysikvisan
+  - Fysiks visa
+  - Fysikhatarvisan
   - Datavisan
+  - Datas visa
   - TBasvisan
   - Kistavisan
 author:
   - name: Team Kangaroo, F
-    event: Gerhards-gasque
+    event: Fysiksektionens Gerhardsgasque
     location: KTH
     year: 1977
     comment: Handelsvisan
@@ -32,6 +36,9 @@ composer: Robert Lowry
 notes:
   - IT-Sektionen hoppar ofta över Datavisan och sjunger extraversen för Kistastudenter direkt.
   - Det finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.
+  - fkm* utmanade DKM att skriva varandras gyckel under förfesten till en marskalksmiddag hösten 2000 vilket blev Fysikvisan.
+  - Studentoverallen föddes 1969 när Fysik bytte frack mot ovve i Televerksorange.
+  - Handels usla snören har en rolig bakomliggande historia där fysikare var på Handels och råkade riva ner deras draperier via draperiersnörerna.
 tags: [gasque, swe]
 ---
 
