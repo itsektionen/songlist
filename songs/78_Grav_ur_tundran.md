@@ -1,8 +1,10 @@
 ---
 title: Gräv ur tundran
+alternativeTitles:
+  - Lenins vodkavisa
 author:
   - event: Ekonomspexet Lenin
-    location: Stockholms universitet
+    location: SU
     year: 1989
 melody: Katjuscha
 composer: Matvey Blanter

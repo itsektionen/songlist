@@ -10,4 +10,4 @@ tags: [snaps, swe]
 Å så kommer det en ångbåt,
 och den säger tut-tut-tut!
 Å så kommer det en ubåt,
-och den säger...
+och den säger:

@@ -2,6 +2,7 @@
 title: In the trade of jester
 author:
   - name: Jauvet
+    location: Norrköping
 notes:
   - Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk.
 tags: [foreign, eng]
@@ -22,14 +23,14 @@ we go from town to town.
 We're the sworn kings of jester
 but we've never worn a crown.
 
-Getting gold ...
+Getting gold...
 
 I've never had a family,
 nor have I had a wife.
 It's a high cost of living,
 it's the price I pay for life.
 
-Getting gold ...
+Getting gold...
 
 We meet the fairest ladies,
 but we never had a chance.
@@ -43,4 +44,4 @@ is a scare for anyone.
 So we work until our last day,
 and we die like common man.
 
-Getting gold ...
+Getting gold...

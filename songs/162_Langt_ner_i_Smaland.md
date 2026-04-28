@@ -3,8 +3,7 @@ title: Långt ner i Småland
 alternativeTitles:
   - Rännan
 notes:
-  - Gammal visa från åtminstone 1870-talet.
-  - Strindberg använde den i Hemsöborna 1887.
+  - Gammal visa från åtminstone 1870-talet. Strindberg använde den i Hemsöborna 1887.
 tags: [gasque, swe]
 ---
 

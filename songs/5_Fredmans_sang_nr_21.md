@@ -46,7 +46,7 @@ buteljer, speglar och pokal;
 Bjud nu god natt, drick ur ditt glas,
 och hälsa din rival:
 
-Tycker du ...
+Tycker du...
 
 Och du som under titlars klang
 din tiggarstav förgyllt vart år,
@@ -58,7 +58,7 @@ fördömer vaggan som dig välvt,
 och ändå dagligt är plakat
 till glasets sista hälft;
 
-Tycker du ...
+Tycker du...
 
 Du som vid Martis fältbasun
 I blodig skjorta sträckt ditt steg;
@@ -85,7 +85,7 @@ fastän ur deras flaskor du,
 du väl kan slicka dina fem,
 vad svarar du väl nu?
 
-Tycker du ...
+Tycker du...
 
 Men du som till din återfärd,
 ifrån det du till bordet gick,
@@ -97,7 +97,7 @@ kör honom med sitt anhang ut,
 Och sen med en ovänlig min,
 ryck remmarn ur hans trut!
 
-Tycker du ...
+Tycker du...
 
 Säg är du nöjd? Min granne säg,
 så prisa värden nu till slut;
@@ -109,4 +109,4 @@ för vår värdinna bugom oss,
 och halkom sen i grafven fritt,
 vid aftonstjärnans bloss!
 
-Tycker du ...
+Tycker du...

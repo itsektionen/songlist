@@ -1,6 +1,10 @@
 ---
 title: Punschens lov
-melody: Rövarvisan
+author:
+  - event: Kårspexet Sven Hedin eller en enkel tur och retur
+    year: 1987
+    location: KTH
+melody: Rövarnas visa
 composer: Thorbjørn Egner
 tags: [punsch, swe]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Skolan KTH
 melody: Fader Abraham
-tags: [snaps, swe]
+tags: [gasque, swe]
 ---
 
 Skolan KTH,
