@@ -1,5 +1,7 @@
 ---
 title: Gräv ur tundran
+alternativeTitles:
+  - Lenins vodkavisa
 author:
   - event: Ekonomspexet Lenin
     location: SU
