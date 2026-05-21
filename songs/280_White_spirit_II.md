@@ -1,5 +1,5 @@
 ---
-title: White spirit II
+title: White spirit (II)
 author:
   - name: Dante Julio Cosentino, IT-21
     location: KTH

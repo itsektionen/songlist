@@ -1,5 +1,5 @@
 ---
-title: Strejk på Pripps
+title: Strejk på Pripps (II)
 melody: I natt jag drömde
 composer: Ed McCurdy
 notes:
