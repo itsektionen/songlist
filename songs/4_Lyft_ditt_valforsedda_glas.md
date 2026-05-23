@@ -9,7 +9,7 @@ author:
     year: 1968
 melody: Ding dong merrily on high
 composer: Jehan Tabourot, George Ratcliffe Woodward, Charles Wood
-tags: [gasque, swe]
+tags: [wine, swe]
 ---
 
 Lyft ditt välförsedda glas,
