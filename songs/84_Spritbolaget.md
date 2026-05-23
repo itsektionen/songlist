@@ -13,7 +13,7 @@ tags: [snaps, swe]
 Till spritbolaget ränner jag
 och bankar på dess port.
 Jag vill ha nåt som bränner bra
-Ooch gör mig skitfull fort.
+Och gör mig skitfull fort.
 Expediten sade "Go'dag,
 Hur gammal kan min herre va?
 har du nåt leg, ditt fula drägg?
