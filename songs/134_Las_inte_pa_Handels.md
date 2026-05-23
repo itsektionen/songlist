@@ -21,7 +21,7 @@ Läs inte på Chalmers,
 nej nej nej nej nej nej!
 Läs nåt som du har glädje av!
 
-Skolan ska' va riktigt bra,
+Skolan ska va' riktigt bra,
 det bästa är det som jag vill ha.
 Kanske du minns hur du kände dig,
 kåren, vill ni hjälpa mig?
