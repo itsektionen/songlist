@@ -2,6 +2,8 @@
 title: Système International
 author:
   - name: Anders Skog, F-75
+    event: Sångartäfvlan
+	year: 1975
     location: KTH
 melody: Studentsången
 composer: Prins Gustaf av Sverige och Norge
