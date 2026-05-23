@@ -131,7 +131,7 @@ det får bli på egen hand om det ska gå!
 Nu ska hela Sing-Sing rivas,
 arkitekt är med på Datas lag.
 Televerket ska fördrivas,
-uppå konsulatets ljuva domedag.
+uppå Konsulatets ljuva domedag.
 
 //: Och nubbedrag! På denna dag!
 Och nubbedrag! På denna dag!
