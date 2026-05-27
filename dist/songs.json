@@ -8,43 +8,38 @@
 			"notes": ["Sjungs av IT-Sektionen i början av varje gasque."],
 			"tags": ["gasque", "swe"],
 			"content": "Ack för Kista brinner våra hjärtan,\ncentrum för vår I-Teknologi.\nAlla sorger sopas under mattan,\nnär vårt Kista vi flanerar i.\n\nSjung för alla stolta basstationer,\nsjung för Forums vackra arkitektur.\nLåt oss därför celebrera vår moder:\nKista, du förstärker vår bravur!\n\nIfrån Kista trampas nya stigar,\nmorgondagsteknik är vår gebit.\nÅr för år, vi fortsätter att vara\nblickfång för global teknikelit.\n\nHär föds många nya forskningsgenier,\nskarpa sinnen väcks och strålar med glans.\nNu har turen blivit vår att stoltsera,\nnu är tiden här att ta vår chans.\n\nAck för Kista brinner våra hjärtan,\nallas stämmor, klara höjs mot skyn.\nHögt från ovan Science Tower tronar i sin prakt;\ndet är en ståtlig syn.\n\nNu system och minnen byggas på kisel,\nstora ingenjörer följer vårt spår.\nSå med styrka vi för världen nu visar:\nVi är här och framtiden är vår!\n\nAck för Kista brinner våra hjärtan,\ni Electrum skapas det magi.\nAlla minnen vi tillsammans skapat,\ndessa firar vi med ceremoni.\n\nHuvud Campus äro inget för oss,\ndet anser vi är ett stort clowneri.\nMe' det sagt vill vi därför iterera:\nAtt i Kista, måste vi förbli!",
-			"author": "David Larsson, IT-00 (IT-nØllningen, KTH, 2000 — Vers 1-4); Hugo Bachér, IN-21, och Tobias \"Bobbe\" Altin, IN-21 (IN-Sektionens 15 års jubileum, KTH, 2023 — Vers 7-8)"
+			"author": "David Larsson, IT-00 (IT-nØllningen, KTH, 2000 — Vers 1-4); Singsing nØlleuppdrag (2007 — Vers 5-6); Hugo \"prINter\" Bachér, IN-21, och Tobias \"Bobbe\" Altin, IN-21 (IN-Sektionens 15 års jubileum, KTH, 2023 — Vers 7-8)"
 		},
 		{
 			"id": 1,
 			"title": "Danse macabre",
 			"melody": "Vårvindar friska",
 			"tags": ["gasque", "swe"],
-			"content": "Runt kring vår stuga smådjävlar sluga,\ntassa så tyst med bockfot och svans.\nVarulvar yla, isande kyla,\nsveper i dimman fanstygens dans.\n\nBäva, o broder, lyssna och hör,\nvrålen från gast, som osalig dör.\nSatan han skrattar, flaskan han fattar,\nsuper tills dagen gryr.\n\nGastar och spöken skymtar i kröken,\ndödingar släpa ruttnande lik.\nBenrangel skramla, spökhänder famla,\nkväva din strupes rosslande skrik.\n\nHelvetes alla fasor släpps loss,\nFan rider här med hela sin tross.\nGöm dig i stugan, du har fått flugan,\ndille det blir din lott.",
-			"author": "Carl-Erik Carlstedt (Chalmers)"
+			"content": "Runt kring vår stuga smådjävlar sluga,\ntassa så tyst med bockfot och svans.\nVarulvar yla, isande kyla,\nsveper i dimman fanstygens dans.\n\nBäva, o broder, lyssna och hör,\nvrålen från gast, som osalig dör.\nSatan han skrattar, flaskan han fattar,\nsuper tills dagen gryr.\n\n> Sjung tyst:\n\nGastar och spöken skymtar i kröken,\ndödingar släpa ruttnande lik.\nBenrangel skramla, spökhänder famla,\nkväva din strupes rosslande skrik.\n\n> Sjung högt:\n\nHelvetes alla fasor släpps loss,\nFan rider här med hela sin tross.\nGöm dig i stugan, du har fått flugan,\ndille det blir din lott.",
+			"author": "Carl-Erik Carlstedt (CTH)"
 		},
 		{
 			"id": 2,
 			"title": "Porthos visa",
-			"alternativeTitles": ["Athos visa"],
+			"alternativeTitles": ["Athos visa", "Athos visa till Portos", "Jag vill ut och gasqua"],
 			"melody": "You can't get a man with a gun",
 			"composer": "Irving Berlin",
 			"tags": ["gasque", "swe"],
 			"content": "Jag vill börja gasqua,\nvart fan är min flaska?\nVem i helvete stal min butelj?\n\nSka törsten mig tvinga,\nen TT börja svinga?\nNej för fan, bara blunda och svälj!\n\nVilken smörja! Får jag spörja?\nVem för fan tror att jag är en älg?\n\nTill England vi rider,\noch sedan vad det lider\nträffar vi välan på någon pub?\n\nOch där ska vi festa,\nblott dricka av det bästa:\nUtav whiskey och portvin,\njag tänker gå hårt in\nför att prova på rubb och stubb!",
-			"author": "Tord Andrén, B (Bergsspexet, KTH, 1960 — Ursprungligen Athos visa)"
+			"author": "Tord Andrén, B (Bergsspexet De fyra musketörerna, KTH, 1959 — Ursprungligen Athos visa)"
 		},
 		{
 			"id": 3,
 			"title": "Jag ska festa",
+			"alternativeTitles": ["Gaffeln"],
 			"melody": "Bamsesången",
 			"composer": "Sten Carlberg",
+			"notes": [
+				"Sista versen kallas \"Gaffeln\" och tillkom senare. Den upprepas ofta med olika melodier och det tillkommer ständigt fler."
+			],
 			"tags": ["gasque", "swe"],
 			"content": "Jag ska festa, ta det lungt med spriten.\nHa det roligt utan att bli full.\nInte krypa runt med festeliten.\nTa det varligt för min egen skull.\n\nFörst en öl i torra stupen,\nefter det så kommer supen,\nner med vinet, i med punschen,\nsist en groggbuffé.\n\nJag är skitfull, däckar först av alla\nMissar festen, men vad gör väl det?\nBlandar hejdlöst öl och gammal filmjölk.\nKastar upp på bordsdamen breve'!\n\nFörst en öl i torra strupen,\nefter det så kommer supen,\nner med vinet, i med punschen,\nsist en groggbuffé.\n\nSpyan rinner ner för ylleslipsen,\nraviolin torkar i mitt hår.\nVem har lagt mig här i pissoaren,\nvems är gaffeln i mitt högra lår?",
-			"author": "Stefan \"Stege\" Gennert, D-86, och Anders \"Pellefjant\" Bjerkén, D-87 (Sångarstriden, Lund, 1987)"
-		},
-		{
-			"id": 4,
-			"title": "Lyft ditt välförsedda glas",
-			"melody": "Ding dong merrily on high",
-			"composer": "Jehan Tabourot, George Ratcliffe Woodward, Charles Wood",
-			"tags": ["gasque", "swe"],
-			"content": "Lyft ditt välförsedda glas,\ndet är en härlig börda!\nNu har grabbarna kalas,\nvi segern snart skall skörda!\n\n//: Dinge dingedingedinge\ndingedingedinge dingedingeding\ndong dong, imorgon är det lördag. ://\n\nSätt nu glaset till din mun,\nse döden på dig väntar!\nNu har grabbarna kalas,\nhör liemannen flämtar!\n\n//: Dinge dingedingedinge\ndingedingedinge dingedingeding\ndong dong, begravningsklockor\nklämtar. ://",
-			"author": "(Medicinarspexet, Göteborg, 1970)"
+			"author": "Stefan \"Stege\" Gennert, D-86, och Anders \"Pellefjant\" Bjerkén, D-87 (Sångarstriden, LTH, 1987); D (Sångartäfvlan, KTH, 1987 — Sista versen \"Gaffeln\")"
 		},
 		{
 			"id": 5,
@@ -52,7 +47,7 @@
 			"alternativeTitles": ["Så lunka vi så småningom"],
 			"composer": "Carl Michael Bellman",
 			"tags": ["gasque", "swe"],
-			"content": "Så lunka vi så småningom\nfrån Bacchi buller och tumult,\nnär döden ropar, Granne kom,\nditt timglas är nu fullt.\n\nDu Gubbe fäll din krycka ner,\noch du, du yngling, lyd min lag:\nDen skönsta nymf som åt dig ler\ninunder armen tag.\n\nTycker du att graven är för djup,\nnå välan så tag dig då en sup,\ntag dig sen dito en, dito två,\ndito tre, så dör du nöjdare.\n\nDu vid din remmare och press,\nrödbrusig och med hatt på sned,\nsnart skrider fram din likprocess\nI några svarta led;\n\nOch du som pratar där så stort,\nmed band och stjärnor på din rock:\nRe'n snickarn kistan färdig gjort,\noch hyvlar på des lock.\n\nTycker du...\n\nMen du som med en trumpen min,\nbland reglar, galler, järn och lås,\ndig vilar på ditt penningskrin,\ninom ditt stängda bås;\n\nOch du som svartsjuk slår i kras\nbuteljer, speglar och pokal;\nBjud nu god natt, drick ur ditt glas,\noch hälsa din rival:\n\nTycker du ...\n\nOch du som under titlars klang\ndin tiggarstav förgyllt vart år,\nsom knappast har, med all din rang,\nen skilling till din bår;\n\nOch du som ilsken, feg och lat,\nfördömer vaggan som dig välvt,\noch ändå dagligt är plakat\ntill glasets sista hälft;\n\nTycker du ...\n\nDu som vid Martis fältbasun\nI blodig skjorta sträckt ditt steg;\nOch du som tumlar i paulun,\nI Chloris armar feg;\n\nOch du som med din gyllne bok\nvid templets genljud reser dig,\nsom rister huvud lärd och klok,\noch för mot avgrund krig;\n\nTycker du att graven är för djup,\nnå välan så tag dig då en sup,\ntag dig sen dito en, dito två,\ndito tre, så dör du nöjdare.\n\nMen du som med en ärlig min\nplär dina vänner häda jämt,\noch dem förtalar vid ditt vin,\noch det liksom på skämt;\n\nOch du som ej försvarar dem,\nfastän ur deras flaskor du,\ndu väl kan slicka dina fem,\nvad svarar du väl nu?\n\nTycker du ...\n\nMen du som till din återfärd,\nifrån det du till bordet gick,\nEj klingat för din raska värd,\nfastän han ropar: Drick!\n\nDriv sådan gäst från mat och vin,\nkör honom med sitt anhang ut,\nOch sen med en ovänlig min,\nryck remmarn ur hans trut!\n\nTycker du ...\n\nSäg är du nöjd? Min granne säg,\nså prisa värden nu till slut;\nOm vi ha en och samma väg,\nså följoms åt; drick ut!\n\nMen först med vinet rött och vitt\nför vår värdinna bugom oss,\noch halkom sen i grafven fritt,\nvid aftonstjärnans bloss!\n\nTycker du ...",
+			"content": "Så lunka vi så småningom\nfrån Bacchi buller och tumult,\nnär döden ropar, Granne kom,\nditt timglas är nu fullt.\n\nDu Gubbe fäll din krycka ner,\noch du, du yngling, lyd min lag:\nDen skönsta nymf som åt dig ler\ninunder armen tag.\n\nTycker du att graven är för djup,\nnå välan så tag dig då en sup,\ntag dig sen dito en, dito två,\ndito tre, så dör du nöjdare.\n\nDu vid din remmare och press,\nrödbrusig och med hatt på sned,\nsnart skrider fram din likprocess\nI några svarta led;\n\nOch du som pratar där så stort,\nmed band och stjärnor på din rock:\nRe'n snickarn kistan färdig gjort,\noch hyvlar på des lock.\n\nTycker du...\n\nMen du som med en trumpen min,\nbland reglar, galler, järn och lås,\ndig vilar på ditt penningskrin,\ninom ditt stängda bås;\n\nOch du som svartsjuk slår i kras\nbuteljer, speglar och pokal;\nBjud nu god natt, drick ur ditt glas,\noch hälsa din rival:\n\nTycker du...\n\nOch du som under titlars klang\ndin tiggarstav förgyllt vart år,\nsom knappast har, med all din rang,\nen skilling till din bår;\n\nOch du som ilsken, feg och lat,\nfördömer vaggan som dig välvt,\noch ändå dagligt är plakat\ntill glasets sista hälft;\n\nTycker du...\n\nDu som vid Martis fältbasun\nI blodig skjorta sträckt ditt steg;\nOch du som tumlar i paulun,\nI Chloris armar feg;\n\nOch du som med din gyllne bok\nvid templets genljud reser dig,\nsom rister huvud lärd och klok,\noch för mot avgrund krig;\n\nTycker du att graven är för djup,\nnå välan så tag dig då en sup,\ntag dig sen dito en, dito två,\ndito tre, så dör du nöjdare.\n\nMen du som med en ärlig min\nplär dina vänner häda jämt,\noch dem förtalar vid ditt vin,\noch det liksom på skämt;\n\nOch du som ej försvarar dem,\nfastän ur deras flaskor du,\ndu väl kan slicka dina fem,\nvad svarar du väl nu?\n\nTycker du...\n\nMen du som till din återfärd,\nifrån det du till bordet gick,\nEj klingat för din raska värd,\nfastän han ropar: Drick!\n\nDriv sådan gäst från mat och vin,\nkör honom med sitt anhang ut,\nOch sen med en ovänlig min,\nryck remmarn ur hans trut!\n\nTycker du...\n\nSäg är du nöjd? Min granne säg,\nså prisa värden nu till slut;\nOm vi ha en och samma väg,\nså följoms åt; drick ut!\n\nMen först med vinet rött och vitt\nför vår värdinna bugom oss,\noch halkom sen i grafven fritt,\nvid aftonstjärnans bloss!\n\nTycker du...",
 			"author": "Carl Michael Bellman (1787)"
 		},
 		{
@@ -60,8 +55,11 @@
 			"title": "Härjarevisan",
 			"alternativeTitles": ["Härjasången"],
 			"melody": "Gärdebylåten",
+			"notes": [
+				"Den första versens ursprung är okänt. Endast andra och tredje versen kommer från spexet. Därför brukar Lundensare börja på andra versen."
+			],
 			"tags": ["gasque", "swe"],
-			"content": "Liksom våra fäder vikingarna i Norden\ndrar vi landet runt och super oss under borden.\nBrännvinet har blitt ett elexir\nför kropp såväl som själ!\n\nKänner du dig liten och ynklig på jorden,\nväxer du med supen och blir stor uti orden,\nslår dig för ditt håriga bröst\noch blir en man från hår till häl!\n\nJa, nu skall vi ut och härja\nsupa och slåss och svärja\nbränna röda stugor, slå små barn\noch säga fula ord!\n\nMed blod skall vi stäppen färga\nNu änteligen lär ja'\nkunna dra nå'n verklig nytta\nav min Hermodskurs i mord.\n\nHurra, nu skall man äntligen få röra på benen,\nhela stammen jublar och det spritter i grenen,\ntänk att än en gång få spränga fram\npå Brunte i galopp!\n\nDin doft, o kära Brunte, är trots brist i hygienen,\nför en vild mongol minst lika ljuv som syrenen.\nTänk, att på din rygg få rida runt i stan och spela topp!\n\nJa, nu skall vi ut ...\n\nJa, mordbränder är klämmiga, ta fram fotogenen!\nEftersläckningen tillhör just de fenomenen\ninom brandmansyrket, som jag tycker är nån nytta med.\n\nJag målar för mitt inre upp den härliga scenen:\nBlodrött mitt i brandgult,\nej ens prins Eugen en lika mustig vy kan måla,\nens om han målade med sked!\n\nJa, nu ska vi ut...",
+			"content": "Liksom våra fäder vikingarna i Norden\ndrar vi landet runt och super oss under borden.\nBrännvinet har blitt ett elexir\nför kropp såväl som själ!\nKänner du dig liten och ynklig på jorden,\nväxer du med supen och blir stor uti orden,\nslår dig för ditt håriga bröst\noch blir en man från hår till häl!\n\nJa, nu skall vi ut och härja\nsupa och slåss och svärja\nbränna röda stugor, slå små barn\noch säga fula ord!\nMed blod skall vi stäppen färga\nNu änteligen lär ja'\nkunna dra nå'n verklig nytta\nav min Hermodskurs i mord.\n\nHurra, nu skall man äntligen få röra på benen,\nhela stammen jublar och det spritter i grenen,\ntänk att än en gång få spränga fram\npå Brunte i galopp!\nDin doft, o kära Brunte, är trots brist i hygienen,\nför en vild mongol minst lika ljuv som syrenen.\nTänk, att på din rygg få rida runt i stan och spela topp!\n\nJa, nu skall vi ut...\n\nJa, mordbränder är klämmiga, ta fram fotogenen!\nEftersläckningen tillhör just de fenomenen\ninom brandmansyrket, som jag tycker är nån nytta med.\nJag målar för mitt inre upp den härliga scenen:\nBlodrött mitt i brandgult,\nej ens prins Eugen en lika mustig vy kan måla,\nens om han målade med sked!\n\nJa, nu ska vi ut...",
 			"author": "Hans \"Hasse\" Alfredsson (Lundaspexet Djingis Khan, 1954)"
 		},
 		{
@@ -87,16 +85,20 @@
 			"composer": "Prins Gustaf av Sverige och Norge",
 			"tags": ["gasque", "swe"],
 			"content": "W kg m Wb s\n\nΩ m T A rad\n\nCd S N s\n\nΩ A m Lx dB\n\n°C W/m²\n\nJ/kg H V C\n\nkg/m³ mol\n\nm/s² m/s²\n\nF!",
-			"author": "Anders Skog, F-75 (KTH)"
+			"author": "Anders Skog, F-75 (Sångartäfvlan, KTH, 1975)"
 		},
 		{
 			"id": 10,
 			"title": "Jag har aldrig...",
 			"alternativeTitles": [
-				"Jag har aldrig var't på snusen",
+				"Jag har aldrig vart på snusen",
 				"Handelsvisan",
+				"Handels visa",
 				"Fysikvisan",
+				"Fysiks visa",
+				"Fysikhatarvisan",
 				"Datavisan",
+				"Datas visa",
 				"TBasvisan",
 				"Kistavisan"
 			],
@@ -104,25 +106,31 @@
 			"composer": "Robert Lowry",
 			"notes": [
 				"IT-Sektionen hoppar ofta över Datavisan och sjunger extraversen för Kistastudenter direkt.",
-				"Det finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen."
+				"Det finns fler verser för olika sektioner, men de sjungs vanligen inte av IT-sektionen.",
+				"Riddarfjärden ersätts ofta av lokala vattendrag som Fyrisån, Svartån, Göta älv, Finska viken, Näckrosdammen eller Stadsparksdammen. På KTH hörs även Gasqueparksdammen, vilket är namnet på fontänen utanför kårhuset Nymble.",
+				"Ibland ersätts även bayerskt öl med Preppens øhl eller Koffens öl.",
+				"Handels usla snören har en rolig bakomliggande historia där fysikare var på Handels och råkade riva ner deras draperier via draperiersnörerna.",
+				"Studentoverallen föddes 1969 när Fysik bytte frack mot ovve i Televerksorange.",
+				"fkm* utmanade DKM att skriva varandras gyckel under förfesten till en marskalksmiddag hösten 2000 vilket blev Fysikvisan."
 			],
 			"tags": ["gasque", "swe"],
-			"content": "Jag har aldrig vart på snusen,\naldrig rökat en cigarr, halleluja!\nMina dygder äro tusen,\ninga syndiga laster jag har.\n\nJag har aldrig sett nåt naket,\ninte ens ett litet nyfött barn!\n\nMina blickar går mot taket,\ndärmed undgår jag frestarens garn!\n\n//: Halleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja-a-ah! ://\n\nBacchus spelar på gitarren,\nSatan spelar på sitt handklaver!\nAlla djävlar dansar tango,\nsäg vad kan man väl önska sig mer?\n\nJo! Att alla bäckar vore brännvin,\nRiddarfjärden full av bayerskt öl.\nKonjak i varenda rännsten\noch punsch i varendaste pöl!\n\n//: Och mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera ö-ö-öl! ://\n\n# Handelsvisan\n\nJag vill aldrig gå på Handels,\naldrig tenta företagsekonomi!\nDeras IQ är ju Mandels,\noch förståndet det har gjort sorti.\n\nDom har jätteusla snören,\ni sitt jätteusla draperi.\nDom kan bara räkna ören,\nhela Handels är ett jävla aperi!\n\n//: Handels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är ski-i-it! ://\n\nMammas pojkar är dom alla,\npappas flickor är dom likaså.\nGår och tror att dom e' balla,\nfastän dom inget alls ju förstå.\n\nHela Handels borde rivas,\ndetta anser hela vårat lag.\nDå skull' Osquarina trivas,\nuppå denna Handels ljuva domedag.\n\n//: Och vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket dra-a-ag! ://\n\n# Fysikvisan\n\nJag vill aldrig gå på Fysik,\naldrig tenta termometerdynamik.\nJag vill inte höra syntmusik\neller festa som en jävla mattegeek!\n\nDom ser ut som televerket\ni sin jättefula overall.\nDom kan bara räkna kvarkar\nnu hyllar vi Data med en skål!\n\n//: Fysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är to-o-orrt! ://\n\nEinsteins pojkar är dom alla,\nHandels flickor kan dom aldrig få.\nGår och tror att dom har ballar,\ndet får bli på egen hand om det ska gå!\n\nNu ska hela Sing-Sing rivas,\narkitekt är med på Datas lag.\nTeleverket ska fördrivas,\nuppå konsulatets ljuva domedag.\n\n//: Och nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedra-a-ag! ://\n\n# Datavisan\n\nAlla vi som går på Data\nsitter mest och kodar Perl-script varje natt.\nMed oss kan man inte prata\nom man inte loggat in på någon chatt.\n\nVåran hy är grå som aska\nnär solen skiner sysslar vi med webdesign\noch när de andra börjat gasqua\nsitter vi och spelar Ultima Online.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\nVi har något tomt i blicken,\nen hel skvadron av tomtar på vårt loft!\nIngen av oss har nån flickvän,\nmen vi drömmer varje natt om Lara Croft.\n\nData borde formateras,\nsystematiskt, partition för partition.\nNördarna dekompileras\noch uppgraderas till en användbar version.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\n# TBasvisan\n\nJag vill aldrig gå på TBas,\naldrig tenta om gymnasiekurserna.\nLära sig om allting barnsligt,\noch tro att dom kommer nå'n vart.\n\nDom har aldrig sett ett hp,\ninte ens en sådan introkurs!\nDeras kurser ger f-u-p,\näven om dom knappt är tre.\n\n//: För f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-uu-p! ://\n\nSitter där och tenta kemi,\nbara för att plugga jävla INDEK.\nKomvux i ett annat typsnitt,\nlär sig inget med värde i!\n\nMan kan räkna kurser på handen,\nKH tjugo-ett till tjugo-fem.\nVarit fast nånstans i Nymble,\nfira flytta in med Kistas IT!\n\n//: Ingen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen nat-uu-r! ://\n\n# Extravers för Kistastudenter\n\nJag vill aldrig gå i Kista,\naldrig tenta programmeringsmetodik.\n//: Vi kan bara iterera... :// (in abs.)",
-			"author": "Team Kangaroo, F (Gerhards-gasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren, D-01 (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan); IT-Sektionens styrelse (Mållinjen (TBas), KTH, 2025 — TBasvisan)"
+			"content": "Jag har aldrig vart på snusen,\naldrig rökat en cigarr, halleluja!\nMina dygder äro tusen,\ninga syndiga laster jag har.\n\nJag har aldrig sett nåt naket,\ninte ens ett litet nyfött barn!\nMina blickar går mot taket,\ndärmed undgår jag frestarens garn!\n\n//: Halleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja! Halleluja!\nHalleluja-a-ah! ://\n\nBacchus spelar på gitarren,\nSatan spelar på sitt handklaver!\nAlla djävlar dansar tango,\nsäg vad kan man väl önska sig mer?\n\nJo! Att alla bäckar vore brännvin,\nRiddarfjärden full av bayerskt öl.\nKonjak i varenda rännsten\noch punsch i varendaste pöl!\n\n//: Och mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera öl! Vomera öl!\nOch mera ö-ö-öl! ://\n\n# Handelsvisan\n\nJag vill aldrig gå på Handels,\naldrig tenta företagsekonomi!\nDeras IQ är ju Mandels,\noch förståndet det har gjort sorti.\n\nDom har jätteusla snören,\ni sitt jätteusla draperi.\nDom kan bara räkna ören,\nhela Handels är ett jävla aperi!\n\n//: Handels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är skit! Jag vill ej dit!\nHandels är ski-i-it! ://\n\nMammas pojkar är dom alla,\npappas flickor är dom likaså.\nGår och tror att dom e' balla,\nfastän dom inget alls ju förstå.\n\nHela Handels borde rivas,\ndetta anser hela vårat lag.\nDå skull' Osquarina trivas,\nuppå denna Handels ljuva domedag.\n\n//: Och vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket drag! På denna dag!\nOch vilket dra-a-ag! ://\n\n# Fysikvisan\n\nJag vill aldrig gå på Fysik,\naldrig tenta termometerdynamik.\nJag vill inte höra syntmusik\neller festa som en jävla mattegeek!\n\nDom ser ut som televerket\ni sin jättefula overall.\nDom kan bara räkna kvarkar\nnu hyllar vi Data med en skål!\n\n//: Fysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är torrt! Jag vill ju bort!\nFysik är to-o-orrt! ://\n\nEinsteins pojkar är dom alla,\nHandels flickor kan dom aldrig få.\nGår och tror att dom har ballar,\ndet får bli på egen hand om det ska gå!\n\nNu ska hela Sing-Sing rivas,\narkitekt är med på Datas lag.\nTeleverket ska fördrivas,\nuppå Konsulatets ljuva domedag.\n\n//: Och nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedrag! På denna dag!\nOch nubbedra-a-ag! ://\n\n# Datavisan\n\nAlla vi som går på Data\nsitter mest och kodar Perl-script varje natt.\nMed oss kan man inte prata\nom man inte loggat in på någon chatt.\n\nVåran hy är grå som aska\nnär solen skiner sysslar vi med webdesign\noch när de andra börjat gasqua\nsitter vi och spelar Ultima Online.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\nVi har något tomt i blicken,\nen hel skvadron av tomtar på vårt loft!\nIngen av oss har nån flickvän,\nmen vi drömmer varje natt om Lara Croft.\n\nData borde formateras,\nsystematiskt, partition för partition.\nNördarna dekompileras\noch uppgraderas till en användbar version.\n\n//: Datan är grå - visst är det så!\nDatan är trist - javisst, javisst!\nDatan är skit - man drar en nit\nom man går di-i-it! ://\n\n# TBasvisan\n\nJag vill aldrig gå på TBas,\naldrig tenta om gymnasiekurserna.\nLära sig om allting barnsligt,\noch tro att dom kommer nå'n vart.\n\nDom har aldrig sett ett hp,\ninte ens en sådan introkurs!\nDeras kurser ger f-u-p,\näven om dom knappt är tre.\n\n//: För f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-u-p! Va fan ä' det?\nFör f-uu-p! ://\n\nSitter där och tenta kemi,\nbara för att plugga jävla INDEK.\nKomvux i ett annat typsnitt,\nlär sig inget med värde i!\n\nMan kan räkna kurser på handen,\nKH tjugo-ett till tjugo-fem.\nVarit fast nånstans i Nymble,\nfira flytta in med Kistas IT!\n\n//: Ingen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen natur! När tar det slut?\nIngen nat-uu-r! ://\n\n# Extravers för Kistastudenter\n\nJag vill aldrig gå i Kista,\naldrig tenta programmeringsmetodik.\n//: Vi kan bara iterera... :// (in abs.)",
+			"author": "Team Kangaroo, F (Fysiksektionens Gerhardsgasque, KTH, 1977 — Handelsvisan); DKM (KTH, 2000 — Fysikvisan); Mattis Castegren, D-01 (Fysiksektionens Ettans fest, KTH, 2001 — Datavisan); IT-Sektionens styrelse (Mållinjen (TBas), KTH, 2025 — TBasvisan)"
 		},
 		{
 			"id": 11,
-			"title": "Jag var full en gång...",
+			"title": "Jag var full",
 			"melody": "Flottarkärlek",
-			"composer": "Hugo Lindh, Gösta \"Snoddas\" Nordgren",
+			"composer": "Hugo Lindh",
 			"tags": ["gasque", "swe"],
-			"content": "Jag var full en gång för länge sen,\npå knäna kröp jag hem.\nVarje dike var för mig ett vilohem,\nvilohem!\n\nI varje hörn och varje vrå,\nhade jag en liten vän,\nifrån renat upp till nittosex procent,\n-sex procent!\n\nJag var full en gång för länge sen,\npå knäna kröp jag hem,\noch i sällskap hade jag en elefant,\nelefant!\n\nElefanten spruta' vatten,\noch jag trodde det var öl,\nsedan dess har alla kallat mig för knöl.\nMera öl!\n\nJag var full en gång för länge sen,\npå knäna kröp jag hem,\noch i sällskap hade jag en elefant,\nelefant!\n\nElefanten spruta' vatten,\noch jag trodde det var vin,\nsedan dess har alla kallat mig för svin.\nMera vin!\n\nJag var full en gång för länge sen,\npå knäna kröp jag hem,\noch i sällskap hade jag en elefant,\nelefant!\n\nElefanten spruta' vatten,\noch jag trodde det var sprit,\nsedan dess har alla kallat mig för skit.\nMera sprit!"
+			"content": "Jag var full en gång för länge sen,\npå knäna kröp jag hem.\nVarje dike var för mig ett vilohem - Vilohem!\nI varje hörn och varje vrå,\nhade jag en liten vän,\nifrån renat upp till nittosex procent - Sex procent!\n\nJag var full en gång för länge sen,\npå knäna kröp jag hem,\noch i sällskap hade jag en elefant - Elefant!\nElefanten spruta' vatten,\noch jag trodde det var öl,\nsedan dess har alla kallat mig för knöl - Mera öl!\n\nJag var full en gång för länge sen,\npå knäna kröp jag hem,\noch i sällskap hade jag en elefant - Elefant!\nElefanten spruta' vatten,\noch jag trodde det var vin,\nsedan dess har alla kallat mig för svin - Mera vin!\n\nJag var full en gång för länge sen,\npå knäna kröp jag hem,\noch i sällskap hade jag en elefant - Elefant!\nElefanten spruta' vatten,\noch jag trodde det var sprit,\nsedan dess har alla kallat mig för skit - Mera sprit!"
 		},
 		{
 			"id": 12,
 			"title": "Kalmarevisan",
+			"alternativeTitles": ["Calmarevisan"],
 			"tags": ["gasque", "swe"],
-			"content": "> Endast sångledaren sjunger rader som börjar med \"\\*\"\n\n*För uti Kalmare stad,\n*ja där finns det ingen kvast,\nförrän lördagen!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*När som bonden kommer hem,\nkommer bondekvinnan ut ://\noch är stor i sin trut.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Var är pengarna du fått?\nJo, dom har jag supit opp ://\nUppå Kalmare slott.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Jag ska mäla dig an,\nför vår kronbefallningsman!://\nOch du skall få skamm!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Kronbefallningsmannen vår,\nsatt på krogen i går. ://\nOch var full som ett får.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Vad ska bonden få till mat,\nsura sillar och potat'? ://\nDet blir sillsallat!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen."
+			"content": "> Endast sångledaren sjunger rader som börjar med \"\\*\"\n\n*För uti Kalmare stad,\n*ja där finns det ingen kvast,\nförrän lördagen!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*När som bonden kommer hem,\nkommer bondekvinnan ut ://\noch är stor i sin trut.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Var är pengarna du fått?\nJo, dom har jag supit opp ://\nUppå Kalmare slott.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Jag ska mäla dig an,\nför vår kronbefallningsman! ://\nOch du skall få skamm!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Kronbefallningsmannen vår,\nsatt på krogen i går. ://\nOch var full som ett får.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Vad ska bonden få till mat,\nsura sillar och potat'? ://\nDet blir sillsallat!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen."
 		},
 		{
 			"id": 13,
@@ -130,7 +138,7 @@
 			"melody": "Katjuscha",
 			"composer": "Matvey Blanter",
 			"tags": ["gasque", "swe"],
-			"content": "Lille Olle skulle gå på disco,\nmen han hade inte någon sprit.\nLille Olle skaffa' lite hembränt.\nLille Olle gick då på en nit.\n\nLa lala la la ...\n\nLille Olle skulle börja festa.\nSpriten blandade han ut med Mer.\nLille Olle drack upp hela bålen.\nLille Olle ser nu inte mer.\n\nLa lala la la ...\n\nLille Olle skaffa sig en ledhund,\nden var ful och ganska trind.\nOlles ledhund drack upp 15 flaskor.\nOlles ledhund är nu också blind.\n\nLa lala la la ...\n\nLille Olle började med droger,\nblanda' ut sin LSD med juice.\nLille Olles hjärna står i lågor.\nLille Olle dog av överdos.\n\nLa lala la la ...\n\nLille Olle sitter nu i himlen,\nfesta kan man även göra där.\nLille Olle skaffade en ölback.\nCapsar nu med Gud och Sankte Per.\n\nLa lala la la ...",
+			"content": "Lille Olle skulle gå på disco,\nmen han hade inte någon sprit.\nLille Olle skaffa' lite hembränt.\nLille Olle gick då på en nit.\n\nLa lala la la...\n\nLille Olle skulle börja festa.\nSpriten blandade han ut med Mer.\nLille Olle drack upp hela bålen.\nLille Olle ser nu inte mer.\n\nLa lala la la...\n\nLille Olle skaffa sig en ledhund,\nden var ful och ganska trind.\nOlles ledhund drack upp 15 flaskor.\nOlles ledhund är nu också blind.\n\nLa lala la la...\n\nLille Olle började med droger,\nblanda' ut sin LSD med juice.\nLille Olles hjärna står i lågor.\nLille Olle dog av överdos.\n\nLa lala la la...\n\nLille Olle sitter nu i himlen,\nfesta kan man även göra där.\nLille Olle skaffade en ölback.\nCapsar nu med Gud och Sankte Per.\n\nLa lala la la...",
 			"author": "Calle Isaksson, D (LiTH)"
 		},
 		{
@@ -146,7 +154,7 @@
 			"melody": "När månen vandrar",
 			"tags": ["gasque", "swe"],
 			"content": "När jag är fuller då är jag glad,\nfan vet om jag ej är vacker.\nJag vandrar kring i vår lilla stad,\nibland lyxhus och baracker.\n\nJag sjunger ljuvligt en serenad.\ndet gör jag bara när jag är glad\noch full och vacker,\noch full och vacker.\n\nNär jag är fuller då är jag stark,\nfan vet om jag ej är modig.\nDå kan jag slå vem som helst i mark,\nså han blir trasig och blodig.\n\nJag välter träden i våran park.\ndet gör jag bara när jag är stark\noch full och modig,\noch full och modig.\n\nNär jag är fuller då år jag rik\nfan vet om jag ej är snille.\nOch dör jag blir jag ett vackert lik,\nbegravs med gravöl och gille.\n\nI himlen möts jag av hornmusik,\ndet gör man bara när man är rik\noch är ett snille,\noch är ett snille.\n\nMen när jag vaknar upp nästa dag,\nuppå ett enkelrum med galler.\nDå känner jag mig så rysligt svag,\noch hatar bråk och kravaller.\n\nMin mage krånglar och är ur lag,\nnog fan så vet jag att jag idag\när bakom galler,\när bakom galler.",
-			"author": "Tore \"Pekka\" Norén, B (Sångartäflan, KTH, 1942)"
+			"author": "Tore \"Pekka\" Norén, B (Sångartäfvlan, KTH, 1942)"
 		},
 		{
 			"id": 16,
@@ -159,12 +167,12 @@
 		},
 		{
 			"id": 17,
-			"title": "Bort allt vad oro gör",
-			"alternativeTitles": ["Bacchi Tempel sång nr. 17"],
+			"title": "Bacchi Tempel sång nr. 17",
+			"alternativeTitles": ["Bort allt vad oro gör"],
 			"composer": "Carl Michael Bellman",
 			"tags": ["gasque", "swe"],
 			"content": "Bort allt vad oro gör,\nbort allt vad hjärtat kväljer!\nBäst att man väljer\nbland dessa buteljer\nsin maglikör.\n\n//: Granne, gör du just som jag gör!\nVet, denna oljan ger humör.\nVad det var läckert!\nVad var det? Rhenskt bleckert?\n\"Oui, monseigneur!\" ://\n\nBort allt vad oro gör,\nallt är ju stoft och aska.\nLåt oss bli raska\noch tömma vår flaska\nbland bröderna!\n\n//: Granne, gör du just som jag gör!\nVet, denna oljan ger humör.\nVad det var mäktigt!\nVad var det? \"Jo, präktigt!\"\nMalaga? \"Ja!\" ://",
-			"author": "Carl Michael Bellman (1783 — Bacchi Tempel sång nr. 17)"
+			"author": "Carl Michael Bellman (1783)"
 		},
 		{
 			"id": 18,
@@ -213,7 +221,7 @@
 			"melody": "Sjösala vals",
 			"composer": "Evert Taube",
 			"tags": ["gasque", "swe"],
-			"content": "Huvudet vi lyfter med ett stön ur vår säng,\ntvättmaskin i buken, kanoner i huvudet.\nTungan som en plyschsoffa och yrseln i sväng,\ni ångesten vi svettas kom sjung din refräng:\n\nVarför finns det aldrig nå'n nykter karneval?\nO, låt oss somna om så vi slipper våra kval.\nMen se, så många supar vi redan kastat upp i sängen\nRenat och Skåne, Svart Vinbär och fager Bäsk!",
+			"content": "Huvudet vi lyfter med ett stön ur vår säng,\ntvättmaskin i buken, kanoner i huvudet.\nTungan som en plyschsoffa och yrseln i sväng,\ni ångesten vi svettas kom sjung din refräng:\n\nVarför finns det aldrig nå'n nykter karneval?\nO, låt oss somna om så vi slipper våra kval.\nMen se, så många supar vi redan kastat upp i sängen:\nRenat och Skåne, Svart Vinbär och fager Bäsk!",
 			"author": "(Lundakarnevalen, 1986)"
 		},
 		{
@@ -249,6 +257,7 @@
 			"title": "Förkröksvisa",
 			"melody": "The Raiders March (Indiana Jones theme)",
 			"composer": "John Williams",
+			"notes": ["niv⁻¹ sjungs negativt 1"],
 			"tags": ["gasque", "swe"],
 			"content": "Dricka cider, hiva bärs\nhinka OP, pimpa niv⁻¹\nBörja smörja sitt system\nInför kvällen, för kvällen\nför kvällen ikväll"
 		},
@@ -267,15 +276,27 @@
 			"composer": "Irving Berlin",
 			"tags": ["gasque", "swe"],
 			"content": "Jag drömmer om en vit vecka,\nsju dagar utan alkohol.\nTänk att bara skåla,\ni juice och cola\noch sedan minnas allt man gjort.\n\nJag drömmer om en vit vecka,\ndet finns en gräns för vad jag tål.\nJag vill inte dricka\nmer sprit!\nSå låt nästa vecka vara vit.",
-			"author": "(Sångarstriden, Lund, 1992)"
+			"author": "(Sångarstriden, LTH, 1992)"
 		},
 		{
 			"id": 30,
 			"title": "Hallen lutar",
-			"melody": "Halleluja",
+			"melody": "Hallelujah",
 			"composer": "Leonard Cohen",
 			"tags": ["gasque", "swe"],
 			"content": "Jag minns knappt hur jag tog mig hem.\nKlockan var minst kvart i fem,\nnär jag stod utanför min egen våning.\nJag lyfte upp min nyckelring\noch haja nästan ingenting,\nnär dörren öppnas står min hall å lutar.\n\n//: Hallen lutar, hallen lutar ://\n\nJag minns knappt julen nittiotre.\nMin bror var där å syster me',\nå snyggingen i rött satt alld'les breve'.\nVi drack vår glögg och pratade,\nmin dejt blev trött och schappade.\nSå jag fick ännu mer tid för den röde.\n\n//: Han i luva, han i luva ://\n\nGasquen var sen länge stängd.\nJag supit bort varenda peng\noch vill nu bara hem till min säng.\nJag vandra hem genom en natt,\nkall och trött jag såg en katt,\nden satt där utanför på min gata.\n\n//: Katten lutar, katten lutar ://\n\nFredagar har mer att ge,\nän räkor, snask och en TV.\nEn kan ju hyra film och DVD.\nÅ vill en ha något riktigt bra,\nså kan en faktiskt bara ta\nen film som vunnit Oscar åt en Berry.\n\n//: Halle Berry, Halle Berry ://"
+		},
+		{
+			"id": 110,
+			"title": "Avsked till Kistan",
+			"melody": "Öppna din dörr",
+			"composer": "Tommy Nilsson",
+			"notes": [
+				"Avskedsgyckel till första Kistan i Forum, när sektionen flyttade till Kistan 2.0 i Electrum."
+			],
+			"tags": ["gasque", "swe"],
+			"content": "Den första gång jag kom in hit,\nfann jag en välkommen respit\nEn tillflyktsort, en skön oas\nen ointaglig hemmabas\nMen tiden den har flytt - vi flyttar rubbet, bygger nytt\nOch hjärtat slår ett slag på Kistans sista-a dag\n\nKistan, du är förtrollande\njag kan inte ge upp vårt förhållande\nMen var gång som jag ser på dig\nså hör jag sanningen i mig\nVår tid har nått sitt slut - du stannar kvar, vi flyttar ut\nOch hjärtat slår ett slag på Kistans sista-a dag\n\nÖppna din dörr! - och säg att du vill ha oss kvar\nFortsätt vara våran bar - jag vet att du vi-ill\nOch jag ska fylla mitt glas - innan dörren stängs för gott\nNjuta här en sista gång\nLåt mig bli den som sist - får stänga din dörr",
+			"author": "Strängteoretiquerna, IN (Avskedsgasquen, KTH, 2014)"
 		},
 		{
 			"id": 154,
@@ -290,8 +311,7 @@
 			"title": "Långt ner i Småland",
 			"alternativeTitles": ["Rännan"],
 			"notes": [
-				"Gammal visa från åtminstone 1870-talet.",
-				"Strindberg använde den i Hemsöborna 1887."
+				"Gammal visa från åtminstone 1870-talet. Strindberg använde den i Hemsöborna 1887."
 			],
 			"tags": ["gasque", "swe"],
 			"content": "Långt ner i Småland,\ndär rider själva djävulen\nmed laddade pistoler och knallande gevär,\noch alla små djävlar, de spelar på fioler\noch själva fader Satan, han spelar handklaver.\n\nHurra för Svealand,\nhurra för Götaland,\noch hurra för potatisland\nsom ger oss brännevin!\n\nJa, nog har vi glas,\nmen vi haver inget brännevin.\nFinns här någon handlingsman\nsom haver ett glas öl?\n\nHurra för...\n\nJa nubben kan tagas\npå mångahanda sätt och vis.\nDen lindar sig kring hjärtat\nsom rumpan på en gris.\n\nHurra för..."
@@ -307,7 +327,7 @@
 		{
 			"id": 165,
 			"title": "You can have another",
-			"melody": "Popeye the sailor man",
+			"melody": "Popeye the Sailor Man",
 			"composer": "Sammy Lerner",
 			"tags": ["gasque", "eng"],
 			"content": "You can have another yet.\nThey're nicer the more you get!\nBut if you have twenty,\nyou'll wake with plenty,\nof head-ache and much regret."
@@ -329,14 +349,6 @@
 			"tags": ["gasque", "eng"],
 			"content": "I'm beginning to have a little problem\nI am getting bored\nI don't know what I should do\nAnd no one has a clue\nIs it time for me to wonder 'bout the food?\n\nI'm beginning to feel a little hungry\nWhere's some food to eat\nI've been waiting for far too long\nNow I have to sing this song\nPleading from my seat\n\nA plate of delicious food\nand a whiskey to boot\nis the need that I want fulfilled\nbut all that I have is this meagre old glass\nthat looks like it was in the dirt\nBut all I say is I don't care\nas long as I have fun\n\nI'm beginning to feel a little thirsty\nTime to drink some more\nSo raise your beer and give a cheer\nAnd then hold all your friends near\nAnd sing this song to pass away the time\n\nI'm beginning to feel the joy returning\nSinging fills the air\nWith a friend who's by my side\nAnd a good drink to abide\nI have not a care",
 			"author": "Dylan Horn Kreiner, IT-23 (KTH, 2024)"
-		},
-		{
-			"id": 178,
-			"title": "Svinsta Skär",
-			"alternativeTitles": ["Dansen går på Svinnsta skär"],
-			"tags": ["gasque", "swe"],
-			"content": "Dansen den går uppå Svinnsta skär,\nhör klackarna mot hällen.\nGossen han svänger med flickan kär\ni stilla sommarnatt.\nBlommorna dofta från hagen där\noch många andra ställen,\noch mitt i talltrastens kvällskonsert\nhörs många muntra skratt.\n\nLjuvlig är sommarnatten\nblånande vikens vatten.\nOch mellan bergen och tallarna\nhöres musiken och trallarna.\nFlickan har blommor i håren\nmånen strör silver i snåren.\nAldrig förglömmer jag stunderna där\nuppå Svinnsta skär.\n\nGossen tar flickan uti sin hand\noch vandrar nedåt stranden,\nlossar sin jolle och ror från land\nbland klippor och bland skär.\nDrömmande ser han mot vågens rand\nsom rullar in mot sanden,\nkysser sin flicka så ömt ibland\noch viskar “Hjärtans kär”.\n\nLjuvlig är sommarnatten...\n\nSolen går upp bakom Konungssund\noch stänker guld på vågen.\nFåglarna kvittra i varje lund\nsin stilla morgonbön.\nGäddorna slå invid skär och grund\nså lekfulla i hågen.\nMen sista valsen i morgonstund,\nman hör från Svinnerön.\n\nLjuvlig är sommarnatten...",
-			"author": "Gideon Wahlberg (1927)"
 		},
 		{
 			"id": 180,
@@ -379,10 +391,11 @@
 		},
 		{
 			"id": 189,
-			"title": "Porthos Song",
+			"title": "Portho's song",
+			"alternativeTitles": ["Porthos visa (Engelska)"],
 			"melody": "Can't get a man with a gun",
 			"composer": "Irving Berlin",
-			"notes": ["English translation of \"Porthos visa\""],
+			"notes": ["English version of \"Porthos visa\"."],
 			"tags": ["gasque", "eng"],
 			"content": "Please start the gasque now\nI'm reaching for my flask now\nAll this waiting is making me think\n\nMy thirst is consuming,\nmy hunger is still fuming\nFor fuck sake, give me something to drink!\n\nAll this mayhem! Please just stop them\nWho the fuck thinks that I am a moose?\n\nTo England on horseback,\nwhile chugging down a six pack\nI am sure that we'll find us a pub\n\nAnd there we will party,\nwith some guy named Marty\nLet's drink whisky and port wine,\nand act like a real swine\nwe'll try all the rubb and the stubb!"
 		},
@@ -397,12 +410,150 @@
 		{
 			"id": 193,
 			"title": "I Will Party",
+			"alternativeTitles": ["Jag ska festa (Engelska)"],
 			"melody": "Bamsesången",
 			"composer": "Sten Carlberg",
-			"notes": ["English translation of \"Jag ska festa\""],
+			"notes": ["English version of \"Jag ska festa\"."],
 			"tags": ["gasque", "eng"],
-			"content": "I will party, take it slow with drinking.\nHave some fun without getting too drunk.\nNot crawling 'round with the party crowd.\nTake it easy, relax for my own sake\n\nFirst a beer to quench my thirst,\nThen a shot, you know what's first.\nDown the wine, then punsch in line,\nA cocktail buffet last.\n\nNow I'm wasted, pass out first of all,\nMiss the party, but who really cares?\nMixing beer and old sour milk for kicks,\nThrowing up on my dinner mate there!\n\nFirst a beer to quench my thirst,\nThen a shot, you know what's first.\nDown the wine, then punsch in line,\nA cocktail buffet last.\n\nVomit's flowing down my woolen tie,\nRavioli's drying in my hair.\nWho put me here in this damn urinal?\nAnd whose fork is stuck in my right thigh?",
+			"content": "I will party, take it slow with drinking.\nHave some fun without getting too drunk.\nNot crawling 'round with the party crowd.\nTake it easy, relax for my own sake.\n\nFirst a beer to quench my thirst,\nthen a shot, you know what's first,\ndown the wine, then punsch in line,\na cocktail buffet last.\n\nNow I'm wasted, pass out first of all.\nMss the party, but who really cares?\nMixing beer and old sour milk for kicks.\nThrowing up on my dinner mate there!\n\nFirst a beer to quench my thirst,\nthen a shot, you know what's first,\ndown the wine, then punsch in line,\na cocktail buffet last.\n\nVomit's flowing down my woolen tie,\nravioli's drying in my hair.\nWho put me here in this damn urinal?\nAnd whose fork is stuck in my right thigh?",
 			"author": "Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		},
+		{
+			"id": 195,
+			"title": "Skolan KTH",
+			"melody": "Fader Abraham",
+			"tags": ["gasque", "swe"],
+			"content": "Skolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\n\nSkolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\nKista bort\n\nSkolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\nKista bort\nSälj bort L\n\nSkolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\nKista bort\nSälj bort L\nTa in fler"
+		},
+		{
+			"id": 201,
+			"title": "Fattig Student",
+			"melody": "Fattig bonddräng",
+			"composer": "Georg Riedel",
+			"tags": ["gasque", "swe"],
+			"content": "Jag är fattig student\nmen jag lever ändå.\nDagar går och kommer,\nmedan jag pluggar på.\nRäknar, programmerar,\nstressar, skriker och svär.\nSnart så kommer tentan,\nvilken jävla misär!\n\nFör att dämpa oron\ntar jag gärna en sup,\nnu när helgen kommit\ndå vill jag ha det kul.\nPlugga hela helgen?\nDet orkar man ej.\nJag ska ut och festa\noch dansa med dig!\n\nMen så kommer månda'n,\nvarför var jag på fest?\nTentan den börjar åtta,\ndet får bli en till rest.\nÄndå ska det firas,\nnu är tentorna slut!\nNu kan fattig student\näntligen vila ut.",
+			"author": "Erik Westergren, OPEN-17 (KTH)"
+		},
+		{
+			"id": 202,
+			"title": "Var nöjd med spriten",
+			"melody": "Var nöjd med allt som livet ger",
+			"composer": "Terry Gilkyson",
+			"tags": ["gasque", "swe"],
+			"content": "Var nöjd med\nallt som spriten ger,\nen gin och tonic glider ner,\nskölj ned med skumpa, öl och aquavit!\nOch minns att\nBacchus är vår vän\noch whisky gör dig hel igen,\nvar nöjd med allt som spriten har att ge!\n\nNär jag går och handlar\npå vårt monopol\nger fyllig vin\nett rosigt flin.\nJag köper vin av tradition,\nför billigt är ju min passion.\nOch vill du ha dig ett kraftigt järn,\nså labba ihop nåt från järnaffär'n!"
+		},
+		{
+			"id": 204,
+			"title": "Kårmupparna",
+			"melody": "Små grodorna",
+			"tags": ["gasque", "swe"],
+			"content": "//: Kårmupparna, kårmupparna är lustiga att se. ://\n\n//: Ej HP, ej CSN, ej bostad hava de.\nEj framtid, ej fritid, ej livslust hava de.\nOh öl öl öl\noch vin vin vin\noch punch punch punch punch punch.\nOh öl öl öl\noch vin vin vin\noch punch punch punch punch punch. ://",
+			"author": "Erik Nordlöf, D-19, Cornelia Haag, A-19, Oscar Jacobson, CL-16, Arvid Nilsson, MiT-15, Gabriel Pinheiro, A-21 (QUINOA, KTH, 2022)"
+		},
+		{
+			"id": 254,
+			"title": "Fredmans sång nr 35",
+			"alternativeTitles": ["Gubben Noach", "Om gubben Noach och hans fru", "Gubben Noak"],
+			"composer": "Carl Michael Bellman",
+			"tags": ["gasque", "swe"],
+			"content": "Gubben Noak, gubben Noak\nvar en heders man.\nNär han gick ur arken\nplantera' han på marken\nmycket vin, ja mycket vin, ja\ndetta gjorde han.\n\nNoak rodde, Noak rodde\nur sin gamla ark.\nKöpte sig buteljer,\nsådana man säljer\nför att dricka, för att dricka\npå vår nya park.\n\nHan väl visste, han väl visste\natt en män'ska var\ntörstig av naturen,\nsom de andra djuren.\nDärför han ock, därför han ock\nvin planterat har.\n\nGumman Noak, gumman Noak\nvar en heders fru:\nHon gav man sin dricka.\nFick jag sådan flicka,\ngifte jag mig, gifte jag mig\njust på stunden nu.\n\nAldrig sad' hon, aldrig sad' hon\n\"Kära far, nånå,\nsätt ifrån dig kruset!\"\nNej, det ena ruset\npå det andra, på det andra\nlät hon gubben få.\n\nGubben Noak, gubben Noak\nbrukte egna hår,\npipskägg, hakan trinder,\nrosenröda kinder.\nDrack i botten, drack i botten.\nHurra och gutår!\n\nDå var lustigt, då var lustigt\npå vår gröna jord:\nMan fick väl till bästa\ningen törstig nästa\nsatt och blängde, satt och blängde,\nvid ett dukat bord.\n\nInga skålar, inga skålar\ngjorde då besvär.\nDå var ej den läran\n\"Jag skall ha den äran!\"\nNej, i botten, nej, i botten\ndrack man ur så här.",
+			"author": "Carl Michael Bellman (1791)"
+		},
+		{
+			"id": 258,
+			"title": "Var Osquar",
+			"melody": "Te Deum (Eurovisionssignaturen)",
+			"composer": "Marc-Antoine Charpentier",
+			"tags": ["gasque", "swe"],
+			"content": "Var Osquar som går på vår sektion,\nav äldre kolleger har ärvt en tradition:\nAtt noga se om sin kondition\noch högra armen ge motion!"
+		},
+		{
+			"id": 259,
+			"title": "Välkommen",
+			"melody": "Jänta å ja'",
+			"composer": "Fredrik August Dahlgren",
+			"tags": ["gasque", "swe"],
+			"content": "Välkommen hit, ta dig en bit.\nSpill ej på duken, den är ju vit.\nSkoj ska vi ha, dansa vi ska,\ntrivas så där förtroligt.\nGlädjen hos alla toppen ska nå,\nskratta och sjunga, det kan vi få.\nLuriga hemåt sedan vi gå,\nikväll ska vi ha så roligt."
+		},
+		{
+			"id": 260,
+			"title": "Teknologer är vi alla",
+			"melody": "Battle Hymn of the Republic",
+			"composer": "William Steffe",
+			"tags": ["gasque", "swe"],
+			"content": "Teknologer är vi alla\nända tills dess att vi falla.\nSpå det ej hos Singoalla\nför då dricker du än mer.\n\nBröder är vi nu för livet.\nDet tar vi alla nu för givet.\nEfter ölen kommer vinet\nsom vi tillverkat själv."
+		},
+		{
+			"id": 272,
+			"title": "Minne",
+			"melody": "Memory från musikalen Cats",
+			"composer": "Andrew Lloyd Webber",
+			"notes": ["\"besinne\" var ursprungligen \"besinn' er\" fram till 1999."],
+			"tags": ["gasque", "swe"],
+			"content": "Minne - Jag har tappat mitt minne.\när jag svensk eller finne?\nKommer inte ihåg.\n\nInne - Är jag ute eller inne?\nJag har luckor i minne'\nsån'där små alko-hål.\n\nMen besinne, man tätar med det\nbrännvin man får.\nFastän minnet och Helan går.",
+			"author": "Bosse Österberg (Finland, 1986)"
+		},
+		{
+			"id": 273,
+			"title": "Dränkta Lucia",
+			"melody": "Natten går tunga fjät",
+			"composer": "Teodoro Cottrau",
+			"tags": ["gasque", "swe"],
+			"content": "Huvet' slår kopparslag,\nögonen svider.\nMagen i obehag,\nnatten den lider.\nDå genom strupen går,\nhembränd en liten tår.\nVördat vare vårat brännevin\nvördat vårt brännvin."
+		},
+		{
+			"id": 274,
+			"title": "Da'n därpå",
+			"melody": "I'm Getting Better Every Day",
+			"composer": "Mark Strong",
+			"tags": ["gasque", "swe"],
+			"content": "Sämre och sämre da'n därpå.\nSäg mig, vad gjorde jag igår?\nMånga namn för hur man mår sen\nbåde bilmek, betongkeps och Ågren\nTag, en akvavitamin och gå på för full maskin.\nAj, aj, aj, aj, aj, aj, aj\nmen jag mår sämre och sämre da'n därpå!"
+		},
+		{
+			"id": 275,
+			"title": "Kopparslagaren 2",
+			"melody": "En sockerbagare",
+			"composer": "Alice Tegnér",
+			"tags": ["gasque", "swe"],
+			"content": "Små kopparslagare här bor i staden\nde är ett otyg för varje glad en.\nDe plågar stora, de plågar små,\nde plågar många - mest dan därpå.\n\nPå förmiddagen de väcker opp en\nmed dunderslag uti huvudknoppen.\nSin dag de börjar med friskt humör\noch till sin verkstad de huvet gör.\n\nMen hettan ökar inunder pannan\nman söker släcka med vattenkannan.\nMan dricker mjölk och tar magnecyl\nmen ändock glöder var molekyl.\n\nDock, kopparslagare kan man nog slippa\nom man går nykter från var hippa\nom man förblir vad man är helt visst\nen pigg och skötsam absolutist.\n\nMen vi, som lärt utav livet mera,\nvet andra medel att den parera\nvi har en visdom - oändligt djup;\nvi stiger opp och tar oss en sup."
+		},
+		{
+			"id": 281,
+			"title": "Skitåkare Andersson",
+			"alternativeTitles": ["Skitåkar-Anders"],
+			"tags": ["gasque", "swe"],
+			"content": "Vem är det, vem är det, vem är det som kommer där?\nJo, skitåkare Anderssonskans käring!\nSkitåkare Anderssonskans käring!\nHon som bor på Hagagatan 3.\nTjo faderittan, klia mig på träskon,\nhär ska ni vara med!\n\n> Sjung viskandes\n\nJag vill dö, jag vill ej längre leva,\njag vill dö i famnen på en mö. HEJ!\nJag vill dö, jag vill ej längre leva,\njag vill dö i famnen på en mö. HEJ HEJ HEJ!"
+		},
+		{
+			"id": 282,
+			"title": "Hej på er bröder alla",
+			"tags": ["gasque", "swe"],
+			"content": "Hej på er bröder alla!\nNu ska vi supa till dess vi falla,\nmen brännvinslitern, den är för liten,\nden är för liten för oss alla.\n\nOch en gång när jag är döder\noch lagd mellan tvenne bröder,\nbegrav mig, begrav mig\ni en brännvinskällare på Söder.\n\nOch på min gravsten ska det stå ristat\nmed tvenne små enkla rader:\n\"Här vilar det en fyllebror,\nsom alltid var så god och glader.\nJa, här vilar det en fyllebror,\nsom alltid var så glad och goder.\""
+		},
+		{
+			"id": 283,
+			"title": "Emil Can-Can inte",
+			"melody": "Can-can",
+			"tags": ["gasque", "swe"],
+			"content": "Var tanke ifrån Chalmers dammar!\nLiksom palmers stammar chalmeristers huvu'n är solida.\nI landets västra vrå den är ett stort hallå,\nmen vad är CTH mot KTH?\n\nEmil är en ynklig typ\nmed hjärna som en litet kryp,\noanvänd så länge att man ser att den degenererat.\nHan kan bara vara nöjd\nnär han får syssla med sin slöjd,\nkanske bland nå'n trä-ände\nnå'n gàng han hittar en själsfrände.\n\nIngen IQ - han uti sin hjärna bär.\nSå'n tragik du - finns ej annanstans än här.\nMen i Götet - kan han göra karriär.\nFör det nötet - kan trots all sin hjärnchimär betraktas som en pionjär i denna intelligensmisär.\n\nVar tanke ifrån Chalmers dammar!\nLiksom palmers stammar chalmeristers huvu'n är solida.\nI landets västra vrå den är ett stort hallå,\nmen jag kan ej förstå hur CTH med dess nivå\nska kunna klå vårt stolta KTH!",
+			"author": "Mikael Segersten, E-76 (KTH)"
+		},
+		{
+			"id": 284,
+			"title": "Visa till Emil",
+			"melody": "Schottis på Valhall",
+			"composer": "Ulf Peder Olrog",
+			"tags": ["gasque", "swe"],
+			"content": "Våran västra kust det en stor förlust\nvar att nån'sin från danskarna ta.\nOm nu rätt jag minns, det på denna finns\nnån slags slöjdskola ingen vill ha.\nDetta institut har till attribut\natt mest likna ett läger för fån.\nVad som finns däruti det begriper väl ni;\nNär man hyvlar så blir det ju spån!"
+		},
+		{
+			"id": 285,
+			"title": "Imperial System",
+			"melody": "Studentsången",
+			"composer": "Prins Gustaf av Sverige och Norge",
+			"tags": ["gasque", "swe"],
+			"content": "ft kp K bu B\n\n\"Gb Oe lb rdr std\n\nst msk kn E\n\nFr krm c cSt\n\n°F\n\npt - ' \"at\n\nhk nmi\n\nM Ci dptr cal\n\nmvp mvp ha!",
+			"author": "Mars Nilsson F-82 (KTH)"
 		},
 		{
 			"id": 31,
@@ -410,7 +561,8 @@
 			"melody": "En sockerbagare",
 			"composer": "Alice Tegnér",
 			"tags": ["beer", "swe"],
-			"content": "En pilsnerdrickare här bor i staden,\nhan dricker pilsner mest hela dagen,\nhan dricker gröna, han dricker blå,\nhan dricker några med renat på.\n\nOch i hans fönster hänga tomma glasen,\noch alla burkarna ifrån kalasen,\noch är han nykter så kan han gå\nner till butiken och fylla på."
+			"content": "En pilsnerdrickare här bor i staden,\nhan dricker pilsner mest hela dagen,\nhan dricker gröna, han dricker blå,\nhan dricker några med renat på.\n\nOch i hans fönster hänga tomma glasen,\noch alla burkarna ifrån kalasen,\noch är han nykter så kan han gå\nner till butiken och fylla på.",
+			"author": "Göran Rygert, A-57 (CTH)"
 		},
 		{
 			"id": 32,
@@ -447,8 +599,10 @@
 		{
 			"id": 36,
 			"title": "Strejk på Pripps (I)",
+			"alternativeTitles": ["Strejken på Pripps"],
 			"melody": "I natt jag drömde",
 			"composer": "Ed McCurdy",
+			"notes": ["Sjungs sällan av IT-Sektionen, version II sjungs istället."],
 			"tags": ["beer", "swe"],
 			"content": "I natt jag drömde något som\njag aldrig drömt förut:\nJag drömde det var strejk på Pripps,\noch alla ölen var slut.\n\nJag drömde om en jättesal\ndär alla satt på rad,\nså kom där in en bryggare\nsom harkla sig och sa:\n\nDet finns inga blå burkar mer,\ninte en enda bärs.\nOch dom som hörde på honom\nsa: detta blir nog en pärs.\n\nPå gatorna gick folk omkring\noch drog från krog till krog,\noch alla vråla' dom av törst\noch svimmade och dog."
 		},
@@ -459,7 +613,7 @@
 			"composer": "Ed McCurdy",
 			"notes": ["Sista versen sjungs stående."],
 			"tags": ["beer", "swe"],
-			"content": "I natt jag drömde något som,\njag aldrig drömt förut.\nJag drömde det var strejk på Pripps\noch alla ölen var slut.\n\nJag drömde om en jättesal\ndär ölen stod på rad.\nJag drack så där ett tjugotal\noch reste mig och sa:\n\nArmen i vinkel!\nBlicken i skyn!\nSå var det menat!\nWhisky och renat!\nVårt mål alkohol!\nFör dem som tål! Skål!"
+			"content": "I natt jag drömde något som,\njag aldrig drömt förut.\nJag drömde det var strejk på Pripps\noch alla ölen var slut.\n\nJag drömde om en jättesal\ndär ölen stod på rad.\nJag drack så där ett tjugotal\noch reste mig och sa:\n\nArmen i vinkel,\nblicken i skyn!\nSå var det menat,\nwhisky och renat!\nVårt mål alkohol,\nför dem som tål!\nSkål!"
 		},
 		{
 			"id": 38,
@@ -483,7 +637,7 @@
 			"melody": "Var nöjd med allt vad livet ger",
 			"composer": "Terry Gilkyson",
 			"tags": ["beer", "swe"],
-			"content": "Var nöjd med allt som ölen ger,\noch även om du dubbelt ser.\nGlöm bort bekymmmer,\nsorger och besvär!\nVar glad och nöjd för vet du vad,\nen folköl gör ju ingen glad.\nVar nöjd med ölen som vi dricker här."
+			"content": "Var nöjd med\nallt som ölen ger,\noch även om du dubbelt ser.\nGlöm bort bekymmmer,\nsorger och besvär!\nVar glad och nöjd för vet du vad,\nen folköl gör ju ingen glad.\nVar nöjd med ölen som vi dricker här."
 		},
 		{
 			"id": 41,
@@ -495,19 +649,20 @@
 		},
 		{
 			"id": 42,
-			"title": "Ölvisa från TKK",
+			"title": "Ölvisa",
 			"melody": "Staffan var en stalledräng",
 			"notes": [
-				"* Damer sjunger \"Svakar\", herrar sjunger \"Svatta\".",
-				"Orden motsvarar \"Osquar\" resp. \"Osqulda\" på Tekniska Högskolan i Helsingfors (TKK)."
+				"* Damer sjunger \"Svakar\", herrar sjunger \"Svatta\". Orden motsvarar \"Osquar\" respektive \"Osquarina\" på Tekniska Högskolan i Helsingfors (TKK), dagens Aalto-universitet.",
+				"TF (Teknologföreningen) kan bytas ut till de man är hos. Sjöngs TMEIT när den framfördes av TF till TMEIT."
 			],
 			"tags": ["beer", "swe"],
-			"content": "Hos TMEIT är det fest ikväll,\noch ölet det skall flöda.\nSå tag ditt öl och i dig häll,\noch alla sorger döda.\nIngen droppe finnes kvar,\nvi vet hur vårt ölet ska behandlas.\n\nVi vet hur vårt öl skall tas.\nvi fattar tag i flaskan.\nVi bugar för vår Svatta* strax,\noch sveper sedan vätskan.\nIngen droppe skall bli kvar,\nvi vet hur vår Svatta* skall behandlas."
+			"content": "Hos TF är det fest ikväll,\noch ölet det skall flöda.\nSå tag ditt öl och i dig häll,\noch alla sorger döda.\nIngen droppe finnes kvar,\nvi vet hur vårt ölet ska behandlas.\n\nVi vet hur vårt öl skall tas.\nvi fattar tag i flaskan.\nVi bugar för vår Svatta* strax,\noch sveper sedan vätskan.\nIngen droppe skall bli kvar,\nvi vet hur vår Svatta* skall behandlas.",
+			"author": "Teknologföreningen (Tekniska Högskolan i Helsingfors (TKK))"
 		},
 		{
 			"id": 43,
 			"title": "Bamsehäf",
-			"melody": "Bamse",
+			"melody": "Bamsesången",
 			"composer": "Sten Carlberg",
 			"tags": ["beer", "swe"],
 			"content": "Vi skall festa, hela da'n till nästa,\nkanske börja om på nytt igen.\nVi tar drycken, godast utav alla,\nFram med ölen, nu så är det dags!\n\nTuborg, Carlsberg, Stella, Åbro,\nSpendrups, Falcon, Pripps och Sol,\nCorona, Norrlands, TT\noch en jätteelefant!\n\nÖlen flödat, tomglasen är många,\nSchmecken håller huvudet på plats!\nSamlar flaskor, sveper alla slattar,\nöl för panten, börja om på nytt!"
@@ -531,16 +686,81 @@
 			"author": "Dylan Horn Kreiner, IT-23 (KTH, 2025)"
 		},
 		{
+			"id": 207,
+			"title": "Öluppdrickarvisa",
+			"melody": "Huvud, axlar, knä och tå",
+			"notes": [
+				"Sjungs först tyst och lugnt, reprisen sjungs så starkt som möjligt.",
+				"Finns på flera olika språk."
+			],
+			"tags": ["beer", "swe"],
+			"content": "//: Ölens färg är ljus och klar,\nljus och klar.\nSnart jag den uppdruckit har,\ninget kvar.\nÖlets märke spelar ingen roll.\nMagen håller ändå ingen koll.\nJAHWOLL! ://",
+			"author": "Micke Berg, V-99 (KTH)"
+		},
+		{
+			"id": 208,
+			"title": "Una cerveza por favor",
+			"alternativeTitles": ["Öluppdrickarvisa (Spanska)"],
+			"melody": "Huvud, axlar, knä och tå",
+			"notes": [
+				"Sjungs först tyst och lugnt, reprisen sjungs så starkt som möjligt.",
+				"Spansk version av \"Öluppdrickarvisan\"."
+			],
+			"tags": ["beer"],
+			"content": "//: Una cerveza por favor,\npor favor.\nUna cerveza por favor,\npor favor.\nUn, dos, tres cervezas por favor.\nUn, dos, tres cervezas por favor.\n¡POR FAVOR! ://",
+			"author": "Oskar Sirland, S-08 (KTH)"
+		},
+		{
+			"id": 209,
+			"title": "Eine bieren danke schön",
+			"alternativeTitles": ["Öluppdrickarvisa (Tyska)"],
+			"melody": "Huvud, axlar, knä och tå",
+			"notes": [
+				"Sjungs först tyst och lugnt, reprisen sjungs så starkt som möjligt.",
+				"Tysk version av \"Öluppdrickarvisan\"."
+			],
+			"tags": ["beer"],
+			"content": "//: Eine bieren danke schön,\ndanke schön.\nEine bieren danke schön,\ndanke schön.\nEine kleine bieren danke schön.\nEine kleine bieren danke schön.\nDANKE SCHÖN! ://",
+			"author": "(KTH)"
+		},
+		{
+			"id": 219,
+			"title": "Øl, øl herlige øl",
+			"melody": "Trink, trink",
+			"composer": "Wilhelm Lindemann",
+			"tags": ["beer"],
+			"content": "Øl, øl herlige øl,\ngult som det gyldneste rav.\nØl, øl herlige øl,\ndu er min lønligste krav.\n//: Dug perler kruset,\nkys mig, du dejlige skum. ://\nØl, øl herlige øl,\noh, mø vaer ej grum."
+		},
+		{
+			"id": 234,
+			"title": "IngSektens Öhlvisa",
+			"melody": "Myggan Hubert",
+			"tags": ["beer", "swe"],
+			"content": "> IngSektina:\n\nJag är en liten IngSekt\noch Tina heter jag.\nJag bor uti en kupa\nom Du vill veta var.\nJag har en liten hobby\nsom vissa Tinor har.\nJag dricker öl och sedan en Ture tar.\nA-a-a-a å va' öl är gott!\nA-a-a-a å va öl är gott!\nA-a-a-a kvällen slutar vått!\nJag dricker mera öl när min Ture gått.\n\n> IngSekture:\n\nJag är en IngSekture\nsom Du nog kan se.\nJag gillar bh-kupor, med storlek 90 D.\nJag dricker ofta annat\nän vanligt blaskigt te.\nFör tacka vet jag öl - gärna fler än tre.\nA-a-a-a å va' öl är gott!\nA-a-a-a å va' öl är gott!\nA-a-a-a kvällen slutar vått!\nJag dricker mera öl - det är gudagott.\n\n> IngSektina:\n\nDu tror att Du ej charmas\nav en IngSektstjej.\nNär Du det minst anar\ntjusas Du av mig.\nDu känner dig berusad\noch kan ej säga nej.\nVar IngSektina vet\nhur man fångar Dig.\nA-a-a-a å va' Tina kan!\nA-a-a-a å va' Tina kan!\nA-a-a-a Ture-man hon vann!\nJag dricker mera öl och Du blir så grann.\n\n> IngSekture:\n\nIngSekture bjuder Tina på supé.\nTill middagen serveras\nden finaste boquet.\nHon faller se'n för honom\nty han börjar le.\nTure imponerar - han är chevalier.\nA-a-a-a å va' Ture kan!\nA-a-a-a å va' Ture kan!\nA-a-a-a vilken gentleman!\nVi dricker samma öl\nsen vi fann varann.\n\n> IngSekter:\n\nOm någon oss bekämpar,\nsäg vad gör väl det.\nVi är starka IngSekter som gillar DDT.\nIngSektsteknologer vet väl att sig bete.\nVårt ölbehov vi knappast\nkan tillgodose.\nA-a-a-a å va' öl är gott!\nA-a-a-a å va' öl är gott!\nA-a-a-a å va' öl är gott!\nVi dricker alltid öl - finns i övermått.",
+			"author": "Yvonne Rosenlund"
+		},
+		{
+			"id": 4,
+			"title": "Lyft ditt välförsedda glas",
+			"alternativeTitles": ["Lyftet"],
+			"melody": "Ding dong merrily on high",
+			"composer": "Jehan Tabourot, George Ratcliffe Woodward, Charles Wood",
+			"tags": ["wine", "swe"],
+			"content": "Lyft ditt välförsedda glas,\ndet är en härlig börda!\nNu har grabbarna kalas,\nvi segern snart skall skörda!\n\n//: Dinge dingedingedinge\ndingedingedinge dingedingeding\ndong dong, imorgon är det lördag. ://\n\nSätt nu glaset till din mun,\nse döden på dig väntar!\nNu har grabbarna kalas,\nhör liemannen flämtar!\n\n//: Dinge dingedingedinge\ndingedingedinge dingedingeding\ndong dong, begravningsklockor\nklämtar. ://",
+			"author": "Hakon Leffer (Medicinarspexet Nero II, Göteborg, 1968)"
+		},
+		{
 			"id": 45,
 			"title": "Bordeaux, Bordeaux",
 			"melody": "I sommarens soliga dagar",
 			"tags": ["wine", "swe"],
-			"content": "Jag minns än idag hur min fader,\nkom hem ifrån staden så glader,\noch rada' upp flaskor i rader,\noch sade nöjd som så:\n\"Bordeaux, Bordeaux!\"\n\nHan drack ett glas, kom i extas,\noch sedan blev det stort kalas.\nOch vi små glin, ja vi drack vin,\nsom första klassens fyllesvin.\nOch vi dansade runt där på bordet,\noch skrek så vi blev blå:\n\"Bordeaux, Bordeaux!\""
+			"content": "Jag minns än idag hur min fader,\nkom hem ifrån staden så glader,\noch rada' upp flaskor i rader,\noch sade nöjd som så:\n\"Bordeaux, Bordeaux!\"\n\nHan drack ett glas, kom i extas,\noch sedan blev det stort kalas.\nOch vi små glin, ja vi drack vin,\nsom första klassens fyllesvin.\nOch vi dansade runt där på bordet,\noch skrek så vi blev blå:\n\"Bordeaux, Bordeaux!\"",
+			"author": "Västgöta Nation (CTH)"
 		},
 		{
 			"id": 46,
 			"title": "Vinvisa",
-			"melody": "Gubben Noak",
+			"melody": "Gubben Noak (Björnen sover)",
 			"composer": "Carl Michael Bellman",
 			"tags": ["wine", "swe"],
 			"content": "Vinet väntar, vinet väntar,\npå att drucket bli.\n\nDet är smått förläget,\nkänner ej till vägen.\n\nSträck fram handen,\nfukta tanden,\nså går vinet ner."
@@ -563,7 +783,8 @@
 				"\"(Fast större!)\" var egentligen en redigeringsnotis till första upplagan som av misstag blev kvar. Avsikten var att \"Ja!\" skulle tryckts i större text."
 			],
 			"tags": ["wine", "swe"],
-			"content": "Feta fransyskor\nsom svettas om fötterna,\nde trampar druvor\nsom sedan ska jäsas till vin.\n\nTranspirationen viktig e',\nty den ge, fin bouquet.\nVårtor och svampar följer me'\nmen vad gör väl de'?\n\nFör vi vill ha vin,\nvill ha vin,\nvill ha mera vin,\näven om följderna blir\natt vi få lida pin.\n\nD: Flaskan och glaset gått i sin.\nH: Hit med vin, mera vin!\nD: Tror ni att vi är fyllesvin?\nH: Ja! (Fast större!)"
+			"content": "Feta fransyskor\nsom svettas om fötterna,\nde trampar druvor\nsom sedan ska jäsas till vin.\n\nTranspirationen viktig e',\nty den ge, fin bouquet.\nVårtor och svampar följer me'\nmen vad gör väl de'?\n\nFör vi vill ha vin,\nvill ha vin,\nvill ha mera vin,\näven om följderna blir\natt vi få lida pin.\n\nD: Flaskan och glaset gått i sin.\nH: Hit med vin, mera vin!\nD: Tror ni att vi är fyllesvin?\nH: Ja! (Fast större!)",
+			"author": "K-Sektionen (Sångarstriden, LTH, 1985)"
 		},
 		{
 			"id": 49,
@@ -572,7 +793,7 @@
 			"composer": "Ludwig van Beethoven",
 			"tags": ["wine", "swe"],
 			"content": "Aftonrodnan svalka sprider,\nskymningen sig sänker fin,\noch likt dimridåer sprider,\ndoften av det rena vin.\n\n//: Låt det hjälpa mig till att segla\nrakt in i rusets röda tröst.\nNatten flyr på gryningsvingar,\nvärmen flammar i mitt bröst. ://",
-			"author": "(Sångarstriden, Lund, 1968)"
+			"author": "(Sångarstriden, LTH, 1968)"
 		},
 		{
 			"id": 50,
@@ -587,7 +808,7 @@
 			"title": "Röd vitamin",
 			"melody": "My Bonnie",
 			"tags": ["wine", "swe"],
-			"content": "Hur badar man bäst på en kurort?\nJo, om man har fyllt en bassäng\nmed vätskan som snart skall besjungas\nnär vi kommit fram till refräng.\n\nRödvin, rödvin\nrödvin är fin hälsokost, kost, kost.\nRödvin, rödvin,\nrödvin vår bästa flaskpost.\n\nMan får vitaminer från rödvin,\nman piggnar ju till på en gång.\nNär glaset har tömts uti botten\nså stämmer vi upp till en sång.\n\nRödvin, rödvin ..."
+			"content": "Hur badar man bäst på en kurort?\nJo, om man har fyllt en bassäng\nmed vätskan som snart skall besjungas\nnär vi kommit fram till refräng.\n\nRödvin, rödvin\nrödvin är fin hälsokost, kost, kost.\nRödvin, rödvin,\nrödvin vår bästa flaskpost.\n\nMan får vitaminer från rödvin,\nman piggnar ju till på en gång.\nNär glaset har tömts uti botten\nså stämmer vi upp till en sång.\n\nRödvin, rödvin..."
 		},
 		{
 			"id": 52,
@@ -599,8 +820,8 @@
 		},
 		{
 			"id": 53,
-			"title": "Crassus' vinsång",
-			"melody": "Mors lille olle",
+			"title": "Crassus vinsång",
+			"melody": "Mors lille Olle",
 			"composer": "Alice Tegnér",
 			"tags": ["wine", "swe"],
 			"content": "Kom alla vänner, drick ur era glas.\nNi vet väl alla, hur vinet skall tas?\nFörst med din näsa,\ndu känner bouquén,\nDå kan du skilja det röda från rosén.\n\nSen med din tunga du läppjar ditt vin.\nVad sägs om aromen,\nnog är den väl fin?\nSedan du munnen med saften har blött,\nDå kan du svälja det vin som är rött.\n\nEfter ett glas eller två mår du bra.\nDu sjunger och skrålar,\natt mer vill du ha!\nAlla kan se, att du börjar bli sne.\nSynd att du dricker en billig Chatelet.\n\nSå lyften nu glasen upp till en skål.\nFör resten i kupan nog säkert du tål.\nDet är vad vi kallar dryckeskultur:\nSeså, krök nu armen,\nja drickom, drick ur!"
@@ -612,14 +833,6 @@
 			"composer": "Gunnar Wennerberg",
 			"tags": ["wine", "swe"],
 			"content": "Vin är gudagott att dricka!\nAck, vad vindrycken dock är skön.\nDricka vin med älskad flicka\nbättre än likören grön.\n\nHumlan surrar, flickan strålar,\nnu går jag och slår en drill,\nlättad, törstig sedan jag skålar\ni gott vin min flicka till."
-		},
-		{
-			"id": 55,
-			"title": "Längtan till landet",
-			"composer": "Otto Lindblad",
-			"tags": ["wine", "swe"],
-			"content": "Vintern rasat ut bland våra fjällar,\ndrivans blommor smälta ned och dö.\nHimlen ler i vårens ljusa kvällar,\nsolen kysser liv i skog och sjö.\nSnart är sommarn här i purpurvågor,\nguldbelagda, azurskiftande,\nligga ängarne i dagens lågor,\noch i lunden dansa källorne.\n\nJa, jag kommer! Hälsen glada vindar,\nut till landet, ut till fåglarne,\natt jag älskar dem, till björk och lindar,\nsjö och berg jag vill dem återse.\nSe dem än som i min barndoms stunder,\nfölja bäckens dans till klarnad sjö.\nTrastens sång i furuskogens lunder,\nvattenfågelns lek kring fjärd och ö.",
-			"author": "Herman Sätherberg (1838)"
 		},
 		{
 			"id": 164,
@@ -644,11 +857,60 @@
 			"content": "//: Skål go'vänner, i vinet en skål\nden hjälper oss sorgerna glömma.\nFör glädjen idag, i vännernas lag\nför detta vi glaset tömma. ://\n\nSkål, skål, skål, skål!"
 		},
 		{
+			"id": 211,
+			"title": "Skumpa",
+			"melody": "Tänk om jag hade en liten apa",
+			"tags": ["wine", "swe"],
+			"content": "Tänk om jag hade en liten, liten skumpa\nDom-pa, om-pa, falle-ralle-ra\nTänk vad folket skulle stå och gapa\nDom-pa, om-pa, falle-ralle-ra\nInte på mig, men på min lilla skumpa\nDom-pa, om-pa, falle-ralle-ra\nInte på mig, men på min lilla skumpa\nDom-pa, om-pa, falle-ralle-ra",
+			"author": "Strängteoretiquerna, IN (KTH, 2015)"
+		},
+		{
+			"id": 213,
+			"title": "Sudda sudda",
+			"melody": "Sudda sudda",
+			"composer": "Gullan Bornemark",
+			"tags": ["wine", "swe"],
+			"content": "Sudda, sudda, sudda, sudda bort din sura min,\nmed fyra jättestora bamseklunkar ädelt vin.\nMunnen den ska sjunga och va gla',\nför att den ska bli som den skall va'.\nVad häller du då bak det dolda flinet?\nVinet, som suddar, suddar bort din sura min.",
+			"author": "Västgöra Nation (CTH)"
+		},
+		{
+			"id": 214,
+			"title": "Korkskruvens visa",
+			"melody": "Nu har vi ljus här i vårt hus",
+			"composer": "Johanna Ölander",
+			"tags": ["wine", "swe"],
+			"content": "Nu har vi rus här i vårt hus.\nKorken är borta, hopp tra-la-la-la!\nDoften är ljuv, jag är en skruv, jag är en skruv.\nJag kan inte öppna bag-in-boxen,\njag kan inte öppna bag-in-boxen.\nTra-la-la-la-la, la-la!"
+		},
+		{
+			"id": 215,
+			"title": "Spegelvisa",
+			"alternativeTitles": ["Så länge rösten är mild"],
+			"melody": "Så länge skutan kan gå",
+			"composer": "Evert Taube",
+			"tags": ["wine", "swe"],
+			"content": "Så länge rösten är mild,\nså länge ingen är vild.\nSå länge spegeln på väggen\nger halvskaplig bild.\n\nSå länge alla kan gå,\nså länge alla kan stå,\nså länge alla kan tralla - så fyller vi på.\n\nFör vem har sagt att just du kom med storken\nför att bli glad av att lukta på korken?\nMen bland kvinnornas glans\nvi höjer bägarn i trans.\nSå låt nu vinet gå ner i en yrande dans."
+		},
+		{
+			"id": 269,
+			"title": "Till rödvinet",
+			"melody": "En gång jag seglar i hamn",
+			"composer": "Stig Olin",
+			"tags": ["wine", "swe"],
+			"content": "En sång, det är ingen sång.\nOm inte på samma gång,\nman tar ett glas i sin hand.\nOch får på tand,\nen pärla ibland.\nDruva, vi varmt dig nu be,\nljuva minuter oss ge.\nÄn är vi unga.\nSjung och glamma och le."
+		},
+		{
+			"id": 279,
+			"title": "Vem kan ragla",
+			"melody": "Vem kan segla förutan vind?",
+			"tags": ["wine", "swe"],
+			"content": "Vem kan ragla förutan vin,\nvem är nykter om våren,\nvem kan skilja på kron och gin\nutan att smaka på 'ren?\n\nJag kan ragla förutan vin,\noch visst var jag nykter om våren.\nMen ej skilja på kron och gin,\nefter den elfte tåren."
+		},
+		{
 			"id": 56,
 			"title": "Vem kan hugga",
 			"melody": "Vem kan segla förutan vind?",
 			"tags": ["snaps", "swe"],
-			"content": "Vem kan hugga sig själv i knät,\nvem kan slå sig på tummen,\nvem kan skära i vännen sin,\nutan att dra på munnen?\n\nJag kan hugga mig själv i knät,\njag kan slå mig på tummen.\nMen ej skära i vännen min\nutan att dra på munnen.\n\nVem kan ragla förutan vin,\nvem är nykter om våren,\nvem kan skilja på kron och gin\nutan att smaka på 'ren?\n\nJag kan ragla förutan vin,\noch visst var jag nykter om våren.\nMen ej skilja på kron och gin,\nefter den elfte tåren."
+			"content": "Vem kan hugga sig själv i knät,\nvem kan slå sig på tummen,\nvem kan skära i vännen sin,\nutan att dra på munnen?\n\nJag kan hugga mig själv i knät,\njag kan slå mig på tummen.\nMen ej skära i vännen min\nutan att dra på munnen."
 		},
 		{
 			"id": 57,
@@ -662,7 +924,8 @@
 		{
 			"id": 58,
 			"title": "Brännvin är jävligt gott",
-			"melody": "Karl-Alfred Boy",
+			"melody": "Karl-Alfred Boy (Popeye the Sailor Man)",
+			"composer": "Sammy Lerner",
 			"notes": ["Dunka två gånger i bordet på \"!\""],
 			"tags": ["snaps", "swe"],
 			"content": "//: För brännvin är jävligt gott!\nBättre ju mer man fått!\nMen går man i golvet,\nså där framåt tolv-ett,\nså slår man sig jävligt hårt! :// (in abs.)"
@@ -671,8 +934,9 @@
 			"id": 59,
 			"title": "Nu tar vi vår lilla nubbe",
 			"melody": "Höga berg och djupa dalar",
+			"notes": ["De som bränner hemma lurar staten."],
 			"tags": ["snaps", "swe"],
-			"content": "Nu tar vi vår lilla nubbe\nsom är gjord utav granens stubbe.\nDen botar alla sorters värk,\nsätter fart i skjorta och i särk.\n//: Vi gynnar staten\nvar gång vi tar en sup till maten ://\n\n> (De som bränner hemma lurar staten.)"
+			"content": "Nu tar vi vår lilla nubbe\nsom är gjord utav granens stubbe.\nDen botar alla sorters värk,\nsätter fart i skjorta och i särk.\n//: Vi gynnar staten\nvar gång vi tar en sup till maten ://"
 		},
 		{
 			"id": 60,
@@ -692,33 +956,44 @@
 			"id": 62,
 			"title": "Lång finsk supvisa",
 			"alternativeTitles": ["Finsk snapsvisa"],
-			"notes": ["Ei nyt, mutta... nyt!"],
+			"notes": ["Ei nyt, ja ei nyt, mutta... nyt!"],
 			"tags": ["snaps", "swe"],
-			"content": "Int' nu, men... Nu!"
+			"content": "Int' nu,\noch int' nu,\nmen...\nNU!"
 		},
 		{
 			"id": 63,
 			"title": "Mera brännvin",
+			"alternativeTitles": ["Egolitär Brännvinsvisa"],
 			"melody": "Internationalen",
-			"notes": ["Ibland sjunger man bara de två sista verserna."],
+			"notes": [
+				"Ibland sjunger man bara de två sista verserna.",
+				"Avslutas ofta med \"bevars, bevars, bevars!\"."
+			],
 			"tags": ["snaps", "swe"],
-			"content": "Nu är det dags att taga supen,\nden stärker varje svag fysik.\nDen rinner ner igenom strupen,\nriver gott som en tolvtums spik.\n\nDen är vårt hopp mot gula faran,\nvår tröst vid varje bleklagd sorg.\nDen stärker oss mot mask i magen,\nstarkare än Sveaborg.\n\nMera brännvin i glasen,\nmera glas på vårt bord,\nmera bord på kalasen,\nmer kalas på vår jord.\n\nMera jordar kring månen,\nmera månar kring mars,\nmera marscher till Skåne,\nmera Skåne gud bevars!"
+			"content": "Nu är det dags att taga supen,\nden stärker varje svag fysik.\nDen rinner ner igenom strupen,\nriver gott som en tolvtums spik.\n\nDen är vårt hopp mot gula faran,\nvår tröst vid varje bleklagd sorg.\nDen stärker oss mot mask i magen,\nstarkare än Sveaborg.\n\nMera brännvin i glasen,\nmera glas på vårt bord,\nmera bord på kalasen,\nmer kalas på vår jord.\n\nMera jordar kring månen,\nmera månar kring mars,\nmera marscher till Skåne,\nmera Skåne gud bevars!",
+			"author": "Hans Dalborg (Handelsspexet Rabalder i Balders mage, UU/HHS, 1963)"
 		},
 		{
 			"id": 64,
 			"title": "Septen",
+			"alternativeTitles": ["En visa till Septen"],
 			"melody": "Nu ska vi skörda linet",
-			"notes": ["* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag."],
+			"notes": [
+				"* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag.",
+				"I IsK:s sångbok fanns det inga mellanslag i sången."
+			],
 			"tags": ["snaps", "swe"],
 			"content": "//: Nu ska vi klämma septen, gutår,\nklämma en trudelutt om de' går.\nTjosan Mohammed snart är det vår!\nJulafton är en torsdag!\\*\nKlunk klunk klunk klunk klunk klunk,\nblanda och ge, blanda och ge,\nabrakadabra klunk,\njulafton är en torsdag!\\* :// (in abs.)"
 		},
 		{
 			"id": 65,
 			"title": "Måsen",
-			"alternativeTitles": ["JAS:en", "Musen", "När månen vandrat"],
+			"alternativeTitles": ["JAS:en", "Musen", "Moosen"],
 			"melody": "När månen vandrar",
+			"notes": ["1993 kraschade en JAS 39 Gripen på Långholmen brevid Västerbron."],
 			"tags": ["snaps", "swe"],
-			"content": "Det satt en mås på en klyvarbom,\noch tom i krävan var kräket.\nOch tungan lådde i skepparns gom\ndär han satt uti bleket.\n\n\"Jag vill ha sill!\" hördes måsen rope,\noch skepparn svarte: \"Jag vill ha OP,\nom blott jag får, om blott jag får\".\n\nNu lyfter måsen från klyvarbom\noch vinden spelar i tågen.\nOP'n svalkat har skepparns gom.\nJag önskar blott att jag såg 'en.\n\nSå nöjd och lycklig, den arme saten,\nhan sätter storsegel den krabaten.\nTill sjöss han far, och halvan tar.\n\nDen mås som satt på en klyvarbom,\nden är nu död och begraven,\noch skeppar'n som drack en flaska rom,\nhan har nu drunknat i haven.\n\nSå kan det gå om man fått för mycke',\nom man för brännvin har fattat tycke.\nVi som har kvar, vi resten tar!\n\n# När månen vandrat sin tysta ban\n\nNär månen vandrat sin tysta ban,\noch tittar in genom rutan.\nDå tänker jag att på ljusa dan,\ndå kan jag klara mig utan.\n\nDå kan jag klara mig utan måne,\nmen utan renat och utan Skåne.\nDet vete fan, det vete fan.\n\nDen mås som satt på en klyvarbom,\nhan är nu död och begraven.\nOch skepparn som drack en flaska rom\nhan har nu druknat i haven.\n\nSå kan det gå om man fått för mycket,\nom man för brännvin har fattat tycke.\nVi som har kvar, vi resten tar.\n\n# JAS:en\n\nDär flög en JAS över Västerbron,\nmen styrsystemet var trasigt.\nPiloten utsköt sig med kanon,\nty planet svängde så knasigt.\n\nHan ville uppåt, han ville mer,\nmen planet svarte: \"Jag vill nu ner,\nmot alla hjon, på Västerbron.\"\n\n# Musen\n\nDet satt en mus i en hushållsost\noch åt och åt utan måtta.\nTills osten blev till en mushåls-ost\noch han en klotformad råtta.\nSå bra, sa musen, att va en fettboll,\nnu kan jag rulla med hast åt rätt håll:\nOstindien, Ostindien."
+			"content": "Det satt en mås på en klyvarbom,\noch tom i krävan var kräket.\nOch tungan lådde i skepparns gom\ndär han satt uti bleket.\n\n\"Jag vill ha sill!\" hördes måsen rope,\noch skepparn svarte: \"Jag vill ha OP,\nom blott jag får, om blott jag får\".\n\nNu lyfter måsen från klyvarbom\noch vinden spelar i tågen.\nOP'n svalkat har skepparns gom.\nJag önskar blott att jag såg 'en.\n\nSå nöjd och lycklig, den arme saten,\nhan sätter storsegel den krabaten.\nTill sjöss han far, och halvan tar.\n\nDen mås som satt på en klyvarbom,\nden är nu död och begraven,\noch skeppar'n som drack en flaska rom,\nhan har nu drunknat i haven.\n\nSå kan det gå om man fått för mycke',\nom man för brännvin har fattat tycke.\nVi som har kvar, vi resten tar!\n\n# JAS:en\n\nDär flög en JAS över Västerbron,\nmen styrsystemet var trasigt.\nPiloten utsköt sig med kanon,\nty planet svängde så knasigt.\n\nHan ville uppåt, han ville mer,\nmen planet svarte: \"Jag vill nu ner,\nmot alla hjon, på Västerbron.\"\n\n# Musen\n\nDet satt en mus i en hushållsost\noch åt och åt utan måtta.\nTills osten blev till en mushåls-ost\noch han en klotformad råtta.\n\nSå bra, sa musen, att va' en fettboll,\nnu kan jag rulla med hast åt rätt håll:\nOstindien, Ostindien.\n\n# Moosen\n\nDet satt en älg i en klyvartopp,\nförklädd i älgjaktens månad.\nHan var befjädrad till horn och kropp.\nJa, skeppar'n blev rätt förvånad.\n\n\"Jag är en mås, go'a skeppar'n\", ljög den\nförklädda älgen, därefter flög den.\nMjukt föll den sen på skepparen.",
+			"author": "Kongliga Dadderiet (KTH, 1993 — JAS:en)"
 		},
 		{
 			"id": 66,
@@ -745,11 +1020,13 @@
 		{
 			"id": 69,
 			"title": "Livet är härligt",
+			"alternativeTitles": ["Livet"],
 			"melody": "Röda kavalleriet (Polyushko-Pole)",
 			"composer": "Lev Knipper",
+			"notes": ["Sjungs först tyst och sedan högt andra gången."],
 			"tags": ["snaps", "swe"],
-			"content": "> Sjung tyst:\n\nLivet är härligt!\nTavaritj, vårt liv är härligt!\nVi alla våra små bekymmer glömmer\nNär vi har fått en tår på tanden, skål!\n\nTag dig en vodka!\nTavaritj, en liten vodka!\nGlasen i botten vi tillsammans tömmer!\nDet kommer mera efter h-a-and.\n\n> Sjung högt:\n\nLivet är härligt!\nTavaritj, vårt liv är härligt!\nVi alla våra små bekymmer glömmer\nNär vi har fått en tår på tanden, skål!\n\nTag dig en vodka!\nTavaritj, en liten vodka!\nGlasen i botten vi tillsammans tömmer!\nDet kommer mera efter handen, skål!",
-			"author": "(Chalmersspexet Katarina II, 1959)"
+			"content": "//: Livet är härligt!\nTavaritj, vårt liv är härligt!\nVi alla våra små bekymmer glömmer\nNär vi har fått en tår på tanden,\nSKÅL!\n\nTag dig en vodka!\nTavaritj, en liten vodka!\nGlasen i botten vi tillsammans tömmer!\nDet kommer mera efter hand.\nEn skål! ://",
+			"author": "Bengt-Åke \"Bengå\" Möller (Chalmersspexet Katarina II, CTH, 1959)"
 		},
 		{
 			"id": 70,
@@ -757,7 +1034,7 @@
 			"melody": "When Johnny comes marching home",
 			"tags": ["snaps", "swe"],
 			"content": "En viking älskar livets vann,\nhurra, hurra!\n\nSom hastigt i hans svalg försvann,\nhurra, hurra!\n\nTill kalv, till oxe, till fisk, till fläsk,\nnär kärringar bara dricker läsk,\nja då vill alla vikingar ha en bäsk!\n\nNär bäsken småningom är slut:\nTragik, TRAGIK!\n\nDå bäres varje viking ut\nsom lik, sig lik!\n\nÅ' sen när vi vaknar vi sjunger en bit,\nså korkar vi upp Skånes Akvavit.\nSkål för alla, skål för alla, skål för alla\nvikingar som kom hit!",
-			"author": "E-Sektionen (Sångarstriden, Lund, 1981)"
+			"author": "E-Sektionen (Sångarstriden, LTH, 1981)"
 		},
 		{
 			"id": 71,
@@ -776,9 +1053,11 @@
 		{
 			"id": 73,
 			"title": "Hell and gore",
+			"alternativeTitles": ["Helan går (Engelska)"],
 			"melody": "Helan går",
+			"notes": ["English version of \"Helan går\"."],
 			"tags": ["snaps", "eng"],
-			"content": "Hell and gore,\nchung-hop father Allan Allan ley.\nHell and gore,\nchung-hop father Allan ley.\n\nOh handsome in the hell and tar\nand hell are in the half and four.\nHell and go-o-ore,\nchung-hop father Allan ley!"
+			"content": "Hell and gore,\nchung-hop father Allan Allan ley.\nHell and gore,\nchung-hop father Allan ley.\n\nOh handsome in the hell and tar,\nand hell are in the half and four!\nHell and go-o-ore!\nChung-hop father Allan ley!"
 		},
 		{
 			"id": 74,
@@ -802,7 +1081,8 @@
 			"melody": "Byssan lull",
 			"composer": "Evert Taube",
 			"tags": ["snaps", "swe"],
-			"content": "//: Byssan lull, utav brännvin blir man full,\noch slipsen man doppar i smöret. ://\nOch näsan den blir röd,\noch ögonen får glöd,\nmen tusan så bra blir humöret!"
+			"content": "//: Byssan lull, utav brännvin blir man full,\noch slipsen man doppar i smöret. ://\nOch näsan den blir röd,\noch ögonen får glöd,\nmen tusan så bra blir humöret!",
+			"author": "Göran Rygert, A-57 (CTH)"
 		},
 		{
 			"id": 77,
@@ -814,6 +1094,7 @@
 		{
 			"id": 78,
 			"title": "Gräv ur tundran",
+			"alternativeTitles": ["Lenins vodkavisa"],
 			"melody": "Katjuscha",
 			"composer": "Matvey Blanter",
 			"notes": [
@@ -822,7 +1103,7 @@
 			],
 			"tags": ["snaps", "swe"],
 			"content": "> Sjung tyst:\n\nGräv ur tundran två dussin potäter,\nlåt dem jäsa uti fjorton dar.\n\n//: Modersmjölken för ryssar och sovjeter,\nbrännes i babusjkans samovar. ://\n\nKyl sen drycken i sibiriens tjäle,\ntappa upp på immiga små glas.\n\n> Sjung högt:\n\nHöj sen glasen för fosterlandets välgång, HEJ!\n\nSjung \"na zdrowie\" med en mäktig\nbas, bas, bas, bas!\n\nHöj sen glasen för fosterlandets välgång,\nsjung \"na zdrowie\", låt glasen gå i kras!",
-			"author": "(Ekonomspexet Lenin, Stockholms universitet, 1989)"
+			"author": "(Ekonomspexet Lenin, SU, 1989)"
 		},
 		{
 			"id": 79,
@@ -861,7 +1142,7 @@
 			"composer": "Alice Tegnér",
 			"tags": ["snaps", "swe"],
 			"content": "Häv, häv detta glas, nu är det kalas.\nNä, nä, vet du va', jag ska inget ha'\nFör om jag dricker opp,\noch inte säger stopp,\nså slutar jag nog som ett minne blott.",
-			"author": "Erik Rålenius, IT (KTH)"
+			"author": "Erik Rålenius, IT-04 (KTH)"
 		},
 		{
 			"id": 84,
@@ -869,8 +1150,8 @@
 			"melody": "Du käre lille snickerboa",
 			"composer": "Georg Riedel",
 			"tags": ["snaps", "swe"],
-			"content": "Till spritbolaget ränner jag\noch bankar på dess port.\nJag vill ha nåt som bränner bra\nOch gör mig skitfull fort.\nExpediten sade \"Go'dag,\nHur gammal kan min herre va?\"\nHar du nåt leg, ditt fula drägg?\nKom hit igen när du fått skägg!\n\nNej, detta var ju inte bra,\nJag ska bli full ikväll.\nDå plötsligt en idé jag fick -\ndom har ju sprit på Shell!\nMånga flaskor stod där på rad,\nSå nu kan jag bli full och glad.\nDen röda drycken åkte ner,\nnu kan jag inte se nåt mer.",
-			"author": "Göran Svensson (Sångarstriden, Lund, 1989)"
+			"content": "Till spritbolaget ränner jag\noch bankar på dess port.\nJag vill ha nåt som bränner bra\nOch gör mig skitfull fort.\nExpediten sade \"Go'dag,\nHur gammal kan min herre va?\nhar du nåt leg, ditt fula drägg?\nKom hit igen när du fått skägg!\"\n\nNej, detta var ju inte bra,\njag ska bli full ikväll.\nDå plötsligt en idé jag fick:\ndom har ju sprit på Shell!\nMånga flaskor stod där på rad,\nså nu kan jag bli full och glad.\nDen röda drycken åkte ner,\nnu kan jag inte se nåt mer.",
+			"author": "Göran Svensson, E (Sångarstriden, LTH, 1989)"
 		},
 		{
 			"id": 85,
@@ -913,7 +1194,7 @@
 			"composer": "Edvard Brink",
 			"notes": ["Gurgla nubben i slutet!"],
 			"tags": ["snaps", "swe"],
-			"content": "Å så kommer det en ångbåt,\noch den säger tut-tut-tut!\nÅ så kommer det en ubåt,\noch den säger..."
+			"content": "Å så kommer det en ångbåt,\noch den säger tut-tut-tut!\nÅ så kommer det en ubåt,\noch den säger:"
 		},
 		{
 			"id": 90,
@@ -952,12 +1233,13 @@
 			"title": "In a Cavern",
 			"melody": "My darling Clementine",
 			"tags": ["snaps", "eng"],
-			"content": "In a cavern, in a canyon\nexcavating for a mine\nDwelt a miner, fortyniner\nand his bottle Aquavit\nOh my darling o my darling\noh my darling aquavit\nYou are lost and gone forever,\ndreadful sorry aquavit\n\nWhen he's digging, when he's digging,\nhe sees something on a rock\nIt's a bottle, with some contents\ncould it be his aquavit?\nOh my darling oh my darling\nit's my darling aquavit\nThou are back and here for ever\nI will drink you aquavit."
+			"content": "In a cavern, in a canyon\nexcavating for a mine\nDwelt a miner, fortyniner\nand his bottle Aquavit\nOh my darling o my darling\noh my darling Aquavit\nYou are lost and gone forever,\ndreadful sorry Aquavit\n\nWhen he's digging, when he's digging,\nhe sees something on a rock\nIt's a bottle, with some contents\ncould it be his Aquavit?\nOh my darling oh my darling\nit's my darling Aquavit\nThou are back and here for ever\nI will drink you Aquavit."
 		},
 		{
 			"id": 158,
 			"title": "What if I had a Little Liquor",
 			"melody": "Hej tomtegubbar",
+			"notes": ["An English version of \"Tänk om jag hade lilla nubben\"."],
 			"tags": ["snaps", "eng"],
 			"content": "//: What if I had a little string there\nwithin my deep throat, with liqueur! ://\n\nI drag the liqueur down the string\nand up we go then with everything\nWhat if I had a little string there\nwithin my deep throat, with liqueur!"
 		},
@@ -973,6 +1255,7 @@
 			"id": 168,
 			"title": "Wish I could tie",
 			"melody": "Hej tomtegubbar",
+			"notes": ["An English version of \"Tänk om jag hade lilla nubben\"."],
 			"tags": ["snaps", "eng"],
 			"content": "//: Wish I could tie a piece of string,\naround the snaps 'fore I drink it! ://\n\nWhen it goes down,\nI pull the string,\nand thus reuse it,\nthat's why I sing.\n\nWish I could tie a piece of string,\naround the snaps 'fore I drink it!"
 		},
@@ -994,7 +1277,7 @@
 		},
 		{
 			"id": 171,
-			"title": "White spirit",
+			"title": "White spirit (I)",
 			"melody": "White Christmas",
 			"composer": "Irving Berlin",
 			"tags": ["snaps", "eng"],
@@ -1011,9 +1294,9 @@
 		{
 			"id": 174,
 			"title": "Dansk supvisa",
-			"alternativeTitles": ["Dansk snapsvisa"],
+			"alternativeTitles": ["Dansk snapsvisa", "Lång dansk supvisa"],
 			"tags": ["snaps"],
-			"content": "Icke Nu...\nIcke Nu...\nIcke Nu...\nMEN NU!!!"
+			"content": "Icke nu,\nog icke nu,\nmen...\nNU!"
 		},
 		{
 			"id": 175,
@@ -1021,7 +1304,7 @@
 			"melody": "She'll Be Coming 'Round the Mountain",
 			"tags": ["snaps", "swe"],
 			"content": "Det är inte bra att åka mycket bil.\nOm du kör så får du inte dricka sprit. (OJ NEJ!)\nBil är dåligt för klimatet,\nvälj istället destillatet,\nrädda världen med en hela brännevin!\n\nDet är inte bra att äta animalt.\nSitza växtbaserat, rädda vårt klimat!\nOm du tagit kött för givet,\noch gett upp det goda livet,\när det tur att Koskenkorva är veganskt!",
-			"author": "Marcus \"Watt-Everth\" Lassus, E-19 (Aalto-universitetet — Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen)"
+			"author": "Marcus \"Watt-Everth\" Lassus, E-19 (Aalto-universitet — Teknologorkestern Humpsvakar vid den finlandssvenska Teknologföreningen)"
 		},
 		{
 			"id": 179,
@@ -1042,39 +1325,246 @@
 		{
 			"id": 190,
 			"title": "The Viking",
+			"alternativeTitles": ["Vikingen (Engelska)"],
 			"melody": "When Johnny comes marching home",
-			"notes": ["English translation of \"Vikingen\""],
+			"notes": ["English version of \"Vikingen\"."],
 			"tags": ["snaps", "eng"],
 			"content": "A viking loves the joys of life,\nhurra, hurra!\n\nThey're quickly running down his throat,  \nhurra, hurra!\n\nWith veal, with ox, with fish, with pork,\nVikings never use a fork,\nVikings only want to pop the cork.\n\nThe bäsk eventually runs out,\noh no, oh no!\n\nEvery viking's carried out  \nyo ho, yo ho!\n\nAnd when we wake up, we sing a just a bit,\nand open a bottle of Akvavit.\nSkål to every, skål to every, skål to every\nviking that took the hit!"
 		},
 		{
 			"id": 192,
 			"title": "The Liquor Store",
+			"alternativeTitles": ["Spritbolaget (Engelska)"],
 			"melody": "Du käre lille snickerboa",
 			"composer": "Georg Riedel",
-			"notes": ["English translation of \"Spritbolaget\""],
+			"notes": ["English version of \"Spritbolaget\"."],
 			"tags": ["snaps", "eng"],
 			"content": "The liquor store I dash towards\nAnd bang upon its door.\nI want something that burns real fast,\nAnd gets me drunk for sure.\nThe clerk then asked me, bold and loud:\n\"How old are you, to be so proud?\"\n\"Got some ID, you scruffy kid?\nCome back when you can grow a beard!\"\n\nNo, this won't do, it's not my night,\nI'm getting drunk today!\nBut then a brilliant thought struck me -\nThere's booze at Shell, hooray!\nThe bottles stood there in a row,\nNow I'll get drunk and let it flow.\nThe red drink poured way down my throat,\nNow I can't see a thing, you know.",
 			"author": "Dylan Horn Kreiner, IT-23 (KTH, 2024)"
 		},
 		{
-			"id": 195,
-			"title": "Skolan KTH",
-			"melody": "Fader Abraham",
+			"id": 198,
+			"title": "Feministvikingen",
+			"melody": "When Johnny comes marching home",
 			"tags": ["snaps", "swe"],
-			"content": "Skolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\n\nSkolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\nKista bort\n\nSkolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\nKista bort\nSälj bort L\n\nSkolan KTH,\nSkolan KTH,\nFyra campus hade KTH\noch de slösade,\noch spenderade\n\nOch så gjorde de så här\nTelge bort\nKista bort\nSälj bort L\nTa in fler"
+			"content": "En viking viker tvätten själv\nhurra, hurra!\n\nOrdet viking kommer sig därav,\njaha!\n\nFöräldraledighet delas exakt,\nnär vikingen sina barn har lagt,\ndå är vikingens fru ute på jakt.\n\nEn viking vill ha livets vann.\nHurra hurra!\n\nMen på sig själv han lägger band,\njaha, så bra!\n\nMjödet det prioriteras sist,\ntvätta och städa blir aldrig trist.\nFör våran viking, han är feminist!"
+		},
+		{
+			"id": 199,
+			"title": "Kapitalistvikningen",
+			"melody": "When Johnny comes marching home",
+			"tags": ["snaps", "swe"],
+			"content": "En viking köper aktier,\nhurra, hurra!\n\nEn öppen marknad är vad vi vill ha,\nså bra!\n\nI stan, på landet, i varje by,\nnär skatter blir otroligt dyrt.\nJa, då vill ingen viking ha de pyrt.\n\nNär börsen småningom går ner,\npanik, panik!\n\nBankmannen har hängt sig själv,\ntragik, tragik!\n\nMen sen när det vänder, vi köper javisst,\nför aktievinst är aldrig trist.\nFör vår viking han är kapitalist!",
+			"author": "Erik Nordlöf, D-19, och Emil Wiktorsson, F-21 (Amerikasittningen, KTH, 2025)"
+		},
+		{
+			"id": 200,
+			"title": "När månen vandrat sin tysta ban",
+			"alternativeTitles": ["Månvisa"],
+			"melody": "När månen vandrar",
+			"tags": ["snaps", "swe"],
+			"content": "När månen vandrat sin tysta ban,\noch tittar in genom rutan.\nDå tänker jag att på ljusa dan,\ndå kan jag klara mig utan.\n\nDå kan jag klara mig utan måne,\nmen utan renat och utan Skåne.\nDet vete fan, det vete fan."
+		},
+		{
+			"id": 210,
+			"title": "Et Langue d'or",
+			"alternativeTitles": ["Helan går (Franska)"],
+			"melody": "Helan går",
+			"notes": ["Fransk version av \"Helan går\"."],
+			"tags": ["snaps"],
+			"content": "Et langue d'or,\njoue haute fadeur a l'an la langue laide.\nEt langue d'or,\njoue haute fadeur a l'an laide.\n\nOctane somme mine te et lointain,\nA ni te et leur halle vend fort!\nEt langue d'or!\nJoue haute fadeur a l'an laide!"
+		},
+		{
+			"id": 216,
+			"title": "Helan Rasat",
+			"melody": "Längtan till landet",
+			"composer": "Otto Lindblad",
+			"tags": ["snaps", "swe"],
+			"content": "Helan rasat ner i våra magar,\nskvalpar nu på botten mol alén.\nI sin ensamhet den bittert klagar\n\"Det är inte gott att vara en\".\n\nSnart är halvan här den härliga supen,\nalkoholiskt ren och silverklar.\nDansar som en vårbäck ner genom strupen,\nlandar plask i helans budoar."
+		},
+		{
+			"id": 217,
+			"title": "Hej tomtegubbar",
+			"tags": ["snaps", "swe"],
+			"content": "//: Hej, tomtegubbar, slå i glasen och låt oss lustiga vara. ://\n\nEn liten tid,\nvill leva här,\nmed mycket möda och stort besvär.\nHej, tomtegubbar, slå i glasen och låt oss lustiga vara!"
+		},
+		{
+			"id": 220,
+			"title": "Mystiskt försvinnande",
+			"melody": "Brev från kolonien",
+			"composer": "Cornelis Vreeswijk",
+			"tags": ["snaps", "swe"],
+			"content": "Men var är den förra supen?\nDen stod här för en minut se'n.\nAldrig får man så det räcker.\nJättegod är snapsen men kristallen läcker!",
+			"author": "Rolf Malmström (SM i nyskrivna snapsvisor, 1999)"
+		},
+		{
+			"id": 225,
+			"title": "Humlorna",
+			"melody": "Popeye the sailor man",
+			"composer": "Sammy Lerner",
+			"tags": ["snaps", "swe"],
+			"content": "Vi äro små humlor vi bzz, bzz\nVi äro små humlor vi bzz, bzz\nVi äro små humlor som tar oss en geting\nVi äro små humlor vi bzz, bzz\n\nVi äro små fiskar vi blubb, blubb\nVi äro små fiskar vi blubb, blubb\nVi äro små fiskar som tar oss en kallsup\nVi äro små fiskar vi blubb, blubb\n\nVi äro små änglar vi flax, flax\nVi äro små änglar vi flax, flax\nVi äro små änglar som tar oss en Djävel\nVi äro små änglar vi flax, flax"
+		},
+		{
+			"id": 235,
+			"title": "Tresen kylig är",
+			"melody": "Kors på Idas grav",
+			"composer": "Johan Göran Berger",
+			"tags": ["snaps", "swe"],
+			"content": "Tersen kylig är men dock som ylle varm,\nnär den sprider värmen i vår fylletarm.\nÄn en ynka liten rynka,\nfinns där kvar att släta ut.\nTag dig ters, och saften av potäta njut."
+		},
+		{
+			"id": 236,
+			"title": "Gammel-Osquars Huttode",
+			"melody": "Letkis-Jenka",
+			"composer": "Rauno Lehtinen",
+			"tags": ["snaps", "swe"],
+			"content": "ÖL, vin, gin och gammal finkel\nhar fått mig att se i vinkel.\nDärför hamnar nu all mat\nej i magen utan i min hörapparat."
+		},
+		{
+			"id": 237,
+			"title": "Vem sade ordet?",
+			"melody": "Vårvindar friska",
+			"tags": ["snaps", "swe"],
+			"content": "Vem sade ordet skål här vid bordet?\nViskande for det sällskapet kring.\nFattom kristallen, nubben är kall den,\nstiger åt skallen, pling plingeling.\n\nSkål kära vänner välkomna hit.\nKänn er som hemma, tag er en bit.\nNu lilla hutten går i kaputten,\nskål hela tutten. Pling plingeling."
+		},
+		{
+			"id": 238,
+			"title": "Jäsa brännvin",
+			"melody": "Skära havre",
+			"notes": [
+				"Sista upprepningen sjungs ofta endast av tjejer eller med flera röster (avec piper)"
+			],
+			"tags": ["snaps", "swe"],
+			"content": "Jäsa, jäsa brännvin,\nvem skall brygden dricka?\nOsquar säger inte nej,\nvad säger Osquars flicka?\n//: \"Fy fan, fy fan,\njag får så'n jävla hicka!\" ://"
+		},
+		{
+			"id": 239,
+			"title": "När helan",
+			"melody": "Majas visa",
+			"composer": "Alice Tegnér",
+			"tags": ["snaps", "swe"],
+			"content": "När Helan stod på borden,\nvi andaktsfullt den göken tog.\nNu ska vi tömma Halvan,\nsom vi i glasen slog."
+		},
+		{
+			"id": 240,
+			"title": "Krök armen i vinkel",
+			"melody": "Väva vadmal",
+			"tags": ["snaps", "swe"],
+			"content": "Krök armen i vinkel!\nHär vankas det finkel.\nHär finkas vankel och vanka finkel,\noch kröka armen i vinkel.\nHär vankas det finkel."
+		},
+		{
+			"id": 241,
+			"title": "Nu väntar en sup",
+			"melody": "Möte i monsunen",
+			"composer": "Evert Taube",
+			"tags": ["snaps", "swe"],
+			"content": "Nu väntar en sup i den spetsiga pokal'n,\ndofter ångar emot röda näsor opp.\nOss bedårar, ögat tårar,\nBacchi vänner här i sal'n,\nlåt oss genast tömma helan i vår kropp!"
+		},
+		{
+			"id": 242,
+			"title": "OP river",
+			"melody": "Old man river",
+			"composer": "Jerome Kern",
+			"tags": ["snaps", "swe"],
+			"content": "OP river!\nJa, OP river!\nVar gång jag lenat,\nmin hals med renat.\nJag sagt med iver,\natt OP river\nlångt ner,\nlångt ner."
+		},
+		{
+			"id": 243,
+			"title": "Hybridvisa",
+			"alternativeTitles": ["I Frankrike dricks det"],
+			"melody": "Te Deum (Eurovisionssignaturen)",
+			"composer": "Marc-Antoine Charpentier",
+			"tags": ["snaps", "swe"],
+			"content": "I Frankrike dricks det viner\nnär tyskarna dricker öl\nunderbart de mår.\nMen svensken som dricker, svin är.\nOss svin emellan:\nTag en tår!",
+			"author": "(Chalmersspexet Dr Livingstone, CTH, 1978)"
+		},
+		{
+			"id": 244,
+			"title": "Om jag hade brännvin",
+			"melody": "If I were a rich man",
+			"composer": "Jerry Bock",
+			"tags": ["snaps", "swe"],
+			"content": "Om jag hade brännvin,\nRenat, Skåne, Aalborg, O.P, Vinbär\noch en liten Bäsk.\nAllihopa ställda på en rad,\nvad jag skulle vara glad!\n\nGlasen fylls med brännvin,\nRenat, Skåne, Aalborg, O.P, Vinbär\noch en liten Bäsk.\nLivet leker, sinnet fylls med hopp,\nnu skall lilla Bäsken drickas opp!"
+		},
+		{
+			"id": 245,
+			"title": "Jag var tall en gång",
+			"melody": "Flottarkärlek",
+			"composer": "Hugo Lindh, Gösta \"Snoddas\" Nordgren",
+			"tags": ["snaps", "swe"],
+			"content": "Jag var tall en gång för längesen\nmed grön och härlig färg å,\nnu står jag här i glaset klar och kall.\nI alla munnar, alla halsar kommer Helan/Halvan som en vän,\nden har doft av skogar, sjöar och av berg.\n\nDu blir lummig som en tall,\ndu blir stolt liksom en älg.\nLyft på glaset,\nböj på huvudet och svälj."
+		},
+		{
+			"id": 246,
+			"title": "Till supen så tager",
+			"melody": "Vi går över daggstänkta berg",
+			"composer": "Edwin Ericsson",
+			"tags": ["snaps", "swe"],
+			"content": "Till supen så tager man sill, fallera,\nmen också ansjovis om man vill, fallera.\nOch om man är oviss, om sillen är ansjovis,\nså tager man några supar till, fallera."
+		},
+		{
+			"id": 247,
+			"title": "Livet på Teknis",
+			"melody": "Jänta å ja'",
+			"composer": "Fredrik August Dahlgren",
+			"tags": ["snaps", "swe"],
+			"content": "Måndag då är det suparedag,\ntisdag då är det samma behag,\nonsdag då super bror min och jag,\ntorsdag då är vi fulla.\nFredag då gör vi alls ingenting,\nlördag då ringer sabbaten in:\nPlingele pling, plingele plong.\nSöndag då får vi vila!"
+		},
+		{
+			"id": 248,
+			"title": "Nubben Walk",
+			"melody": "The Lambeth Walk",
+			"composer": "Noel Gay",
+			"tags": ["snaps", "swe"],
+			"content": "Nubbar man för lite blir livet torrt.\nNubbar man för mycket blir livet kort.\nNej, gör som jag:\nNubba lite varje dag!"
+		},
+		{
+			"id": 255,
+			"title": "Visa med system",
+			"melody": "The Muppet Show Theme",
+			"composer": "Sam Pottle",
+			"tags": ["snaps", "swe"],
+			"content": "När vi skall till att tippa\ndå tippar vi system.\nVi vet att på systemet\nfår man vinst utan problem.\n\nMen etta, kryss och tvåa\nger ingen verkan alls.\nNej, vad vi helst vill tippa\när en sexa i vår hals.",
+			"author": "(Sångarstriden, LTH, 1982)"
+		},
+		{
+			"id": 256,
+			"title": "Emilias Snapsvisa",
+			"melody": "Du käre lille snickerboa",
+			"composer": "Georg Riedel",
+			"tags": ["snaps", "swe"],
+			"content": "Vårt glas vi lyfter i extas\nnär vi är på kalas.\nVi mister både vett och sans\noch tappar vår balans.\n\nSnapsen gör mig listig och stark\njag kryper hem på mark-\nen sup är gott, hoppfallera,\nmen stackars mig, hoppfallerej.\n\nDen lilla återställaren\ni morgon får jag ta.\nJag aldrig mig min läxa lär,\nvar fest det utför bär.\n\nSnapsen gör mig..."
+		},
+		{
+			"id": 257,
+			"title": "Amanda",
+			"melody": "Värnamovisan",
+			"tags": ["snaps", "swe"],
+			"content": "Amanda gångar sig ut i lunden.\nDär får hon se att en ko står bunden.\nAmanda gångar sig hem igen.\nSlår upp en knaber och sveper den."
+		},
+		{
+			"id": 280,
+			"title": "White spirit (II)",
+			"melody": "White Christmas",
+			"composer": "Irving Berlin",
+			"tags": ["snaps", "eng"],
+			"content": "I'm dreaming of those white spirits,\njust like the ones I used to know.\nOh, my eyes do glisten,\nAnd my tongue is missin’,\nI want vodka in my throat.\n\nSo I'm dreaming of those white spirits,\nthat you can order by the phone.\nThere is nothing left to dispute,\nJust drink that lovely Absolut.",
+			"author": "Dante Julio Cosentino, IT-21 (KTH, 2026 — Rewrite of original)"
 		},
 		{
 			"id": 92,
 			"title": "Punschen kommer",
-			"melody": "Vals ur Glada änkan",
+			"alternativeTitles": ["Punschvisan", "Punschen kommer (kall)", "Gamla punschvisan"],
+			"melody": "Änkevalsen ur Glada änkan",
 			"composer": "Franz Lehár",
 			"notes": [
 				"Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger.",
 				"För varje repetition följer en rörelse; gunga vänster till höger, gunga fram och tillbaka, ställa sig upp och sätta sig ner. Dessa upprepas så länge man sjunger."
 			],
 			"tags": ["punsch", "swe"],
-			"content": "Punschen kommer,\npunschen kommer,\nljuv och sval.\n\nGlasen imma,\nröster stimma,\ni vår sal.\n\nSkål för glada minnen!\n\nSkål för varje vår\n\nInga sorger finnas mer\nnär punsch vi får."
+			"content": "Punschen kommer,\npunschen kommer,\nljuv och sval.\n\nGlasen imma,\nröster stimma,\ni vår sal.\n\nSkål för glada minnen.\nSkål för varje vår.\nInga sorger finnas mer\nnär punsch vi får!",
+			"author": "Lillie Gren-Värjare"
 		},
 		{
 			"id": 93,
@@ -1091,7 +1581,7 @@
 			"composer": "Vilhelm Sefve-Svensson",
 			"tags": ["punsch", "swe"],
 			"content": "Punschen, punschen,\nrinner genom strupen, ner i djupen.\nBlandas, konfronteras\ndär med supen, där med supen.\nGula droppar, stärker våra kroppar,\npunsch, punsch, punsch!",
-			"author": "FestU (Chalmers)"
+			"author": "Peter Follin och Carl-Johan \"Kalix\" Bergström (CTH)"
 		},
 		{
 			"id": 95,
@@ -1112,11 +1602,13 @@
 			"melody": "Tomtarnas julnatt",
 			"composer": "Vilhelm Sefve-Svensson",
 			"tags": ["punsch", "swe"],
-			"content": "Guling, guling.\nKom din lilla fuling.\nPunsch, punsch, punsch!"
+			"content": "Guling, guling.\nKom din lilla fuling.\nPunsch, punsch, punsch!",
+			"author": "Jan Rippe (CTH)"
 		},
 		{
 			"id": 98,
 			"title": "När supen vandrat hädan",
+			"alternativeTitles": ["Punschkanon"],
 			"melody": "Jag gick mig ut i skogen",
 			"notes": ["Den stämma som slutar samtidigast som den andra, vinner."],
 			"tags": ["punsch", "swe"],
@@ -1133,16 +1625,21 @@
 			"id": 100,
 			"title": "Studiemedelsrondo",
 			"melody": "Ösa sand",
+			"composer": "Owe Thörnqvist",
+			"notes": [
+				"Ibland sjungs endast första versen om och om igen, snabbare och snabbare varje gång."
+			],
 			"tags": ["punsch", "swe"],
-			"content": "//: Vi dricker punsch, till lunch,\nnär vi har fått avin.\nVi lunchar hela dagen\ntills kassan gått i sin. :// (in abs.)"
+			"content": "Vi dricker punsch, till lunch,\nnär vi har fått avin.\nVi lunchar hela dagen\ntills kassan gått i sin.\n\nVi dricker punsch, till lunch,\ndet är en medicin.\nSom hjälper mot det mesta\noch ger oss glada grin.\n\nVi dricker punsch, ger stuns\noch tentamensamnestin.\nVi dricker för att törsta\noch fira som små svin"
 		},
 		{
 			"id": 101,
 			"title": "Punschens lov",
-			"melody": "Rövarvisan",
+			"melody": "Rövarnas visa",
 			"composer": "Thorbjørn Egner",
 			"tags": ["punsch", "swe"],
-			"content": "Punschen är och punschen var\noch punschen skall förbliva,\nen lidelse vi alla har\nsom ingen kan fördriva.\n\nJa, punschen tinar upp så väl\noch svalkar både kropp och själ.\nDen botar begären\noch lindrar besvären.\nJa, punschen den gör både gott och väl!"
+			"content": "Punschen är och punschen var\noch punschen skall förbliva,\nen lidelse vi alla har\nsom ingen kan fördriva.\n\nJa, punschen tinar upp så väl\noch svalkar både kropp och själ.\nDen botar begären\noch lindrar besvären.\nJa, punschen den gör både gott och väl!",
+			"author": "(Kårspexet Sven Hedin eller en enkel tur och retur, KTH, 1987)"
 		},
 		{
 			"id": 102,
@@ -1166,7 +1663,7 @@
 			"melody": "Sov du lilla videung",
 			"composer": "Alice Tegnér",
 			"tags": ["punsch", "swe"],
-			"content": "Kom nu lilla punschen min,\nfölj nu efter supen.\n\nSnart skall du få åka in\nner igenom strupen.\nTill mitt stora magpalats,\ndär det finns så mycket plats.\n\nKom nu lilla punschen,\nfölj nu efter supen."
+			"content": "Kom nu lilla punschen min,\nfölj nu efter supen.\n\nSnart så skall du få åka in\nner igenom strupen.\nTill mitt stora magpalats,\ndär det finns så mycket plats.\n\nKom nu lilla punschen,\nfölj nu efter supen."
 		},
 		{
 			"id": 105,
@@ -1200,7 +1697,7 @@
 			"composer": "Christian Hartmann",
 			"tags": ["punsch", "swe"],
 			"content": "När kaffet är serverat,\noch maten tagit slut,\noch alla dom som blivit\nalltför fulla kastats ut.\n\nDå vill vi ha ett nytt glas\nmed något gult och kallt.\nSom höjer och förbättrar\nvår promillehalt:\n\nArrak, etanol och sackaros.\nMed salt och vatten blir\nden bästa blandning som kan fås.\nSöt och smetig, rent utav viskös.\nEn sexton, sjutton glas nånting\nså blir du medvetslös.",
-			"author": "(Sångarstriden, Lund, 1987)"
+			"author": "(Sångarstriden, LTH, 1987)"
 		},
 		{
 			"id": 109,
@@ -1211,16 +1708,8 @@
 				"* Ett vanligt symptom av sektionspatriotism är att man vrålar sin sektions namn i mellanrummet; t.ex. \"båd' utanpå och i... IT!!!\" Dock är det även vanligt att istället sjunga \"båd' utanpå och i... IN!!!\" som ett minne till sektionens historia. Flera andra sektionen vrålar också \"igen\", möjligen till följd av många högljudda \"IN\"."
 			],
 			"tags": ["punsch", "swe"],
-			"content": "När punschen småningom är slut\noch vår flaska blivit tom.\nDå vänder vi den upp och ner,\ntill dess inget rinner ur.\n\n//: Så slickar vi, så slickar vi,\nbåd' utanpå och i.\\*\nOch finns det ändå något kvar\nfår det va' till sämre dar. ://"
-		},
-		{
-			"id": 110,
-			"title": "Härlig är punschen",
-			"melody": "Nu grönskar det",
-			"composer": "Johann Sebastian Bach",
-			"tags": ["punsch", "swe"],
-			"content": "Nu blotas det i stad och land,\nnu är midsommartid.\nDräp ko, dräp häst, det är jättefest\nse blod överallt och bredvid.\nVart djur som dör ger bättre skörd,\nse där har vi ju ett svin!\nJa, dräp nu allt, dräp ko och galt\noch taxar och braxar och bin.\n\nRakt fram mot offrets gråa bord\nvi glatt vår kossa styr.\nVi slaktar Bambi och Stampe med,\nse upp så att Bamse ej flyr.\nI gyllne dryck så skålar vi\nnär vi står i det blod som vi skvätt.\nDet där det var gott, får man mer om man ber?\nJa, punsch uti blodet känns rätt.",
-			"author": "(Juristspexet Ansgar, 2003)"
+			"content": "När punschen småningom är slut\noch vår flaska blivit tom.\nDå vänder vi den upp och ner,\ntill dess inget rinner ur.\n\n//: Så slickar vi, så slickar vi,\nbåd' utanpå och i.\\*\nOch finns det ändå något kvar\nfår det va' till sämre dar. ://",
+			"author": "E-Sektionen (PU:s Punschvisetävling, CTH, 1973)"
 		},
 		{
 			"id": 111,
@@ -1229,7 +1718,7 @@
 			"composer": "Johann Sebastian Bach",
 			"tags": ["punsch", "swe"],
 			"content": "Nu blotas det i stad och land,\nnu är midsommartid.\nDräp ko, dräp häst, det är jättefest\nse blod överallt och bredvid.\nVart djur som dör ger bättre skörd,\nse där har vi ju ett svin!\nJa, dräp nu allt, dräp ko och galt\noch taxar och braxar och bin.\n\nRakt fram mot offrets gråa bord\nvi glatt vår kossa styr.\nVi slaktar Bambi och Stampe med,\nse upp så att Bamse ej flyr.\nI gyllne dryck så skålar vi\nnär vi står i det blod som vi skvätt.\nDet där det var gott, får man mer om man ber?\nJa, punsch uti blodet känns rätt.",
-			"author": "(Juristspexet Ansgar, 2003)"
+			"author": "(Juristspexet Ansgar, SU, 2003)"
 		},
 		{
 			"id": 112,
@@ -1246,7 +1735,7 @@
 			"melody": "Only you",
 			"tags": ["punsch", "swe"],
 			"content": "//: Arra ra rak, arra ra rak,\narra ra rak, arra ra rak ://\n\nPå en resa är det ej lätt,\natt beställa rätt rätt,\ntill en måltid.\n\nFrukost, middag, lunch och supé,\nnej, se det krävs något mer,\nför en skål i.\n\nPunschen passar bra till mat, min vän.\nPunschen går fint till matlagningen.\nFör min ingrediens,\ndet är punsch.\n\nPunsch punsch, punsch punsch, punsch punsch.\n\nUtomrikes är allting svårt,\ninte som hemma hos vårt.\nJag förstår ej.\n\nKan ju inte tala vårt språk,\nförsöker få dem förstå.\nMen det går ej.\n\nSka det va' så svårt få vad man beställt,\nsnart så har ju efterrätten smällt.\n//: Det enda jag vill ha, det är punsch. ://",
-			"author": "André Mabande"
+			"author": "André Mabande (SU)"
 		},
 		{
 			"id": 152,
@@ -1254,7 +1743,7 @@
 			"melody": "Du gamla, du fria",
 			"tags": ["punsch", "swe"],
 			"content": "Du ädla, du friska, du livselixir,\nmed dig vill jag mina läppar blöta.\nDen svenskaste drycken, på jorden den förblir.\n\n//: Den gyllene, den underbara söta. ://\n\nSom iskall till kaffet du ställs på vårt bord\noch även som varm till torsdagslunchen.\nJag halsar dig, lenaste dryck upp på jord.\n\n//: Ja, jag vill leva, jag vill dö iáv punschen. ://",
-			"author": "(Ekonomspexet Erik XIV, Stockholms universitet, 1992)"
+			"author": "(Ekonomspexet Erik XIV, SU, 1992)"
 		},
 		{
 			"id": 157,
@@ -1284,24 +1773,132 @@
 		{
 			"id": 183,
 			"title": "The most wonderful time",
-			"melody": "It's the most wonderful time of the year (Chorus)",
+			"melody": "It's the most wonderful time of the year",
 			"composer": "Edward Pola och George Wyle",
 			"tags": ["punsch", "eng"],
-			"content": "It's the most wonderful time of the gasque\nWhen the spirits are high  \nand the bellies are full and the punsch has been served\nIt's the most wonderful time of the gasque\n\nIt is time for us to start drinking punsch\nWe all say skål and let  \ngolden drops flow all the way down our throats\nIt is time for us to start drinking puu-unsch",
+			"content": "It's the most wonderful time of the gasque.\nWhen the spirits are high,\nand the bellies are full,\nand the punsch has been served.\nIt's the most wonderful time of the gasque.\n\nIt is time for us to start drinking punsch.\nWe all say Skål and let,\ngolden drops flow all\nthe way down our throats.\nIt is time for us to start drinking punsch.",
 			"author": "Dylan Horn Kreiner, IT-23 (KTH, 2024)"
 		},
 		{
 			"id": 194,
 			"title": "Punsch is coming",
-			"melody": "Vals ur Glada änkan",
+			"alternativeTitles": ["Punschen kommer (Engelska)", "Punsch is coming (cold)"],
+			"melody": "Änkevalsen ur Glada änkan",
 			"composer": "Franz Lehár",
 			"notes": [
 				"Repeats until all the punsch is served. Only those who have not been served sing.",
 				"For each repetition, a movement follows; rocking left to right, rocking back and forth, standing up and sitting down. These are repeated as long as you sing.",
-				"English translation of \"Punschen kommer\""
+				"English version of \"Punschen kommer\"."
 			],
 			"tags": ["punsch", "eng"],
-			"content": "Punsch is coming,\npunsch is coming,\nsweet and cool.\n\nGlasses fogging,\nvoices buzzing,\nin our hall.\n\nSkål to joyful mem'ries!\n\nSkål to every spring\n\nNo more sorrows will remain\nWhen punsch they bring."
+			"content": "Punsch is coming,\npunsch is coming,\nsweet and cool.\n\nGlasses fogging,\nvoices buzzing,\nin our hall.\n\nSkål to joyful mem'ries.\nSkål to every spring.\nNo more sorrows will remain\nwhen punsch they bring!"
+		},
+		{
+			"id": 221,
+			"title": "Punschen kommer (varm)",
+			"alternativeTitles": ["Punschvisan"],
+			"melody": "Änkevalsen ur Glada änkan",
+			"composer": "Franz Lehár",
+			"notes": [
+				"Repeteras in abs. tills punschen är serverad. Endast de som inte har fått sjunger.",
+				"För varje repetition följer en rörelse; gunga vänster till höger, gunga fram och tillbaka, ställa sig upp och sätta sig ner. Dessa upprepas så länge man sjunger."
+			],
+			"tags": ["punsch", "swe"],
+			"content": "Punschen kommer,\npunschen kommer,\ngod och varm.\n\nVettet svinner,\ndroppen rinner,\nner i tram.\n\nSkål för glada minnen,\nsom vi snart ej ha,\ndå ett par glas simmig\npunsch vi hunnit ta!",
+			"author": "Lillie Gren-Värjare"
+		},
+		{
+			"id": 222,
+			"title": "Inte sista punschvisan",
+			"melody": "Auld lang syne",
+			"tags": ["punsch", "swe"],
+			"content": "När punschen druckits lite grann,\noch vår flaska är halvfull,\ndå vänder vi den upp och ner\ntills vårt glas har blivit fullt.\n\n//: Så dricker vi, så dricker vi,\no tar en eller två.\nOm törsten ändå inte släckts\nfinns det mera kvar att få ://",
+			"author": "Anton Lindelöf och Pia Glimmerfors (KTH)"
+		},
+		{
+			"id": 223,
+			"title": "Punschfinalen",
+			"melody": "Sovjetunionens nationalsång",
+			"composer": "Aleksandr Aleksandrov",
+			"tags": ["punsch", "swe"],
+			"content": "Ikväll har Napoleon gjort England den äran\natt komma på middag till dess ambassad.\nMen nu har ni sett till allas förfäran\natt blott tomma flaskor står på parad.\n\nSå går vi ner, ner till stadens hamnkvarter\noch vid kajen Victory vi ser.\nVi går ombord och där väntar ett Nachspiel på oss.\nVi går till bords både fiende och vän\noch våra gräl dom sparar vi till sen.\nVi tar en matbit, en sup, nej flera förtås.\n\nIdag har lord Nelson krökat i Neapel.\nHan raglar omkring med armen i en slips.\nMen snart står han uppsträckt i London på en stapel,\nvi undrar om någon i groggen har lagt gips.\n\nSå går...",
+			"author": "(Bergsspexet Lord Nelson, KTH, 1975)"
+		},
+		{
+			"id": 224,
+			"title": "Punschen står på tur",
+			"melody": "Längtan till landet",
+			"composer": "Otto Lindblad",
+			"tags": ["punsch", "swe"],
+			"content": "Nubben har vi tömt för länge sedan,\npunschen äntligen står på tur.\nAlla sorger har nu vikit hädan.\nTa en klunk och lyss till Bachi lur.\n\nKänn hur härligt allting är här i livet,\nlundens höjder tanken närmar sig.\nTänk att komma bort från människolivet,\nack, låt känslan bli evinnerlig."
+		},
+		{
+			"id": 226,
+			"title": "Jungle Punsch - Djunglepunsch (Engelska)",
+			"melody": "The Bare Necessities",
+			"composer": "Terry Gilkyson",
+			"notes": ["English version of \"Djungelpunsch\""],
+			"tags": ["punsch", "eng"],
+			"content": "I love a timeless glass of punsch,\nSome punsch for breakfast,\nPunsch for lunch,\nSome punsch as starter,\nMain dish, and dessert!\n\nI love the punsch, for don’t you see,\nPlain coffee ain’t a thing to please\nTo drink punsch by the mug is what I need!\n\nWith cognac you tempt me,\nThe best from Renault.\nPardon the shock when I ask for more\nAnd if you offer me liqueur,\nI’m sorry if it does deter.\nI’d rather take a Grönstedt’s Blue,\nA Cederlund’s or Flagg Punsch too—\nDo you have some pure Platin\n\nI love all punsch,\nGive me some punsch and I’ll be yours.\n//: Forever yours! ://",
+			"author": "Dylan Horn Kreiner, IT-23, Dante Julio Cosentino, IT-21, och Hugo \"prINter\" Bachér, IT-21 (KTH, 2026)"
+		},
+		{
+			"id": 261,
+			"title": "Tvekan inför punschen",
+			"melody": "Rosa på bal",
+			"composer": "Evert Taube",
+			"tags": ["punsch", "swe"],
+			"content": "Jag borde nog inte dricka mer.\nVarken öl eller vin eller brännevin.\nEn kaffetår blott, men så vitt jag ser,\nstår det punsch brevi'n.\n\nTänk vilken underbar färg och odör.\n-Nej, det blir bara man bråkar och stör.\nMen för att inte min kväll skall bli trist,\nkrävs både slughet och list!\n\nSå jag tror nog att jag tar en,\npunsch, kanske två, kanske tre!\nSen blir det groggar i baren,\njag klarar säkert av det!\n\nTrots att jag egentligen är rätt knall,\npiggar nog punsch upp mig i alla fall.\nJag kvicknar till med en punsch i min bål.\nNu har jag bestämt mig, SKÅL!",
+			"author": "Sebbe (KTH)"
+		},
+		{
+			"id": 262,
+			"title": "Vad ger dig din sisu",
+			"alternativeTitles": ["Nya punschvisan"],
+			"melody": "Mjölnarens Dotter",
+			"tags": ["punsch", "swe"],
+			"content": "Vad ger dig din sisu, vad håller dig varm?\nsko-ro-rompom-pej\nJo, punschen som upptas i mage och tarm.\nFörsvinnande god,\nförsvinnande god.\nFår upp humöret och promillen. Hej!\n\nDu blir en ny männska' när du får en punsch.\nSko-ro-rompom-pej\nOch den nya männskan' vill också ha punsch.\nFörsvinnande god,\nförsvinnande god.\nFår upp humöret och promillen. Hej!",
+			"author": "(Chalmersspexet Sven Duva, CTH, 1965)"
+		},
+		{
+			"id": 263,
+			"title": "Min punsch",
+			"melody": "Min häst",
+			"composer": "Lasse Åberg",
+			"tags": ["punsch", "swe"],
+			"content": "//: Min punsch den är gul och ljuvlig,\njag dricker den varm som kall\ntill mina ärter med fläsk,\neller efter en bäsk,\nnär punschen smakar bäst i magen ://"
+		},
+		{
+			"id": 264,
+			"title": "Punschpolkett",
+			"melody": "Nudistpolka",
+			"composer": "Evert Taube",
+			"tags": ["punsch", "swe"],
+			"content": "Inte dricker jag snaps,\nnej, det passar ej alls\ntill en kaffetår i kväll,\nmen av punschen blir jag säll.\nFör se punschen går ida' som igår,\ngår till ärter och glass,\när en dryck utav klass,\nhar en söt och välkänd smak.\nOh, vad det är underbart\natt få tömma punschpokalen."
+		},
+		{
+			"id": 266,
+			"title": "Ärter och Punsch",
+			"melody": "Fritiof och Carmencita",
+			"composer": "Evert Taube",
+			"tags": ["punsch", "swe"],
+			"content": "Ärter och punsch, en liten rätt med traditioner.\nDen smakar bra och väcker många sensationer.\nBlekgul till färgen,\nsmaken går in till märgen,\nmed en senap som blandats enligt gammal tradition.\nSå skall den njutas denna svenska folks passion,\nen torsdagskväll i varje månad.\n\nSkål vänner, bort med all tristess.\nÄrter och punsch skall vi nu njuta utan stress.\nInga sura miner vill vi se i afton,\nnär doften av ärter och punsch sprids i salongen.\nTänk på Grönstedt, Cederlund och Flagg,\noh, vilken doft från denna arraksgula tagg.\nHela natten skall vi njuta denna underbara brygd.\nSkål för lilla ärtan och punschen!"
+		},
+		{
+			"id": 267,
+			"title": "Punsch-lunch visa",
+			"melody": "Blommig falukorv",
+			"composer": "Hans \"Hasse\" Alfredson",
+			"tags": ["punsch", "swe"],
+			"content": "Jag vill ha kall och simmig punsch till lunch, mamma.\nNå't annat vill jag inte ha.\nÖl får man för ofta, vin smakar som kofta,\nstarksprit det är riktigt läbbigt.\nNej, jag vill ha kall och simmig punsch till lunch, mamma.\nEtt stort glas härlig punsch till lunch."
+		},
+		{
+			"id": 268,
+			"title": "Punschvisa",
+			"melody": "Med en enkel tulipan",
+			"composer": "Jules Sylvain",
+			"tags": ["punsch", "swe"],
+			"content": "Nu med en ny och stadig krök\nmed armen gör vi försök\nAtt lyfta glaset, att lyfta glaset\nsom står och väntar.\nHåll blicken fäst vid glasets rand\noch darra inte på hand.\nNu allesammans, nu allesammans\npå munnen gläntar.\n\nEn liten punschtår så här placerad\ni ena handen sig bättre gör,\nän tio liter uppå Systemet\noch inga pengar att köpa för.\nSpill inga droppar på ditt bord\noch spill ej mer några ord.\nNu tar vi punschen, nu tar vi punschen\nsom står och väntar."
 		},
 		{
 			"id": 114,
@@ -1310,7 +1907,7 @@
 				"Kan sjungas med sångledare, då sjunger alla raderna som börjar med *, sångledaren i övrigt solo."
 			],
 			"tags": ["foreign", "eng"],
-			"content": "O the year was 17-78!\n\\*How I wish I was in Sherbrooke now!\nA letter of marque came from the king,\nto the scummiest vessel I'd ever seen!\n\n\\*God damn them all!\n\\*I was told we'd cruise the seas for american gold!\n\\*We'd fire no guns, shed no tears!\n\\*Now I'm a broken man on a Halifax pier,\n\\*the last of Barrett's privateers.\n\nO Elcid Barrett cried the town.\n\\*How I wish I was in Sherbrooke now!\nFor twenty brave men, all fishermen who\nwould make for him the Antelope's crew.\n\n\\*God damn them all ...\n\nThe Antelope sloop was a sickening sight.\n\\*How I wish I was in Sherbrooke now!\nShe'd a list to the port and her sails in rags\nand the cook in the scuppers\nwith the staggers and jags!\n\n\\*God damn them all ...\n\nOn the king's birthday we put to sea.\n\\*How I wish I was in Sherbrooke now!\nWe were ninety-one days to Montego Bay,\npumping like madmen all the way.\n\n\\*God damn them all ...\n\nOn 96th day we sailed again.\n\\*How I wish I was in Sherbrooke now!\nWhen a bloody great yankee hove in sight,\nwith our cracked four-pounders we made to fight.\n\n\\*God damn them all ...\n\nThe yankee lay low down with gold.\n\\*How I wish I was in Sherbrooke now!\nShe was broad and fat and loose in the stays,\nbut to catch her took the Antelope two whole days.\n\n\\*God damn them all ...\n\nThen at length we stood, two cables away.\n\\*How I wish I was in Sherbrooke now!\nOur cracked four-pounders made an awful din,\nbut with one fat ball the yank stove us in.\n\n\\*God damn them all ...\n\nThe Antelope shook and pitched on her side.\n\\*How I wish I was in Sherbrooke now!\nBarrett was smashed like a bowl of eggs,\nand the main-truck carried off both me legs.\n\n*God damn them all!\n*I was told we'd cruise the seas for american gold!\n*We'd fire no guns, shed no tears!\n*Now I'm a broken man on a Halifax pier,\n\\*the last of Barrett's privateers.\n\nNow here I lay in my 23rd year.\n\\*How I wish I was in Sherbrooke now!\nIt's been six long years since we sailed away,\nand I just made Halifax yesterday.\n\n\\*God damn them all ...",
+			"content": "O the year was 17-78!\n\\*How I wish I was in Sherbrooke now!\nA letter of marque came from the king,\nto the scummiest vessel I'd ever seen!\n\n\\*God damn them all!\n\\*I was told we'd cruise the seas for american gold!\n\\*We'd fire no guns, shed no tears!\n\\*Now I'm a broken man on a Halifax pier,\n\\*the last of Barrett's privateers.\n\nO Elcid Barrett cried the town.\n\\*How I wish I was in Sherbrooke now!\nFor twenty brave men, all fishermen who\nwould make for him the Antelope's crew.\n\n\\*God damn them all...\n\nThe Antelope sloop was a sickening sight.\n\\*How I wish I was in Sherbrooke now!\nShe'd a list to the port and her sails in rags\nand the cook in the scuppers\nwith the staggers and jags!\n\n\\*God damn them all...\n\nOn the king's birthday we put to sea.\n\\*How I wish I was in Sherbrooke now!\nWe were ninety-one days to Montego Bay,\npumping like madmen all the way.\n\n\\*God damn them all...\n\nOn 96th day we sailed again.\n\\*How I wish I was in Sherbrooke now!\nWhen a bloody great yankee hove in sight,\nwith our cracked four-pounders we made to fight.\n\n\\*God damn them all...\n\nThe yankee lay low down with gold.\n\\*How I wish I was in Sherbrooke now!\nShe was broad and fat and loose in the stays,\nbut to catch her took the Antelope two whole days.\n\n\\*God damn them all...\n\nThen at length we stood, two cables away.\n\\*How I wish I was in Sherbrooke now!\nOur cracked four-pounders made an awful din,\nbut with one fat ball the yank stove us in.\n\n\\*God damn them all...\n\nThe Antelope shook and pitched on her side.\n\\*How I wish I was in Sherbrooke now!\nBarrett was smashed like a bowl of eggs,\nand the main-truck carried off both me legs.\n\n*God damn them all!\n*I was told we'd cruise the seas for american gold!\n*We'd fire no guns, shed no tears!\n*Now I'm a broken man on a Halifax pier,\n\\*the last of Barrett's privateers.\n\nNow here I lay in my 23rd year.\n\\*How I wish I was in Sherbrooke now!\nIt's been six long years since we sailed away,\nand I just made Halifax yesterday.\n\n\\*God damn them all...",
 			"author": "Stan Rogers (1976)"
 		},
 		{
@@ -1323,7 +1920,7 @@
 			"id": 116,
 			"title": "The Wild Rover",
 			"tags": ["foreign", "eng"],
-			"content": "I've been a wild rover for many's the year,\nI've spent all me money on whiskey and beer.\nBut now I'm returning with gold in great store,\nand I never will play the wild rover no more.\n\nAnd it's no, nay, never!\nNo, nay, never, no more,\nwill I play the wild rover.\nNo never no more!\n\nI went to an alehouse I used to frequent,\nand I told the landlady me money was spent.\nI asked her for credit, she answered me \"nay,\nsuch a custom as yours I could have any day\".\n\nAnd it's no, nay, never ...\n\nI took from me pocket ten sovereigns bright,\nand the landlady's eyes opened wide with delight.\nShe said \"I have whiskeys and wines of the best,\nand the words I just spoke they were only in jest\".\n\nAnd it's no, nay, never ...\n\nI'll have none of your whiskeys,\nnor fine Spanish wines,\nfor your words show you clearly as no friend of mine.\nThere's others most willing to open a door,\nto a man coming home from a far distant shore.\n\nAnd it's no, nay, never ...\n\nI'll go home to me parents, confess what I've done,\nand I'll ask them to pardon their prodigal son.\nAnd when they've caressed me as oft times before,\nI never will play the wild rover no more.\n\nAnd it's no, nay, never ..."
+			"content": "I've been a wild rover for many's the year,\nI've spent all me money on whiskey and beer.\nBut now I'm returning with gold in great store,\nand I never will play the wild rover no more.\n\nAnd it's no, nay, never!\nNo, nay, never, no more,\nwill I play the wild rover.\nNo never no more!\n\nI went to an alehouse I used to frequent,\nand I told the landlady me money was spent.\nI asked her for credit, she answered me \"nay,\nsuch a custom as yours I could have any day\".\n\nAnd it's no, nay, never...\n\nI took from me pocket ten sovereigns bright,\nand the landlady's eyes opened wide with delight.\nShe said \"I have whiskeys and wines of the best,\nand the words I just spoke they were only in jest\".\n\nAnd it's no, nay, never...\n\nI'll have none of your whiskeys,\nnor fine Spanish wines,\nfor your words show you clearly as no friend of mine.\nThere's others most willing to open a door,\nto a man coming home from a far distant shore.\n\nAnd it's no, nay, never...\n\nI'll go home to me parents, confess what I've done,\nand I'll ask them to pardon their prodigal son.\nAnd when they've caressed me as oft times before,\nI never will play the wild rover no more.\n\nAnd it's no, nay, never..."
 		},
 		{
 			"id": 117,
@@ -1358,8 +1955,18 @@
 			"title": "In the trade of jester",
 			"notes": ["Skriven av en gycklargrupp från Norrköping och därmed inte precis utländsk."],
 			"tags": ["foreign", "eng"],
-			"content": "In the trade of jester,\nwe're fools that play our part.\nIn an act sworn by folklore,\nwhere the lines are made by heart.\n\nGetting gold from the nobles\nand mockin' from ye all.\nBut we drink with the greatest warriors,\nand we dance in every hall.\n\nWe travel through the country,\nwe go from town to town.\nWe're the sworn kings of jester\nbut we've never worn a crown.\n\nGetting gold ...\n\nI've never had a family,\nnor have I had a wife.\nIt's a high cost of living,\nit's the price I pay for life.\n\nGetting gold ...\n\nWe meet the fairest ladies,\nbut we never had a chance.\nSo we play our bagpipes\nas the common people dance.\n\n> \"Säckpipor\"\n\nTo die without a nickel\nis a scare for anyone.\nSo we work until our last day,\nand we die like common man.\n\nGetting gold ...",
-			"author": "Jauvet"
+			"content": "In the trade of jester,\nwe're fools that play our part.\nIn an act sworn by folklore,\nwhere the lines are made by heart.\n\nGetting gold from the nobles\nand mockin' from ye all.\nBut we drink with the greatest warriors,\nand we dance in every hall.\n\nWe travel through the country,\nwe go from town to town.\nWe're the sworn kings of jester\nbut we've never worn a crown.\n\nGetting gold...\n\nI've never had a family,\nnor have I had a wife.\nIt's a high cost of living,\nit's the price I pay for life.\n\nGetting gold...\n\nWe meet the fairest ladies,\nbut we never had a chance.\nSo we play our bagpipes\nas the common people dance.\n\n> \"Säckpipor\"\n\nTo die without a nickel\nis a scare for anyone.\nSo we work until our last day,\nand we die like common man.\n\nGetting gold...",
+			"author": "Jauvet (Norrköping)"
+		},
+		{
+			"id": 218,
+			"title": "Theodor",
+			"notes": [
+				"* Rädda nobben (dvs banka i bordet)",
+				"Är en känd Norsk akademisk bordsvers. Sjungs även på KTH, främst av Maskin innan de får börja äta."
+			],
+			"tags": ["foreign"],
+			"content": "Jeg elskede sjøen ifra jeg var ung,\nog svømmede om som en sei,\nfaderiorei.\nEn dag da jeg badet min velskapte kropp,\nkun bagenden ragede op,\nfaderiorei.\n\n//: Folk ropte: \"Der svømmer en alligator!\"\nSå var det \\* \\* til Theodor. ://"
 		},
 		{
 			"id": 122,
@@ -1393,7 +2000,7 @@
 			"composer": "Claes Eriksson",
 			"tags": ["nerdy", "swe"],
 			"content": "Jag har prövat alla operativ som finnas kan:\nWindows, OS/X, Amiga-OS, och Symbian.\nJag har klickat runt på skärmen\ntills jag drypit helt av svett\noch äntligen har jag hittat\nsystemet som är rätt:\n\nMan ska ha Linux,\ndå kan ens dator vara klen.\nMan ska ha Linux,\ndå har man lagom med problem.\nMan ska ha Linux,\noch aldrig tvingas starta om.\nMan ska ha Linux, / äger C:\n\nI många år så var jag trogen\nMicrosoft-koncernen,\noch strunta i att jag inte fick\nkompilera kerneln.\nMen så en dag sa jag till frugan,\nvänligt men bestämt:\n\"Vi skaffar oss ett nytt OS\nsom inte är ett skämt!\"\n\nMan ska ha Linux,\nsom är ett hopplock utav allt.\nMan ska ha Linux,\ndå kan man hålla huvudet kallt.\nMan ska ha Linux,\nså slipper man allt grafiskt trams.\nMan ska ha Linux,\ndå går allt som en dans.\n\nFem minuter kompilering\noch fem minuters manpage,\nfem minuter mkdir\noch fem minuter swap space,\nfem minuter bash\noch gnome och fem xorg,\nfem minuters config av ens tui-editor.\n\nMan ska ha Linux,\nom man vill vara en äkta geek.\nMan ska ha Linux,\nnär allt är gratis blir man rik.\nMan ska ha Linux,\noch slippa datahaveri.\nMan ska ha Linux,\ndå är man riktigt fri!",
-			"author": "Erik Rålenius, IT (KTH)"
+			"author": "Erik Rålenius, IT-04 (KTH)"
 		},
 		{
 			"id": 126,
@@ -1418,7 +2025,7 @@
 			"composer": "Alan Menken",
 			"tags": ["nerdy", "swe"],
 			"content": "Låt mig visa dig kod\nVacker, effektiv, härlig\nSäg om du ska va ärlig,\nhar du drömt om den ibland?\n\nJag kan lära dig C\nEgen minneshantering\nPekare och funktioner\nom du kodar här med mig\n\nHello World!\nHär får vi göra som vi vill\nKoden regerar här!\nC och lär!\nKompilatorn är vår vän\nEn helt ny värld\nUtan nån jävla MDI\nInget designertjat, så underbart\nAtt koda i en helt ny värld, med dig",
-			"author": "Arian och Sixten (DISK KM:s julfest, Stockholms universitet, 2011)"
+			"author": "Arian och Sixten (DISK KM:s julfest, SU, 2011)"
 		},
 		{
 			"id": 161,
@@ -1441,8 +2048,8 @@
 			"title": "PRAOs visa",
 			"melody": "När månen vandrar",
 			"tags": ["esoteric", "swe"],
-			"content": "Nu har vi tvingats att skriva spex,\nmen idéerna tryter.\nVi har fått leva på luft och kex,\noch klubbmästaren ryter:\n\"Era drägg, ni e' inge bra!\"\nOch praoen svarte:\n\"Jag vill bli invald,\nom blott jag får, om blott jag får.\"",
-			"author": "Niklas Söderlund och Wilhelm Svenselius, IT-03 (KTH)"
+			"content": "Nu har vi tvingats att skriva spex,\nmen idéerna tryter.\nVi har fått leva på luft och kex,\noch klubbmästaren ryter:\n\"Era drägg, ni e' inge bra!\"\nOch PRAOen svarte:\n\"Jag vill bli invald,\nom blott jag får, om blott jag får.\"",
+			"author": "Niklas Söderlund, IT-04, och Wilhelm Svenselius, IT-03 (KTH, 2005)"
 		},
 		{
 			"id": 130,
@@ -1456,22 +2063,28 @@
 			"id": 131,
 			"title": "Farväl till IT-sektionen",
 			"melody": "Uti vår hage",
+			"notes": [
+				"Skrevs till avskedssittningen när IT-Sektionen och ME-Sektionen bildade IN-Sektionen."
+			],
 			"tags": ["esoteric", "swe"],
 			"content": "IT-sektionen den finns inte mer,\nvi minns den väl.\nTillbaks till det gamla,\nvi bönar och ber.\nMan ska kunna skriva Mozart,\nhela IP har blivit kolsvart.\nHujeda mina vänner,\ndet var bättre förr!\n\nIT-sektionen den finns inte mer,\nNULL-pekare!\nKlubbmästeriet hur vi saknar er.\nKräftskiva och annat festligt,\nvi kan räkna ut betygssnitt.\nNu har ni bokstäver, va' fan är det?\n\nIN-sektionen en framtid vi ser,\nett helvete!\nOch tjejer i skolan, ni blir fler och fler!\nOch ME får stå i baren,\noch detta var inte planen,\noch vem fan är Rönngren?\nDet var bättre förr!",
-			"author": "Dain Nilsson, IT-04, och Erik Rålenius, IT (KTH)"
+			"author": "Dain Nilsson, IT-04, och Erik Rålenius, IT-04 (KTH, 2009)"
 		},
 		{
 			"id": 132,
 			"title": "IN-sektionen",
-			"melody": "Rysslands nationalsång",
+			"melody": "Sovjetunionens nationalsång",
 			"composer": "Aleksander Aleksandrov",
+			"notes": [
+				"Skrevs till avskedssittningen när IT-Sektionen och ME-Sektionen bildade IN-Sektionen."
+			],
 			"tags": ["esoteric", "swe"],
 			"content": "IN-sektionen, nya unionen.\nAlla är vänner och gör allt ihop.\nMan skålar och skrattar\noch vaktis han krattar.\nAlla kan dela på allt som är bra.\n\nIN-sektionen, värsta expansionen.\nNu är den kommen, framtiden är här.\nVi fattar våra händer\noch ser vad som händer.\nIN-sektionen lös alla problem!",
-			"author": "Dain Nilsson, IT-04, och Erik Rålenius, IT (KTH)"
+			"author": "Dain Nilsson, IT-04, och Erik Rålenius, IT-04 (KTH, 2009)"
 		},
 		{
 			"id": 133,
-			"title": "Faddersången 2001",
+			"title": "Faddersången",
 			"melody": "SJ, SJ, gamle vän",
 			"composer": "Elizabeth Cotten",
 			"notes": [
@@ -1479,14 +2092,16 @@
 			],
 			"tags": ["esoteric", "swe"],
 			"content": "Nu ska vi till Barnens Ö,\nfesta, skoja, tills vi dö!\nMycket kul för billig peng\nmed vårat faddergäng.\n\nnØllan dum och vilsen är,\nalla faddrar nØllan lär,\nhur man ingen tenta kör\noch att man gasuqa bör.\n\nNär vi lärt dem allt vi kan,\nuppgraderas hon och han.\nTill en etta ruskigt fort\nmed lap och wavelankort!\n\nKista kallas vår nation,\ntydlig gräns är dess station.\nBron den utgör gränsens strand\ntill farligt ghettoland.",
-			"author": "Kjell Ahlström (KTH, 2001)"
+			"author": "Kjell Ahlström, IT-00 (KTH, 2001)"
 		},
 		{
 			"id": 134,
 			"title": "Läs inte på Handels",
+			"melody": "Köp inte en zebra",
+			"composer": "Povel Ramel",
 			"notes": ["Sångledaren läser raderna som startar med *."],
 			"tags": ["esoteric", "swe"],
-			"content": "Studenter se det är som så,\njag är nyss fyllda 18 år.\nSå vilken skola är av bästa klass?\nJag vill inte ses som kass!\n\nLäs inte på Komvux, nej nej!\nLäs inte på Handels, nej nej!\nLäs inte på Chalmers,\nnej nej nej nej nej nej!\nLäs nåt som du har glädje av!\n\nSkolan ska' va riktigt bra,\ndet bästa är det som jag vill ha.\nKanske du minns hur du kände dig,\nkåren, vill ni hjälpa mig?\n\nLäs inte på Komvux...\n\nInget råd jag ännu fått,\nhittils endast dank jag slått,\nså hjälp mig nu den kära kår,\nvarför KTH?\n\nLäs inte på Komvux...\n\n\\*invITen?\nDe är grannast att se på!\n\n\\*Vår dräkt då?\nDen får en att må!\n\n\\*Vår logga?\nDen inger respekt!\n\n\\*I Kista!\nInte direkt low-tech!\n\n\\*Ljus framtid?\nDet blir inte ljusare än så!\n\n\\*Ej Chalmers?\nDär kan man ju rakt inte gå!\n\nLäs inte på Komvux...\n\nJag är trött på trams utan en spänn,\nge mig pappren till CSN!\nJag har pluggat och slitit i många år.\nNu till KTH jag går!",
+			"content": "Studenter se det är som så,\njag är nyss fyllda 18 år.\nSå vilken skola är av bästa klass?\nJag vill inte ses som kass!\n\nLäs inte på Komvux, nej nej!\nLäs inte på Handels, nej nej!\nLäs inte på Chalmers,\nnej nej nej nej nej nej!\nLäs nåt som du har glädje av!\n\nSkolan ska va' riktigt bra,\ndet bästa är det som jag vill ha.\nKanske du minns hur du kände dig,\nkåren, vill ni hjälpa mig?\n\nLäs inte på Komvux...\n\nInget råd jag ännu fått,\nhittils endast dank jag slått,\nså hjälp mig nu den kära kår,\nvarför KTH?\n\nLäs inte på Komvux...\n\n\\*invITen?\nDe är grannast att se på!\n\n\\*Vår dräkt då?\nDen får en att må!\n\n\\*Vår logga?\nDen inger respekt!\n\n\\*I Kista!\nInte direkt low-tech!\n\n\\*Ljus framtid?\nDet blir inte ljusare än så!\n\n\\*Ej Chalmers?\nDär kan man ju rakt inte gå!\n\nLäs inte på Komvux...\n\nJag är trött på trams utan en spänn,\nge mig pappren till CSN!\nJag har pluggat och slitit i många år.\nNu till KTH jag går!",
 			"author": "Alex Ellgren, ME-07, och Oscar Frick, ME-07 (KTH)"
 		},
 		{
@@ -1511,7 +2126,7 @@
 			"melody": "Agadoo (ungefär)",
 			"tags": ["esoteric", "swe"],
 			"content": "När jag slutade 9:an,\nja då tänkte jag som så.\nJag skall ej bliva lodis,\njag skall gå på KTH.\n\nSå i spårval jag valde\natt i nördars fotspår gå\nLäsa teknikers linje\nme'ns de andra kröka på.\n\nFör Bacchus älskar ju dem,\nsom älskar vin, sex och sång!\nMens de som drack vid sexton\nej kunde sjunga en gång!\n\nSå jag började på IT\nför att blifva Bacchus vän.\nLärde mig snart att sjunga\nav den goda invITen.\n\nÅ jag började att dricka,\ngöra spex och hyssa på.\nJa du jävlar du skall se,\ndet blev blött på KTH.\n\nFör Bacchus älskar ju dem,\nsom älskar vin, sex och sång!\nMen det blev inte en gång\njag fick ett streck på min stång.\n\n\"Var e brudarna?\"\n\nNär jag slutade på IT\nvar det dags att jobbet få.\nSå jag visade CV:t\nå där stod det liksom så:\n\n\"Jag kan kasta en stövel,\nstjäla skyltar, supa på.\"\nÅ då jävlar de visste,\nhan har gått på KTH!\n\nFör Bacchus älskar ju dem,\nsom älskar vin, sex och sång!\nMen kvinnor älskar ju dem\nsom kan nåt annat än Pong!\n\nSedan återkom bubblan\noch min avskedning blev snar.\nTorska hus, bil och kvinna,\nmen se törsten den blev kvar!\n\nSå jag satt där på bänken,\nsila T-röd och sjöng på,\nom de bäskaste droppar\noch att gå på KTH.\n\nFör Bacchus älskar ju dem,\nsom älskar vin, sex och sång!\nMen det gör Charon också\nså jag blev blott trettitvå.\n\nNär jag så kom till Hades\nmötte jag honom till slut.\nLilla sjungande Bacchus,\ngud till var och en suput.\n\nI hans näve fanns bäsken\noch se schmecken den satt på!\nJa man borde ha anat, han\nhar gått på KTH!",
-			"author": "Kjell Ahlström (KTH)"
+			"author": "Kjell Ahlström, IT-00 (KTH)"
 		},
 		{
 			"id": 138,
@@ -1519,7 +2134,7 @@
 			"melody": "Du gamla, du fria",
 			"tags": ["esoteric", "swe"],
 			"content": "Du gamla du fina du stolta tentavakt.\nDu vakar över skrivande studenter.\nDu önskar att allt kunde\nbli som det var,\npå ljuva 1920-talet.\n\nDu fuktar ditt finger\noch räknar mina blad,\noch ser till att jag fyllt försättsbladet,\noch drömmer dig bort\noch önskar att du åter var\nstudent på 1920-talet.",
-			"author": "Erik Rålenius, IT (KTH)"
+			"author": "Erik Rålenius, IT-04 (KTH)"
 		},
 		{
 			"id": 139,
@@ -1527,7 +2142,7 @@
 			"melody": "Vart tog den söta lilla flickan vägen",
 			"tags": ["esoteric", "swe"],
 			"content": "\"Du Konglig?\"\n\"Ja?\"\n\"Ibland e groggen för stor men oftast e den för liten.\"\n\"Mm, så är det.\"\n\n//: Vart tog den schlema lilla nØllan vägen? :// (3x)\nIngen som vet, ingen som vet!\n\n//: Vart tog den schlema lilla nØllan vägen? :// (3x)\nIngen som vet, ingen som vet!\n\nKolla ettans homies,\nde verkar inte för-stå!\nLilla dumma nØllan\ntycks å palla K å T, H!\nHan fick ju bara IGn?\nHur fan tog han sig in?\nPå IT och ME är kraven ingenting!\n\nHur fan ska han det klara?\nVänta lite bara!\nHjältarna i mantlar\ntycks komma i en skara!\n\"Höger hand på höger axel\"\nsägs i gnällig röst,\nsen vandrar de iväg,\ni schlemled blir han phöst.\n\nFördömt! Likt lära snorvalp cykla,\nbörjar likt förbannat han\nokynnesgyckla.\nSe schlemet där vid bordet\nsom dreglar massa schnor.\nJag har tröttnat,\nskicka hit min re-gu-la-tor!\n\nMah, mah!\nKolla nØllan, han är en sån geek!\nMen Konglig är coolhet - logik!\nViolett matchar skitbra till svart!\nOch nu undrar ni vart...\n\n//: Vart tog den schlema lilla nØllan vägen? :// (3x)\nIngen som vet, ingen som vet!\n//: Vart tog den schlema lilla nØllan vägen? :// (3x)\nIngen som vet, ingen som vet!\n\nOch vad har han för idoler?\nKolla nØllans vägg!\nFörut var det Handels,\nvad är det nu för drägg\nmed skägg! Och pyntade schmeckar,\nlånga mantlar och fasta häckar!\nHan blir aldrig töntig ekonom igen,\nhar betan till bibel och datorn som vän.\n\nNu är det andra dryckjom han kräver:\nBäska droppar och bärs han häver!\nOch snuskiga små gyckel\nsom trotsar kårens bruk,\nsubliminala hintar,\nvad rimmar på \"duk\"?\n\nOch lämna aldrig er\nsäkra brandvägg öppen,\ndå sprids skitsnabbt ryktena\nom sexleksaksköpen.\nVem fan är det som tullar\ni Kongligs egen bar?\nBOOM!\n\n\"Så går det för den nØllan som ambrosiak tar!\"",
-			"author": "Kjell Ahlström (KTH)"
+			"author": "Kjell Ahlström, IT-00 (KTH)"
 		},
 		{
 			"id": 140,
@@ -1546,7 +2161,7 @@
 			],
 			"tags": ["esoteric", "swe"],
 			"content": "Jag har kört nästan alla kurser jag provat på.\nI termo och i våg och i matten likaså.\nJag va osäker men nu vet jag att jag har\nvalt ett bra program som jag aldrig klarar av\n\nMan ska gå ME, så att man sliter sig isär,\nman ska gå ME, utan fritid blir allt bra.\nMan ska gå ME, då blir det inget dagsljus nej,\nman ska gå ME, här finns inga tjejer.\\*\n\nFem minuter kvant och fem minuter termo,\nfem minuter TET och fem minuter bärvåg,\nfem minuter vin och fem minuter fest,\nfem minuters sömn i soffan på plan 6.",
-			"author": "Viktor Åberg (KTH)"
+			"author": "Viktor Åberg, ME-02 (KTH, 2004)"
 		},
 		{
 			"id": 142,
@@ -1573,10 +2188,187 @@
 		{
 			"id": 145,
 			"title": "Californien",
+			"alternativeTitles": ["I Californien", "Kalifornien"],
 			"melody": "Oh! Susanna",
 			"composer": "Stephen Foster",
 			"tags": ["esoteric", "swe"],
 			"content": "I Californien där himmelen är blå,\ndär näktergalar drillar slå.\n\nSjung hopp fallerallan-lej. Tjo!\nÅh Susanna gråt inte för din vän.\nHan har rest till Cali-californien,\nkommer aldrig mer igen. Tjo!\n\nDär är varenda sten av silver eller gull.\nAv sten är hela jorden full.\n\nSjung hopp...\n\nFör pengar får man där vad man vill,\noch hela sjön är full av sill.\n\nSjung hopp...\n\nDär är varenda mö så fager som en ros.\nfast ungdomen har flytt sin kos.\n\nSjung hopp...\n\nDär är man ingenjör och lever tills man dör.\nDet rår man inte för, fallera.\n\nSjung hopp...\n\nÅh Susanna gråt inte för din vän.\nHan har rest till Cali-californien,\nkommer aldrig mer igen. Tjo!"
+		},
+		{
+			"id": 203,
+			"title": "Styrelsens fel",
+			"melody": "Bögarnas fel",
+			"composer": "Henrik Dorsin",
+			"tags": ["esoteric", "swe"],
+			"content": "Över hela vår sektion (Oh yeah, oh yeah)\nså sker det ansvarsdiffusion. (Oh ack, oh ve)\nMen vi som just har tillträtt har inte ryggen fri,\nför roten till allas problem ja det är faktiskt vi.\n\nJa det är styrelsens fel, (styrelsens fel)\nstyrelsens fel. (styrelsens fel)\nI reglementet står det, det är styrelsens fel.\nJag vet inte vilken paragraf, sida eller del,\nmen nånstans där i står det, det är styrelsens fel.\n\nÅngest, sömnlöshet och stress, (styrelsens fel)\nkåravgift på THS, (styrelsens fel)\nTentor, KS, labrapport och dyr kurslitteratur,\natt man känner sig så bakis efter man har ballat ur.\n\nJa det är styrelsens fel, (styrelsens fel)\nstyrelsens fel. (styrelsens fel)\nNymble står i brand och det är styrelsens fel.\nJag spydde på mitt haff och stämningen blev genast stel.\nJag visste på nåt sätt att det var styrelsens fel.\n\nIngen tid för fredagsmys, (styrelsens fel)\nflervariabelanalys, (styrelsens fel)\natt det råder sådan brist på ideellt engagemang,\natt Nymble luktar som ett gammalt bortglömt lavemang.\n\nJa det är styrelsens fel, (styrelsens fel)\nstyrelsens fel. (styrelsens fel)\nAllt är upp och ner och det är styrelsens fel.\nPrecis när vi tillträtt trodde vi att alla har en del,\nmen nu så vet vi bättre, det är styrelsens fel.",
+			"author": "Alfred Kedhammar, K-16"
+		},
+		{
+			"id": 205,
+			"title": "Jag har ledigt",
+			"melody": "Bamsesången",
+			"composer": "Sten Carlberg",
+			"tags": ["esoteric", "swe"],
+			"content": "Jag har ledigt, inte vända dygnet,\nlägga mig i tid och sova gott.\nUnder sommarn' ska jag ändå plugga,\nför att spara kunskaper jag fått.\n\nMen, sommarlovet måste firas,\nnågra matcher CS liras.\nRankar ned på sista gamet,\nså vi kör ett till.\n\nVaknar tröttare än när jag somna.\nVad är klockan? Jag kan inte se.\nBländas av solljus på telefonen,\nHelvete, den är ju redan tre.\n\nSommarlovet måste firas,\nnågra matcher CS liras.\nRankar ned på sista gamet,\nså vi kör ett till.\n\nOmtentaperioden har nu börjat,\nplugga har jag inte hunnit me’.\nTidig morgon för att skriva tenta,\njag kommer nog inte ens få E.",
+			"author": "Ludvig \"Spill\" Hellman Öhman, IT-21 (KTH, 2022)"
+		},
+		{
+			"id": 206,
+			"title": "Det är Alvas fel",
+			"melody": "Bögarnas fel",
+			"composer": "Henrik Dorsin",
+			"tags": ["esoteric", "swe"],
+			"content": "Över hela vår sektion, (IN, IŃ)\nsker budgetbråk, licensuppror. (å ack o ve)\nMen vi som är i styrelsen har ändå ryggen fri\nFör roten till vår nämnders ondska det är inte vi\n\nNej, det är Alvas fel, (Alvas fel)\nAlvas fel. (Alvas fel)\nI stadgar står det skrivet det är Alvas fel.\nEj vet vi hur många gånger som Fredrik tagit del,\nmen vad han än har gjort så är det, Alvas fel.\n\nBristen på intern-rep-n, (Alvas fel)\ngolven, måste fixa dem. (Alvas fel)\nTrasig spishäll och projektor och allt annat hemskt,\natt Vin & Sprit är allt för billigt, inte ens på skämt.\n\nJa, det är Alvas fel, (Alvas fel)\nAlvas fel. (Alvas fel)\nKistan står i brand och det är Alvas fel.\nVår kassör med budgetplanen, våra nämnder sköts ihjäl,\npå nåt sätt kan vi känna det var Alvas fel!",
+			"author": "Oscar \"Nollkoll\" Persson, IT-18, Hugo \"prINter\" Bachér, IT-21 (Tackfesten, KTH, 2022)"
+		},
+		{
+			"id": 212,
+			"title": "En Rysse",
+			"melody": "Tom-balalajka",
+			"notes": [
+				"Den 16 juni 1904 nådde ett dystert kapitel i Finlands historia sitt slut genom skotten i Senatsborgen. Där storfurstendömets tionde generalguvernör Nikolaj Ivanovitj Bobrikov och gärningsmannen själv, kammarförvanten i skolstyrelsen Eugen Valdemar Schauman (f. 1875) föll offer. Sången skrevs och framfördes på svenska av studenter som marscherade i Bobrikovs begravningsprocession. Ryssarna blev mycket rörda. De förstod inte texten, men det var ju en pampig melodi... Sången förbjöds senare i Finland, när ryssen lärde sig svenska.",
+				"KTH professorn, Bo \"Don Birka\" Björkman, brukade berätta om en resa med V-studenter till Finland på 50-talet, där de svenska gästerna föreslog att sjunga denna sång. De finska värdarna gick med på det först när dörrarna stängts, så att det inte skulle höras ut att den sjöngs."
+			],
+			"tags": ["esoteric", "swe"],
+			"content": "Och nu skall vi följa en Rysse till hans grav.\nEn Rysse är en skojare i alla sina da'r.\n\nDra åt helvete, dra åt helvete.\nNu drager en Rysse åt helvete.\n\nEn Rysse han kallas för skojare, durak.\nOch visst är det sant att det är ett satans pack.\n\nDra åt helvete...\n\nIstvanovitj eller generalmajor,\nSkillnaden är ta mig fan inte stor.\n\nDra åt helvete...\n\nOch Ryssen är död,\noch kistan är röd.\nMen fan vet om Ryssen är riktigt, riktigt död.\n\nDra åt helvete...",
+			"author": "(Finland, 1904)"
+		},
+		{
+			"id": 227,
+			"title": "Osquaruldahymnen",
+			"melody": "Jungman Jansson",
+			"composer": "Dan Andersson",
+			"notes": ["Uppdaterad med det nya namnet för Osqulda."],
+			"tags": ["esoteric", "swe"],
+			"content": "Stämmen upp teknologer,\natt vårt Teknis nu besjunga.\nUpp på sångens vingar för vi fram,\nen hälsning till vår kår.\nVi skall kämpa, vi skall segra,\nvi är starka, vi är unga.\nVi vårt fosterland skall tjäna,\ndess framtid är vår.\n\nLångan väg vi har att gå,\ninnan vi examen nå.\nDärför kan vi släppa loss,\ni glada vänners lag.\nVi är måttliga med spriten,\nframför allt vi sätter fliten.\nVi går framåt med stormsteg,\nnår målet en dag.\n\nÄr det jobbigt konglig Osquar,\nundrar om examen brådskar.\nFör Osquarina är ju med oss,\nunder dessa svåra år.\nVi har arbete med tentor,\ndet blir studiemedelsräntor.\nMen vi ska nog klara av'et,\nså sjung KTH!\n\nEfter tentorna vi gasqua,\ndär vi fatta kan en flaska.\nDär finns många gossar fina,\nfin Osquarina finns där med.\nOch vi dansar och vi stojar,\nsen så går vi hem och kojar.\nDet är nyttigt att sova,\nså sjung KTH!\n\nNu har handen blivit darrig,\noch min blick är något starrig.\nDet blir inte som jag tänkt mig,\nnär som ung jag framåt såg.\nNu min lever blivit liten,\nmånne det beror på spriten.\nMen än så klappar hjärtat,\ni en sann teknolog."
+		},
+		{
+			"id": 228,
+			"title": "Ingenjörssektionens sång",
+			"melody": "Så lunka vi så småningom",
+			"composer": "Carl Michael Bellman",
+			"tags": ["esoteric", "swe"],
+			"content": "Om du vill gå på KTH,\nmen komma ut väl fort ändå.\nDu slipper alla gråa hår,\nexamen på tre år.\nBetänk ditt linjeval min vän,\nså slipper du bli kvar här sen.\nNär vi på IS har gått ut,\nser resten inget slut.\n\nTycker Du att CivIng är för lång,\neller kanske Handels är för vrång.\nGå då ett år och två år och tre år på Ing,\ndu bliver nöjdare.\n\nSå tentar vi så småningom,\ni samma ämne gång på gång.\nExamen skall vi en gång nå,\nför vi på IS gå.\n\nTycker du..."
+		},
+		{
+			"id": 229,
+			"title": "Här kommer det en Elektriker",
+			"melody": "Fritiof Anderssons paradmarsch",
+			"composer": "Evert Taube",
+			"tags": ["esoteric", "swe"],
+			"content": "Här kommer det elektriker\nsom gasqua kan minsann.\nFinns det nå'n sprit?\nKom med den hit,\nså att vi på den kan tulla!\nOch ser ni till elektriker\nsom ej dricker ur spann,\när det nog som, så det är dom\nsom blivit allt för fulla.\nNär spriten druckits ur var flaska\nblir det dystert men,\nsnart kommer smörjan i retur,\ndå börjar vi igen.\nHär kommer det elektriker\nsom gasqua kan minsann.\nFinns det nå'n sprit?\nKom med den hit så bliver du min vän!"
+		},
+		{
+			"id": 230,
+			"title": "Jag är en Maskiningenjör",
+			"melody": "Med en enkel tulipan",
+			"composer": "Jules Sylvain",
+			"tags": ["esoteric", "swe"],
+			"content": "Jag är en maskiningenjör,\nsom på tentorna kör.\n\nFör jag dricker Tuborg,\njag dricker Tuborg,\noch jagar brudar/killar.\n\nOch när vi kommer till en fest,\nså är det vi som festar mest.\n\nFör vi dricker Tuborg,\nvi dricker Tuborg,\noch jagar brudar/killar."
+		},
+		{
+			"id": 231,
+			"title": "Datalogik",
+			"melody": "Gamla Nordsjön",
+			"composer": "Martin Nilsson",
+			"tags": ["esoteric", "swe"],
+			"content": "Dataloger är bättre än andra.\nDetta märks inte minst på en fest.\nDet finns vissa man aldrig skall klandra\noch bland dessa är IngSekten bäst\n\nDetta kan verka skryt, men är sanning.\nKan bevisas med hjälp av Prolog.\nDärför uppmanar vi till ett kraftfullt HURRA!\nJag ÄR datateknolog."
+		},
+		{
+			"id": 232,
+			"title": "Byggingenjörens Bekännelse",
+			"melody": "Yellow Submarine",
+			"composer": "Paul McCartney och John Lennon",
+			"tags": ["esoteric", "swe"],
+			"content": "Här är vi som det sig bör\nvi går och läser till Ingenjör\nvi valde Bygg, så blir man rik\nvi läser konstruktion och byggteknik.\n\nFör vi läser och vi lär\nvi med stolta steg vår kunskap bär\nnu till Bacchus gör visit\nty vi dricka vin med bonne esprit.\n\n//: Jag ska dricka stinna mitt begär\nde andra som är här\nutmed mig sen bär.\nJag ska festa som en Ingenjör\nom jag av det dör\ndet inte något gör ://"
+		},
+		{
+			"id": 233,
+			"title": "Kemistvisan",
+			"melody": "Kungliga Södermanlands regementes marsch",
+			"composer": "Carl Axel Lundvall",
+			"notes": ["I IsK:s sångbok sjöngs endast vers 1 och 4."],
+			"tags": ["esoteric", "swe"],
+			"content": "Bland tekniska ynglingar alla\nkemisten är kronan ändå\nty en gång, då världarna falla,\nhan tittar blott glättigt därpå.\n//: Ty destillation\noch sublimation\nger ragnarök, kropparnas konstitution. ://\n\nJag varit i olika länder,\njag sett båd’ Paris och Berlin.\nJag skålat vid Rhenflodens stränder\ni Pommerys välkända vin.\n//: Möblerat jag har\ntvå lyckliga dar\nhos turken, som aldrig på kärleken spar. ://\n\nNu bliver det tyst uti salen\nblott flaskor och Burken står kvar.\nNu tystna de glättiga talen\noch tömt blivit fröjdernas kar.\n//: I källaren blott\nsker än lite klott\nty det är ju alltid en källares lott. ://\n\nOch sen, när vi alla är döda,\ntrikalciumortofosfat,\noch slutat vår jordiska möda,\noch tömt blivit fröjdernas fat.\n//: Dock själen så fin\nhar kvar energin\ntack vare kinetiska gasteorin. ://",
+			"author": "Gustaf \"Guss\" Mattsson (Helsingfors)"
+		},
+		{
+			"id": 249,
+			"title": "Gummihatt",
+			"alternativeTitles": ["Gummihatt (Swing)"],
+			"melody": "Gimme Dat Ding",
+			"composer": "Freddie and The Dreamers",
+			"tags": ["esoteric"],
+			"content": "Ute i gangen på en hedersknagg\nDer henger mitt favoritt hodeplagg\nKnollen må være hard og glatt\nSå jeg trykker på meg min gummihatt\n\n//: Gummihatt\nGummihatt\nGummi gummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummi gummi gummihatt swing ://\n\nÅh sixpence, og statson, og caps og kalott\nTopplue, tyrolerhatt, og sydvest ække' godt\nHue pottetett, og beina vinkelrett\nMen når jeg danser swing så er gummihatt fett\nDu kan prøve deg med berett eller strikkelue\nMen med gummihatt eru' aldri tjukk i hue\nTurban, fez og paddehatt\nBokkerhjelm og hattifnatt\n\nGummihatt\nGummihatt\nGummihatt, gummihatt\nGummi-gummi-gummi-gummi-gummi\n\nGummihatt\nGummihatt\nGummi gummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummi gummi gummihatt swing\n\nGummihatt\nGummihatt\nGummi gummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummi gummi gummihatt swing\n\nDessuten er vi menn forskjellig skapt\nDet er villig ånd, men sjøl det er slapt\nSjøl om bjella henger slapp og vissent\nFor jeg hvert fall hengt en hatt på issen\nJeg traff ei hulder fra hattfjell dal\nHu prøvde å lure av meg hatten mens ha prata i et skval\nJeg sa Kaukslutt latex er du åndsforlatt\nSå kan hu ryke på frogan jeg er mann for min hatt.\n\nGummihatt\nGummihatt\nGummihatt, gummihatt\nGummi-gummi-gummi-gummi-gummi\n\n//: Gummihatt\nGummihatt\nGummi gummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummihatt swing\nGummihatt\nGummi gummihatt\nGummi gummi gummihatt swing ://",
+			"author": "Bjelleklang (1994)"
+		},
+		{
+			"id": 250,
+			"title": "God morgon",
+			"composer": "Lasse Holm och Torgny Söderberg",
+			"tags": ["esoteric", "swe"],
+			"content": "God morgon\nÄr du riktigt vaken än?\nGod morgon\nHar du sett nå' glatt i tidningen?\nNej, det var väl längesen\nÄr du riktigt vaken än?\n\nGod morgon\nNu behövs det glada tag\nGod morgon\nTa och leta fram ditt bättre jag\nHar du något bra förslag?\nNu behövs det glada tag\n\nSe solen, åter stiger solen\nSe solen, det blir en härlig dag\nGod morgon, god morgon\n\nSe här kommer dagen\nLjusare visioner\nSången har fått vingar\nÅter glada toner\n\nBorta är nu natten\nHör på alla skratten\nGod morgon, god morgon\nGod morgon, god morgon\n\nSe här kommer dagen\nGladare är sinnet\nFlaggan är i toppen\nÖmsa gamla skinnet\n\nKlockorna ska ringa\nSångerna ska klinga\nGod morgon, god morgon\nGod morgon, god morgon min vän\n\nGod morgon\nHur är det med kärleken?\nGod morgon\nHar du satt din sista slant på den?\nHur är det med kärleken?\nÄr ni överens om den?\n\nSe solen, åter stiger solen\nSe solen, det blir en härlig dag\nGod morgon, god morgon\n\nSe här kommer dagen\nLjusare visioner\nSången har fått vingar\nÅter glada toner\n\nBorta är nu natten\nHör på alla skratten\nGod morgon, god morgon\nGod morgon, god morgon\n\nSe här kommer dagen\nGladare är sinnet\nFlaggan är i toppen\nÖmsa gamla skinnet\n\nKlockorna ska ringa\nSångerna ska klinga\nGod morgon, god morgon\nGod morgon, god morgon\n\nSe här kommer dagen\nLjusare visioner\nSången har fått vingar\nÅter glada toner\n\nBorta är nu natten\nHör på alla skratten\nGod morgon, god morgon\nGod morgon, god morgon min vän",
+			"author": "Kikki Danielsson och Chips (1981)"
+		},
+		{
+			"id": 251,
+			"title": "Brev från kolonien",
+			"melody": "Hello Muddah, Hello Faddah",
+			"composer": "Allan Sherman och Lou Busch",
+			"tags": ["esoteric", "swe"],
+			"content": "Hejsan morsan, hejsan stabben\nHär är brev från älsklingsgrabben\nVi har kul på kolonien\nVi bor tjugoåtta gangstergrabbar i en\n\nStor barack med massa sängar\nKan ni skicka mera pengar?\nFör det vore en god gärning\nJag har spelat bort vartenda dugg på tärning\n\nHär är roligt vill jag lova\nFastän lite svårt att sova\nKillen som har sängen över mig\nHan vaknar inte han när han behöver, nej\n\nJag har tappat två framtänder\nFör jag skulle gå på händer\nNär vi lattjade charader\nSå när morsan nu får se mig får hon spader\n\nUte i skogen finns baciller\nMen min kompis han har piller\nSom han köpt utav en ful typ\nOch om man äter dem blir man en jättekul typ\n\nFöreståndaren han har farit\nHan blir aldrig var han varit\nFör polisen kom och tog hand\nOm honom förra veckan när vi lekte skogsbrand\n\nUte i skogen finns det rådjur\nI baracken finns det smådjur\nOch min bäste kompis Tage\nHan har en liten fickkniv inuti sin mage\n\nHonom ska de operera\nJa, nu vet jag inge mera\nKram och kyss och hjärtligt tack sen\nMen nu ska vi ut och bränna grannbaracken",
+			"author": "Cornelis Vreeswijks (1965)"
+		},
+		{
+			"id": 265,
+			"title": "Nudistpolka",
+			"alternativeTitles": ["Den lycklige nudisten"],
+			"composer": "Evert Taube",
+			"tags": ["esoteric", "swe"],
+			"content": "Inte dansar jag vals,\nnej det passar sej alls,\ni nudistens attityd,\nför i valsen är man pryd,\nmen se polkan går i nord som i syd.\nGår i dur, går i ur, går i skur, är kultur,\nhar en frisk och frejdig fart,\no, vad det är underbart,\natt få naken dansa polka.\n\nHoppsan sa, se opp i svängarna!\nHoppsan sa, se opp i svängarna!\nPolkan går på gröna ängarna,\npolkan är nudistens musik!\nO, hur skönt att utan kläderna,\nlångt från hala dansgolvsbräderna,\ndansa få i sommarkväll, en polka naturell.\nNaturell, naturell, oh vad polkan gör mig säll.\nHej!\n\nSund är glädjen bland nudisterna,\nluft och sol utplånar bristernas,\nifrån hjässan ner till vristerna,\natt vara naken gör ditt sinne rent.\nRia faderia faderia faderallan\nrallala ralla, ria faderia faderia\nfaderallala, ho å hoppsan sa!",
+			"author": "Evert Taube"
+		},
+		{
+			"id": 270,
+			"title": "Sailing",
+			"alternativeTitles": ["Sutherland Brothers song"],
+			"composer": "Gavin Sutherland",
+			"tags": ["esoteric", "eng"],
+			"content": "I am sailing, I am sailing,\nhome again 'cross the sea.\nI am sailing, stormy waters,\nto be near you, to be free.\n\nI am flying, I am flying,\nlike a bird 'cross the sky.\nI am flying, passing highclouds,\nto be with you, to be free.\n\nCan you hear me, can you hear me,\nthro' the dark night, far away,\nI am dying, forever trying,\nto be with you, who can say.\n\nWe are sailing, we are sailing,\nhome again 'cross the sea.\nWe are sailing stormy waters,\nto be near you, to be free.",
+			"author": "Gavin Sutherland (1972)"
+		},
+		{
+			"id": 271,
+			"title": "Mjölk",
+			"alternativeTitles": ["Vi vill ha mjölk", "En för de som kör"],
+			"melody": "Trink, trink",
+			"composer": "Wilhelm Lindemann",
+			"tags": ["esoteric", "swe"],
+			"content": "Mjölk, mjölk, vi vill ha mjölk,\ndet är en underbar dryck.\nMjölk, mjölk, vi vill ha mjölk,\ndet är vår senaste nyck.\nHämta din spann, mjölka din get,\nge mig en klunk utav det.\nSlut upp i kampen för helnykterhet.\nMjölk är det bästa jag vet."
+		},
+		{
+			"id": 276,
+			"title": "Skål min kära vän",
+			"notes": ["Stulen från en larp grupp"],
+			"tags": ["esoteric", "swe"],
+			"content": "Skål min käre vän,\ntöm först dit stop och sen\nFröjdas i fest å i skrå å!\nMed sång och med skratt\nända tills sent i natt,\nSkål min käre vän skål!"
+		},
+		{
+			"id": 277,
+			"title": "Overallen",
+			"melody": "Hallelujah",
+			"composer": "Leonard Cohen",
+			"tags": ["esoteric", "swe"],
+			"content": "Det finn ett alldeles särskilt plagg,\ndet bästa om man vill få ragg,\nman blir så jävla snygg i overallen.\nOm du är yngst eller äldst,\ndu kan ha den till vad som helst\npå alla fester passar overallen.\n\n//: Overallen, overallen ://\n\nEtt ärrat plagg min ovve är,\nett märke här en spya där,\nska synas att man använt overallen.\nOm overallen luktar pung,\ndet gör inget håll dig lugn,\ningen luktar gott i overallen.\n\n//: Overallen, overallen ://\n\nI ovven händer mycket kul,\nom du är snygg eller ful,\ndet spelar ingen roll i overallen.\nFör i ovven är man snygg,\ni ovven kan man vara trygg,\nnär man springer runt i overallen.\n\n//: Overallen, overallen ://\n\nOm du i overall är klädd,\nska du av mig alltid bli sedd,\nvi äro alla vänner i vår ovve.\nFör om du ovven tycker om,\nså finns det ett gäng här runtom,\nja här älskar vi alla overallen!\n\n//: Overallen, overallen ://",
+			"author": "Patrik Broman (UU)"
+		},
+		{
+			"id": 55,
+			"title": "Längtan till landet",
+			"composer": "Otto Lindblad",
+			"tags": ["solemn", "swe"],
+			"content": "Vintern rasat ut bland våra fjällar,\ndrivans blommor smälta ned och dö.\nHimlen ler i vårens ljusa kvällar,\nsolen kysser liv i skog och sjö.\nSnart är sommarn här i purpurvågor,\nguldbelagda, azurskiftande,\nligga ängarne i dagens lågor,\noch i lunden dansa källorne.\n\nJa, jag kommer! Hälsen glada vindar,\nut till landet, ut till fåglarne,\natt jag älskar dem, till björk och lindar,\nsjö och berg jag vill dem återse.\nSe dem än som i min barndoms stunder,\nfölja bäckens dans till klarnad sjö.\nTrastens sång i furuskogens lunder,\nvattenfågelns lek kring fjärd och ö.",
+			"author": "Herman Sätherberg (1838)"
 		},
 		{
 			"id": 146,
@@ -1585,7 +2377,7 @@
 			"composer": "Otto Lindblad",
 			"tags": ["solemn", "swe"],
 			"content": "invITen ståtlig, ack så vis,\nvi skänka eder vårt bevis\npå I-Teknologins makt.\n\nDe står med stolthet och bravur,\nde kämpar mot lågkonjunktur.\nAnammar äkta hack-kultur\ndu stolta ingenjör!\n\nDu stolta IT-fana så,\nvår gud med glädje lysa så:\ninvITen träder fram!\nPresenterar IT för vår värld,\nstoltserar fint i prakt och flärd,\nförbättrar världen med teknik.\nJa, glädje skapas då!",
-			"author": "Daniel Byström (KTH)"
+			"author": "Daniel Byström, IT-01 (KTH)"
 		},
 		{
 			"id": 147,
@@ -1593,7 +2385,7 @@
 			"composer": "Otto Lindblad",
 			"tags": ["solemn", "swe"],
 			"content": "Ur svenska hjärtans djup en gång\nen samfälld och en enkel sång,\nsom går till Kungen fram!\n\nVar Honom trofast och Hans ätt,\ngör kronan på Hans hjässa lätt,\noch all din tro till Honom sätt,\ndu folk av frejdad stam!",
-			"author": "C.V.A.Strandberg (Firande av Oscar I:s tronbestigning, Lunds universitet, 1844)"
+			"author": "C.V.A. Strandberg (Firande av Oscar I:s tronbestigning, LU, 1844)"
 		},
 		{
 			"id": 148,
@@ -1617,12 +2409,15 @@
 			"melody": "O alte Burschenherrlichkeit",
 			"composer": "Eugen Höfling (1825)",
 			"notes": [
-				"Traditionellt reser sig studerande vid de strofer som bäst passar deras respektive fakultet.",
-				"Under sista versen reser sig alla upp."
+				"Traditionellt reser man sig vid de strofer i vers två, tre och fyra som bäst passar dess respektive fakultet. Det är dock upp till var och en att identifiera sig med stroferna efter eget tycke.",
+				"Den fjärde versen är ett senare tillägg anpassad för teknologer och varierar mellan sektioner och universitet.",
+				"Man slår endast ett slag i bordet på \"kärnan\". Det är ohyfsat att slå i bordet vid andra tillfällen.",
+				"Under sista versen reser sig alla upp och tar varandras händer.",
+				"Efter sångens slut förblir man stående."
 			],
 			"tags": ["solemn", "swe"],
-			"content": "O gamla klang- och jubeltid\nditt minne skall förbliva\noch än åt livets bistra strid,\nett rosigt skimmer giva.\nSnart tystnar allt vårt yra skämt,\nvår sång blir stum, vårt glam förstämt.\n\nO, jerum, jerum, jerum.\nO, quae mutatio rerum!\n\nVar äro de som kunde allt,\nblott ej sin ära svika.\nSom voro män av äkta halt\noch världens herrar lika?\nDe drogo bort från vin och sång\ntill vardagslivets tråk och tvång.\n\nO, jerum...\n\nDen ene vetenskap och vett\nin i scholares mänger.\nDen andre i sitt anlets svett\npå paragrafer vränger.\nEn plåstrar själen som är skral,\nen lappar hop dess trasiga fodral.\n\nO, jerum...\n\nMen hjärtat i en sann student,\nkan ingen tid förfrysa.\nDen glädjeeld, som där han tänt,\nhans hela liv skall lysa.\n\nDet gamla skalet brustit har\nmen kärnan finnes frisk dock kvar\noch vad han än må mista,\nden skall dock aldrig brista!\n\nSå sluten, bröder, fast vår krets,\ntill glädjens värn och ära!\nTrots allt vi tryggt och väl tillfreds\nvår vänskap trohet svära.\n\nLyft bägarn högt och klinga väl!\nDe gamla gudar leva än,\nbland skålar och pokaler,\nbland skålar och pokaler!",
-			"author": "August Lindh (Juvenalorden, Uppsala, 1921)"
+			"content": "O gamla klang- och jubeltid\nditt minne skall förbliva\noch än åt livets bistra strid,\nett rosigt skimmer giva.\nSnart tystnar allt vårt yra skämt,\nvår sång blir stum, vårt glam förstämt.\n\nO, jerum, jerum, jerum.\nO, quae mutatio rerum!\n\nVar äro de som kunde allt, (alumner)\nblott ej sin ära svika.\nSom voro män av äkta halt (Osquar)\noch världens herrar lika? (Quristina)\nDe drogo bort från vin och sång\ntill vardagslivets tråk och tvång.\n\nO, jerum...\n\nDen ene vetenskap och vett\nin i scholares mänger. (filosofer)\nDen andre i sitt anlets svett\npå paragrafer vränger. (jurister)\nEn plåstrar själen som är skral, (teologer)\nen lappar hop dess trasiga fodral. (medicinare)\n\nO, jerum...\n\nEn tämjer forsens vilda fall, (väg- och vatten)\nen annan ger oss papper. (fabrikare)\nEn idkar maskinistens kall, (maskinare)\nen mästrar volt så tapper. (elektrotekniker)\nEn ritar hus, en mäter mark, (arikitekter och lantmätare)\nEn blandar till mixtur så stark. (kemister)\n\nO, jerum...\n\nMen hjärtat i en sann student,\nkan ingen tid förfrysa.\nDen glädjeeld, som där han tänt,\nhans hela liv skall lysa.\nDet gamla skalet brustit har\nmen kärnan finnes frisk dock kvar\noch vad han än må mista,\nden skall dock aldrig brista!\n\nSå sluten, bröder, fast vår krets,\ntill glädjens värn och ära!\nTrots allt vi tryggt och väl tillfreds\nvår vänskap trohet svära.\nLyft bägarn högt och klinga väl!\nDe gamla gudar leva än,\nbland skålar och pokaler,\nbland skålar och pokaler!",
+			"author": "August Lindh (Juvenalorden, UU, 1921)"
 		},
 		{
 			"id": 173,
@@ -1631,6 +2426,53 @@
 			"tags": ["solemn", "swe"],
 			"content": "Min resa var mot solen,\nlångt bortom alla slutna rum.\nDär allting är oändligt,\noch alla gränser har förevigt suddats ut.\n\nJag ville se miraklet,\noch höra ord som föder liv.\nBli buren av en styrka,\nsom bara växer när jag anat mitt motiv.\n\nStad i ljus, i ett land utan namn.\nGe mig liv, där allting föds på nytt.\n\nOch så när allt förändrats,\nnär tiden inte längre finns.\nSå ser jag oss tillsammans,\noch då är resan slut,\ndet enda som vi minns.\n\nStad i ljus, i ett land utan namn.\nGe mig liv, där allting föds på nytt.\nStad i ljus, i ett land utan namn.\nGe, ge mig liv, där allting föds på nytt.",
 			"author": "Py Bäckman (1988)"
+		},
+		{
+			"id": 178,
+			"title": "Svinsta Skär",
+			"alternativeTitles": ["Dansen går på Svinnsta skär"],
+			"tags": ["solemn", "swe"],
+			"content": "Dansen den går uppå Svinnsta skär,\nhör klackarna mot hällen.\nGossen han svänger med flickan kär\ni stilla sommarnatt.\nBlommorna dofta från hagen där\noch många andra ställen,\noch mitt i talltrastens kvällskonsert\nhörs många muntra skratt.\n\nLjuvlig är sommarnatten\nblånande vikens vatten.\nOch mellan bergen och tallarna\nhöres musiken och trallarna.\nFlickan har blommor i håren\nmånen strör silver i snåren.\nAldrig förglömmer jag stunderna där\nuppå Svinnsta skär.\n\nGossen tar flickan uti sin hand\noch vandrar nedåt stranden,\nlossar sin jolle och ror från land\nbland klippor och bland skär.\nDrömmande ser han mot vågens rand\nsom rullar in mot sanden,\nkysser sin flicka så ömt ibland\noch viskar “Hjärtans kär”.\n\nLjuvlig är sommarnatten...\n\nSolen går upp bakom Konungssund\noch stänker guld på vågen.\nFåglarna kvittra i varje lund\nsin stilla morgonbön.\nGäddorna slå invid skär och grund\nså lekfulla i hågen.\nMen sista valsen i morgonstund,\nman hör från Svinnerön.\n\nLjuvlig är sommarnatten...",
+			"author": "Gideon Wahlberg (1927)"
+		},
+		{
+			"id": 197,
+			"title": "Studentsången",
+			"alternativeTitles": ["Marsch"],
+			"composer": "Prins Gustaf av Sverige och Norge",
+			"tags": ["solemn", "swe"],
+			"content": "Sjungom studentens lyckliga dag,\nlåtom oss fröjdas i ungdomens vår!\nÄn klappar hjärtat med friska slag,\noch den ljusnande framtid är vår.\nInga stormar än\ni vårt sinne bo,\nhoppet är vår vän,\nvi dess löften tro,\nnär vi knyta förbund i den lund,\ndär de härliga lagrarna gro!\nDär de härliga lagrarna gro!\nHurra!\n\nSvea vår moder hugstor och skön,\nmanar till bragd som i fornstora da'r,\nvinkar med segerns och ärans lön,\nmen den skörd utan strid man ej tar.\nAldrig slockne då\nkänslans rena brand,\naldrig brista må\nvår trohets helga band,\nså i gyllene frid som i strid.\nLiv och blod för vårt fädernesland!\nLiv och blod för vårt fädernesland!\nHurra!",
+			"author": "Herman Sätherberg (Vårkonsert i Carolina Rediviva, UU, 1852)"
+		},
+		{
+			"id": 252,
+			"title": "Vårvinar friska",
+			"alternativeTitles": ["Den stackars Anna", "Molltoner från Norrland"],
+			"tags": ["solemn", "swe"],
+			"content": "Vårvindar friska leka och viska\nLunderna kring likt älskande par\nStrömmarna ila, finna ej vila\nFörrän ner djupet störtvågen far\n\n//: Klaga mitt hjärta, klaga och hör\nVallhornets klang bland klipporna dör\nStrömkarlen spelar, sorgerna delar\nVakan kring berg och dal ://\n\nHjärtat vill brista, ack när den sista\nGången jag hörde kärlekens röst\nAvskedets plåga, ögonens låga\nMun emot mun och klappande bröst\n\n//: Fjälldalen stod i grönskande skrud\nTrasten slog drill på drill för sin brud\nStrömkarlen spelar, sorgerna delar\nVakan kring berg och dal ://",
+			"author": "Julia Nyberg (1828)"
+		},
+		{
+			"id": 253,
+			"title": "Auld lang syne",
+			"notes": [
+				"I en kortare version sjungs endast första versen och refrängen för att avsluta med sista versen och refrängen."
+			],
+			"tags": ["solemn", "eng"],
+			"content": "Should auld acquaintance be forgot,\nand never brought to mind?\nShould auld acquaintance be forgot,\nand days of auld lang syne?\n\nFor auld lang syne, my jo,\nfor auld lang syne;\nWe'll tak a cup o' kindness yet,\nfor auld lang syne.\n\nAnd surely ye'll be your pint-stowp!\nAnd surely I'll be mine!\nAnd we'll tak' a cup o' kindness yet,\nfor auld lang syne.\n\nFor auld lang...\n\nWe twa hae run about the braes,\nand pou'd the gowans fine;\nBut we've wander'd mony a weary fit,\nsin' auld lang syne.\n\nFor auld lang...\n\nWe twa hae paidl'd i' the burn,\nfrae morning sun till dine;\nBut seas between us braid hae roar'd,\nsin' auld lang syne.\n\nFor auld lang...\n\nAnd there's a hand, my trusty fiere!\nAnd gie's a hand o' thine!\nAnd we'll tak a right gude-willy waught,\nfor auld lang syne.\n\nFor auld lang...",
+			"author": "Robert Burns (1788)"
+		},
+		{
+			"id": 278,
+			"title": "Sveriges flagga",
+			"alternativeTitles": ["Sverges fana"],
+			"composer": "Hugo Alfvén",
+			"notes": [
+				"Skriven på en tågresa mellan Stockholm och Uppsala. Melodin och körarrangemanget skapades på varsin sträcka, med rytmik troligen inspirerad av tågets dunkande mot rälsen."
+			],
+			"tags": ["solemn", "swe"],
+			"content": "Flamma stolt mot dunkla skyar\nlik en glimt av sommarns sol\növer Sveriges skogar, berg och byar,\növer vattnen av viol,\ndu, som sjunger, när du bredes\nsom vår gamla lyckas tolk:\n\"Solen lyser! Solen lyser!\nIngen vredes åska slog vårt tappra folk!\"\n\nFlamma högt, vår kärleks tecken,\nvärm oss, när det blåser kallt!\nStråla ur de blåa vecken\nkärlek, mera stark än allt!\nSveriges flagga, Sveriges ära,\nfornklenod och framtidstolk,\nGud är med oss, Gud är med oss,\nHan skall bära stark vårt fria svenska folk.",
+			"author": "K.G. Ossiannilsson (1916)"
 		},
 		{
 			"id": 151,
@@ -1644,5 +2486,5 @@
 			"content": "Hur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\\*\nhur innerligt jag älskar dig!\\*\\*"
 		}
 	],
-	"updatedAt": "2026-01-22"
+	"updatedAt": "2026-05-27"
 }
