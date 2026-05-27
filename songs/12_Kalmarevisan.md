@@ -1,5 +1,7 @@
 ---
 title: Kalmarevisan
+alternativeTitles:
+  - Calmarevisan
 tags: [gasque, swe]
 ---
 
@@ -57,7 +59,7 @@ ja där finns det ingen kvast,
 förrän lördagen.
 
 //: \*Jag ska mäla dig an,
-för vår kronbefallningsman!://
+för vår kronbefallningsman! ://
 Och du skall få skamm!
 
 \*Hej dick

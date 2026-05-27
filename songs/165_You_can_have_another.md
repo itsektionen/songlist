@@ -1,6 +1,6 @@
 ---
 title: You can have another
-melody: Popeye the sailor man
+melody: Popeye the Sailor Man
 composer: Sammy Lerner
 tags: [gasque, eng]
 ---

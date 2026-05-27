@@ -1,7 +1,7 @@
 ---
 title: invITensången
 author:
-  - name: Daniel Byström
+  - name: Daniel Byström, IT-01
     location: KTH
 melody: Kungssången
 composer: Otto Lindblad

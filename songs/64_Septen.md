@@ -1,8 +1,11 @@
 ---
 title: Septen
+alternativeTitles:
+  - En visa till Septen
 melody: Nu ska vi skörda linet
 notes:
   - '* 2025 onsdag, 2026 torsdag, 2027 fredag, 2028 söndag, 2029 måndag, 2030 tisdag.'
+  - I IsK:s sångbok fanns det inga mellanslag i sången.
 tags: [snaps, swe]
 ---
 

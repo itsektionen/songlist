@@ -2,7 +2,7 @@
 title: Sveriges arraktionalhymn
 author:
   - event: Ekonomspexet Erik XIV
-    location: Stockholms universitet
+    location: SU
     year: 1992
 melody: Du gamla, du fria
 tags: [punsch, swe]

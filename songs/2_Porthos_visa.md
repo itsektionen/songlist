@@ -2,11 +2,13 @@
 title: Porthos visa
 alternativeTitles:
   - Athos visa
+  - Athos visa till Portos
+  - Jag vill ut och gasqua
 author:
   - name: Tord Andrén, B
-    event: Bergsspexet
+    event: Bergsspexet De fyra musketörerna
     location: KTH
-    year: 1960
+    year: 1959
     comment: Ursprungligen Athos visa
 melody: You can't get a man with a gun
 composer: Irving Berlin

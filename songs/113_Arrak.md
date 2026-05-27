@@ -2,6 +2,7 @@
 title: Arrak
 author:
   - name: André Mabande
+    location: SU
 melody: Only you
 tags: [punsch, swe]
 ---

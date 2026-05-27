@@ -6,7 +6,10 @@ author:
     location: KTH
     year: 2000
     comment: Vers 1-4
-  - name: Hugo Bachér, IN-21, och Tobias "Bobbe" Altin, IN-21
+  - name: Singsing nØlleuppdrag
+    year: 2007
+    comment: Vers 5-6
+  - name: Hugo "prINter" Bachér, IN-21, och Tobias "Bobbe" Altin, IN-21
     event: IN-Sektionens 15 års jubileum
     location: KTH
     year: 2023

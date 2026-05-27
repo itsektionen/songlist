@@ -24,7 +24,7 @@ O Elcid Barrett cried the town.
 For twenty brave men, all fishermen who
 would make for him the Antelope's crew.
 
-\*God damn them all ...
+\*God damn them all...
 
 The Antelope sloop was a sickening sight.
 \*How I wish I was in Sherbrooke now!
@@ -32,35 +32,35 @@ She'd a list to the port and her sails in rags
 and the cook in the scuppers
 with the staggers and jags!
 
-\*God damn them all ...
+\*God damn them all...
 
 On the king's birthday we put to sea.
 \*How I wish I was in Sherbrooke now!
 We were ninety-one days to Montego Bay,
 pumping like madmen all the way.
 
-\*God damn them all ...
+\*God damn them all...
 
 On 96th day we sailed again.
 \*How I wish I was in Sherbrooke now!
 When a bloody great yankee hove in sight,
 with our cracked four-pounders we made to fight.
 
-\*God damn them all ...
+\*God damn them all...
 
 The yankee lay low down with gold.
 \*How I wish I was in Sherbrooke now!
 She was broad and fat and loose in the stays,
 but to catch her took the Antelope two whole days.
 
-\*God damn them all ...
+\*God damn them all...
 
 Then at length we stood, two cables away.
 \*How I wish I was in Sherbrooke now!
 Our cracked four-pounders made an awful din,
 but with one fat ball the yank stove us in.
 
-\*God damn them all ...
+\*God damn them all...
 
 The Antelope shook and pitched on her side.
 \*How I wish I was in Sherbrooke now!
@@ -78,4 +78,4 @@ Now here I lay in my 23rd year.
 It's been six long years since we sailed away,
 and I just made Halifax yesterday.
 
-\*God damn them all ...
+\*God damn them all...

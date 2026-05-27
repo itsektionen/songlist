@@ -1,6 +1,8 @@
 ---
 title: Nu tar vi vår lilla nubbe
 melody: Höga berg och djupa dalar
+notes:
+  - De som bränner hemma lurar staten.
 tags: [snaps, swe]
 ---
 
@@ -10,5 +12,3 @@ Den botar alla sorters värk,
 sätter fart i skjorta och i särk.
 //: Vi gynnar staten
 var gång vi tar en sup till maten ://
-
-> (De som bränner hemma lurar staten.)

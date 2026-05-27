@@ -1,8 +1,8 @@
 ---
 title: FestU:s punschvisa
 author:
-  - name: FestU
-    location: Chalmers
+  - name: Peter Follin och Carl-Johan "Kalix" Bergström
+    location: CTH
 melody: Tomtarnas julnatt
 composer: Vilhelm Sefve-Svensson
 tags: [punsch, swe]

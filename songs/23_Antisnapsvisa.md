@@ -15,5 +15,5 @@ i ångesten vi svettas kom sjung din refräng:
 
 Varför finns det aldrig nå'n nykter karneval?
 O, låt oss somna om så vi slipper våra kval.
-Men se, så många supar vi redan kastat upp i sängen
+Men se, så många supar vi redan kastat upp i sängen:
 Renat och Skåne, Svart Vinbär och fager Bäsk!

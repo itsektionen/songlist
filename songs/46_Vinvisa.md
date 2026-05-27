@@ -1,6 +1,6 @@
 ---
 title: Vinvisa
-melody: Gubben Noak
+melody: Gubben Noak (Björnen sover)
 composer: Carl Michael Bellman
 tags: [wine, swe]
 ---

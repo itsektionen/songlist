@@ -1,5 +1,8 @@
 ---
 title: Bordeaux, Bordeaux
+author:
+  - name: Västgöta Nation
+    location: CTH
 melody: I sommarens soliga dagar
 tags: [wine, swe]
 ---

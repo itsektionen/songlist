@@ -3,6 +3,8 @@ title: Läs inte på Handels
 author:
   - name: Alex Ellgren, ME-07, och Oscar Frick, ME-07
     location: KTH
+melody: Köp inte en zebra
+composer: Povel Ramel
 notes:
   - Sångledaren läser raderna som startar med *.
 tags: [esoteric, swe]
@@ -19,7 +21,7 @@ Läs inte på Chalmers,
 nej nej nej nej nej nej!
 Läs nåt som du har glädje av!
 
-Skolan ska' va riktigt bra,
+Skolan ska va' riktigt bra,
 det bästa är det som jag vill ha.
 Kanske du minns hur du kände dig,
 kåren, vill ni hjälpa mig?

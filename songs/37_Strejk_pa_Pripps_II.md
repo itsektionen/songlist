@@ -17,9 +17,10 @@ där ölen stod på rad.
 Jag drack så där ett tjugotal
 och reste mig och sa:
 
-Armen i vinkel!
-Blicken i skyn!
-Så var det menat!
-Whisky och renat!
-Vårt mål alkohol!
-För dem som tål! Skål!
+Armen i vinkel,
+blicken i skyn!
+Så var det menat,
+whisky och renat!
+Vårt mål alkohol,
+för dem som tål!
+Skål!

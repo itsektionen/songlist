@@ -2,6 +2,8 @@
 title: Förkröksvisa
 melody: The Raiders March (Indiana Jones theme)
 composer: John Williams
+notes:
+  - niv⁻¹ sjungs negativt 1
 tags: [gasque, swe]
 ---
 

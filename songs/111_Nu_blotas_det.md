@@ -3,6 +3,7 @@ title: Nu blotas det
 author:
   - event: Juristspexet Ansgar
     year: 2003
+    location: SU
 melody: Nu grönskar det
 composer: Johann Sebastian Bach
 tags: [punsch, swe]

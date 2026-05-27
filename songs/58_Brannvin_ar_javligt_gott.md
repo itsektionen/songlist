@@ -1,6 +1,7 @@
 ---
 title: Brännvin är jävligt gott
-melody: Karl-Alfred Boy
+melody: Karl-Alfred Boy (Popeye the Sailor Man)
+composer: Sammy Lerner
 notes:
   - Dunka två gånger i bordet på "!"
 tags: [snaps, swe]
