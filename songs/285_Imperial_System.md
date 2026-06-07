@@ -1,7 +1,7 @@
 ---
 title: Imperial System
 author:
-  - name: Mars Nilsson F-82
+  - name: Mats Nilsson F-82
     location: KTH
 melody: Studentsången
 composer: Prins Gustaf av Sverige och Norge
