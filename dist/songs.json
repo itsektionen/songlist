@@ -15,7 +15,7 @@
 			"title": "Danse macabre",
 			"melody": "Vårvindar friska",
 			"tags": ["gasque", "swe"],
-			"content": "Runt kring vår stuga smådjävlar sluga,\ntassa så tyst med bockfot och svans.\nVarulvar yla, isande kyla,\nsveper i dimman fanstygens dans.\n\nBäva, o broder, lyssna och hör,\nvrålen från gast, som osalig dör.\nSatan han skrattar, flaskan han fattar,\nsuper tills dagen gryr.\n\n> Sjung tyst:\n\nGastar och spöken skymtar i kröken,\ndödingar släpa ruttnande lik.\nBenrangel skramla, spökhänder famla,\nkväva din strupes rosslande skrik.\n\n> Sjung högt:\n\nHelvetes alla fasor släpps loss,\nFan rider här med hela sin tross.\nGöm dig i stugan, du har fått flugan,\ndille det blir din lott.",
+			"content": "Runt kring vår stuga smådjävlar sluga,\ntassa så tyst med bockfot och svans.\nVarulvar yla, isande kyla,\nsveper i dimman fanstygens dans.\n\nBäva, o broder, lyssna och hör,\nvrålen från gast, som osalig dör.\nSatan han skrattar, flaskan han fattar,\nsuper tills dagen gryr.\n\n> Sjung viskandes:\n\nGastar och spöken skymtar i kröken,\ndödingar släpa ruttnande lik.\nBenrangel skramla, spökhänder famla,\nkväva din strupes rosslande skrik.\n\n> Sjung skrikandes:\n\nHelvetes alla fasor släpps loss,\nFan rider här med hela sin tross.\nGöm dig i stugan, du har fått flugan,\ndille det blir din lott.",
 			"author": "Carl-Erik Carlstedt (CTH)"
 		},
 		{
@@ -130,7 +130,7 @@
 			"title": "Kalmarevisan",
 			"alternativeTitles": ["Calmarevisan"],
 			"tags": ["gasque", "swe"],
-			"content": "> Endast sångledaren sjunger rader som börjar med \"\\*\"\n\n*För uti Kalmare stad,\n*ja där finns det ingen kvast,\nförrän lördagen!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*När som bonden kommer hem,\nkommer bondekvinnan ut ://\noch är stor i sin trut.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Var är pengarna du fått?\nJo, dom har jag supit opp ://\nUppå Kalmare slott.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Jag ska mäla dig an,\nför vår kronbefallningsman! ://\nOch du skall få skamm!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Kronbefallningsmannen vår,\nsatt på krogen i går. ://\nOch var full som ett får.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Vad ska bonden få till mat,\nsura sillar och potat'? ://\nDet blir sillsallat!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen."
+			"content": "> Endast sångledaren sjunger rader som börjar med \"\\*\"\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*När som bonden kommer hem,\nkommer bondekvinnan ut ://\noch är stor i sin trut.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Var är pengarna du fått?\nJo, dom har jag supit opp ://\nUppå Kalmare slott.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Jag ska mäla dig an,\nför vår kronbefallningsman! ://\nOch du skall få skamm!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Kronbefallningsmannen vår,\nsatt på krogen i går. ://\nOch var full som ett får.\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen.\n\n//: \\*Vad ska bonden få till mat,\nsura sillar och potat'? ://\nDet blir sillsallat!\n\n\\*Hej dick\nHej dack!\n\n\\*Jag slog i,\noch vi drack!\n\n\\*Hej dickom dickom dack,\nhej dickom dickom dack.\n\nFör uti Kalmare stad,\nja där finns det ingen kvast,\nförrän lördagen."
 		},
 		{
 			"id": 13,
@@ -553,7 +553,7 @@
 			"composer": "Prins Gustaf av Sverige och Norge",
 			"tags": ["gasque", "swe"],
 			"content": "ft kp K bu B\n\n\"Gb Oe lb rdr std\n\nst msk kn E\n\nFr krm c cSt\n\n°F\n\npt - ' \"at\n\nhk nmi\n\nM Ci dptr cal\n\nmvp mvp ha!",
-			"author": "Mars Nilsson F-82 (KTH)"
+			"author": "Mats Nilsson F-82 (KTH)"
 		},
 		{
 			"id": 31,
@@ -2486,5 +2486,5 @@
 			"content": "Hur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\\*\nhur innerligt jag älskar dig!\\*\\*"
 		}
 	],
-	"updatedAt": "2026-05-27"
+	"updatedAt": "2026-06-07"
 }
