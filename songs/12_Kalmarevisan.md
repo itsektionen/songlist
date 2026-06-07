@@ -7,8 +7,8 @@ tags: [gasque, swe]
 
 > Endast sångledaren sjunger rader som börjar med "\*"
 
-*För uti Kalmare stad,
-*ja där finns det ingen kvast,
+För uti Kalmare stad,
+ja där finns det ingen kvast,
 förrän lördagen!
 
 \*Hej dick
