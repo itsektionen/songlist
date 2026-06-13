@@ -42,6 +42,18 @@ notes:
   - Studentoverallen föddes 1969 när Fysik bytte frack mot ovve i Televerksorange.
   - fkm* utmanade DKM att skriva varandras gyckel under förfesten till en marskalksmiddag hösten 2000 vilket blev Fysikvisan.
 tags: [gasque, swe]
+abc: |
+  X:1
+  T:Shall We Gather at the River
+  Z:R.L. Walker collection via JC's tune finder (trillian.mit.edu/~jc)
+  M:4/4
+  L:1/4
+  Q:1/4=100
+  K:Eb
+  G G G3/4 F/4 G3/4 A/4|B2 G2|A A A3/4 B/4 A3/4 G/4|F2 B2|
+  G G G3/4 F/4 G3/4 A/4|B2 G G/2 A/2|F F/2G/2 A G/2F/2|E4||
+  c c e3/4 d/4 e3/4 c/4|B2 G3/2 G/2|A3/4 G/4 A3/4 G/4 A3/4 G/4 A/2F/2|G2 B2|
+  c3/4 c/4 c3/4 c/4 e3/4d/4 e3/4 c/4|B2 G G|F F3/4 G/4 A G/2F/2|E4|]
 ---
 
 Jag har aldrig vart på snusen,

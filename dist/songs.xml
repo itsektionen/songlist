@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-06-07">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-06-13">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -8910,10 +8910,11 @@
 		</p>
 	</song>
 	<song
-		name="Vårvinar friska"
+		name="Vårvindar friska"
 		alternativeTitles="Den stackars Anna;Molltoner från Norrland"
 		id="252"
 		author="Julia Nyberg (1828)"
+		melody="Vårvindar friska"
 		category="Högtidligt"
 	>
 		<p>
