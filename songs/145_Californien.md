@@ -6,6 +6,16 @@ alternativeTitles:
 melody: Oh! Susanna
 composer: Stephen Foster
 tags: [esoteric, swe]
+abc: |
+  X:1
+  T:Oh Susanna
+  Z:Paul Hardy's Session Tunebook (www.pghardy.net), CC BY-NC-SA
+  M:4/4
+  L:1/4
+  Q:1/4=220
+  K:G
+  G/A/|"G"Bd d>e|dB G>A|BB AG|"D7"A3G/A/|"G"Bd d>e|dB G>A|BB "D7"AA|"G"G3:|
+  G|"C"c2c2|ee2e|"G"dd BG|"D7"A3G/A/|"G"Bd d>e|dB G>A|BB "D7"AA|"G"G3|]
 ---
 
 I Californien där himmelen är blå,
