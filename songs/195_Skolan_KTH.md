@@ -1,5 +1,9 @@
 ---
 title: Skolan KTH
+author:
+  - name: Emil Wallgren, D-21
+    location: KTH
+    year: 2023
 melody: Fader Abraham
 tags: [gasque, swe]
 ---
