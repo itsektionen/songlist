@@ -1,5 +1,7 @@
 ---
 title: Djungelpunsch
+alternativeTitles:
+  - Alla tiders punsch
 melody: Var nöjd med allt som livet ger
 composer: Terry Gilkyson
 tags: [punsch, swe]
@@ -22,8 +24,8 @@ och tar punsch ändå.
 Och bjuder du på fin likör
 får du ursäkta om det stör.
 Jag väljer hellre Grönstedts Blå,
-en Cederlunds eller Flaggpunsch å -
-kanske har du ren Platin?
+en Cederlunds eller Flaggpunsch å
+\- Kanske har du ren Platin?
 
 Jag gillar punsch,
 ger du mig punsch så är jag din.
