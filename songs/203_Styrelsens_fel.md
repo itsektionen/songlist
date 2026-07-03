@@ -2,6 +2,7 @@
 title: Styrelsens fel
 author:
   - name: Alfred Kedhammar, K-16
+    location: KTH
 melody: Bögarnas fel
 composer: Henrik Dorsin
 tags: [esoteric, swe]
