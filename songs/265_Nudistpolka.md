@@ -4,6 +4,7 @@ alternativeTitles:
   - Den lycklige nudisten
 author:
   - name: Evert Taube
+    year: 1954
 composer: Evert Taube
 tags: [esoteric, swe]
 ---
