@@ -1,5 +1,5 @@
 ---
-title: Fredmans sång nr 35
+title: Fredmans sång nr. 35
 alternativeTitles:
   - Gubben Noach
   - Om gubben Noach och hans fru
