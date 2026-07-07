@@ -1,7 +1,7 @@
 ---
 title: My heart will go on
 author:
-  - name: Celine Dion
+  - name: Will Jennings
     year: 1997
 composer: James Horner
 tags: [foreign, eng]
@@ -32,7 +32,7 @@ In my life we'll always go on.
 Near, far, wherever you are,
 I believe that the heart does go on.
 Once more you open the door
-And you're here in my heart and
+and you're here in my heart and
 my heart will go on and on.
 
 You're here, there's nothing I fear,
