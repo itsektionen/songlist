@@ -40,18 +40,7 @@ Gummihatt
 Gummihatt, gummihatt
 Gummi-gummi-gummi-gummi-gummi
 
-Gummihatt
-Gummihatt
-Gummi gummi gummihatt
-Gummihatt swing
-Gummihatt
-Gummi gummihatt
-Gummihatt swing
-Gummihatt
-Gummi gummihatt
-Gummi gummi gummihatt swing
-
-Gummihatt
+//: Gummihatt
 Gummihatt
 Gummi gummi gummihatt
 Gummihatt swing
@@ -60,7 +49,7 @@ Gummi gummihatt
 Gummihatt swing
 Gummihatt
 Gummi gummihatt
-Gummi gummi gummihatt swing
+Gummi gummi gummihatt swing ://
 
 Dessuten er vi menn forskjellig skapt
 Det er villig ånd, men sjøl det er slapt
