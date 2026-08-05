@@ -10,6 +10,22 @@ melody: Gärdebylåten
 notes:
   - Den första versens ursprung är okänt. Endast andra och tredje versen kommer från spexet. Därför brukar Lundensare börja på andra versen.
 tags: [gasque, swe]
+abc: |
+  X:1
+  T:Gärdebylåten
+  Z:folkwiki.se (Erik Ronström), via abcnotation.com
+  M:2/4
+  L:1/16
+  Q:1/4=110
+  K:D
+  "D"ABAF ABAF|A2fe d2c2|"G"BdBG BdBG|B2gf e2d2|
+  "A7"c3d c2B2|A2g2 f2e2|"D"d3e fefg|"A7"a6 FG|
+  "D"ABAF ABAF|A2fe d2c2|"G"BdBG BdBG|B2gf e2d2|
+  "A7"c3d c2B2|A2g2 f2e2|"D"d2fd "A7"Acec|1 "D"d6 FG:|2 "D"d6 fg|
+  |:"D"a4 a2^ga|b2a2 g2f2|"G"g4 B3d|g2f2 e2d2|
+  "A7"c3d c2B2|A2g2 f2e2|"D"d3e fefg|"A7"a6 fg|
+  "D"a4 a2^ga|b2a2 g2f2|"G"g4 B3d|g2f2 e2d2|
+  "A7"c3d c2B2|A2g2 f2e2|"D"d2fd "A7"Acec|1 "D"d6 fg:|2 "D"d8|]
 ---
 
 Liksom våra fäder vikingarna i Norden

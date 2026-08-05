@@ -12,6 +12,7 @@ You can also find information on how to contribute to this repository, either by
   - [Quick guide](#quick-guide)
 - [Contributing (songs)](#contributing-songs)
   - [Format](#format)
+  - [ABC notation](#abc-notation)
   - [Creating](#creating)
   - [Modifying](#modifying)
   - [Validating](#validating)
@@ -80,6 +81,7 @@ The front matter is contained by one line with `---` each before and after the s
   - `comment`, a comment about the author (for example, if an author wrote one of the verses)
 - `melody`, the melody the song is sung to
 - `composer`, the composer of the melody
+- `abc`, the song's melody in [ABC notation](#abc-notation) for the in-app melody player
 - `notes`, notes about the song, like its history or movements
 - `tags`, list of categories the songs fall in to and other identifiers (valid tags can be found in [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(required)**
 - `deleted`, marks the song as deleted or not (should only be `true` if the song is removed and not be specified otherwise)
@@ -126,6 +128,30 @@ Line 2 of the same paragraph
 Content and front matter are separated with one empty line and all files should have one empty line at the end.
 
 There's a lot to consider, but generally just using existing songs as an example should be enough to figure it out. There are also [scripts](#scripts) that can help with formatting.
+
+### ABC notation
+
+The optional `abc` field has the melody of a song written in [ABC notation](https://abcnotation.com/). The songbook web app uses this to play the tune in its melody player.
+
+Try to keep the notation to what the player needs as a minimum:
+
+- A single melody voice, played on an acoustic grand piano. Don't add `%%MIDI` directives since they can ask for an instrument the app doesn't ship, which breaks playback.
+- The headers `X:`, `M:`, `L:`, `Q:` and `K:`. The `Q:` tempo is what the player uses it to work out how long the melody is.
+- Chord symbols in quotes (e.g. `"Am"`) are allowed but are not played since the player only sounds the melody on a piano.
+
+You can check a melody in an online editor such as [editor.drawthedots.com](https://editor.drawthedots.com/) to make sure it renders fine and sounds like how you'd expect it to before adding it.
+
+#### **Example:**
+
+```yml
+abc: |
+  X:1
+  M:2/4
+  L:1/8
+  Q:1/4=120
+  K:G
+  "G"G>F GA | B2 BB | "D7"A>G AB | "G"G2 z2 |]
+```
 
 ### Creating
 
@@ -246,6 +272,7 @@ Du kan också hitta information hur du bidrar till detta repository, antingen ge
   - [Snabbguide](#snabbguide)
 - [Bidra (sånger)](#bidra-sånger)
   - [Format](#format)
+  - [ABC-notation](#abc-notation-1)
   - [Skapa](#skapa)
   - [Ändra](#ändra)
   - [Validera](#validera)
@@ -314,6 +341,7 @@ Fronten har en rad med `---` före och efter sektionen. Möjliga fält i fronten
   - `comment`, kommentar om skribenten (exempelvis om en skribent har skrivit en av verserna)
 - `melody`, melodin som sången sjungs i
 - `composer`, kompositör till melodin
+- `abc`, sångens melodi i [ABC-notation](#abc-notation-1) för melodispelaren i songboksappen
 - `notes`, noteringar om sången, som dess historia eller rörelser
 - `tags`, lista med kategorier som sångerna tillhör och andra identifierare (giltiga taggar hittas i [`/src/definitions/tags.ts`](/src/definitions/tags.ts#L1-L12)) **(obligatorisk)**
 - `deleted`, markerar sången som borttagen eller inte (ska bara vara "sann" om sången tas bort och inte anges på annat sätt)
@@ -360,6 +388,30 @@ Rad 2 i samma paragraf
 Innehållet och fronten separeras med en tom rad och alla filer ska ha en tom rad i slutet.
 
 Det finns mycket att tänka på, men generellt sett så räcker det att bara använda befintliga sånger som exempel för att lista ut det. Det finns även [script](#script) som kan hjälpa till med formatering.
+
+### ABC-notation
+
+Det valfria `abc`-fältet innehåller melodin till en sång skriven i [ABC-notation](https://abcnotation.com/). Webbappen använder detta för att spela upp melodin i sin melodispelare.
+
+Försöka hålla notationen till det som spelaren behöver som minimum:
+
+- En enda melodistämma, som spelas på en akustisk flygel. Lägg inte till `%%MIDI`-direktiv då de kan begära ett instrument som appen inte levererar, vilket sabbar uppspelningen.
+- Rubrikerna `X:`, `M:`, `L:`, `Q:` och `K:`. Hoppa inte över `Q:`-tempot då spelaren använder det för att räkna ut hur lång melodin är.
+- Ackordbeteckningar inom citattecken (t.ex. `"Am"`) är tillåtna men spelas inte eftersom spelaren bara spelar melodin på ett piano.
+
+Du kan kontrollera en melodi i en onlineredigerare som [editor.drawthedots.com](https://editor.drawthedots.com/) för att se till att den renderas korrekt och låter som du förväntar dig innan du lägger till den.
+
+#### **Exempel:**
+
+```yml
+abc: |
+  X:1
+  M:2/4
+  L:1/8
+  Q:1/4=120
+  K:G
+  "G"G>F GA | B2 BB | "D7"A>G AB | "G"G2 z2 |]
+```
 
 ### Skapa
 

@@ -4,6 +4,16 @@ author:
   - name: J. Strauss, Strauss ex Machina
 melody: Staffan var en stalledräng
 tags: [esoteric, swe]
+abc: |
+  X:1
+  T:Staffan var en stalledräng
+  Z:trad, transcr. Frank Nordberg (musicaviva.com)
+  M:2/4
+  L:1/8
+  Q:1/4=92
+  K:G
+  DG GG | AAG2 | BBd2 | BB A>D | DE/F/ GG | AAG2 | BBd2 | BBA2 |
+  A>A AB | cc/c/ BG | A>A AB | c/e/d/c/ BG | GB dd | ee d>c | Bc/B/ AA | G2 z2 |]
 ---
 
 Algot är en ockultist

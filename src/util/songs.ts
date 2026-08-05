@@ -47,6 +47,7 @@ export function getSong(from: string | number): Song {
 	if (data.author) song.author = data.author;
 	if (data.melody) song.melody = data.melody;
 	if (data.composer) song.composer = data.composer;
+	if (data.abc) song.abc = data.abc;
 	if (data.notes) song.notes = data.notes;
 	song.tags = data.tags;
 	if (data.sorting) song.sorting = data.sorting;
