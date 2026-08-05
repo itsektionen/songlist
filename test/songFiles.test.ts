@@ -105,6 +105,63 @@ describe('All songs have valid data', () => {
 				).toBe('string');
 			}
 
+			//ABC notation
+			if (song.abc) {
+				expect(typeof song.abc, `Song '${song.title}' (ID=${song.id}) abc is not a string.`).toBe(
+					'string',
+				);
+
+				// Value formats mirror what abcjs's header parser accepts.
+				const abcHeaders: Record<string, RegExp> = {
+					X: /^\d+$/,
+					M: /^(C\|?|\d+\/\d+)$/,
+					L: /^\d+\/\d+$/,
+					Q: /^\d+\/\d+=\d+$/,
+					K: /^[A-G][#b]?(m|maj|min|mix|dor|phr|lyd|loc)?$/i,
+				};
+				Object.entries(abcHeaders).forEach(([header, format]) => {
+					const line = song.abc?.match(new RegExp(`^${header}:(.*)$`, 'm'));
+					expect(
+						line,
+						`Song '${song.title}' (ID=${song.id}) abc is missing the '${header}:' header.`,
+					).toBeTruthy();
+					expect(
+						format.test(line?.[1].trim() ?? ''),
+						`Song '${song.title}' (ID=${song.id}) abc header '${line?.[0]}' is not in a format the player understands.`,
+					).toBeTruthy();
+				});
+
+				// abcjs warns about unclosed chord quotes and grace-note braces at runtime
+				// use same checks as the library itself.
+				song.abc.split('\n').forEach((line) => {
+					if (/^[A-Za-z]:|^%/.test(line)) return;
+					expect(
+						(line.match(/"/g) ?? []).length % 2,
+						`Song '${song.title}' (ID=${song.id}) abc line '${line}' has an unclosed chord quote.`,
+					).toBe(0);
+					expect(
+						(line.match(/\{/g) ?? []).length,
+						`Song '${song.title}' (ID=${song.id}) abc line '${line}' has unbalanced grace note braces.`,
+					).toBe((line.match(/\}/g) ?? []).length);
+				});
+
+				expect(
+					/%%MIDI/.test(song.abc),
+					`Song '${song.title}' (ID=${song.id}) abc contains a %%MIDI directive, which can break playback in the app.`,
+				).toBeFalsy();
+
+				expect(
+					/^V:/m.test(song.abc),
+					`Song '${song.title}' (ID=${song.id}) abc defines extra voices, but the player only plays a single melody voice.`,
+				).toBeFalsy();
+
+				const body = song.abc.split(/^K:.*$/m)[1];
+				expect(
+					body?.trim(),
+					`Song '${song.title}' (ID=${song.id}) abc has no melody after the 'K:' header.`,
+				).toBeTruthy();
+			}
+
 			//Notes
 			if (song.notes) {
 				expect(
