@@ -1,13 +1,16 @@
 ---
 title: Dante's Inferno
 author:
-  - name: Dante Julio Cosentino, IN-21
+  - name: Dante Julio Cosentino, IT-21
+    location: KTH
+    event: Sångarstugan
+    year: 2026
 melody: Battle Hymn of the Republic
 composer: William Steffe
 tags: [gasque, swe]
 ---
 
-Det var blott en ung student, jo, det var nøllans första gasque
+Det var blott en ung student, jo, det var nØllans första gasque
 Den hade ingen ovve, ingen jaquette eller frack
 Men Nøllan sjöng i sången att en sup ska på en tår
 Och det är det som supen får
