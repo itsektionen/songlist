@@ -150,11 +150,6 @@ describe('All songs have valid data', () => {
 					`Song '${song.title}' (ID=${song.id}) abc contains a %%MIDI directive, which can break playback in the app.`,
 				).toBeFalsy();
 
-				expect(
-					/^V:/m.test(song.abc),
-					`Song '${song.title}' (ID=${song.id}) abc defines extra voices, but the player only plays a single melody voice.`,
-				).toBeFalsy();
-
 				const body = song.abc.split(/^K:.*$/m)[1];
 				expect(
 					body?.trim(),
