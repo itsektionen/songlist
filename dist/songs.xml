@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-04">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-08">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -2344,6 +2344,51 @@
 		<p>hk nmi</p>
 		<p>M Ci dptr cal</p>
 		<p>mvp mvp ha!</p>
+	</song>
+	<song
+		name="Dante&apos;s Inferno"
+		id="286"
+		author="Dante Julio Cosentino, IT-21 (Sångarstugan, KTH, 2026)"
+		composer="William Steffe"
+		melody="Battle Hymn of the Republic"
+		category="Gasque"
+	>
+		<p>
+			Det var blott en ung student, jo, det var nØllans första gasque
+			Den hade ingen ovve, ingen jaquette eller frack
+			Men Nøllan sjöng i sången att en sup ska på en tår
+			Och det är det som supen får
+		</p>
+		<p>
+			Dricks det en så dricks det ofta många fler
+			Drick min vän för djäv&apos;len häller bara mer
+			Dricks det en så dricks det ofta många fler
+			Tills man aldrig dricker mer
+		</p>
+		<p>
+			Sedan skrek en gamling att nubben skulle tas,
+			Å fyllde sina händer för det skulle bli kalas
+			Första va till halvan och fem till hyfsningen
+			Å gamlingen stappla hem
+		</p>
+		<p>
+			Dricks det en så dricks det ofta många fler
+			Drick min vän för djäv&apos;len häller bara mer
+			Dricks det en så dricks det ofta många fler
+			Tills man aldrig dricker mer
+		</p>
+		<p>
+			Å djäveln i helevetet som i sin frusna is
+			Har beskan fast i handen som han greppar i mani
+			Han dricker sig oändligt nöjd men även han är dömd
+			För flaskan blir aldrig tömd
+		</p>
+		<p>
+			Dricks det en så dricks det ofta många fler
+			Drick min vän för djäv&apos;len häller bara mer
+			Dricks det en så dricks det ofta många fler
+			Tills man aldrig dricker mer
+		</p>
 	</song>
 	<song
 		name="En pilsnerdrickare"
@@ -6982,6 +7027,47 @@
 			Write in C, write in C,
 			write in C, yeah, write in C.
 			Don&apos;t even mention COBOL. Write in C.
+		</p>
+	</song>
+	<song
+		name="Förargad Senior"
+		id="287"
+		author="Dante Julio Cosentino, IT-21, Emil Wallgren, D-21, och Leonard Lindgren, IT-20 (Reftec, KTH, 2026)"
+		composer="Thomas Stenström"
+		melody="Slå mig hårt i ansiktet"
+		category="Nördigt"
+	>
+		<p>
+			Pushar rakt till produktion
+			så jag får känna att jag lever
+			Kunderna får stå för alla test
+			Du får skriva vad du vill
+			Spam på Slack å lite till
+			För jag har har mutat min mobil för dig ikväll
+		</p>
+		<p>
+			Pusha rakt till produktion
+			Sent på kvällen på en fredag
+			Går sen ut och super på nån fest
+			Å jag skiter blankt i Git
+			Dina pull requests är skit
+			Å jag pushar rakt till produktion ikväll
+		</p>
+		<p>
+			Skit i alla testsviter
+			För dom är tråkiga att skriva
+			Buggar lär vi upptäcka ändå
+			För det kör på min maskin
+			Skiter i vårt DevOps team
+			Och jag har tröttnat på att lönen e så låg
+		</p>
+		<p>
+			Pusha rakt till produktion
+			För QA har dom varslat
+			Chefen sade: &quot;använd bara Claude&quot;
+			Å jag hoppas hen avgår
+			Jag är ensam senior
+			Och jag orkar inte koda mer ikväll
 		</p>
 	</song>
 	<song
