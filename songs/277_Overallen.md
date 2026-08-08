@@ -6,7 +6,7 @@ author:
 melody: Hallelujah
 composer: Leonard Cohen
 tags: [esoteric, swe]
-abc: | 
+abc: |
   X:1
   T: Hallelujah
   M:6/8

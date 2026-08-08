@@ -3,7 +3,7 @@ title: Hallen lutar
 melody: Hallelujah
 composer: Leonard Cohen
 tags: [gasque, swe]
-abc: | 
+abc: |
   X:1
   T: Hallelujah
   M:6/8
