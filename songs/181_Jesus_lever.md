@@ -5,7 +5,7 @@ composer: Bill Cook
 tags: [gasque, swe]
 ---
 
-Jesus lever, han bor i Lappis
+Jesus lever, han bor i Kista
 Han kör en Volvo och han är gift
 Han har en villa med rododendron
 Han sparar pengar och jobbar skift
