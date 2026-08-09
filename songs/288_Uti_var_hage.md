@@ -17,8 +17,6 @@ abc: |
   F F/>E/ D/>F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]
 ---
 
----
-
 Uti vår hage där växa blå bär.
 Kom hjärtans fröjd
 Vill du mig någe', så har du mig här!
