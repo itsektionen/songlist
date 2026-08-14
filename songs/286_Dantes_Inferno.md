@@ -1,7 +1,7 @@
 ---
 title: Dante's Inferno
 author:
-  - name: Dante Julio Cosentino, IT-21
+  - name: Dante Julio "Big D" Cosentino, IT-21
     location: KTH
     event: Sångarstugan
     year: 2026

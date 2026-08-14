@@ -1,7 +1,7 @@
 ---
 title: White spirit (II)
 author:
-  - name: Dante Julio Cosentino, IT-21
+  - name: Dante Julio "Big D" Cosentino, IT-21
     location: KTH
     year: 2026
     comment: Rewrite of original

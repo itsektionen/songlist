@@ -2,7 +2,7 @@
 title: Jungle Punsch
   - Djunglepunsch (Engelska)
 author:
-  - name: Dylan Horn Kreiner, IT-23, Dante Julio Cosentino, IT-21, och Hugo "prINter" Bachér, IT-21
+  - name: Dylan Horn Kreiner, IT-23, Dante Julio "Big D" Cosentino, IT-21, och Hugo "prINter" Bachér, IT-21
     location: KTH
     year: 2026
 melody: The Bare Necessities
