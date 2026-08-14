@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-08">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-14">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -2348,7 +2348,7 @@
 	<song
 		name="Dante&apos;s Inferno"
 		id="286"
-		author="Dante Julio Cosentino, IT-21 (Sångarstugan, KTH, 2026)"
+		author="Dante Julio &quot;Big D&quot; Cosentino, IT-21 (Sågarstugan, KTH, 2026)"
 		composer="William Steffe"
 		melody="Battle Hymn of the Republic"
 		category="Gasque"
@@ -2388,6 +2388,38 @@
 			Drick min vän för djäv&apos;len häller bara mer
 			Dricks det en så dricks det ofta många fler
 			Tills man aldrig dricker mer
+		</p>
+	</song>
+	<song
+		name="Ärtor och pannkakor"
+		id="288"
+		author="Dante Julio &quot;Big D&quot; Cosentino, IT-21, Hugo &quot;prINter&quot; Bachér, IT-21, och Julle Juliusson Keuschnig, IT-24 (ÄPZ, KTH, 2026 — Strängteoretiquerna)"
+		melody="Imse Vimse spindel"
+		category="Gasque"
+	>
+		<p>
+			Ärtor och pannkakor,
+			är något jag vill ha.
+			Det smakar alltid,
+			helt så underbart.
+			Dricks det med punschen,
+			smakar det som bäst!
+		</p>
+		<p>
+			Ärtor och pannkakor,
+			nu ska det bli fest!
+		</p>
+		<p>
+			Ärtor och pannkakor,
+			kanske med en Besk.
+			Smaken den gör mig,
+			kraftig som en häst.
+			När Zången kommer,
+			blir det en riktig FEST!
+		</p>
+		<p>
+			Ärtor och pannkakor,
+			ärad är vår ÄPZ!
 		</p>
 	</song>
 	<song
@@ -5177,7 +5209,7 @@
 	<song
 		name="White spirit (II)"
 		id="280"
-		author="Dante Julio Cosentino, IT-21 (KTH, 2026 — Rewrite of original)"
+		author="Dante Julio &quot;Big D&quot; Cosentino, IT-21 (KTH, 2026 — Rewrite of original)"
 		composer="Irving Berlin"
 		melody="White Christmas"
 		category="Brännvin"
@@ -5970,7 +6002,7 @@
 	<song
 		name="Jungle Punsch - Djunglepunsch (Engelska)"
 		id="226"
-		author="Dylan Horn Kreiner, IT-23, Dante Julio Cosentino, IT-21, och Hugo &quot;prINter&quot; Bachér, IT-21 (KTH, 2026)"
+		author="Dylan Horn Kreiner, IT-23, Dante Julio &quot;Big D&quot; Cosentino, IT-21, och Hugo &quot;prINter&quot; Bachér, IT-21 (KTH, 2026 — Strängteoretiquerna)"
 		composer="Terry Gilkyson"
 		melody="The Bare Necessities"
 		category="Punsch"
@@ -7032,7 +7064,7 @@
 	<song
 		name="Förargad Senior"
 		id="287"
-		author="Dante Julio Cosentino, IT-21, Emil Wallgren, D-21, och Leonard Lindgren, IT-20 (Reftec, KTH, 2026)"
+		author="Dante Julio &quot;Big D&quot; Cosentino, IT-21, Emil Wallgren, D-21, och Leonard Lindgren, IT-20 (Reftec, KTH, 2026)"
 		composer="Thomas Stenström"
 		melody="Slå mig hårt i ansiktet"
 		category="Nördigt"
