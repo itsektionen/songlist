@@ -3,7 +3,7 @@ title: Dante's Inferno
 author:
   - name: Dante Julio "Big D" Cosentino, IT-21
     location: KTH
-    event: Sångarstugan
+    event: Sågarstugan
     year: 2026
 melody: Battle Hymn of the Republic
 composer: William Steffe
