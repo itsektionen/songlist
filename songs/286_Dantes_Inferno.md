@@ -12,7 +12,7 @@ tags: [gasque, swe]
 
 Det var blott en ung student, jo, det var nØllans första gasque
 Den hade ingen ovve, ingen jaquette eller frack
-Men Nøllan sjöng i sången att en sup ska på en tår
+Men nØllan sjöng i sången att en sup ska på en tår
 Och det är det som supen får
 
 Dricks det en så dricks det ofta många fler
