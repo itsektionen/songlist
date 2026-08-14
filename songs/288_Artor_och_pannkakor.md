@@ -5,7 +5,7 @@ author:
     location: KTH
     event: ÄPZ
     year: 2026
-    notes: Strängteoretiquerna
+    comment: Strängteoretiquerna
 melody: Imse Vimse spindel
 tags: [gasque, swe]
 ---
