@@ -1,7 +1,7 @@
 ---
 title: Förargad Senior
 author:
-  - name: Dante Julio Cosentino, IT-21, Emil Wallgren, D-21, och Leonard Lindgren, IT-20
+  - name: Dante Julio "Big D" Cosentino, IT-21, Emil Wallgren, D-21, och Leonard Lindgren, IT-20
     location: KTH
     event: Reftec
     year: 2026
