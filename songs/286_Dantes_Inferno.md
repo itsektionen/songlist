@@ -20,7 +20,7 @@ Drick min vän för djäv'len häller bara mer
 Dricks det en så dricks det ofta många fler
 Tills man aldrig dricker mer
 
-Sedan skrek en gamling att nubben skulle tas,
+Sedan skrek en gamling att då nubben skulle tas,
 Å fyllde sina händer för det skulle bli kalas
 Första va till halvan och fem till hyfsningen
 Å gamlingen stappla hem
