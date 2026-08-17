@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-14">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-17">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -1674,7 +1674,7 @@
 		category="Gasque"
 	>
 		<p>
-			Jesus lever, han bor i Lappis
+			Jesus lever, han bor i Kista
 			Han kör en Volvo och han är gift
 			Han har en villa med rododendron
 			Han sparar pengar och jobbar skift
@@ -9137,6 +9137,46 @@
 			fornklenod och framtidstolk,
 			Gud är med oss, Gud är med oss,
 			Han skall bära stark vårt fria svenska folk.
+		</p>
+	</song>
+	<song
+		name="Uti vår hage"
+		id="289"
+		author="Hugo Alfvén (1916)"
+		composer="Hugo Alfvén"
+		category="Högtidligt"
+	>
+		<p>
+			Uti vår hage där växa blå bär.
+			Kom hjärtans fröjd
+			Vill du mig någe&apos;, så har du mig här!
+			Kom liljor och aquileja,
+			Kom rosor och salvia,
+			Kom ljuva krusmynta, kom hjärtans fröjd!
+		</p>
+		<p>
+			Fagra små blommor där bjuda till dans.
+			Kom hjärtans fröjd
+			Vill du, så binder jag åt dig en krans!
+			Kom liljor och aquileja,
+			Kom rosor och salvia,
+			Kom ljuva krusmynta, kom hjärtans fröjd!
+		</p>
+		<p>
+			Kransen den sätter jag sen i ditt hår,
+			Kom hjärtans fröjd
+			Solen den dalar men hoppet uppgår!
+			Kom liljor och aquileja,
+			Kom rosor och salvia,
+			Kom ljuva krusmynta, kom hjärtans fröjd!
+		</p>
+		<p>
+			Uti vår hage finns blommor och bär,
+			Kom hjärtans fröjd
+			Men utav alla du kärast mig är!
+			Kom liljor och aquileja,
+			Kom rosor och salvia,
+			Kom ljuva krusmynta, kom hjärtans fröjd!
 		</p>
 	</song>
 	<song

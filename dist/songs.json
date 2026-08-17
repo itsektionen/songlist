@@ -26,6 +26,7 @@
 			"alternativeTitles": ["Athos visa", "Athos visa till Portos", "Jag vill ut och gasqua"],
 			"melody": "You can't get a man with a gun",
 			"composer": "Irving Berlin",
+			"abc": "X:1\nT: You can't get a man with a gun\nM:4/4\nL:1/16\nQ:1/4=100\nK:F\nC2 |F4 F3 G |A2 F4 F2 | G2 A2 G2 F2 |E2 C2 D2 E2 |\nF4 F2 G2 | A4 G2 F2 | G8- |c4 A2 B2| c4 c3 c |\nc2 F4 F2 | c2 B2 A2 G2 | B2 A2 G2 F2 | C4 C3 C | E4 F2 G2|\nF8- | F4 F3 F | B2 d6- | d4  F3 F |A2 c6- | c4 F2 G2 | \nA4 G2 F2 | A4 G2 F2 | G8 | c6 A2 |c4 c3 d|c2 F4 F2|\nG2 A2 G2 F2 | E2 C2 D2 E2 | F4 F2 G2 | A4 G2 F2 | G8 c6 A2 |\nc4 c3 d|c2 F4 F2 |G2 A2 G2 F2 | E2 C2 D2 E2 | F4 F2 G2 | \nA4 G2 F2 | G4 G2 A2 | B4 A2 G2 | A4 G2 F2| G4 F2 E2 | F4C4 | F8 |]\n",
 			"tags": ["gasque", "swe"],
 			"content": "Jag vill börja gasqua,\nvart fan är min flaska?\nVem i helvete stal min butelj?\n\nSka törsten mig tvinga,\nen TT börja svinga?\nNej för fan, bara blunda och svälj!\n\nVilken smörja! Får jag spörja?\nVem för fan tror att jag är en älg?\n\nTill England vi rider,\noch sedan vad det lider\nträffar vi välan på någon pub?\n\nOch där ska vi festa,\nblott dricka av det bästa:\nUtav whiskey och portvin,\njag tänker gå hårt in\nför att prova på rubb och stubb!",
 			"author": "Tord Andrén, B (Bergsspexet De fyra musketörerna, KTH, 1959 — Ursprungligen Athos visa)"
@@ -292,6 +293,7 @@
 			"title": "Hallen lutar",
 			"melody": "Hallelujah",
 			"composer": "Leonard Cohen",
+			"abc": "X:1\nT: Hallelujah\nM:6/8\nL:1/16\nQ:1/4=100\nK:C\nE2 | G4 G2 G4 G2 | A4A2 A4 E2|G4G2 G4G2|A4 A2 A4G2| A4 A2-A2A2A2 | \nA4G2 G4F2|G4 G8-| G12-G2 E2| G4 G2 G4 G2| A4 A2 B4 G2| c4 c2 c4 c2|\nc4 c2 d4 c2| d4 d2 d4 d2| e4 e2 e4 d2 | d6 c6- | c6 E4 G2| \nA6 A6- | A6 A4 G2 | E6 E6- | E6 E4 G2| A6 A6- | A6 A4 G2 |\nE6- E2F2E2 | D12 | C12 |]\n",
 			"tags": ["gasque", "swe"],
 			"content": "Jag minns knappt hur jag tog mig hem.\nKlockan var minst kvart i fem,\nnär jag stod utanför min egen våning.\nJag lyfte upp min nyckelring\noch haja nästan ingenting,\nnär dörren öppnas står min hall å lutar.\n\n//: Hallen lutar, hallen lutar ://\n\nJag minns knappt julen nittiotre.\nMin bror var där å syster me',\nå snyggingen i rött satt alld'les breve'.\nVi drack vår glögg och pratade,\nmin dejt blev trött och schappade.\nSå jag fick ännu mer tid för den röde.\n\n//: Han i luva, han i luva ://\n\nGasquen var sen länge stängd.\nJag supit bort varenda peng\noch vill nu bara hem till min säng.\nJag vandra hem genom en natt,\nkall och trött jag såg en katt,\nden satt där utanför på min gata.\n\n//: Katten lutar, katten lutar ://\n\nFredagar har mer att ge,\nän räkor, snask och en TV.\nEn kan ju hyra film och DVD.\nÅ vill en ha något riktigt bra,\nså kan en faktiskt bara ta\nen film som vunnit Oscar åt en Berry.\n\n//: Halle Berry, Halle Berry ://"
 		},
@@ -371,8 +373,9 @@
 			"title": "Jesus lever",
 			"melody": "Sånt är livet",
 			"composer": "Bill Cook",
+			"abc": "X:1\nT: Sånt är livet\nM:4/4\nL:1/8\nQ:1/4=190\nK:A\nz2 c2 c2 B2 | A4 A4 | z2 c2-B2 A2 | B4 A4 | z2 c2 B2 A2 |\nA4 A4 | z2 G4 A2 | B8- | B2 c2 B2 A2  | A4 A4 | z2 c2 B2 A2 |\nB4 A4| z2 c2 B2 A2 | A4 A4 | z2 G4 G2 | A8\n",
 			"tags": ["gasque", "swe"],
-			"content": "Jesus lever, han bor i Lappis\nHan kör en Volvo och han är gift\nHan har en villa med rododendron\nHan sparar pengar och jobbar skift\n\nRedan på lekis var han märklig\nHan ville inte leka krig\nMen när hans kompis, Knut, blev skjuten\nså lät han Jesus uppväcka sig\n\nJesus lever...\n\nHan gick i skolan, som alla andra\nHan var rätt duktig på gymnastik\nå vilken kille han gick på vatten,\nen gång så gick han till Reykjavik\n\nJesus lever...\n\nI sina tonår så var han poppis\nOch han blev bjuden på varje fest\nÅ vilken kille, han fick ju vatten\natt bli till rusdryck utan jäst\n\n//: Jesus lever... ://"
+			"content": "Jesus lever, han bor i Kista\nHan kör en Volvo och han är gift\nHan har en villa med rododendron\nHan sparar pengar och jobbar skift\n\nRedan på lekis var han märklig\nHan ville inte leka krig\nMen när hans kompis, Knut, blev skjuten\nså lät han Jesus uppväcka sig\n\nJesus lever...\n\nHan gick i skolan, som alla andra\nHan var rätt duktig på gymnastik\nå vilken kille han gick på vatten,\nen gång så gick han till Reykjavik\n\nJesus lever...\n\nI sina tonår så var han poppis\nOch han blev bjuden på varje fest\nÅ vilken kille, han fick ju vatten\natt bli till rusdryck utan jäst\n\n//: Jesus lever... ://"
 		},
 		{
 			"id": 184,
@@ -404,6 +407,7 @@
 			"alternativeTitles": ["Porthos visa (Engelska)"],
 			"melody": "Can't get a man with a gun",
 			"composer": "Irving Berlin",
+			"abc": "X:1\nT: You can't get a man with a gun\nM:4/4\nL:1/16\nQ:1/4=100\nK:F\nC2 |F4 F3 G |A2 F4 F2 | G2 A2 G2 F2 |E2 C2 D2 E2 |\nF4 F2 G2 | A4 G2 F2 | G8- |c4 A2 B2| c4 c3 c |\nc2 F4 F2 | c2 B2 A2 G2 | B2 A2 G2 F2 | C4 C3 C | E4 F2 G2|\nF8- | F4 F3 F | B2 d6- | d4  F3 F |A2 c6- | c4 F2 G2 | \nA4 G2 F2 | A4 G2 F2 | G8 | c6 A2 |c4 c3 d|c2 F4 F2|\nG2 A2 G2 F2 | E2 C2 D2 E2 | F4 F2 G2 | A4 G2 F2 | G8 c6 A2 |\nc4 c3 d|c2 F4 F2 |G2 A2 G2 F2 | E2 C2 D2 E2 | F4 F2 G2 | \nA4 G2 F2 | G4 G2 A2 | B4 A2 G2 | A4 G2 F2| G4 F2 E2 | F4C4 | F8 |]\n",
 			"notes": ["English version of \"Porthos visa\"."],
 			"tags": ["gasque", "eng"],
 			"content": "Please start the gasque now\nI'm reaching for my flask now\nAll this waiting is making me think\n\nMy thirst is consuming,\nmy hunger is still fuming\nFor fuck sake, give me something to drink!\n\nAll this mayhem! Please just stop them\nWho the fuck thinks that I am a moose?\n\nTo England on horseback,\nwhile chugging down a six pack\nI am sure that we'll find us a pub\n\nAnd there we will party,\nwith some guy named Marty\nLet's drink whisky and port wine,\nand act like a real swine\nwe'll try all the rubb and the stubb!"
@@ -650,7 +654,7 @@
 			"title": "Vi älskar öl",
 			"melody": "Ser du stjärnan i det blå",
 			"composer": "Leigh Harline",
-			"abc": "X:1\nT:Ser du stjärnan i det blå (When You Wish Upon a Star)\nZ:OMR (Audiveris) from engraved lead sheet, Leigh Harline melody\nM:2/2\nL:1/4\nQ:1/4=92\nK:C\nG, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | G3 z |\nG, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | C4 |\nD2 E2 | G4 | z D E F | ^F/ A/ G3 | z E ^F G | ^G B A2 | c4 | B3 z |]\n",
+			"abc": "X:1\nT:Ser du stjärnan i det blå (When You Wish Upon a Star)\nM:2/2\nL:1/4\nQ:1/4=92\nK:C\nG, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | C3 z |\n",
 			"tags": ["beer", "swe"],
 			"content": "Täckt av silver sejdeln full,\ngnistrar mot oss med sitt guld.\nHumle, malt är livets salt, vi älskar öl.\n\nKällarsval så bärs den in,\nför att glädja gommen din\nsläcka törsten, stärka rösten,\ntill dess lov.\n\nKnubbig blir du, men so what?\nGott och roligt har du fått.\nExtraturen, rensat njuren, öl är gott."
 		},
@@ -781,6 +785,7 @@
 			"alternativeTitles": ["Lyftet"],
 			"melody": "Ding dong merrily on high",
 			"composer": "Jehan Tabourot, George Ratcliffe Woodward, Charles Wood",
+			"abc": "X:1\nT:Ding dong merrily on high\nM:4/4\nL:1/8\nQ:1/4=160\nK:G\nV:1\nG2G2 AGFE | D6 D2 | E2 G2G2F2 | G4G4 | G2G2 AGFE |\nV:2\nz8|z8|z8|z8|z8|\nV:1\nD6 D2 | E2 G2G2F2 | G4G4 | D4 B,4 | C4 A,4 |\nV:2\nz8|z8|z8 | d4 edcB |c4 dcBA | \nV:1\nB,4G,4 | A,2 D,2D,2D,2|E,2 G,2G,2F,2 | G,4G,4\nV:2\nB4 cBAG | A2 D2 D2 D2 |E2 G2 G2 F2 | G4 G4\n",
 			"tags": ["wine", "swe"],
 			"content": "Lyft ditt välförsedda glas,\ndet är en härlig börda!\nNu har grabbarna kalas,\nvi segern snart skall skörda!\n\n//: Dinge dingedingedinge\ndingedingedinge dingedingeding\ndong dong, imorgon är det lördag. ://\n\nSätt nu glaset till din mun,\nse döden på dig väntar!\nNu har grabbarna kalas,\nhör liemannen flämtar!\n\n//: Dinge dingedingedinge\ndingedingedinge dingedingeding\ndong dong, begravningsklockor\nklämtar. ://",
 			"author": "Hakon Leffer (Medicinarspexet Nero II, Göteborg, 1968)"
@@ -789,6 +794,7 @@
 			"id": 45,
 			"title": "Bordeaux, Bordeaux",
 			"melody": "I sommarens soliga dagar",
+			"abc": "X:1\nT:I sommarens soliga dagar\nM:4/4\nL:1/16\nQ:1/4=120\nK:D\nA4 | F4 A2>G2 F4 d2>c2 | B8 G4 G4 | E4 G2>F2 E4 c2>B2| A8 F4 A4 |\nd4 d2>d2 f4 d2>d2 | G8 B4 g4 | f4 d4 e4 c4 | d2>d2 d2>d2 d3 |] A A2>G2 |\nF2>A2 A2>G2 F2>d2 d2>c2 | B2>B2 B2>A2 G2>G2 G2>F2 | E2>G2 G2>F2 E2>c2 c2>B2 |\nA2>A2 A2>G2 F4 A4 | d4 d2>d2 f4 d2>d2 | G8 B4 g4 |  f4 d4 e4 c4 | d2>d2 d2>d2 d4 |]\n",
 			"tags": ["wine", "swe"],
 			"content": "Jag minns än idag hur min fader,\nkom hem ifrån staden så glader,\noch rada' upp flaskor i rader,\noch sade nöjd som så:\n\"Bordeaux, Bordeaux!\"\n\nHan drack ett glas, kom i extas,\noch sedan blev det stort kalas.\nOch vi små glin, ja vi drack vin,\nsom första klassens fyllesvin.\nOch vi dansade runt där på bordet,\noch skrek så vi blev blå:\n\"Bordeaux, Bordeaux!\"",
 			"author": "Västgöta Nation (CTH)"
@@ -1162,7 +1168,7 @@
 			"id": 79,
 			"title": "Uti min mage",
 			"melody": "Uti vår hage",
-			"abc": "X:1\nT:Uti vår hage\nZ:trad, via JC's tune finder (trillian.mit.edu/~jc)\nM:3/4\nL:1/4\nQ:1/4=132\nK:Dm\nD F G | F>E D | F F G | A2 c | A2 F | A2 z |\nF>F F | F G A | A G F | G2 A | F F/>E/ D/F/ | E A, G |\nF F/>E/ D/F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]\n",
+			"abc": "X:1\nT:Uti vår hage\nM:3/4\nL:1/4\nQ:1/4=132\nK:Dm\nD F G | F>E D | F F G | A2 c | A2 F | A2 z |\nF>F F | F G A | A G F | G2 A | F F/>E/ D/>F/ | E A, G |\nF F/>E/ D/>F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]\n",
 			"tags": ["snaps", "swe"],
 			"content": "Uti min mage en längtan mig tär.\nKom hjärtans fröjd!\nDär råder en hunger som ropar så här:\nKom kryddsill och kall potatis,\nkom brännvin och quantum satis,\nkom allt som kan drickas,\nkom hjärtans fröjd.\n\nUti mitt hjärta en längtan mig tär.\nKom hjärtans fröjd!\nDär råder hunger som ropar så här:\nKom famnande lena armar,\nkom läppar och sköna barmar,\nkom fagraste kvinnor,\nkom hjärtans fröjd!\n\nUti min mage där växa begär.\nKom hjärtans kär!\nVill du mig något så träffas vi där.\nKom Renat och Aqua Vitae,\nkom OP och allt vad sprit e',\nkom ljuva Genever,\nkom Överste!"
 		},
@@ -1276,7 +1282,7 @@
 			"title": "Regalskeppet Vasa",
 			"melody": "Ser du stjärnan i det blå",
 			"composer": "Leigh Harline",
-			"abc": "X:1\nT:Ser du stjärnan i det blå (When You Wish Upon a Star)\nZ:OMR (Audiveris) from engraved lead sheet, Leigh Harline melody\nM:2/2\nL:1/4\nQ:1/4=92\nK:C\nG, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | G3 z |\nG, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | C4 |]\n",
+			"abc": "X:1\nT:Ser du stjärnan i det blå (When You Wish Upon a Star)\nM:2/2\nL:1/4\nQ:1/4=92\nK:C\nG, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | C3 z |\n",
 			"tags": ["snaps", "swe"],
 			"content": "Ser du skeppet i vår hamn?\nNer i Mälar'n det försvann!\nHur sjönk Vasa? Ve och fasa!\nBotten upp.\n\nFull besättning fanns ombord.\nHälften hoppa' överbord.\nSkeppet sjunka, alla drunkna!\nBotten upp!",
 			"author": "Den Kongliga invITen (KTH)"
@@ -1682,6 +1688,7 @@
 			"title": "När supen vandrat hädan",
 			"alternativeTitles": ["Punschkanon"],
 			"melody": "Jag gick mig ut i skogen",
+			"abc": "X:1\nT:Du käre lille snickerbo\nM:4/4\nL:1/16\nQ:1/4=100\nK:C\nV:1 name=\"Voice 1\" clef=treble\nV:2 name=\"Voice 2\" clef=treble\nV:1\nz16|z16 |z16|\nV:2\nC4 G,4 C4 G,4 | C4 G,4 G,2G,2A,2B,2  |C4 G,4 C4 G,4 |\nV:1\nC4 G,4 G,2G,2A,2B,2  |C4 G,4 C4 G,4 | C4 G,4 G,2G,2A,2B,2 |\nV:2\nz14 G2 | c3cc2e2 c4 c2e2 | d3cd2e2 c6 G2 |\nV:1\nC4 G,4 C4 G,4 | C4 G,4 G,2G,2A,2B,2  |C4 G,4 C4 G,4 | C4 G,4 G,2G,2A,2B,2 |\nV:2\nc3cc2e2 c4 c2e2 | d3cd2e2 c6 g2| e6 g2 e6 g2 | f3e f2 g2 e6 g2 |\nV:1\nC4 G,4 C4 G,4 | C4 G,4 G,8  |]\nV:2\ne6 g2 e6 g2 | f3e f2 g2 e8 |]\n",
 			"notes": ["Den stämma som slutar samtidigast som den andra, vinner."],
 			"tags": ["punsch", "swe"],
 			"content": "> Stämma 1:\n\n//: Punsch, punsch, punsch, punsch,\npunsch, punsch, alla sorters... ://\n\n> Stämma 2:\n\nNär supen vandrat hädan\noch maten lagts därpå,\noch kaffet står på bordet,\nvad väntar vi då på?\n//: Jo, punsch och punsch och ännu\nmera punsch. ://\n\nJa, den föll oss i smaken,\nnu ropar vi gutår,\noch koppen står där naken\noch väntar på en tår.\n//: Å punsch och punsch och ännu\nmera punsch. ://"
@@ -2152,7 +2159,7 @@
 			"id": 131,
 			"title": "Farväl till IT-sektionen",
 			"melody": "Uti vår hage",
-			"abc": "X:1\nT:Uti vår hage\nZ:trad, via JC's tune finder (trillian.mit.edu/~jc)\nM:3/4\nL:1/4\nQ:1/4=132\nK:Dm\nD F G | F>E D | F F G | A2 c | A2 F | A2 z |\nF>F F | F G A | A G F | G2 A | F F/>E/ D/F/ | E A, G |\nF F/>E/ D/F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]\n",
+			"abc": "X:1\nT:Uti vår hage\nM:3/4\nL:1/4\nQ:1/4=132\nK:Dm\nD F G | F>E D | F F G | A2 c | A2 F | A2 z |\nF>F F | F G A | A G F | G2 A | F F/>E/ D/>F/ | E A, G |\nF F/>E/ D/>F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]\n",
 			"notes": [
 				"Skrevs till avskedssittningen när IT-Sektionen och ME-Sektionen bildade IN-Sektionen."
 			],
@@ -2454,6 +2461,7 @@
 			"title": "Overallen",
 			"melody": "Hallelujah",
 			"composer": "Leonard Cohen",
+			"abc": "X:1\nT: Hallelujah\nM:6/8\nL:1/16\nQ:1/4=100\nK:C\nE2 | G4 G2 G4 G2 | A4A2 A4 E2|G4G2 G4G2|A4 A2 A4G2| A4 A2-A2A2A2 | \nA4G2 G4F2|G4 G8-| G12-G2 E2| G4 G2 G4 G2| A4 A2 B4 G2| c4 c2 c4 c2|\nc4 c2 d4 c2| d4 d2 d4 d2| e4 e2 e4 d2 | d6 c6- | c6 E4 G2| \nA6 A6- | A6 A4 G2 | E6 E6- | E6 E4 G2| A6 A6- | A6 A4 G2 |\nE6- E2F2E2 | D12 | C12 |]\n",
 			"tags": ["esoteric", "swe"],
 			"content": "Det finn ett alldeles särskilt plagg,\ndet bästa om man vill få ragg,\nman blir så jävla snygg i overallen.\nOm du är yngst eller äldst,\ndu kan ha den till vad som helst\npå alla fester passar overallen.\n\n//: Overallen, overallen ://\n\nEtt ärrat plagg min ovve är,\nett märke här en spya där,\nska synas att man använt overallen.\nOm overallen luktar pung,\ndet gör inget håll dig lugn,\ningen luktar gott i overallen.\n\n//: Overallen, overallen ://\n\nI ovven händer mycket kul,\nom du är snygg eller ful,\ndet spelar ingen roll i overallen.\nFör i ovven är man snygg,\ni ovven kan man vara trygg,\nnär man springer runt i overallen.\n\n//: Overallen, overallen ://\n\nOm du i overall är klädd,\nska du av mig alltid bli sedd,\nvi äro alla vänner i vår ovve.\nFör om du ovven tycker om,\nså finns det ett gäng här runtom,\nja här älskar vi alla overallen!\n\n//: Overallen, overallen ://",
 			"author": "Patrik Broman (UU)"
@@ -2507,6 +2515,7 @@
 			"alternativeTitles": ["O, jerum, jerum"],
 			"melody": "O alte Burschenherrlichkeit",
 			"composer": "Eugen Höfling (1825)",
+			"abc": "X:1\nT:O alte Burschenherrlichkeit\nM:4/4\nL:1/8\nQ:1/4=120\nK:C\nCE |G2G2GA FD|C2E2 E2>E2| D2zE F2G2|F2E2z2>G2|G2>E2c2>B2|\nB2 A2A2>A2 | G2>A2 GEFD | D2C2 z2>E2 | D2 G2 G2 B2 | BA cB A2 D2 |\nD2G2G2B2 |cB dc BA GF | G2>E2 c2>B2 | B2 A2 z2 A2 | G2>A2 GE FD | D2C2 z2 |]\n",
 			"notes": [
 				"Traditionellt reser man sig vid de strofer i vers två, tre och fyra som bäst passar dess respektive fakultet. Det är dock upp till var och en att identifiera sig med stroferna efter eget tycke.",
 				"Den fjärde versen är ett senare tillägg anpassad för teknologer och varierar mellan sektioner och universitet.",
@@ -2577,6 +2586,15 @@
 			"author": "K.G. Ossiannilsson (1916)"
 		},
 		{
+			"id": 289,
+			"title": "Uti vår hage",
+			"composer": "Hugo Alfvén",
+			"abc": "X:1\nT:Uti vår hage\nM:3/4\nL:1/4\nQ:1/4=132\nK:Dm\nD F G | F>E D | F F G | A2 c | A2 F | A2 z |\nF>F F | F G A | A G F | G2 A | F F/>E/ D/>F/ | E A, G |\nF F/>E/ D/>F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]\n",
+			"tags": ["solemn", "swe"],
+			"content": "Uti vår hage där växa blå bär.\nKom hjärtans fröjd\nVill du mig någe', så har du mig här!\nKom liljor och aquileja,\nKom rosor och salvia,\nKom ljuva krusmynta, kom hjärtans fröjd!\n\nFagra små blommor där bjuda till dans.\nKom hjärtans fröjd\nVill du, så binder jag åt dig en krans!\nKom liljor och aquileja,\nKom rosor och salvia,\nKom ljuva krusmynta, kom hjärtans fröjd!\n\nKransen den sätter jag sen i ditt hår,\nKom hjärtans fröjd\nSolen den dalar men hoppet uppgår!\nKom liljor och aquileja,\nKom rosor och salvia,\nKom ljuva krusmynta, kom hjärtans fröjd!\n\nUti vår hage finns blommor och bär,\nKom hjärtans fröjd\nMen utav alla du kärast mig är!\nKom liljor och aquileja,\nKom rosor och salvia,\nKom ljuva krusmynta, kom hjärtans fröjd!",
+			"author": "Hugo Alfvén (1916)"
+		},
+		{
 			"id": 151,
 			"title": "En liten blå förgätmigej",
 			"notes": [
@@ -2588,5 +2606,5 @@
 			"content": "Hur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\\*\nhur innerligt jag älskar dig!\\*\\*"
 		}
 	],
-	"updatedAt": "2026-08-14"
+	"updatedAt": "2026-08-17"
 }
