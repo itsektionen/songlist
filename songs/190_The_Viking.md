@@ -18,7 +18,7 @@ abc: |
   "Am"e2 e edc|"G"d2 d d2 B|"Am"c2 c cBA|"Em"B2 B Bcd|"Am"e3 "G"d3|"F"c3 "E"B2E|"Am"EAA A2 G|A3-A2|]
 ---
 
-A viking loves the joys of life,
+A viking loves the joys of life,  
 hoora, hoora!
 
 They're quickly running down his throat,  
@@ -28,7 +28,7 @@ With veal, with ox, with fish, with pork,
 vikings never use a fork,
 vikings only want to pop the cork.
 
-The bäsk eventually runs out,
+The bäsk eventually runs out,  
 oh no, OH NO!
 
 Every viking's carried out  

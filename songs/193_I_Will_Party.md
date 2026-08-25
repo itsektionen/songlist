@@ -6,7 +6,7 @@ author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
     location: KTH
-  - name: Dante Julio "Big D" Cosentino, IT-21, Dehani Ranasinghe, IT-22, Hugo "prINter" Bachér, IT-21
+  - name: Dante Julio "Big D" Cosentino, IT-21, Hugo "prINter" Bachér, IT-21, och Dehani Ranasinghe, IT-22
     year: 2026
     location: KTH
     event: Mastergasque
@@ -41,13 +41,13 @@ then a shot, it couldn't hurt,
 down the wine, then punsch in line,
 a cocktail buffet last.
 
-Now I'm wasted, pass out on the table.
+I am shitfaced, pass out on the table.
 Miss the party, but who really cares?
 Mixin' beer and sour milk for funsies.
 Throwing up my dinner on my mate!
 
 First a beer to quench my thirst,
-then a shot, you know what's first,
+then a shot, it couldn't hurt,
 down the wine, then punsch in line,
 a cocktail buffet last.
 
