@@ -6,6 +6,11 @@ author:
   - name: Dylan Horn Kreiner, IT-23
     year: 2024
     location: KTH
+  - name: Dante Julio "Big D" Cosentino, IT-21, Dehani Ranasinghe, IT-22, Hugo "prINter" Bachér, IT-21
+    year: 2026
+    location: KTH
+    event: Mastergasque
+    comment: Rewrite to better fit the melody.
 melody: Bamsesången
 composer: Sten Carlberg
 notes:
@@ -26,20 +31,20 @@ abc: |
   A,4 D4 E4 B4 | A3GF3E D4 A,4 | B,4 D4 A,4 F4 | E3DC3E D8 |]
 ---
 
-I will party, take it slow with drinking.
+I will party, take it chill with drinking.
 Have some fun without getting too drunk.
-Not crawling 'round with the party crowd.
-Take it easy, relax for my own sake.
+Not crawl 'round, what's everybody thinking?
+Take it easy, not have too much fun.
 
 First a beer to quench my thirst,
-then a shot, you know what's first,
+then a shot, it couldn't hurt,
 down the wine, then punsch in line,
 a cocktail buffet last.
 
-Now I'm wasted, pass out first of all.
-Mss the party, but who really cares?
-Mixing beer and old sour milk for kicks.
-Throwing up on my dinner mate there!
+Now I'm wasted, pass out on the table.
+Miss the party, but who really cares?
+Mixin' beer and sour milk for funsies.
+Throwing up my dinner on my mate!
 
 First a beer to quench my thirst,
 then a shot, you know what's first,
@@ -48,5 +53,5 @@ a cocktail buffet last.
 
 Vomit's flowing down my woolen tie,
 ravioli's drying in my hair.
-Who put me here in this damn urinal?
+Who put me here in this fucking toilet?
 And whose fork is stuck in my right thigh?
