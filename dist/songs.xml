@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-24">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-08-25">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -1766,6 +1766,7 @@
 		name="Portho&apos;s song"
 		alternativeTitles="Porthos visa (Engelska)"
 		id="189"
+		author="Dante Julio &quot;Big D&quot; Cosentino, IT-21, Hugo &quot;prINter&quot; Bachér, IT-21 (Mastergasque, KTH, 2026 — Rewrite of original to better fit the melody.)"
 		composer="Irving Berlin"
 		melody="Can&apos;t get a man with a gun"
 		category="Gasque"
@@ -1779,10 +1780,10 @@
 		<p>
 			My thirst is consuming,
 			my hunger is still fuming
-			For fuck sake, give me something to drink!
+			For fuck sake, just give me a drink!
 		</p>
 		<p>
-			All this mayhem! Please just stop them
+			All this mayhem! Please just stop them!
 			Who the fuck thinks that I am a moose?
 		</p>
 		<p>
@@ -1792,9 +1793,9 @@
 		</p>
 		<p>
 			And there we will party,
-			with some guy named Marty
+			the drinking will be harty.
 			Let&apos;s drink whisky and port wine,
-			and act like a real swine
+			and act like a some real swines
 			we&apos;ll try all the rubb and the stubb!
 		</p>
 	</song>
@@ -1822,29 +1823,29 @@
 		name="I Will Party"
 		alternativeTitles="Jag ska festa (Engelska)"
 		id="193"
-		author="Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+		author="Dylan Horn Kreiner, IT-23 (KTH, 2024); Dante Julio &quot;Big D&quot; Cosentino, IT-21, Dehani Ranasinghe, IT-22, Hugo &quot;prINter&quot; Bachér, IT-21 (Mastergasque, KTH, 2026 — Rewrite to better fit the melody.)"
 		composer="Sten Carlberg"
 		melody="Bamsesången"
 		category="Gasque"
 	>
 		<note>English version of &quot;Jag ska festa&quot;.</note>
 		<p>
-			I will party, take it slow with drinking.
+			I will party, take it chill with drinking.
 			Have some fun without getting too drunk.
-			Not crawling &apos;round with the party crowd.
-			Take it easy, relax for my own sake.
+			Not crawl &apos;round, what&apos;s everybody thinking?
+			Take it easy, not have too much fun.
 		</p>
 		<p>
 			First a beer to quench my thirst,
-			then a shot, you know what&apos;s first,
+			then a shot, it couldn&apos;t hurt,
 			down the wine, then punsch in line,
 			a cocktail buffet last.
 		</p>
 		<p>
-			Now I&apos;m wasted, pass out first of all.
-			Mss the party, but who really cares?
-			Mixing beer and old sour milk for kicks.
-			Throwing up on my dinner mate there!
+			Now I&apos;m wasted, pass out on the table.
+			Miss the party, but who really cares?
+			Mixin&apos; beer and sour milk for funsies.
+			Throwing up my dinner on my mate!
 		</p>
 		<p>
 			First a beer to quench my thirst,
@@ -1855,7 +1856,7 @@
 		<p>
 			Vomit&apos;s flowing down my woolen tie,
 			ravioli&apos;s drying in my hair.
-			Who put me here in this damn urinal?
+			Who put me here in this fucking toilet?
 			And whose fork is stuck in my right thigh?
 		</p>
 	</song>
@@ -4676,24 +4677,24 @@
 		<note>English version of &quot;Vikingen&quot;.</note>
 		<p>
 			A viking loves the joys of life,
-			hurra, hurra!
+			hoora, hoora!
 		</p>
 		<p>
 			They&apos;re quickly running down his throat,  
-			hurra, hurra!
+			hoora, hoora!
 		</p>
 		<p>
 			With veal, with ox, with fish, with pork,
-			Vikings never use a fork,
-			Vikings only want to pop the cork.
+			vikings never use a fork,
+			vikings only want to pop the cork.
 		</p>
 		<p>
 			The bäsk eventually runs out,
-			oh no, oh no!
+			oh no, OH NO!
 		</p>
 		<p>
 			Every viking&apos;s carried out  
-			yo ho, yo ho!
+			yo ho, YO HO!
 		</p>
 		<p>
 			And when we wake up, we sing a just a bit,
@@ -6001,7 +6002,8 @@
 		</p>
 	</song>
 	<song
-		name="Jungle Punsch - Djunglepunsch (Engelska)"
+		name="Jungle Punsch"
+		alternativeTitles="Djunglepunsch (Engelska)"
 		id="226"
 		author="Dylan Horn Kreiner, IT-23, Dante Julio &quot;Big D&quot; Cosentino, IT-21, och Hugo &quot;prINter&quot; Bachér, IT-21 (KTH, 2026 — Strängteoretiquerna)"
 		composer="Terry Gilkyson"
@@ -6029,7 +6031,7 @@
 			I’m sorry if it does deter.
 			I’d rather take a Grönstedt’s Blue,
 			A Cederlund’s or Flagg Punsch too—
-			Do you have some pure Platin
+			Do you have some pure Platin?
 		</p>
 		<p>
 			I love all punsch,

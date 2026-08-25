@@ -410,7 +410,8 @@
 			"abc": "X:1\nT: You can't get a man with a gun\nM:4/4\nL:1/16\nQ:1/4=100\nK:F\nC2 |F4 F3 G |A2 F4 F2 | G2 A2 G2 F2 |E2 C2 D2 E2 |\nF4 F2 G2 | A4 G2 F2 | G8- |c4 A2 B2| c4 c3 c |\nc2 F4 F2 | c2 B2 A2 G2 | B2 A2 G2 F2 | C4 C3 C | E4 F2 G2|\nF8- | F4 F3 F | B2 d6- | d4  F3 F |A2 c6- | c4 F2 G2 | \nA4 G2 F2 | A4 G2 F2 | G8 | c6 A2 |c4 c3 d|c2 F4 F2|\nG2 A2 G2 F2 | E2 C2 D2 E2 | F4 F2 G2 | A4 G2 F2 | G8 c6 A2 |\nc4 c3 d|c2 F4 F2 |G2 A2 G2 F2 | E2 C2 D2 E2 | F4 F2 G2 | \nA4 G2 F2 | G4 G2 A2 | B4 A2 G2 | A4 G2 F2| G4 F2 E2 | F4C4 | F8 |]\n",
 			"notes": ["English version of \"Porthos visa\"."],
 			"tags": ["gasque", "eng"],
-			"content": "Please start the gasque now\nI'm reaching for my flask now\nAll this waiting is making me think\n\nMy thirst is consuming,\nmy hunger is still fuming\nFor fuck sake, give me something to drink!\n\nAll this mayhem! Please just stop them\nWho the fuck thinks that I am a moose?\n\nTo England on horseback,\nwhile chugging down a six pack\nI am sure that we'll find us a pub\n\nAnd there we will party,\nwith some guy named Marty\nLet's drink whisky and port wine,\nand act like a real swine\nwe'll try all the rubb and the stubb!"
+			"content": "Please start the gasque now\nI'm reaching for my flask now\nAll this waiting is making me think\n\nMy thirst is consuming,\nmy hunger is still fuming\nFor fuck sake, just give me a drink!\n\nAll this mayhem! Please just stop them!\nWho the fuck thinks that I am a moose?\n\nTo England on horseback,\nwhile chugging down a six pack\nI am sure that we'll find us a pub\n\nAnd there we will party,\nthe drinking will be harty.\nLet's drink whisky and port wine,\nand act like a some real swines\nwe'll try all the rubb and the stubb!",
+			"author": "Dante Julio \"Big D\" Cosentino, IT-21, Hugo \"prINter\" Bachér, IT-21 (Mastergasque, KTH, 2026 — Rewrite of original to better fit the melody.)"
 		},
 		{
 			"id": 191,
@@ -429,8 +430,8 @@
 			"abc": "X:1\nT:Bamsesången\nZ:OMR (Audiveris) from engraved lead sheet (arr. Joel S.), Sten Carlberg melody; octave-corrected\nM:4/4\nL:1/16\nQ:1/4=138\nK:D\nA,4 D4 E4 B4 | A3GF3E D4 A,4 | B,4 D4 A,4 F4 | E3DC3D E8 |\nA,4 D4 E4 B4 | A3GF3E D4 A,4 | B,4 D4 A,4 F4 | E3DC3E D8 |\nF3FF3F F3FF3F | E3EE3E E3EE3E | D3DD3D D3DD3D | E3DC3B, A,8 |\nA,4 D4 E4 B4 | A3GF3E D4 A,4 | B,4 D4 A,4 F4 | E3DC3D E8 |\nA,4 D4 E4 B4 | A3GF3E D4 A,4 | B,4 D4 A,4 F4 | E3DC3E D8 |]\n",
 			"notes": ["English version of \"Jag ska festa\"."],
 			"tags": ["gasque", "eng"],
-			"content": "I will party, take it slow with drinking.\nHave some fun without getting too drunk.\nNot crawling 'round with the party crowd.\nTake it easy, relax for my own sake.\n\nFirst a beer to quench my thirst,\nthen a shot, you know what's first,\ndown the wine, then punsch in line,\na cocktail buffet last.\n\nNow I'm wasted, pass out first of all.\nMss the party, but who really cares?\nMixing beer and old sour milk for kicks.\nThrowing up on my dinner mate there!\n\nFirst a beer to quench my thirst,\nthen a shot, you know what's first,\ndown the wine, then punsch in line,\na cocktail buffet last.\n\nVomit's flowing down my woolen tie,\nravioli's drying in my hair.\nWho put me here in this damn urinal?\nAnd whose fork is stuck in my right thigh?",
-			"author": "Dylan Horn Kreiner, IT-23 (KTH, 2024)"
+			"content": "I will party, take it chill with drinking.\nHave some fun without getting too drunk.\nNot crawl 'round, what's everybody thinking?\nTake it easy, not have too much fun.\n\nFirst a beer to quench my thirst,\nthen a shot, it couldn't hurt,\ndown the wine, then punsch in line,\na cocktail buffet last.\n\nNow I'm wasted, pass out on the table.\nMiss the party, but who really cares?\nMixin' beer and sour milk for funsies.\nThrowing up my dinner on my mate!\n\nFirst a beer to quench my thirst,\nthen a shot, you know what's first,\ndown the wine, then punsch in line,\na cocktail buffet last.\n\nVomit's flowing down my woolen tie,\nravioli's drying in my hair.\nWho put me here in this fucking toilet?\nAnd whose fork is stuck in my right thigh?",
+			"author": "Dylan Horn Kreiner, IT-23 (KTH, 2024); Dante Julio \"Big D\" Cosentino, IT-21, Dehani Ranasinghe, IT-22, Hugo \"prINter\" Bachér, IT-21 (Mastergasque, KTH, 2026 — Rewrite to better fit the melody.)"
 		},
 		{
 			"id": 195,
@@ -1399,7 +1400,7 @@
 			"abc": "X:1\nT:When Johnny Comes Marching Home\nZ:Paul Hardy's Session Tunebook (www.pghardy.net), CC BY-NC-SA\nM:6/8\nL:1/8\nQ:3/8=110\nK:C\n\"Am\"E|EAA A2 B|c2 B c2 A|\"C\"G4-GE|G4-GA|\"Am\"EAA A2 B|c2 B c2 d|\"C\"e4-ec|\"E\"e4-ec||\n\"Am\"e2 e edc|\"G\"d2 d d2 B|\"Am\"c2 c cBA|\"Em\"B2 B Bcd|\"Am\"e3 \"G\"d3|\"F\"c3 \"E\"B2E|\"Am\"EAA A2 G|A3-A2|]\n",
 			"notes": ["English version of \"Vikingen\"."],
 			"tags": ["snaps", "eng"],
-			"content": "A viking loves the joys of life,\nhurra, hurra!\n\nThey're quickly running down his throat,  \nhurra, hurra!\n\nWith veal, with ox, with fish, with pork,\nVikings never use a fork,\nVikings only want to pop the cork.\n\nThe bäsk eventually runs out,\noh no, oh no!\n\nEvery viking's carried out  \nyo ho, yo ho!\n\nAnd when we wake up, we sing a just a bit,\nand open a bottle of Akvavit.\nSkål to every, skål to every, skål to every\nviking that took the hit!"
+			"content": "A viking loves the joys of life,\nhoora, hoora!\n\nThey're quickly running down his throat,  \nhoora, hoora!\n\nWith veal, with ox, with fish, with pork,\nvikings never use a fork,\nvikings only want to pop the cork.\n\nThe bäsk eventually runs out,\noh no, OH NO!\n\nEvery viking's carried out  \nyo ho, YO HO!\n\nAnd when we wake up, we sing a just a bit,\nand open a bottle of Akvavit.\nSkål to every, skål to every, skål to every\nviking that took the hit!"
 		},
 		{
 			"id": 192,
@@ -1921,12 +1922,13 @@
 		},
 		{
 			"id": 226,
-			"title": "Jungle Punsch - Djunglepunsch (Engelska)",
+			"title": "Jungle Punsch",
+			"alternativeTitles": ["Djunglepunsch (Engelska)"],
 			"melody": "The Bare Necessities",
 			"composer": "Terry Gilkyson",
 			"notes": ["English version of \"Djungelpunsch\""],
 			"tags": ["punsch", "eng"],
-			"content": "I love a timeless glass of punsch,\nSome punsch for breakfast,\nPunsch for lunch,\nSome punsch as starter,\nMain dish, and dessert!\n\nI love the punsch, for don’t you see,\nPlain coffee ain’t a thing to please\nTo drink punsch by the mug is what I need!\n\nWith cognac you tempt me,\nThe best from Renault.\nPardon the shock when I ask for more\nAnd if you offer me liqueur,\nI’m sorry if it does deter.\nI’d rather take a Grönstedt’s Blue,\nA Cederlund’s or Flagg Punsch too—\nDo you have some pure Platin\n\nI love all punsch,\nGive me some punsch and I’ll be yours.\n//: Forever yours! ://",
+			"content": "I love a timeless glass of punsch,\nSome punsch for breakfast,\nPunsch for lunch,\nSome punsch as starter,\nMain dish, and dessert!\n\nI love the punsch, for don’t you see,\nPlain coffee ain’t a thing to please\nTo drink punsch by the mug is what I need!\n\nWith cognac you tempt me,\nThe best from Renault.\nPardon the shock when I ask for more\nAnd if you offer me liqueur,\nI’m sorry if it does deter.\nI’d rather take a Grönstedt’s Blue,\nA Cederlund’s or Flagg Punsch too—\nDo you have some pure Platin?\n\nI love all punsch,\nGive me some punsch and I’ll be yours.\n//: Forever yours! ://",
 			"author": "Dylan Horn Kreiner, IT-23, Dante Julio \"Big D\" Cosentino, IT-21, och Hugo \"prINter\" Bachér, IT-21 (KTH, 2026 — Strängteoretiquerna)"
 		},
 		{
@@ -2607,5 +2609,5 @@
 			"content": "Hur gärna ville jag ej vara,\nen liten blå förgätmigej,\nen liten blå förgätmigej!\n\nDå skulle jag för dig förklara,\\*\nhur innerligt jag älskar dig!\\*\\*"
 		}
 	],
-	"updatedAt": "2026-08-24"
+	"updatedAt": "2026-08-25"
 }
