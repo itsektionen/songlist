@@ -41,7 +41,7 @@ then a shot, it couldn't hurt,
 down the wine, then punsch in line,
 a cocktail buffet last.
 
-I am shit faced, pass out on the table.
+I am shitfaced, pass out on the table.
 Miss the party, but who really cares?
 Mixin' beer and sour milk for funsies.
 Throwing up my dinner on my mate!
