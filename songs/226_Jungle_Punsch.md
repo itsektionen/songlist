@@ -1,5 +1,6 @@
 ---
 title: Jungle Punsch
+alternativeTitles:
   - Djunglepunsch (Engelska)
 author:
   - name: Dylan Horn Kreiner, IT-23, Dante Julio "Big D" Cosentino, IT-21, och Hugo "prINter" Bachér, IT-21
@@ -30,7 +31,7 @@ And if you offer me liqueur,
 I’m sorry if it does deter.
 I’d rather take a Grönstedt’s Blue,
 A Cederlund’s or Flagg Punsch too—
-Do you have some pure Platin
+Do you have some pure Platin?
 
 I love all punsch,
 Give me some punsch and I’ll be yours.

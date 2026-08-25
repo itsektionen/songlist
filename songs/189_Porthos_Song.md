@@ -1,5 +1,11 @@
 ---
 title: Portho's song
+author:
+  - name: Dante Julio "Big D" Cosentino, IT-21, Hugo "prINter" Bachér, IT-21
+    year: 2026
+    location: KTH
+    event: Mastergasque
+    comment: Rewrite of original to better fit the melody.
 alternativeTitles:
   - Porthos visa (Engelska)
 melody: Can't get a man with a gun
@@ -30,9 +36,9 @@ All this waiting is making me think
 
 My thirst is consuming,
 my hunger is still fuming
-For fuck sake, give me something to drink!
+For fuck sake, just give me a drink!
 
-All this mayhem! Please just stop them
+All this mayhem! Please just stop them!
 Who the fuck thinks that I am a moose?
 
 To England on horseback,
@@ -40,7 +46,7 @@ while chugging down a six pack
 I am sure that we'll find us a pub
 
 And there we will party,
-with some guy named Marty
+the drinking will be harty.
 Let's drink whisky and port wine,
-and act like a real swine
+and act like a some real swines
 we'll try all the rubb and the stubb!
