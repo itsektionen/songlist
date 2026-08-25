@@ -1,5 +1,6 @@
 ---
 title: Jungle Punsch
+alternativeTitles:
   - Djunglepunsch (Engelska)
 author:
   - name: Dylan Horn Kreiner, IT-23, Dante Julio "Big D" Cosentino, IT-21, och Hugo "prINter" Bachér, IT-21
