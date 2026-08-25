@@ -19,20 +19,20 @@ abc: |
 ---
 
 A viking loves the joys of life,
-hurra, hurra!
+hoora, hoora!
 
 They're quickly running down his throat,  
-hurra, hurra!
+hoora, hoora!
 
 With veal, with ox, with fish, with pork,
-Vikings never use a fork,
-Vikings only want to pop the cork.
+vikings never use a fork,
+vikings only want to pop the cork.
 
 The bäsk eventually runs out,
-oh no, oh no!
+oh no, OH NO!
 
 Every viking's carried out  
-yo ho, yo ho!
+yo ho, YO HO!
 
 And when we wake up, we sing a just a bit,
 and open a bottle of Akvavit.
