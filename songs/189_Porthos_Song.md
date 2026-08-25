@@ -1,5 +1,11 @@
 ---
 title: Portho's song
+author:
+  - name: Dante Julio "Big D" Cosentino, IT-21, Hugo "prINter" Bachér, IT-21
+    year: 2026
+    location: KTH
+    event: Mastergasque
+    comment: Rewrite of original to better fit the melody.
 alternativeTitles:
   - Porthos visa (Engelska)
 melody: Can't get a man with a gun
