@@ -6,6 +6,7 @@ author:
 melody: Amanda Lundbom
 notes:
   - När sången skrevs hade Bäska Droppar nummer 23 på Systembolaget.
+  - Tredje versen skrevs av Carl Nisser innan han gick bort 2024.
 tags: [snaps, swe]
 ---
 
@@ -28,3 +29,12 @@ Bäska droppar nyttja han,
 bomfaderi faderallanlej, hugg i!
 Och Lazarus spratt till minsann,
 bomfaderi, faderallanlej.
+
+I din sista stund på jorden,
+bomfaderi, bomfaderalleralla.
+Minns du då de ädla orden,
+bomfaderi, faderallanlej.
+
+Bäska Droppar - skål gutår,
+bomfaderi, faderallanlej, hugg i!
+Du lever än i hundra år!
