@@ -1,5 +1,7 @@
 ---
 title: Système International
+alternativeTitles:
+  - Système International d'Unités
 author:
   - name: Anders Skog, F-75
     event: Sångartäfvlan
