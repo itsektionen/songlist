@@ -11,6 +11,7 @@ melody: O alte Burschenherrlichkeit
 composer: Eugen Höfling (1825)
 notes:
   - Traditionellt reser man sig vid de strofer i vers två, tre och fyra som bäst passar dess respektive fakultet. Det är dock upp till var och en att identifiera sig med stroferna efter eget tycke.
+  - Den tredje versen handlar om de fyra ursprungliga fakulteterna vid Lunds Universitet.
   - Den fjärde versen är ett senare tillägg anpassad för teknologer och varierar mellan sektioner och universitet.
   - Man slår endast ett slag i bordet på "kärnan". Det är ohyfsat att slå i bordet vid andra tillfällen.
   - Under sista versen reser sig alla upp och tar varandras händer.
