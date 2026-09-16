@@ -28,7 +28,7 @@ För QA har dom varslat
 Vem har lust att testa någons kod
 För det kör på min maskin
 Skiter i vårt DevOps team
-Deras servar har konfigurerats fel
+Deras servar har konfigurerats fel!
 
 Sprinten den tar slut för fort
 Å crunchen den har börjat
@@ -38,7 +38,7 @@ Ingen tid att programmera
 Chefen sade: "använd bara Claude"
 Å jag hoppas hen avgår
 Jag är ensam senior
-Och jag orkar inte koda mer ikväll
+Och jag orkar inte koda mer ikväll!
 
 Pushar rakt till produktion
 så jag får känna att jag lever
