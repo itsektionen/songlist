@@ -1,5 +1,7 @@
 ---
 title: Ode till halvan
+alternativeTitles:
+  - Helan rasat
 author:
   - name: Torgny
     year: 1936
@@ -21,7 +23,7 @@ abc: |
 ---
 
 Helan rasat ner i våra magar,
-skvalpar nu på botten mol allen.
+skvalpar nu på botten mol allén.
 I sin ensamhet den bittert klagar:
 Det är inte gott att vara en!
 
