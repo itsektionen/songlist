@@ -6,7 +6,7 @@ author:
     year: 2026
 melody: The Silly Song (Jag fångade en räv)
 composer: Frank E. Churchill
-tags: [gasuqe, swe]
+tags: [gasque, swe]
 ---
 
 Jag sjunger gärna sång till gasque
