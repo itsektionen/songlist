@@ -2,7 +2,7 @@
 title: Program in C
 author:
   - name: Unknown
-  - name: @IsaMorphic
+  - name: '@IsaMorphic'
     location: youtube
     year: 2022
 melody: Under the Sea
