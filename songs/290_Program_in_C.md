@@ -12,7 +12,7 @@ tags: [nerdy, eng]
 
 Ariel, listen to me,
 OO languages?
-It’s a mess. 
+It’s a mess.
 Programming in C is better than anything they got overt there!
 
 The syntax might seem much sweeter where objects and subtypes play.
