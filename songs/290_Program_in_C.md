@@ -2,10 +2,8 @@
 title: Program in C
 author:
   - name: '@Cinememer'
-    location: twitter
     year: 2017
   - name: '@IsaMorphic'
-    location: youtube
     year: 2022
 melody: Under the Sea
 composer: Alan Menken
