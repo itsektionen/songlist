@@ -1,12 +1,14 @@
 ---
 title: Program in C
 author:
-  - name: Unknown
+  - name: '@Cinememer'
+    location: twitter
+    year: 2017
   - name: '@IsaMorphic'
     location: youtube
     year: 2022
 melody: Under the Sea
-composer: Alan Menken & Howard Elliott Ashman
+composer: Alan Menken
 tags: [nerdy, eng]
 ---
 
