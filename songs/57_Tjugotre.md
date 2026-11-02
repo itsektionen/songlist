@@ -1,5 +1,7 @@
 ---
 title: Tjugotre
+alternativeTitles:
+  - '23'
 author:
   - name: Carl Nisser, E-80
     location: KTH
